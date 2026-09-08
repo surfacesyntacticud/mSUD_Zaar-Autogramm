@@ -55,7 +55,7 @@
 9	nə	nə	ADP	_	_	7	comp:obj@T	_	AlignBegin=14944|AlignEnd=15136|Gloss=DER
 10	kúŋni	kúŋ	VERB	_	ExtPos=ADJ|VerbForm=Part|Voice=Pass	9	compound	_	AlignBegin=15136|AlignEnd=15328|Gloss=dry.Part.Pass
 11	ɗan	ɗan	ADP	_	_	9	comp:obj	_	AlignBegin=16700|AlignEnd=16890|Gloss=like
-12	gín	giní	PRON	_	PronType=Dem	11	comp:obj	_	AlignBegin=16890|AlignEnd=17080|Deixis=Prox|Gloss=Prox
+12	gín	giní	PRON	_	Deixis=Prox|PronType=Dem	11	comp:obj	_	AlignBegin=16890|AlignEnd=17080|Gloss=Prox
 13	tsəní	tsəní	ADV	_	_	7	mod	_	AlignBegin=17080|AlignEnd=17270|Gloss=like_this
 14	//	//	PUNCT	_	_	7	punct	_	AlignBegin=17270|AlignEnd=17460|Gloss=PUNCT
 
@@ -144,7 +144,7 @@
 2	mə=	á=	PRON	_	Number=Sing|Person=1|PronType=Subj|Tense=Pres	3	subj/m	_	AlignBegin=35393|AlignEnd=35566|Gloss=1Sing.Aor=|wordform=mə
 3-4	ʃintíː	_	_	_	_	_	_	_	_
 3	ʃin	ʃin	VERB	_	_	0	root	_	AlignBegin=35566|AlignEnd=35739|Gloss=pour
-4	=tíː	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	comp:obj@T/m	_	AlignBegin=35739|AlignEnd=35825|Deixis=Remt|Gloss===3Sing.Acc.Remt|wordform==tə
+4	=tíː	=tə	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|Person=3|PronType=Prs	3	comp:obj@T/m	_	AlignBegin=35739|AlignEnd=35825|Gloss===3Sing.Acc.Remt|wordform==tə
 5	yâːɬ	yâːɬ	NOUN	_	_	3	comp:obj@L	_	AlignBegin=35912|AlignEnd=36085|Gloss=on_the_ground
 6	//	//	PUNCT	_	_	3	punct	_	AlignBegin=36085|AlignEnd=36260|Gloss=PUNCT
 
@@ -233,7 +233,7 @@
 # text_en = Fourth day.
 1	dzàŋ	dzàŋ	NOUN	_	_	0	root	_	AlignBegin=54820|AlignEnd=55060|Gloss=day
 2	wupsə	wupsə	NUM	_	_	1	det	_	AlignBegin=55060|AlignEnd=55180|Gloss=four|wordform=wupsíː
-3	-íː	Remt	DET	_	PronType=Dem	2	det/m	_	AlignBegin=55060|AlignEnd=55180|Deixis=Remt|Gloss=Remt
+3	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	2	det/m	_	AlignBegin=55060|AlignEnd=55180|Gloss=Remt
 4	//	//	PUNCT	_	_	1	punct	_	AlignBegin=55300|AlignEnd=55540|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_01_Beer_029-030
@@ -281,7 +281,7 @@
 3	bə̀nd	bə̀ndə̀	NOUN	_	Definite=Cons	2	comp:obj	_	AlignBegin=64980|AlignEnd=65090|Gloss=big_pot|wordform=bə̀ndíː
 4	-íː	-íː	ADV	_	Definite=Cons	2	mod/m	_	Accomplished=Yes|AlignBegin=64980|AlignEnd=65090|Gloss=Acpl
 5	ɗan	ɗan	ADP	_	_	2	mod	_	AlignBegin=65200|AlignEnd=65420|Gloss=like
-6	gín	giní	PRON	_	PronType=Dem	5	comp:obj	_	AlignBegin=65420|AlignEnd=65640|Deixis=Prox|Gloss=Prox
+6	gín	giní	PRON	_	Deixis=Prox|PronType=Dem	5	comp:obj	_	AlignBegin=65420|AlignEnd=65640|Gloss=Prox
 7	tòː	tòː	PART	_	_	9	discourse	_	AlignBegin=67020|AlignEnd=67244|Gloss=well|PartType=Disc
 8	mə=	á=	PRON	_	Number=Sing|Person=1|PronType=Subj|Tense=Pres	9	subj/m	_	AlignBegin=67244|AlignEnd=67468|Gloss=1Sing.Aor=|wordform=mə
 9	mbiː	mbiː	VERB	_	_	0	root	_	AlignBegin=67468|AlignEnd=67692|Gloss=take
@@ -350,7 +350,7 @@
 # text = gín nə mbóri //
 # text_ortho = gín nə mbóri //
 # text_en = This is uncooked.
-1	gín	giní	PRON	_	Number=Plur|PronType=Dem	2	subj	_	AlignBegin=83060|AlignEnd=83240|Deixis=Prox|Gloss=Prox
+1	gín	giní	PRON	_	Deixis=Prox|Number=Plur|PronType=Dem	2	subj	_	AlignBegin=83060|AlignEnd=83240|Gloss=Prox
 2	nə	nə	AUX	_	_	0	root	_	AlignBegin=83240|AlignEnd=83420|Copula=Yes|Gloss=be.Ident
 3	mbóri	mbóri	ADJ	_	_	2	comp:pred	_	AlignBegin=83420|AlignEnd=83600|Gloss=half_cooked
 4	//	//	PUNCT	_	_	2	punct	_	AlignBegin=83600|AlignEnd=83780|Gloss=PUNCT
@@ -389,7 +389,7 @@
 1	dùl	dùl	NOUN	_	_	7	dislocated@top	_	AlignBegin=92200|AlignEnd=92460|Gloss=top
 2	gaːm	gaːm	NOUN	_	_	1	mod	_	AlignBegin=92460|AlignEnd=92547|Gloss=head|wordform=gaːmêʃín
 3	-és	-ehs	DET	_	Definite=Def	2	det/m	_	AlignBegin=92460|AlignEnd=92547|Gloss=-Def
-4	-ə́n	-ə́n	DET	_	PronType=Dem	2	det/m	_	AlignBegin=92460|AlignEnd=92547|Deixis=Prox|Gloss=-Prox
+4	-ə́n	-ə́n	DET	_	Deixis=Prox|PronType=Dem	2	det/m	_	AlignBegin=92460|AlignEnd=92547|Gloss=-Prox
 5	tôː	tòː	PART	_	_	7	discourse	_	AlignBegin=93960|AlignEnd=94112|Gloss=well|PartType=Disc
 6	mə=	á=	PRON	_	Number=Sing|Person=1|PronType=Subj|Tense=Pres	7	subj/m	_	AlignBegin=94112|AlignEnd=94264|Gloss=1Sing.Aor=|wordform=mə
 7	mán	máni	VERB	_	_	0	root	_	AlignBegin=94264|AlignEnd=94416|Gloss=come
@@ -422,7 +422,7 @@
 2-3	ngáːtə	_	_	_	_	_	_	_	_
 2	ngáː	ngaː	VERB	_	_	18	mod	_	AlignBegin=98730|AlignEnd=98940|Gloss=fetch
 3	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	comp:obj/m	_	AlignBegin=98940|AlignEnd=99150|Gloss===3Sing.Acc
-4	gòʃíː	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	mod@ethic	_	AlignBegin=99150|AlignEnd=99255|Deixis=Remt|Gloss=3SingGen.Remt|wordform=gòʃ
+4	gòʃíː	gòs	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Prs	2	mod@ethic	_	AlignBegin=99150|AlignEnd=99255|Gloss=3SingGen.Remt|wordform=gòʃ
 5	káwêy	káwêy	ADV	_	_	2	mod	_	AlignBegin=99360|AlignEnd=99570|Gloss=merely
 6	tòː	tòː	PART	_	_	8	discourse	_	AlignBegin=101120|AlignEnd=101364|Gloss=well|PartType=Disc
 7	myáː=	yǎː=	PRON	_	Mood=Cnd|Number=Sing|Person=1|PronType=Subj	8	subj/m	_	AlignBegin=101364|AlignEnd=101608|Gloss=1Sing.Cnd=|wordform=myáː
@@ -434,7 +434,7 @@
 13	á=	á=	PRON	_	Number=Sing|Person=3|PronType=Subj|Tense=Pres	14	subj/m	_	AlignBegin=102340|AlignEnd=102584|Gloss=3Sing.Aor=|wordform=á
 14	nâː	naː	VERB	_	_	12	comp:obj	_	AlignBegin=102584|AlignEnd=102828|Gloss=become
 15	ɗup-ɗúp	ɗup-ɗúp	ADV	_	_	14	comp:pred	_	AlignBegin=102828|AlignEnd=102950|Gloss=very_thick|Ideo=Yes|wordform=ɗup-ɗúɓíː
-16	-íː	Remt	DET	_	PronType=Dem	15	det/m	_	AlignBegin=102828|AlignEnd=102950|Deixis=Remt|Gloss=Remt|Ideo=Yes
+16	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	15	det/m	_	AlignBegin=102828|AlignEnd=102950|Gloss=Remt|Ideo=Yes
 17	ma=	a=	PRON	_	Number=Sing|Person=1|PronType=Subj|Tense=Fut	18	subj/m	_	AlignBegin=104280|AlignEnd=104504|Gloss=1Sing.Fut=|wordform=ma
 18	ʃin	ʃin	VERB	_	_	0	root	_	AlignBegin=104504|AlignEnd=104616|Gloss=send
 19	-íː	-íː	ADV	_	_	18	mod/m	_	Accomplished=Yes|AlignBegin=104504|AlignEnd=104616|Gloss=Acpl
@@ -538,14 +538,14 @@
 # text = gíː ɗan kyáː ɲómíː ɗa súːtíː ka mán mbiː naːyês kə ʃin gáy ɣən //
 # text_ortho = gíː ɗan kyáː ɲómíː ɗa súːtíː ka mán mbiː naːyês kə ʃin gáy ɣən //
 # text_en = That [top] which you removed the evening before, you will take [it] and pour it inside.
-1	gíː	gíː	PRON	_	PronType=Dem	10	dislocated@top	_	AlignBegin=129960|AlignEnd=130226|Deixis=Remt|Gloss=Remt
+1	gíː	gíː	PRON	_	Deixis=Remt|PronType=Dem	10	dislocated@top	_	AlignBegin=129960|AlignEnd=130226|Gloss=Remt
 2	ɗan	ɗan	SCONJ	_	_	1	mod@relcl	_	AlignBegin=130226|AlignEnd=130492|Gloss=as
 3	kyáː=	yáː=	PRON	_	Aspect=Imp|Number=Sing|Person=2|PronType=Subj	4	subj/m	_	AlignBegin=130492|AlignEnd=130758|Gloss=2Sing.Imp=|wordform=kyáː
 4	ɲom	ɲom	VERB	_	_	2	comp:obj	_	AlignBegin=130758|AlignEnd=130891|Gloss=take|wordform=ɲómíː
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=130758|AlignEnd=130891|Gloss=Acpl
 6	ɗa	ɗa	ADP	_	_	4	mod	_	AlignBegin=131024|AlignEnd=131290|Gloss=at
 7	súːtu	súːtu	NOUN	_	_	6	comp:obj	_	AlignBegin=131290|AlignEnd=131423|Gloss=evening|wordform=súːtíː
-8	-íː	Remt	DET	_	PronType=Dem	7	det/m	_	AlignBegin=131290|AlignEnd=131423|Deixis=Remt|Gloss=Remt
+8	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	7	det/m	_	AlignBegin=131290|AlignEnd=131423|Gloss=Remt
 9	ka=	a=	PRON	_	Number=Sing|Person=2|PronType=Subj|Tense=Fut	10	subj/m	_	AlignBegin=132780|AlignEnd=132958|Gloss=2Sing.Fut=|wordform=ka
 10	mán	máni	VERB	_	_	0	root	_	AlignBegin=132958|AlignEnd=133136|Gloss=come
 11	mbiː	mbiː	VERB	_	_	10	compound:svc	_	AlignBegin=133136|AlignEnd=133314|Gloss=take
@@ -563,7 +563,7 @@
 # text = gíː ɗan kə gâːʃíː sə̂mwôs tu niː ?//+ ɗan ka ngaː ka gáːy ?//
 # text_ortho = gíː ɗan kə gâː ʃíː sə̂mwòs tu niː //+ ɗan ka ngaː ka gáːy ?//
 # text_en = That which you kept aside, what's its name, [that which] you took and kept aside ?
-1	gíː	gíː	PRON	_	PronType=Dem	9	dislocated@top	_	AlignBegin=135340|AlignEnd=135533|Deixis=Remt|Gloss=Remt
+1	gíː	gíː	PRON	_	Deixis=Remt|PronType=Dem	9	dislocated@top	_	AlignBegin=135340|AlignEnd=135533|Gloss=Remt
 2	ɗan	ɗan	SCONJ	_	_	1	mod@relcl	_	AlignBegin=135533|AlignEnd=135726|Gloss=as
 3	kə=	á=	PRON	_	Number=Sing|Person=2|PronType=Subj|Tense=Pres	4	subj/m	_	AlignBegin=135726|AlignEnd=135919|Gloss=2Sing.Aor=|wordform=kə
 4-5	gâːʃíː	_	_	_	_	_	_	_	_
@@ -609,7 +609,7 @@
 8	gáː	gaː	VERB	_	_	5	parataxis@conj	_	AlignBegin=144625|AlignEnd=144858|Gloss=keep
 9	ɣá	ká	ADP	_	_	8	comp:obl	_	AlignBegin=144858|AlignEnd=145091|Gloss=at
 10	laŋsə́	laŋsə́	NOUN	_	_	9	comp:obj	_	AlignBegin=145091|AlignEnd=145207|Gloss=side|wordform=laŋʃíː
-11	-íː	Remt	DET	_	PronType=Dem	10	det/m	_	AlignBegin=145091|AlignEnd=145207|Deixis=Remt|Gloss=Remt
+11	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	10	det/m	_	AlignBegin=145091|AlignEnd=145207|Gloss=Remt
 12	kə=	á=	PRON	_	Number=Sing|Person=2|PronType=Subj|Tense=Pres	13	subj/m	_	AlignBegin=146520|AlignEnd=146672|Gloss=2Sing.Aor=|wordform=kə
 13	gáː	gaː	VERB	_	_	0	root	_	AlignBegin=146672|AlignEnd=146824|Gloss=keep
 14	nə́	nə́	ADP	_	_	13	mod	_	AlignBegin=146824|AlignEnd=146976|Gloss=for
@@ -709,11 +709,11 @@
 # text_ortho = páːʧi gín ɗan kə ʃín káyín sə́mwòs tu niː ?//
 # text_en = These leaves that you put inside, how do you call them ?
 1	páːʧi	páːtsə	NOUN	_	Definite=Ind	9	dislocated@top	_	AlignBegin=165620|AlignEnd=165716|Gloss=leaf-Ind|wordform=páːʧ
-2	gín	giní	DET	_	_	1	det	_	AlignBegin=165811|AlignEnd=166002|Deixis=Prox|Gloss=-Prox
+2	gín	giní	DET	_	Deixis=Prox	1	det	_	AlignBegin=165811|AlignEnd=166002|Gloss=-Prox
 3	ɗan	ɗan	SCONJ	_	_	1	mod@relcl	_	AlignBegin=166002|AlignEnd=166193|Gloss=that
 4	kə=	á=	PRON	_	Number=Sing|Person=2|PronType=Subj|Tense=Pres	5	subj/m	_	AlignBegin=166193|AlignEnd=166384|Gloss=2Sing.Aor=|wordform=kə
 5	ʃín	ʃin	VERB	_	_	3	comp:obj	_	AlignBegin=166384|AlignEnd=166575|Gloss=pour
-6	gáyín	káy	PRON	_	Case=Loc|Number=Sing|Person=3	5	comp:obl	_	AlignBegin=166575|AlignEnd=166671|Deixis=Prox|Gloss=3Sing.Loc.Prox|wordform=gáy
+6	gáyín	káy	PRON	_	Case=Loc|Deixis=Prox|Number=Sing|Person=3	5	comp:obl	_	AlignBegin=166575|AlignEnd=166671|Gloss=3Sing.Loc.Prox|wordform=gáy
 7	sə̂m	sə̂m	NOUN	_	_	9	subj	_	AlignBegin=167420|AlignEnd=167515|Gloss=name.Cons|wordform=sə́mwòs
 8	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	mod:poss/m	_	AlignBegin=167420|AlignEnd=167515|Gloss==3Sing.Gen|wordform=-wos
 9	tu	tu	ADP	_	_	0	root	_	AlignBegin=167610|AlignEnd=167800|Gloss=Qot|Quote=Yes
@@ -760,7 +760,7 @@
 7	àː=	áː=	PRON	_	Aspect=Perf|Number=Sing|Person=3|PronType=Subj	8	subj/m	_	AlignBegin=176254|AlignEnd=176511|Gloss=3Sing.Perf=|wordform=àː
 8	ɬaː	ɬaː	VERB	_	_	5	comp:obj	_	AlignBegin=176511|AlignEnd=176768|Gloss=cut
 9	sòːséy	sòːséy	ADV	_	_	8	mod	_	AlignBegin=176768|AlignEnd=177025|Gloss=quite
-10	hŋ́ə́y	hŋ́	PART	_	Polarity=Neg	8	mod	_	AlignBegin=177025|AlignEnd=177153|Deixis=Remt|Gloss=Neg|PartType=Neg|wordform=hŋ́
+10	hŋ́ə́y	hŋ́	PART	_	Deixis=Remt|Polarity=Neg	8	mod	_	AlignBegin=177025|AlignEnd=177153|Gloss=Neg|PartType=Neg|wordform=hŋ́
 11	//	//	PUNCT	_	_	2	punct	_	AlignBegin=177282|AlignEnd=177540|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_01_Beer_087-089
@@ -929,7 +929,7 @@
 15	àmmáː	àmmáː	CCONJ	_	_	17	discourse	_	AlignBegin=228480|AlignEnd=228687|Gloss=but
 16	bàː	bàː	PART	_	Polarity=Neg	17	mod	_	AlignBegin=228687|AlignEnd=228894|Gloss=Neg|PartType=Neg
 17	ɗa	ɗa	ADP	_	_	11	mod	_	AlignBegin=228894|AlignEnd=229101|Gloss=at
-18	ɓíɬndín	ɓíɬndi	VERB	_	_	17	comp:obj	_	AlignBegin=229101|AlignEnd=229205|Deixis=Prox|Gloss=morning.Prox|wordform=ɓíɬndi
+18	ɓíɬndín	ɓíɬndi	VERB	_	Deixis=Prox	17	comp:obj	_	AlignBegin=229101|AlignEnd=229205|Gloss=morning.Prox|wordform=ɓíɬndi
 19-20	ɗǎŋ	_	_	_	_	_	_	_	_
 19	ɗa	ɗa	AUX	_	_	17	comp:cleft	_	AlignBegin=229308|AlignEnd=229412|Copula=Yes|Gloss=exist
 20	hŋ́	hŋ́	PART	_	Polarity=Neg	17	mod	_	AlignBegin=229412|AlignEnd=229515|Gloss=Neg|PartType=Neg
@@ -1098,7 +1098,7 @@
 2	ʃîn	ʃin	VERB	_	_	6	mod	_	AlignBegin=267724|AlignEnd=267928|Gloss=pour
 3	gáy	káy	PRON	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	2	comp:obl	_	AlignBegin=267928|AlignEnd=268132|Gloss=3Sing.Loc
 4	ʧík	ʧík	ADV	_	_	2	mod	_	AlignBegin=268132|AlignEnd=268234|Gloss=thus|wordform=ʧiɣə́y
-5	-íː	Remt	DET	_	PronType=Dem	4	det/m	_	AlignBegin=268132|AlignEnd=268234|Deixis=Remt|Gloss=Remt
+5	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	4	det/m	_	AlignBegin=268132|AlignEnd=268234|Gloss=Remt
 6	nə	nə	AUX	_	_	0	root	_	AlignBegin=269780|AlignEnd=269993|Copula=Yes|Gloss=be.Ident
 7	magaːdaː	magaːdaː	NOUN	_	_	6	comp:pred	_	AlignBegin=269993|AlignEnd=270206|Gloss=protection
 8	//	//	PUNCT	_	_	6	punct	_	AlignBegin=270206|AlignEnd=270420|Gloss=PUNCT
@@ -1312,7 +1312,7 @@
 # text_ortho = dzàŋ gíː ɗan kə ɲíːtíː tôː kə mbur ŋaː wâkɗòːs kə ʃin gáy //
 # text_en = On the day you grind it, you will mix it with [hot water and] a little malted guinea-corn that you put inside.
 1	dzàŋ	dzàŋ	NOUN	_	_	10	mod	_	AlignBegin=314580|AlignEnd=314830|Gloss=day
-2	gíː	gíː	DET	_	PronType=Dem	1	det	_	AlignBegin=314830|AlignEnd=315080|Deixis=Remt|Gloss=Remt
+2	gíː	gíː	DET	_	Deixis=Remt|PronType=Dem	1	det	_	AlignBegin=314830|AlignEnd=315080|Gloss=Remt
 3	ɗan	ɗan	SCONJ	_	_	1	mod@relcl	_	AlignBegin=315080|AlignEnd=315330|Gloss=as
 4	kə=	á=	PRON	_	Number=Sing|Person=2|PronType=Subj|Tense=Pres	5	subj/m	_	AlignBegin=315330|AlignEnd=315580|Gloss=2Sing.Aor=|wordform=kə
 5-6	ɲíːtíː	_	_	_	_	_	_	_	_
@@ -1449,7 +1449,7 @@
 # text_ortho = dzàŋ gíː ɗan ka gaː ɗûː ɗa wúɗi dzàŋ gíː tá kâːs ʤíko //
 # text_en = The day you put the beer on the fire, on that day, they will mix "jiko".
 1	dzàŋ	dzàŋ	NOUN	_	_	12	dislocated@mod	_	AlignBegin=349760|AlignEnd=349947|Gloss=day
-2	gíː	gíː	DET	_	PronType=Dem	1	det	_	AlignBegin=349947|AlignEnd=350134|Deixis=Remt|Gloss=Remt
+2	gíː	gíː	DET	_	Deixis=Remt|PronType=Dem	1	det	_	AlignBegin=349947|AlignEnd=350134|Gloss=Remt
 3	ɗan	ɗan	SCONJ	_	_	1	mod@relcl	_	AlignBegin=350134|AlignEnd=350321|Gloss=as
 4	ka=	a=	PRON	_	Number=Sing|Person=2|PronType=Subj|Tense=Fut	5	subj/m	_	AlignBegin=350321|AlignEnd=350508|Gloss=2Sing.Fut=|wordform=ka
 5	gaː	gaː	VERB	_	_	3	comp:obj	_	AlignBegin=350508|AlignEnd=350695|Gloss=leave
@@ -1457,7 +1457,7 @@
 7	ɗa	ɗa	ADP	_	_	5	comp:obl	_	AlignBegin=350882|AlignEnd=351069|Gloss=at
 8	wúɗi	wût	NOUN	_	Definite=Ind	7	comp:obj	_	AlignBegin=351069|AlignEnd=351163|Gloss=N-Ind|wordform=wût
 9	dzàŋ	dzàŋ	NOUN	_	_	12	mod	_	AlignBegin=352760|AlignEnd=352940|Gloss=day
-10	gíː	gíː	DET	_	PronType=Dem	9	det	_	AlignBegin=352940|AlignEnd=353120|Deixis=Remt|Gloss=Remt
+10	gíː	gíː	DET	_	Deixis=Remt|PronType=Dem	9	det	_	AlignBegin=352940|AlignEnd=353120|Gloss=Remt
 11	tá=	a=	PRON	_	Number=Plur|Person=3|PronType=Subj|Tense=Fut	12	subj/m	_	AlignBegin=353120|AlignEnd=353300|Gloss=3Plur.Fut=|wordform=tá
 12	kâːs	kaːs	VERB	_	_	0	root	_	AlignBegin=353300|AlignEnd=353480|Gloss=cook
 13	ʤíko	ʤíko	NOUN	_	_	12	comp:obj	_	AlignBegin=353480|AlignEnd=353660|Gloss=jiko
@@ -1491,7 +1491,7 @@
 5-6	ɲíːtə	_	_	_	_	_	_	_	_
 5	ɲíː	ɲiː	VERB	_	_	21	mod	_	AlignBegin=362368|AlignEnd=362492|Gloss=grind
 6	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	comp:obj/m	_	AlignBegin=362492|AlignEnd=362616|Gloss===3Sing.Acc
-7	gòʃíː	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	mod@ethic	_	AlignBegin=362616|AlignEnd=362740|Deixis=Remt|Gloss=3SingGen.Remt|wordform=gòʃ
+7	gòʃíː	gòs	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Prs	5	mod@ethic	_	AlignBegin=362616|AlignEnd=362740|Gloss=3SingGen.Remt|wordform=gòʃ
 8	káwêy	káwêy	ADV	_	_	5	mod	_	AlignBegin=362864|AlignEnd=363112|Gloss=merely
 9	kóː	kóː	SCONJ	_	_	21	mod	_	AlignBegin=364300|AlignEnd=364460|Gloss=UNIV
 10	nə	nə	AUX	_	_	9	comp:obj	_	AlignBegin=364460|AlignEnd=364620|Copula=Yes|Gloss=be.Ident
@@ -1499,7 +1499,7 @@
 12	íri	íri	NOUN	_	_	11	mod	_	AlignBegin=364780|AlignEnd=364940|Gloss=type
 13	gyòː	gyòː	DET	_	PronType=Int	12	det	_	AlignBegin=364940|AlignEnd=365100|Gloss=UNIV
 14	ɗan	ɗan	ADP	_	_	11	mod	_	AlignBegin=367220|AlignEnd=367385|Gloss=like
-15	giní	giní	PRON	_	PronType=Dem	14	comp:obj	_	AlignBegin=367385|AlignEnd=367550|Deixis=Prox|Gloss=Prox
+15	giní	giní	PRON	_	Deixis=Prox|PronType=Dem	14	comp:obj	_	AlignBegin=367385|AlignEnd=367550|Gloss=Prox
 16	aː	aː	PART	_	_	9	mod	_	AlignBegin=367550|AlignEnd=367715|Gloss=Int|PartType=Ill|wordform=a:
 17	kə=	á=	PRON	_	Number=Sing|Person=2|PronType=Subj|Tense=Pres	18	subj/m	_	AlignBegin=368840|AlignEnd=368990|Gloss=2Sing.Aor=|wordform=kə
 18	ɲíː	ɲiː	VERB	_	_	21	mod	_	AlignBegin=368990|AlignEnd=369140|Gloss=grind
@@ -1557,7 +1557,7 @@
 # text = gíː kúmá mbə́ɬəŋ ?//
 # text_ortho = gíː kúmá mbə́ɬəŋ ?//
 # text_en = This one [jiko], is it two ?
-1	gíː	gíː	PRON	_	PronType=Dem	3	dislocated@subj	_	AlignBegin=382840|AlignEnd=383050|Deixis=Remt|Gloss=Remt
+1	gíː	gíː	PRON	_	Deixis=Remt|PronType=Dem	3	dislocated@subj	_	AlignBegin=382840|AlignEnd=383050|Gloss=Remt
 2	kúmá	kúmá	PART	_	_	1	discourse@top	_	AlignBegin=383050|AlignEnd=383260|Gloss=also|PartType=Top
 3	mbə́ɬəŋ	mbə́ɬəŋ	NUM	_	_	0	root	_	AlignBegin=383260|AlignEnd=383470|Gloss=two
 4	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=383470|AlignEnd=383680|Gloss=PUNCT
@@ -1569,7 +1569,7 @@
 # text_ortho = m̀ː gíː mbə́ɬəŋ hár dzàŋ gə̀ mâːy ɣəndá kə ɬyá //
 # text_en = Yes, the other one it's two, even three days before you drink it.
 1	m̀ː	m̀ː	INTJ	_	_	3	discourse	_	AlignBegin=385600|AlignEnd=385760|Gloss=yes
-2	gíː	gíː	PRON	_	PronType=Dem	3	subj	_	AlignBegin=386620|AlignEnd=386820|Deixis=Remt|Gloss=Remt
+2	gíː	gíː	PRON	_	Deixis=Remt|PronType=Dem	3	subj	_	AlignBegin=386620|AlignEnd=386820|Gloss=Remt
 3	mbə́ɬəŋ	mbə́ɬəŋ	NUM	_	_	0	root	_	AlignBegin=386820|AlignEnd=387020|Gloss=two
 4	hár	hár	CCONJ	_	_	5	cc	_	AlignBegin=387820|AlignEnd=388037|Gloss=up_to
 5	dzàŋ	dzàŋ	NOUN	_	_	3	conj:coord	_	AlignBegin=388037|AlignEnd=388254|Gloss=day
