@@ -5642,9 +5642,9 @@
 5-6	fítə̀	_	_	_	_	_	_	_	_
 5	fî	fi	VERB	_	_	3	comp:obj	_	AlignBegin=703122|AlignEnd=703218|Gloss=do
 6	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	comp:obj/m	_	AlignBegin=703218|AlignEnd=703315|Gloss==3Sing.Acc
-7	kóː	kóː	ADV	_	_	11	mod	_	AlignBegin=703506|AlignEnd=703653|Gloss=merely
-8	yáːwón	yáːwón	NOUN	_	_	7	compound	_	AlignBegin=703653|AlignEnd=703800|Gloss=today
-9	<	<	PUNCT	_	_	7	punct	_	AlignBegin=703800|AlignEnd=703946|Gloss=PUNCT
+7	kóː	kóː	ADV	_	_	8	mod	_	AlignBegin=703506|AlignEnd=703653|Gloss=merely
+8	yáːwón	yáːwón	NOUN	_	_	11	mod	_	AlignBegin=703653|AlignEnd=703800|Gloss=today
+9	<	<	PUNCT	_	_	8	punct	_	AlignBegin=703800|AlignEnd=703946|Gloss=PUNCT
 10	á=	á=	PRON	_	Number=Sing|Person=3|PronType=Subj|Tense=Pres	11	subj/m	_	AlignBegin=703946|AlignEnd=704146|Gloss=3Sing.Aor=|wordform=á
 11	mǎːn	máːn	VERB	_	_	0	root	_	AlignBegin=704146|AlignEnd=704346|Gloss=go
 12	ɗantu	ɗan	ADP	_	_	11	mod	_	AlignBegin=704346|AlignEnd=704546|Gloss=like|wordform=ɗan
