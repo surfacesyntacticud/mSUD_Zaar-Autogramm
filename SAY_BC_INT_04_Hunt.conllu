@@ -72,7 +72,7 @@
 # text_ortho = kúmá zaːr < wò ɗyáː fi nda ndə̂ːr ngə́tnwôs ngap mbwáːɣə̂n ngə́taː |c kóː séː gùŋ pîːswàːn yáː wûl tu [ tôː dzàŋ tsə́n má ɬə́ //] a: |c kóː yi wuriː ?//
 # text_en = And people would be able to go into the bush on their own and start shooting on their own, or must your chief hunter say on such a day we will go or how was it?
 1	kúmá	kúmá	PART	_	_	4	discourse	_	AlignBegin=10155|AlignEnd=10360|Gloss=and|PartType=Disc
-2	zaːr	zaːr	NOUN	_	_	5	dislocated@top	_	AlignBegin=10360|AlignEnd=10565|Gloss=person
+2	zaːr	zaːr	NOUN	_	_	4	dislocated@top	_	AlignBegin=10360|AlignEnd=10565|Gloss=person
 3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=10565|AlignEnd=10771|Gloss=PUNCT
 4	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	0	root	_	AlignBegin=11160|AlignEnd=11484|Copula=No|Gloss=3Sing.Fut=|wordform=wò
 5	ɗyáː	ɗyáː	VERB	_	_	4	comp:aux	_	AlignBegin=11484|AlignEnd=11808|Gloss=can
@@ -145,7 +145,7 @@
 # text = gyaːgón ka ʃiʃí ngə́tnwâː tə́ kǐpmwâː ndáy námtsə //
 # text_ortho = gyaːgón ka ʃiʃí ngə́tnwâː tə́ kǐpmwâː ndáy námtsə //
 # text_en = Sometimes you would go on your own with your quiver and go to the bush.
-1	gyaːgón	gón	PRON	_	Definite=Spec|Number=Plur	3	dislocated@top	_	AlignBegin=24649|AlignEnd=24858|Gloss=Spec
+1	gyaːgón	gón	PRON	_	Definite=Spec|Number=Plur	2	dislocated@top	_	AlignBegin=24649|AlignEnd=24858|Gloss=Spec
 2	ka=	a=	AUX	_	Number=Sing|Person=2|Tense=Fut	0	root	_	AlignBegin=24858|AlignEnd=25067|Copula=No|Gloss=2Sing.Fut=|wordform=ka
 3	ʃiʃí	ʃiʃí	VERB	_	_	2	comp:aux	_	AlignBegin=25067|AlignEnd=25276|Gloss=leave
 4	ngə́tn	ngə́tn	NOUN	_	_	3	comp:obj	_	AlignBegin=25276|AlignEnd=25380|Gloss=thing.Cons|wordform=ngə́tnwâː
@@ -254,15 +254,15 @@
 25	||	||	PUNCT	_	_	26	punct	_	AlignBegin=43600|AlignEnd=43829|Gloss=PUNCT
 26	á	ká	ADP	_	_	23	conj:dicto	_	AlignBegin=43829|AlignEnd=44073|Gloss=at
 27	yaːɬ	yaːɬ	NOUN	_	Definite=Cons	26	comp	_	AlignBegin=44073|AlignEnd=44317|Gloss=country-Cons|wordform=yǎːɬwâːníː
-28	=waːn	=waːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	27	mod:poss/m	_	AlignBegin=44073|AlignEnd=44317|Gloss==PlurGen|wordform=-wâːn
-29	-íː	Remt	DET	_	Case=Gen|Deixis=Remt|Number=Plur|Person=2|PronType=Dem	27	det/m	_	AlignBegin=44073|AlignEnd=44317|Gloss=Remt
+28	=waːn	=waːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	27	mod:poss/m	_	AlignBegin=44073|AlignEnd=44317|Gloss==PlurGen|SpaceAfter=No|wordform=-wâːn
+29	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	28	det/m	_	AlignBegin=44073|AlignEnd=44317|Gloss=Remt
 30	|c	|c	PUNCT	_	_	33	punct	_	AlignBegin=44317|AlignEnd=44560|Gloss=PUNCT
 31	kóː	kóː	CCONJ	_	_	33	cc	_	AlignBegin=45220|AlignEnd=45371|Gloss=or
 32	kwǎː	kùwa	PART	_	_	31	discourse@top	_	AlignBegin=45371|AlignEnd=45522|Gloss=in_fact|PartType=Top
 33	á	ká	ADP	_	_	26	conj:coord	_	AlignBegin=45522|AlignEnd=45673|Gloss=at
 34	wuːr	wuːr	NOUN	_	Definite=Cons	33	comp	_	AlignBegin=45673|AlignEnd=45824|Gloss=sacred_groove-Cons|wordform=wǔːrwâːníː
-35	=waːn	=waːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	34	mod:poss/m	_	AlignBegin=45673|AlignEnd=45824|Gloss==PlurGen|wordform=-wâːn
-36	-íː	Remt	DET	_	Case=Gen|Deixis=Remt|Number=Plur|Person=2|PronType=Dem	34	det/m	_	AlignBegin=45673|AlignEnd=45824|Gloss=Remt
+35	=waːn	=waːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	34	mod:poss/m	_	AlignBegin=45673|AlignEnd=45824|Gloss==PlurGen|SpaceAfter=No|wordform=-wâːn
+36	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	35	det/m	_	AlignBegin=45673|AlignEnd=45824|Gloss=Remt
 37	//]	//]	PUNCT	_	_	20	punct	_	AlignBegin=45824|AlignEnd=45975|Gloss=PUNCT
 38	//	//	PUNCT	_	_	2	punct	_	AlignBegin=46126|AlignEnd=46280|Gloss=PUNCT
 
@@ -365,7 +365,7 @@
 # text_en = Sometimes, the man who has [spotted it], may be he... he has some problems, well if you come and you catch it, it becomes yours.
 1	gónɗaŋ	gónɗaŋ	ADV	_	_	27	mod	_	AlignBegin=64580|AlignEnd=64722|Gloss=sometimes
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=64722|AlignEnd=64864|Gloss=PUNCT
-3	muri	muri	NOUN	_	_	28	dislocated@top	_	AlignBegin=64864|AlignEnd=65006|Gloss=man|wordform=múr
+3	muri	muri	NOUN	_	_	27	dislocated@top	_	AlignBegin=64864|AlignEnd=65006|Gloss=man|wordform=múr
 4	yóːɗan	yóːɗan	PRON	_	PronType=Rel	5	subj	_	AlignBegin=65006|AlignEnd=65148|Gloss=which
 5	yáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=3	3	mod@relcl	_	AlignBegin=65148|AlignEnd=65290|Copula=No|Gloss=3Sing.Imp=|wordform=yáː
 6	ngap	ngap	VERB	_	_	5	comp:aux	_	AlignBegin=65290|AlignEnd=65432|Gloss=catch|wordform=ngâɓíː
@@ -454,7 +454,7 @@
 7	ɬûː	ɬûː	NOUN	_	_	5	comp:obj	_	AlignBegin=78234|AlignEnd=78446|Gloss=animal
 8	<	<	PUNCT	_	_	4	punct	_	AlignBegin=78446|AlignEnd=78660|Gloss=PUNCT
 9	kádéː	kádéː	SCONJ	_	_	19	mod	_	AlignBegin=79900|AlignEnd=80295|Gloss=as_soon_as
-10	eː	eː	INTJ	_	_	12	discourse@filler	_	AlignBegin=80295|AlignEnd=80690|Gloss=FILL
+10	eː	eː	INTJ	_	_	11	discourse@filler	_	AlignBegin=80295|AlignEnd=80690|Gloss=FILL
 11	yǎː=	yǎː=	AUX	_	Mood=Cnd|Number=Plur|Person=3	9	comp	_	AlignBegin=80690|AlignEnd=80956|Copula=No|Gloss=3Plur.Cnd=|wordform=yǎː
 12-13	ngâptíː	_	_	_	_	_	_	_	_
 12	ngâp	ngap	VERB	_	_	11	comp:aux	_	AlignBegin=80956|AlignEnd=81222|Gloss=catch
@@ -1345,7 +1345,7 @@
 # text_ortho = kóː burgàl gín ɗan ʧàːyí mbwaː míːsəŋ gáyín < tôː yâːn máː < ʧàːyí ɬet píːʃês káy ɓét //
 # text_en = Or that swizzle stick that they stirred soup with, well, it too, they carved arrows with it.
 1	kóː	kóː	CCONJ	_	_	15	discourse	_	AlignBegin=203780|AlignEnd=203969|Gloss=or|Lang=ha
-2	burgàl	burgàl	NOUN	_	_	17	dislocated@top	_	AlignBegin=203969|AlignEnd=204158|Gloss=swizzle_stick
+2	burgàl	burgàl	NOUN	_	_	15	dislocated@top	_	AlignBegin=203969|AlignEnd=204158|Gloss=swizzle_stick
 3	gín	giní	DET	_	Deixis=Prox|PronType=Dem	2	det	_	AlignBegin=204158|AlignEnd=204347|Gloss=Prox
 4	ɗan	ɗan	SCONJ	_	_	2	mod@relcl	_	AlignBegin=204347|AlignEnd=204536|Gloss=REL
 5	ʧàː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=3	4	comp	_	AlignBegin=204536|AlignEnd=204725|Copula=No|Gloss=3Plur.Imp=|wordform=ʧàːyí
@@ -1355,7 +1355,7 @@
 9	gáyín	káy	PRON	_	Case=Loc|Deixis=Prox|Number=Sing|Person=3|PronType=Prs	7	comp:obl	_	AlignBegin=205103|AlignEnd=205292|Gloss=3Sing.Loc.Prox|wordform=káy
 10	<	<	PUNCT	_	_	2	punct	_	AlignBegin=205292|AlignEnd=205480|Gloss=PUNCT
 11	tôː	tòː	PART	_	_	15	discourse	_	AlignBegin=206140|AlignEnd=206350|Gloss=well|PartType=Disc
-12	yâːn	yáːni	PRON	_	Number=Sing|Person=3|PronType=Prs	17	dislocated@top	_	AlignBegin=206350|AlignEnd=206560|Gloss=3Sing.IDP
+12	yâːn	yáːni	PRON	_	Number=Sing|Person=3|PronType=Prs	15	dislocated@top	_	AlignBegin=206350|AlignEnd=206560|Gloss=3Sing.IDP
 13	máː	máː	PART	_	_	12	discourse@top	_	AlignBegin=206560|AlignEnd=206770|Gloss=even|PartType=Top
 14	<	<	PUNCT	_	_	12	punct	_	AlignBegin=206770|AlignEnd=206980|Gloss=PUNCT
 15	ʧàː=	yáː=	AUX	_	Aspect=Imp|Number=Sing|Person=3	0	root	_	AlignBegin=207200|AlignEnd=207370|Copula=No|Gloss=3Plur.Imp=|wordform=ʧàːyí
@@ -1490,7 +1490,7 @@
 # text_ortho = tôː búːyáy < ʧàː ɬǐː ʧàː ɬə́ ɲôm kàmán dà~ dàtsàŋ //
 # text_en = Well that iron, they went and took something like 'datsang' (bauxitic laterite).
 1	tôː	tòː	PART	_	_	5	discourse	_	AlignBegin=226240|AlignEnd=226440|Gloss=well|PartType=Disc
-2	búːya	búːya	NOUN	_	_	6	dislocated@top	_	AlignBegin=226440|AlignEnd=226640|Gloss=local_iron|wordform=búːyáy
+2	búːya	búːya	NOUN	_	_	5	dislocated@top	_	AlignBegin=226440|AlignEnd=226640|Gloss=local_iron|wordform=búːyáy
 3	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	2	det/m	_	AlignBegin=226440|AlignEnd=226640|Gloss=Remt
 4	<	<	PUNCT	_	_	2	punct	_	AlignBegin=226640|AlignEnd=226840|Gloss=PUNCT
 5	ʧàː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=3	0	root	_	AlignBegin=227700|AlignEnd=227896|Copula=No|Gloss=3Plur.Cnd=|wordform=ʧàː
@@ -1658,7 +1658,7 @@
 # text_ortho = tôː ngə́tn ɗan mə̀tàyáː gìː < mə̀tàyáː gìː kîtn káy máː ɣəndí //
 # text_en = Well what we used to farm, we used to farm it with indeed.
 1	tôː	tòː	PART	_	_	8	discourse	_	AlignBegin=251800|AlignEnd=251952|Gloss=well|PartType=Disc
-2	ngə́tn	ngə́tn	NOUN	_	_	10	dislocated@top	_	AlignBegin=251952|AlignEnd=252104|Gloss=thing
+2	ngə́tn	ngə́tn	NOUN	_	_	8	dislocated@top	_	AlignBegin=251952|AlignEnd=252104|Gloss=thing
 3	ɗan	ɗan	SCONJ	_	_	2	mod@relcl	_	AlignBegin=252104|AlignEnd=252256|Gloss=REL
 4	mə̀tà=	TaYiNa=	AUX	_	Number=Plur|Person=1|Tense=Past	3	comp	_	AlignBegin=252256|AlignEnd=252408|Copula=No|Gloss=1Plur.RemPast=|PastType=Remt|wordform=mə̀tàyáː
 5	yáː=	yáː=	AUX	_	Aspect=Imp	4	compound	_	Copula=No|Gloss=Imp=|wordform=yáː
@@ -2336,7 +2336,7 @@
 # text = m̀ː kə́ ɬǐː ká ɬə́ ɗû zaːr kàm //
 # text_ortho = m̀ː kə́ ɬǐː ká ɬə́ ɗû zaːr kàm //
 # text_en = Er, you went to kill people indeed.
-1	m̀ː	m̀ː	INTJ	_	_	3	discourse@filler	_	AlignBegin=357605|AlignEnd=358106|Gloss=FILL
+1	m̀ː	m̀ː	INTJ	_	_	2	discourse@filler	_	AlignBegin=357605|AlignEnd=358106|Gloss=FILL
 2	kə́=	á=	AUX	_	Number=Plur|Person=2|Tense=Pres	0	root	_	AlignBegin=358106|AlignEnd=358251|Copula=No|Gloss=2Plur.Aor=|wordform=kə́
 3	ɬə	ɬə	VERB	_	_	2	comp:aux	_	AlignBegin=358251|AlignEnd=358396|Gloss=go|wordform=ɬǐː
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=358251|AlignEnd=358396|Gloss=Acpl

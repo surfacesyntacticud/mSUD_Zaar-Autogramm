@@ -4222,7 +4222,7 @@
 # text = kóː kâmwòs máː ɗan ʧì ʧímtə máː bàː á yârdá tə́ yáːnǐŋ //
 # text_ortho = kóː kâmwòs máː ɗan ʧì ʧímtə máː bàː á yârdá tə́ yáːnǐŋ //
 # text_en = Even his friend who is with him, he does not agree with him.
-1	kóː	kóː	CCONJ	_	_	12	dislocated@top	_	AlignBegin=521225|AlignEnd=521359|Gloss=or
+1	kóː	kóː	CCONJ	_	_	11	dislocated@top	_	AlignBegin=521225|AlignEnd=521359|Gloss=or
 2	kâm	kâm	NOUN	_	_	1	comp:obj	_	AlignBegin=521359|AlignEnd=521426|Gloss=friend.Cons|wordform=kâmwòs
 3	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	mod:poss/m	_	AlignBegin=521359|AlignEnd=521426|Gloss==3Sing.Gen|wordform=-wos
 4	máː	máː	ADV	_	_	2	mod	_	AlignBegin=521493|AlignEnd=521627|Gloss=even
@@ -4808,7 +4808,7 @@
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=583257|AlignEnd=583421|Gloss=Acpl
 6	<	<	PUNCT	_	_	1	punct	_	AlignBegin=583421|AlignEnd=583584|Gloss=PUNCT
 7	də̌ːr	də̌ːr	NOUN	_	_	8	subj	_	AlignBegin=583944|AlignEnd=584070|Gloss=lizard
-8	ʧi	yi	AUX	_	Number=Sing|Person=3	12	dislocated@top	_	AlignBegin=584133|AlignEnd=584196|Copula=Yes|Gloss=3Sing.be.Loc|wordform=yi
+8	ʧi	yi	AUX	_	Number=Sing|Person=3	11	dislocated@top	_	AlignBegin=584133|AlignEnd=584196|Copula=Yes|Gloss=3Sing.be.Loc|wordform=yi
 9	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	8	comp:pred	_	AlignBegin=584196|AlignEnd=584322|Gloss=3SingGen
 10	<	<	PUNCT	_	_	8	punct	_	AlignBegin=584322|AlignEnd=584449|Gloss=PUNCT
 11	áyí=	TaYiNa=	AUX	_	Number=Sing|Person=3|Tense=Past	0	root	_	AlignBegin=584449|AlignEnd=584593|Copula=No|Gloss=3Sing.ImmPast=|PastType=Imm|wordform=áyí
@@ -4850,8 +4850,8 @@
 2	ɬə̀	ɬə	VERB	_	_	1	comp:aux	_	AlignBegin=587625|AlignEnd=587794|Gloss=go
 3	nə́	nə́	ADP	_	_	2	comp:obl	_	AlignBegin=587794|AlignEnd=587963|Gloss=for
 4	ngə́tn	ngə́tn	NOUN	_	_	3	comp	_	AlignBegin=587963|AlignEnd=588132|Gloss=thing.Cons
-5	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	mod:poss/m	_	AlignBegin=587963|AlignEnd=588132|Gloss==3Sing.Gen|wordform=-wos
-6	-íː	Remt	DET	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	4	det/m	_	AlignBegin=587963|AlignEnd=588132|Gloss=Remt
+5	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	mod:poss/m	_	AlignBegin=587963|AlignEnd=588132|Gloss==3Sing.Gen|SpaceAfter=No|wordform=-wos
+6	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	5	det/m	_	AlignBegin=587963|AlignEnd=588132|Gloss=Remt
 7	//	//	PUNCT	_	_	1	punct	_	AlignBegin=588132|AlignEnd=588302|Gloss=PUNCT
 
 # sent_id = SAY_BC_narr_01_466-466
@@ -4862,8 +4862,8 @@
 # text_ortho = èː zànʧéwâːsə̀ŋíː oː !//
 1	èː	èː	INTJ	_	_	2	discourse	_	AlignBegin=588302|AlignEnd=589025|Gloss=yes
 2	zànʧe	zànʧe	NOUN	_	Definite=Cons	0	root	_	AlignBegin=589025|AlignEnd=589331|Gloss=situation-Cons|wordform=zànʧewâːsə̀ŋə́y
-3	=waːsəŋ	=waːsəŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	mod:poss/m	_	AlignBegin=589025|AlignEnd=589331|Gloss==PlurGen|wordform=zànʧewâːsə̀ŋə́y
-4	-íː	Remt	DET	_	Case=Gen|Deixis=Remt|Number=Plur|Person=3|PronType=Dem	2	det/m	_	AlignBegin=589025|AlignEnd=589331|Gloss=Remt
+3	=waːsəŋ	=waːsəŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	mod:poss/m	_	AlignBegin=589025|AlignEnd=589331|Gloss==PlurGen|SpaceAfter=No|wordform=zànʧewâːsə̀ŋə́y
+4	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	3	det/m	_	AlignBegin=589025|AlignEnd=589331|Gloss=Remt
 5	oː	oː	PART	_	_	2	mod	_	AlignBegin=589331|AlignEnd=589435|Gloss=Emph|PartType=Ill
 6	!//	!//	PUNCT	_	_	2	punct	_	AlignBegin=589435|AlignEnd=589846|Gloss=PUNCT
 
@@ -4878,7 +4878,7 @@
 2	káwêy	káwêy	ADV	_	_	1	mod	_	AlignBegin=591440|AlignEnd=591868|Gloss=merely|wordform=káwây
 3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=591868|AlignEnd=592295|Gloss=PUNCT
 4	tòː	tòː	PART	_	_	7	discourse	_	AlignBegin=592295|AlignEnd=592486|Gloss=well|PartType=Disc
-5	gə̀ɗì	gə̀t	NOUN	_	Definite=Ind	8	dislocated@top	_	AlignBegin=592486|AlignEnd=592677|Gloss=wife|wordform=gə̀t
+5	gə̀ɗì	gə̀t	NOUN	_	Definite=Ind	7	dislocated@top	_	AlignBegin=592486|AlignEnd=592677|Gloss=wife|wordform=gə̀t
 6	də̌ːr	də̌ːr	NOUN	_	_	5	compound	_	AlignBegin=592677|AlignEnd=592868|Gloss=lizard
 7	tə́=	á=	AUX	_	Number=Plur|Person=3|Tense=Pres	0	root	_	AlignBegin=592868|AlignEnd=593059|Copula=No|Gloss=3Plur.Aor=|wordform=tə́
 8	ngâp	ngap	VERB	_	_	7	comp:aux	_	AlignBegin=593059|AlignEnd=593250|Gloss=hold
@@ -5488,8 +5488,8 @@
 2	ŋal	ŋal	VERB	_	_	1	comp:aux	_	AlignBegin=672617|AlignEnd=672676|Gloss=look_for
 3	ni	ni	PART	_	_	2	compound:prt	_	AlignBegin=672676|AlignEnd=672793|Gloss=Inch|Inchoative=Yes|PartType=Adv|wordform==ni
 4	túr	túr	NOUN	_	_	8	dislocated@subj	_	AlignBegin=672969|AlignEnd=673201|Gloss=hus.Cons
-5	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	mod:poss/m	_	AlignBegin=672969|AlignEnd=673201|Gloss==3Sing.Gen|wordform=-wos
-6	-íː	Remt	DET	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	4	det/m	_	AlignBegin=672969|AlignEnd=673201|Gloss=Remt
+5	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	mod:poss/m	_	AlignBegin=672969|AlignEnd=673201|Gloss==3Sing.Gen|SpaceAfter=No|wordform=-wos
+6	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	5	det/m	_	AlignBegin=672969|AlignEnd=673201|Gloss=Remt
 7	káwêy	káwêy	ADV	_	_	8	mod	_	AlignBegin=673201|AlignEnd=673433|Gloss=merely|wordform=káwây
 8	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	2	mod	_	AlignBegin=673664|AlignEnd=673877|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 9	mán	mán	VERB	_	_	8	comp:aux	_	AlignBegin=673877|AlignEnd=674090|Gloss=come
@@ -5608,7 +5608,7 @@
 # text = kóːnîː ʧàː fî gòs ɗə̂ɣn máː < á wûl dàʧêːwáː tu [ gòs < bâː ruwáwos //] //
 # text_ortho = kóːnîː ʧàː fî gòs ɗə̂ɣn máː < á wûl dàʧêːwáː tu [ gòs < bâː ruwáwôs //] //
 # text_en = Whatever they do in the world, he says that it is not his problem.
-1	kóːnîː	kóːnîː	SCONJ	_	_	9	dislocated@top	_	AlignBegin=697110|AlignEnd=697754|Gloss=whatever
+1	kóːnîː	kóːnîː	SCONJ	_	_	8	dislocated@top	_	AlignBegin=697110|AlignEnd=697754|Gloss=whatever
 2	ʧàː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=3	1	mod@relcl	_	AlignBegin=698893|AlignEnd=699073|Copula=No|Gloss=3Plur.Imp=|wordform=ʧàː
 3	fî	fi	VERB	_	_	2	comp:aux	_	AlignBegin=699073|AlignEnd=699253|Gloss=do
 4	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	mod@ethic	_	AlignBegin=699253|AlignEnd=699432|Gloss=3SingGen
@@ -5635,7 +5635,7 @@
 # text = kóːníː gòs ɗan tá fítə̀ kóː yáːwón < á mǎːn ɗantu yáːwón tsəní //
 # text_ortho = kóːníː gòs ɗan tá fítə̀ kóː yáːwón < á mǎːn ɗan tu yáːwón tsəní //
 # text_en = Whatever they will do to him, up till today, he has become like today like this.
-1	kóːníː	kóːníː	PRON	_	_	11	dislocated@top	_	AlignBegin=702350|AlignEnd=702543|Gloss=whatever
+1	kóːníː	kóːníː	PRON	_	_	10	dislocated@top	_	AlignBegin=702350|AlignEnd=702543|Gloss=whatever
 2	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	mod@ethic	_	AlignBegin=702543|AlignEnd=702736|Gloss=3SingGen
 3	ɗan	ɗan	SCONJ	_	_	1	mod@relcl	_	AlignBegin=702736|AlignEnd=702929|Gloss=REL
 4	tá=	a=	AUX	_	Number=Plur|Person=3|Tense=Fut	3	comp	_	AlignBegin=702929|AlignEnd=703122|Copula=No|Gloss=3Sing.Fut=|wordform=tá
@@ -5701,7 +5701,7 @@
 # text = yâːn yáːʃi á dàp nǎːy ʧiɣə́y pə́prîníː //
 # text_ortho = yâːn yáːʃi á dàp náːy ʧikə́y pə́prîníː //
 # text_en = Him, his foot became like that spread out flat.
-1	yâːn	yâːn	PRON	_	Number=Sing|Person=3|PronType=Prs	4	dislocated@top	_	AlignBegin=713578|AlignEnd=713848|Gloss=3Sing
+1	yâːn	yâːn	PRON	_	Number=Sing|Person=3|PronType=Prs	3	dislocated@top	_	AlignBegin=713578|AlignEnd=713848|Gloss=3Sing
 2	yáːʃi	yáːsəŋ	NOUN	_	Definite=Ind	3	subj	_	AlignBegin=713578|AlignEnd=713848|Gloss=foot.Ind
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=714118|AlignEnd=714388|Copula=No|Gloss=3Sing.Aor=|wordform=á
 4	dàp	dap	VERB	_	_	3	comp:aux	_	AlignBegin=714388|AlignEnd=714658|Gloss=follow
@@ -5725,12 +5725,12 @@
 4	kən	kən	PART	_	_	3	discourse@foc	_	AlignBegin=716407|AlignEnd=716692|Gloss=Identif|PartType=Foc
 5	>+	>+	PUNCT	_	_	13	punct	_	AlignBegin=716692|AlignEnd=716977|Gloss=PUNCT
 6	pə́prîn	pə́prîn	NOUN	_	_	13	subj	_	AlignBegin=716977|AlignEnd=717261|Gloss=flatness.Cons
-7	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	mod:poss/m	_	AlignBegin=716977|AlignEnd=717261|Gloss==3Sing.Gen|wordform=-wos
-8	-íː	Remt	DET	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	6	det/m	_	AlignBegin=716977|AlignEnd=717261|Gloss=Remt
+7	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	mod:poss/m	_	AlignBegin=716977|AlignEnd=717261|Gloss==3Sing.Gen|SpaceAfter=No|wordform=-wos
+8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	7	det/m	_	AlignBegin=716977|AlignEnd=717261|Gloss=Remt
 9	tə́	tə́	CCONJ	_	_	10	cc	_	AlignBegin=717654|AlignEnd=718004|Gloss=with
 10	hàkuri	hàkuri	NOUN	_	_	6	conj:coord	_	AlignBegin=718004|AlignEnd=718353|Gloss=patience.Cons
-11	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	mod:poss/m	_	AlignBegin=718004|AlignEnd=718353|Gloss==3Sing.Gen|wordform=-wos
-12	-íː	Remt	DET	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	10	det/m	_	AlignBegin=718004|AlignEnd=718353|Gloss=Remt
+11	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	mod:poss/m	_	AlignBegin=718004|AlignEnd=718353|Gloss==3Sing.Gen|SpaceAfter=No|wordform=-wos
+12	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	11	det/m	_	AlignBegin=718004|AlignEnd=718353|Gloss=Remt
 13	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	3	comp:cleft	_	AlignBegin=718353|AlignEnd=718502|Copula=No|Gloss=3Sing.Aor=|wordform=á
 14	dàp	dap	VERB	_	_	13	comp:aux	_	AlignBegin=718502|AlignEnd=718651|Gloss=follow
 15-16	naːtə	_	_	_	_	_	_	_	_
@@ -6006,7 +6006,7 @@
 7	tún	tún	ADP	_	_	19	mod	_	AlignBegin=749496|AlignEnd=749756|Gloss=since
 8	ɓaːndə́ŋ	ɓaːndə́ŋ	ADV	_	_	7	mod	_	AlignBegin=749756|AlignEnd=750016|Gloss=long_ago
 9	<	<	PUNCT	_	_	7	punct	_	AlignBegin=750016|AlignEnd=750276|Gloss=PUNCT
-10	lə̂p	lə̂p	NOUN	_	_	20	dislocated@top	_	AlignBegin=750857|AlignEnd=751044|Gloss=place
+10	lə̂p	lə̂p	NOUN	_	_	19	dislocated@top	_	AlignBegin=750857|AlignEnd=751044|Gloss=place
 11	wón	wón	DET	_	Definite=Spec	10	det	_	AlignBegin=751044|AlignEnd=751231|Gloss=SPEC
 12	ɗan	ɗan	SCONJ	_	_	10	mod@relcl	_	AlignBegin=751231|AlignEnd=751418|Gloss=REL
 13	kyáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=2	12	comp	_	AlignBegin=751418|AlignEnd=751605|Copula=No|Gloss=2Sing.Cnd=|wordform=kyáː

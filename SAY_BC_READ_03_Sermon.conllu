@@ -248,7 +248,7 @@
 # text = gyaːgón ʧǎː- wûm tu tàː- ndár kaːra -waːsəŋ də̀n gyáː gùŋ kóː də̀n ɗə́ːlɣə́n vìː ka- yel tá- kǐːr móɬâk tá- ŋal lə̂p láwya ɗan wò- somʃíɗa tə̀- ɲólárʃíwáːsə̀ŋə́y -íː nə́ dur ɣə́ tu gyaːgón ʧǎː- ɮə̌ːr á kén gùŋ kóː á lə̂p ɗə́ːlɣə́n vìː //
 # text_ortho = gyaːgón ʧǎː wûm tu tàː ndár kaːráwáːsə̀ŋ də̀n gyaː gùŋ kóː də̀n ɗə́ːlɣə́n vìː ka yel tá kǐːr móɬâk tá ŋâl lə̂p láwya ɗan wò somʃí ɗa tə̀ ɲólárʃíwáːsə̀ŋə́y nə́ dur ɣə́ tu gyaːgón ʧǎː ɮə̌ːr á kén gùŋ kóː á lə̂p ɗə́ːlɣə́n vìː //
 # text_en = Others, if they hear that they have been taken to the chief's house or to the traditional court, you will see them rushing to look for a lawyer that will help them that will take them out of it, because some of them sit by the chief or where trials are held.
-1	gyaːgón	gón	PRON	_	Definite=Spec|Number=Plur	17	dislocated@top	_	AlignBegin=60380|AlignEnd=60596|Gloss=Spec
+1	gyaːgón	gón	PRON	_	Definite=Spec|Number=Plur	16	dislocated@top	_	AlignBegin=60380|AlignEnd=60596|Gloss=Spec
 2	ʧǎː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=3	16	mod	_	AlignBegin=60596|AlignEnd=60812|Copula=No|Gloss=3Plur.Cnd=|wordform=ʧǎː
 3	wûm	wum	VERB	_	_	2	comp:aux	_	AlignBegin=60812|AlignEnd=61028|Gloss=hear
 4	tu	tu	SCONJ	_	_	3	comp:obj	_	AlignBegin=60812|AlignEnd=61028|Gloss=Qot
@@ -443,7 +443,7 @@
 # text = ɓwáːɣə̂n nás vèːs yâːn nə gíː ɗan zaːr yáː məʃíː wò ɬə́n tu ɣá kên Tʃóknvòníː //
 # text_ortho = ɓwáːɣə̂n nás vèːs yâːn nə gíː ɗan zaːr yáː məʃíː wò ɬə́n tu ká kên Tʃóknvòníː /
 # text_en = Verily I say unto you if man dies, he will go and meet his God.
-1	ɓwáːɣə̂n	ɓwaː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	14	dislocated@top	_	AlignBegin=122280|AlignEnd=122442|Gloss=give_birth-Vnoun|wordform=ɓwaː
+1	ɓwáːɣə̂n	ɓwaː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	13	dislocated@top	_	AlignBegin=122280|AlignEnd=122442|Gloss=give_birth-Vnoun|wordform=ɓwaː
 2	nás	nâs	ADJ	_	Definite=Cons	3	mod	_	AlignBegin=122605|AlignEnd=122930|Gloss=big.Cons
 3	vìː	vìː	NOUN	_	_	1	comp:obj	_	AlignBegin=122930|AlignEnd=123092|Gloss=speech|wordform=vèːs
 4	-es	-es	DET	_	Definite=Def	3	det/m	_	AlignBegin=122930|AlignEnd=123092|Gloss=Def
@@ -999,7 +999,7 @@
 # text_ortho = kóː láwya tə́ gamaʃi ʤǎːn yâːn ʧi tə́ ɗə́ːlɣə́n vìː ka yel wò mbút ká waskátkə́n tàgàrdú mari mari //
 # text_en = Even a lawyer himself, if tomorrow he has a trial, you will see him spending the night reading all sorts of books.
 1	kóː	kóː	ADV	_	_	2	mod	_	AlignBegin=302400|AlignEnd=302632|Gloss=even
-2	láwya	láwya	NOUN	_	_	12	dislocated@top	_	AlignBegin=302632|AlignEnd=302864|Gloss=lawyer
+2	láwya	láwya	NOUN	_	_	11	dislocated@top	_	AlignBegin=302632|AlignEnd=302864|Gloss=lawyer
 3	tə́	tə́	ADP	_	_	2	mod	_	AlignBegin=302864|AlignEnd=303096|Gloss=with
 4	gamaʃi	gamaʃi	PRON	_	Number=Sing|Person=3|Reflex=Yes	3	comp	_	AlignBegin=303096|AlignEnd=303328|Gloss=3Sing.REFL
 5	ʤǎːn	ʤǎːn	ADV	_	_	11	mod	_	AlignBegin=304460|AlignEnd=304703|Gloss=tomorrow
@@ -1329,8 +1329,8 @@
 # text_en = Hold tight to the things that you have lest anyone should snatch your crown from you."
 1	ngàɓə́n	ngap	VERB	_	Number=Plur	0	root	_	AlignBegin=389120|AlignEnd=389278|Gloss=hold.Plur.Juss|wordform=ngap
 2	ngə́tn	ngə́tn	NOUN	_	Definite=Cons	1	comp:obj	_	AlignBegin=389437|AlignEnd=389543|Gloss=thing-Cons|wordform=ngə́tnwâːníː
-3	=wâːn	=wâːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	2	mod:poss/m	_	AlignBegin=389437|AlignEnd=389543|Gloss==PlurGen|wordform=ngə́tnwâːníː
-4	-íː	-íː	DET	_	_	2	det/m	_	AlignBegin=389437|AlignEnd=389543|Gloss=Remt
+3	=wâːn	=wâːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	2	mod:poss/m	_	AlignBegin=389437|AlignEnd=389543|Gloss==PlurGen|SpaceAfter=No|wordform=ngə́tnwâːníː
+4	-íː	-íː	DET	_	_	3	det/m	_	AlignBegin=389437|AlignEnd=389543|Gloss=Remt
 5	ɗan	ɗan	SCONJ	_	_	2	mod@relcl	_	AlignBegin=389754|AlignEnd=390071|Gloss=that
 6	kə́=	á=	AUX	_	Number=Plur|Person=2|Tense=Pres	5	comp	_	AlignBegin=390071|AlignEnd=390388|Copula=No|Gloss=2Plur.Aor=|wordform=kə́
 7	yǐr	yír	VERB	_	_	6	comp:aux	_	AlignBegin=390388|AlignEnd=390705|Gloss=have
@@ -1646,7 +1646,7 @@
 # text = Yéːsu wò= mandá sutə ɣá mə́n napti -íː wulʃí tu sùnə́nkí laŋʃí ɓasəm àː= ɬə̀n ʃíːn gìp wût -íː ɗan ʧáː= vyáː gòs ká ləːtsə́ɣə̂n -íː gíː -íː ɗan tə̀tà= ndəːrtə nə́ dur ɣə́ ʃèːtân tə́ mə́ndə -wos -íː //
 # text_ortho = Yéːsu wò mandá sutə ɣá mə́n naptíː wulʃí tu sùnə́nkí laŋʃí ɓasəm àː ɬə̀n ʃǐːn gìp wúɗíː ɗan ʧáː vyáː gòs ká ləːtsə́ɣə́nì gíː ɗan tə̀tà ndəːrtə nə́ dur ɣə́ ʃèːtân tə́ məndə́ŋsəwòʃíː //
 # text_en = Jesus will turn to those on his left, and tell them "Depart from me into the fire, that they keep fuelling that fire which they have prepared for Satan and his attendants.
-1	Yéːsu	Yéːsu	NOUN	_	_	3	dislocated@top	_	AlignBegin=494960|AlignEnd=495218|Gloss=Jesus
+1	Yéːsu	Yéːsu	NOUN	_	_	2	dislocated@top	_	AlignBegin=494960|AlignEnd=495218|Gloss=Jesus
 2	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	0	root	_	AlignBegin=495218|AlignEnd=495476|Copula=No|Gloss=3Sing.Fut=|wordform=wò
 3	mandá	mandá	VERB	_	_	2	comp:aux	_	AlignBegin=495476|AlignEnd=495734|Gloss=come_back
 4-5	sutə	_	_	_	_	_	_	_	_
@@ -1692,8 +1692,8 @@
 39	ʃèːtân	ʃèːtân	PROPN	_	_	36	comp	_	AlignBegin=511172|AlignEnd=511528|Gloss=Satan
 40	tə́	tə́	CCONJ	_	_	41	cc	_	AlignBegin=513060|AlignEnd=513367|Gloss=with
 41	mə́ndə	mə́ndə	NOUN	_	_	39	conj:coord	_	AlignBegin=513367|AlignEnd=513444|Gloss=spirit.Plur.Cons
-42	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	41	mod:poss/m	_	AlignBegin=513367|AlignEnd=513444|Gloss==3Sing.Gen|wordform=-wos
-43	-íː	Remt	DET	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	41	det/m	_	AlignBegin=513367|AlignEnd=513444|Gloss=Remt
+42	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	41	mod:poss/m	_	AlignBegin=513367|AlignEnd=513444|Gloss==3Sing.Gen|SpaceAfter=No|wordform=-wos
+43	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	42	det/m	_	AlignBegin=513367|AlignEnd=513444|Gloss=Remt
 44	//	//	PUNCT	_	_	2	punct	_	AlignBegin=513674|AlignEnd=513980|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_03_Sermon_229-230
@@ -2134,7 +2134,7 @@
 4	kapkə́	kapkə́	ADP	_	_	2	mod	_	AlignBegin=649109|AlignEnd=649392|Gloss=for
 5	Tʃóɣnvòn	Tʃóɣnvòn	NOUN	_	_	4	comp	_	AlignBegin=649392|AlignEnd=649534|Gloss=God|wordform=Tʃóknvòníː
 6	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	5	det/m	_	AlignBegin=649392|AlignEnd=649534|Gloss=Remt
-7	mə́n	mə́n	NOUN	_	Number=Plur	15	dislocated@top	_	AlignBegin=651120|AlignEnd=651350|Gloss=people
+7	mə́n	mə́n	NOUN	_	Number=Plur	14	dislocated@top	_	AlignBegin=651120|AlignEnd=651350|Gloss=people
 8	fíɣə̂n	fi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	7	compound	_	AlignBegin=651350|AlignEnd=651465|Gloss=do-Vnoun|wordform=fi
 9	kúskə̀	kúskə̀	ADJ	_	_	10	mod	_	AlignBegin=651580|AlignEnd=651810|Gloss=evil
 10	ngə́tn	ngə́tn	NOUN	_	_	8	comp:obj	_	AlignBegin=651810|AlignEnd=652040|Gloss=thing

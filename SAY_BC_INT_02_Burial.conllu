@@ -252,7 +252,7 @@
 15	tôː	tòː	PART	_	_	22	discourse	_	AlignBegin=41625|AlignEnd=41761|Gloss=well|PartType=Disc
 16	ngə́tn	ngə́tn	NOUN	_	_	18	subj	_	AlignBegin=41761|AlignEnd=41897|Gloss=thing
 17	wón	wón	DET	_	Definite=Spec	16	det	_	AlignBegin=41897|AlignEnd=42033|Gloss=SPEC
-18	yáːli	yáːli	VERB	_	_	23	parataxis@discourse	_	AlignBegin=42033|AlignEnd=42169|Gloss=like_that
+18	yáːli	yáːli	VERB	_	_	22	parataxis@discourse	_	AlignBegin=42033|AlignEnd=42169|Gloss=like_that
 19	kəní	kən	PART	_	_	18	discourse@foc	_	AlignBegin=42169|AlignEnd=42305|Gloss=be|PartType=Foc
 20	<	<	PUNCT	_	_	18	punct	_	AlignBegin=42305|AlignEnd=42441|Gloss=PUNCT
 21	káɗâ	káɗá	PART	_	Polarity=Neg	22	mod	_	AlignBegin=42441|AlignEnd=42741|Gloss=Neg|PartType=Neg
@@ -958,7 +958,7 @@
 # text = m̀ː gèntsə̀ tá mbûɗíː séː yǎː fî mbútkə̂n mâːy //
 # text_ortho = m̀ː gèntsə̀ tá mbûɗíː séː yǎː fî mbútkə̂n mâːy //
 # text_en = Yes, old women used to sleep there for three nights.
-1	m̀ː	m̀ː	INTJ	_	_	4	discourse@filler	_	AlignBegin=130190|AlignEnd=130425|Gloss=FILL
+1	m̀ː	m̀ː	INTJ	_	_	3	discourse@filler	_	AlignBegin=130190|AlignEnd=130425|Gloss=FILL
 2	gèntsə̀	gyaːt	DET	_	Number=Plur	3	subj	_	AlignBegin=130425|AlignEnd=130660|Gloss=female_relative
 3	tá=	a=	AUX	_	Number=Plur|Person=3|Tense=Fut	0	root	_	AlignBegin=130660|AlignEnd=130895|Copula=No|Gloss=3Plur.Fut=|wordform=tá
 4	mbút	mbút	VERB	_	_	3	comp:aux	_	AlignBegin=130895|AlignEnd=131130|Gloss=spend_night|wordform=mbûɗíː
@@ -1618,7 +1618,7 @@
 # text = murín < kə́ || kə ɮiː kámâːɗì //= tôː kə́ fî mátaŋ gáy //
 # text_ortho = murín < kə́ || kə ɮiː kámâːɗì //= tôː kə́ fî mátaŋ gáy //
 # text_en = That is you would... you would pull your friend tôː kə́ fî mátaŋ gáy //
-1	mur	mur	NOUN	_	_	7	dislocated@top	_	AlignBegin=227412|AlignEnd=227780|Gloss=man|wordform=murín
+1	mur	mur	NOUN	_	_	4	dislocated@top	_	AlignBegin=227412|AlignEnd=227780|Gloss=man|wordform=murín
 2	-ə́n	-ə́n	DET	_	Deixis=Prox|PronType=Dem	1	det/m	_	AlignBegin=227412|AlignEnd=227780|Gloss=-Prox
 3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=227780|AlignEnd=228148|Gloss=PUNCT
 4	kə́=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	0	root	_	AlignBegin=228148|AlignEnd=228310|Copula=No|Gloss=2Plur.Aor=|wordform=kə́
@@ -1785,7 +1785,7 @@
 # text = èː yáː məʃíː //
 # text_ortho = èː yáː mə̂ʃíː //
 # text_en = Yes, if he dies.
-1	èː	èː	INTJ	_	_	3	discourse@filler	_	AlignBegin=251818|AlignEnd=252000|Gloss=FILL
+1	èː	èː	INTJ	_	_	2	discourse@filler	_	AlignBegin=251818|AlignEnd=252000|Gloss=FILL
 2	yáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=3	0	root	_	AlignBegin=252000|AlignEnd=252182|Copula=No|Gloss=3Sing.Cnd=|wordform=yáː
 3	məs	məs	VERB	_	_	2	comp:aux	_	AlignBegin=252182|AlignEnd=252364|Gloss=die|wordform=məʃíː
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=252182|AlignEnd=252364|Gloss=Acpl
@@ -2111,13 +2111,13 @@
 # text = áː Gòːdiya yáː mə̂ʃíː < miːtsə < tá wáːnì miːtsə tsuɣut //
 # text_ortho = áː Gòːdiya yáː mə̂ʃíː < miːtsə < tá wáːnì miːtsə tsukut //
 # text_en = Ah, if Godiya dies, the funeral, they would do a proper funeral.
-1	áː	áː	INTJ	_	_	10	discourse@filler	_	AlignBegin=298740|AlignEnd=299042|Gloss=FILL
+1	áː	áː	INTJ	_	_	9	discourse@filler	_	AlignBegin=298740|AlignEnd=299042|Gloss=FILL
 2	Gòːdiya	Gòːdiya	PROPN	_	_	3	subj	_	AlignBegin=299042|AlignEnd=299344|Gloss=Godiya
 3	yáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=3	9	mod	_	AlignBegin=299344|AlignEnd=299646|Copula=No|Gloss=3Sing.Cnd=|wordform=yáː
 4	məs	məs	VERB	_	_	3	comp:aux	_	AlignBegin=299646|AlignEnd=299948|Gloss=die|wordform=mə̂ʃíː
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=299646|AlignEnd=299948|Gloss=Acpl
 6	<	<	PUNCT	_	_	3	punct	_	AlignBegin=299948|AlignEnd=300251|Gloss=PUNCT
-7	miːtsə	miːtsə	NOUN	_	_	10	dislocated@top	_	AlignBegin=301336|AlignEnd=301516|Gloss=burial
+7	miːtsə	miːtsə	NOUN	_	_	9	dislocated@top	_	AlignBegin=301336|AlignEnd=301516|Gloss=burial
 8	<	<	PUNCT	_	_	7	punct	_	AlignBegin=301516|AlignEnd=301696|Gloss=PUNCT
 9	tá=	a=	AUX	_	Number=Plur|Person=3|Tense=Fut	0	root	_	AlignBegin=301696|AlignEnd=301893|Copula=No|Gloss=3Plur.Fut=|wordform=tá
 10-11	wáːnì	_	_	_	_	_	_	_	_
@@ -2183,7 +2183,7 @@
 # text = ɗan myáːni báː < tá wâː ɮàr sòːséy ɓét !//
 # text_ortho = ɗan myáːni bâː < tá wâː ɮàr sòːséy ɓét !//
 # text_en = Like me indeed, they will dance really well!
-1	ɗan	ɗan	ADP	_	_	6	dislocated@top	_	AlignBegin=309841|AlignEnd=310002|Gloss=like
+1	ɗan	ɗan	ADP	_	_	5	dislocated@top	_	AlignBegin=309841|AlignEnd=310002|Gloss=like
 2	myáːni	myáːni	PRON	_	Number=Sing|Person=1|PronType=Prs	1	comp	_	AlignBegin=310002|AlignEnd=310163|Gloss=1Sing.IDP
 3	báː	báː	PART	_	Polarity=Neg	1	discourse	_	AlignBegin=310163|AlignEnd=310324|Gloss=Q.Neg|PartType=Neg
 4	<	<	PUNCT	_	_	1	punct	_	AlignBegin=310324|AlignEnd=310485|Gloss=PUNCT
@@ -2313,7 +2313,7 @@
 # text_ortho = àmá Gòːdiya áy < gónwô ʧaː lyâː ɣáy hŋ́ //+ dón nə ŋáː //
 # text_en = But Godiya, nobody will dance in it, because he is young.
 1	àmá	àmá	CCONJ	_	_	6	discourse	_	AlignBegin=329890|AlignEnd=330056|Gloss=but
-2	Gòːdiya	Gòːdiya	PROPN	_	_	7	dislocated@top	_	AlignBegin=330056|AlignEnd=330222|Gloss=Godiya
+2	Gòːdiya	Gòːdiya	PROPN	_	_	6	dislocated@top	_	AlignBegin=330056|AlignEnd=330222|Gloss=Godiya
 3	áy	áy	INTJ	_	_	6	discourse	_	AlignBegin=330222|AlignEnd=330388|Gloss=indeed
 4	<	<	PUNCT	_	_	3	punct	_	AlignBegin=330388|AlignEnd=330554|Gloss=PUNCT
 5-6	gónwô	_	_	_	_	_	_	_	_
@@ -2480,9 +2480,9 @@
 # sent_timecode = 349540, 354977
 # text_ortho = èː wàːtòː haské ɣə́ wúmgə̂n rěːs kən < myáː súː mə̀ yísə́ŋ tu dèkkə̀ wúmgə̂n rěːs kəní //= dèkkə̀ múrna gwǎːy ɣəní //
 # text_en = Yes, that is to say, the meaning of that sadness, I want to know "This the reason of the sadness, this is the reason of your happiness."
-1	èː	èː	INTJ	_	_	11	discourse@filler	_	AlignBegin=349540|AlignEnd=349740|Gloss=FILL
+1	èː	èː	INTJ	_	_	10	discourse@filler	_	AlignBegin=349540|AlignEnd=349740|Gloss=FILL
 2	wàːtòː	wàːtòː	X	_	Foreign=Yes	10	discourse	_	AlignBegin=349740|AlignEnd=349940|Gloss=i.e.|Lang=ha
-3	haské	haske	NOUN	_	Definite=Cons	11	dislocated@top	_	AlignBegin=349940|AlignEnd=350140|Gloss=light-CONS
+3	haské	haske	NOUN	_	Definite=Cons	10	dislocated@top	_	AlignBegin=349940|AlignEnd=350140|Gloss=light-CONS
 4	ɣə́	á	ADP	_	_	3	mod	_	AlignBegin=350140|AlignEnd=350340|Gloss=of
 5	wúmgə̂n	wum	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp	_	AlignBegin=350340|AlignEnd=350540|Gloss=feel-Vnoun
 6	raː	raː	NOUN	_	_	5	compound	_	AlignBegin=350540|AlignEnd=350740|Gloss=heart|wordform=rěːs
@@ -2551,7 +2551,7 @@
 # text = nə́ myáːni gə̀tíː < tu máː ndwaːtsə́y //
 # text_ortho = nə́ myáːni gə̀tíː < tu máː ndwaːtsə́y //
 # text_en = As for me myself, it's because I am old.
-1	nə́	nə́	ADP	_	_	7	dislocated@top	_	AlignBegin=358522|AlignEnd=358734|Gloss=for
+1	nə́	nə́	ADP	_	_	6	dislocated@top	_	AlignBegin=358522|AlignEnd=358734|Gloss=for
 2	myáːni	myáːni	PRON	_	Number=Sing|Person=1|PronType=Prs	1	comp	_	AlignBegin=358734|AlignEnd=358946|Gloss=1Sing.IDP
 3	gə̀tíː	gə̀tn	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3	1	mod@ethic	_	AlignBegin=358946|AlignEnd=359158|Gloss=3SingGen.Remt|wordform=gə̀tn
 4	<	<	PUNCT	_	_	1	punct	_	AlignBegin=359158|AlignEnd=359372|Gloss=PUNCT
@@ -2719,7 +2719,7 @@
 # text = ɗan kyâːn máː tá= wâːnì miːtsə hár yànzú //
 # text_ortho = ɗan kyâːn máː tá wâːnì miːtsə hár yànzú //
 # text_en = Like you, they would do the funeral, up till now.
-1	ɗan	ɗan	ADP	_	_	5	dislocated@top	_	AlignBegin=384160|AlignEnd=384316|Gloss=like
+1	ɗan	ɗan	ADP	_	_	4	dislocated@top	_	AlignBegin=384160|AlignEnd=384316|Gloss=like
 2	kyâːn	kyáːni	PRON	_	Number=Sing|Person=2	1	comp	_	AlignBegin=384316|AlignEnd=384472|Gloss=2Sing.IDP
 3	máː	máː	PART	_	_	1	discourse@top	_	AlignBegin=384472|AlignEnd=384628|Gloss=even|PartType=Top
 4	tá=	a=	AUX	_	Number=Plur|Person=3|Tense=Fut	0	root	_	AlignBegin=384628|AlignEnd=384784|Copula=No|Gloss=3Plur.Fut=|wordform=tá

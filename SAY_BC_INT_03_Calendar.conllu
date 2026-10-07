@@ -5,7 +5,7 @@
 # text = gín myǎː ʧêt gòs tu àː fúːmí yáddà ɗan kə̀tà yáː fî gyáː lə̌pmwâːn ɗan gyáː kə́rmə̂s ɗan myàː fǐtə //
 # text_ortho = gín myǎː ʧêt gòs tu àː fúːmí yáddà ɗan kə̀tàyáː fî gyáː lə̌pmwâːn ɗan gyáː kə́rmə̂s ɗan myàː fǐtə //
 # text_en = Now we are asking tell us how you used to do your festivals like our Christmas that we do like this.
-1	gín	giní	PRON	_	Deixis=Prox|PronType=Dem	3	dislocated@top	_	AlignBegin=2860|AlignEnd=3100|Gloss=Prox
+1	gín	giní	PRON	_	Deixis=Prox|PronType=Dem	2	dislocated@top	_	AlignBegin=2860|AlignEnd=3100|Gloss=Prox
 2	myǎː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=1	0	root	_	AlignBegin=3100|AlignEnd=3340|Copula=No|Gloss=1Plur.Imp=|wordform=myǎː
 3	ʧêt	ʧet	VERB	_	_	2	comp:aux	_	AlignBegin=3340|AlignEnd=3580|Gloss=ask
 4	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	mod@ethic	_	AlignBegin=3580|AlignEnd=3820|Gloss=3SingGen
@@ -280,7 +280,7 @@
 # text_en = And... them, like for example the people of Malar, we would call them Angas too.
 1	kúmá	kúmá	PART	_	_	10	discourse	_	AlignBegin=56420|AlignEnd=56670|Gloss=and|PartType=Disc
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=56670|AlignEnd=56920|Gloss=PUNCT
-3	yàːʃí	yàːʃí	PRON	_	Number=Plur|Person=3	11	dislocated@top	_	AlignBegin=57460|AlignEnd=57703|Gloss=3Plur.IDP
+3	yàːʃí	yàːʃí	PRON	_	Number=Plur|Person=3	10	dislocated@top	_	AlignBegin=57460|AlignEnd=57703|Gloss=3Plur.IDP
 4	kàmán	kàmán	ADP	_	_	3	mod	_	AlignBegin=57703|AlignEnd=57946|Gloss=like
 5	mìsáːli	mìsáːli	NOUN	_	_	6	mod	_	AlignBegin=57946|AlignEnd=58189|Gloss=example
 6	mə́n	muri	NOUN	_	Number=Plur	4	comp	_	AlignBegin=58189|AlignEnd=58432|Gloss=people
@@ -379,7 +379,7 @@
 # text_ortho = tôː ɗan giní ɗan káː ʧim tu lə̌pm Ngasǒːy tôː áy bàː á wûn~ &//
 # text_en = Well like what you call the Angas festival, well it doesn't...
 1	tôː	tòː	PART	_	_	14	discourse	_	AlignBegin=72500|AlignEnd=72662|Gloss=well|PartType=Disc
-2	ɗan	ɗan	ADP	_	_	15	dislocated@top	_	AlignBegin=72662|AlignEnd=72824|Gloss=like
+2	ɗan	ɗan	ADP	_	_	14	dislocated@top	_	AlignBegin=72662|AlignEnd=72824|Gloss=like
 3	giní	giní	PRON	_	Deixis=Prox|PronType=Dem	2	comp	_	AlignBegin=72824|AlignEnd=72986|Gloss=Prox
 4	ɗan	ɗan	SCONJ	_	_	3	mod@relcl	_	AlignBegin=72986|AlignEnd=73148|Gloss=REL
 5	káː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=2	4	comp	_	AlignBegin=73148|AlignEnd=73310|Copula=No|Gloss=2Sing.Perf=|wordform=káː
@@ -559,7 +559,7 @@
 # text = kàmán yàːʃí mə́n Maláːri máː < lə̌pm Zaːr máː < tá tûːr gyáː ɗûː //= tá tûːr gyáː náɣat //
 # text_ortho = kàmán yàːʃí mə́n malâːri máː < lə̌pm Zaːr máː < tá tûːr gyáː ɗûː //= tá tûːr gyáː náɣat //
 # text_en = Like them, those people of Malar... at the Zaar festival, they would brew beer, they would cook food.
-1	kàmán	kàmán	ADP	_	_	12	discourse@top	_	AlignBegin=92392|AlignEnd=93065|Gloss=like
+1	kàmán	kàmán	ADP	_	_	11	discourse@top	_	AlignBegin=92392|AlignEnd=93065|Gloss=like
 2	yàːʃí	yàːʃí	PRON	_	Number=Sing|Person=3|PronType=Prs	1	comp	_	AlignBegin=93538|AlignEnd=93856|Gloss=3Plur.IDP
 3	mə́n	muri	NOUN	_	Number=Plur	2	conj:appos	_	AlignBegin=93856|AlignEnd=94174|Gloss=people
 4	Maláːri	Malâːr	PROPN	_	_	3	compound	_	AlignBegin=94174|AlignEnd=94492|Gloss=Malar
@@ -621,7 +621,7 @@
 # text_ortho = tòː dèk kə̀ fíɣə̂n lə̌pm Zaːr < ka vərəm fasárawòsàː ɗaŋ kə́ ʧâː ɗaŋ kyǎː fítə̀ //
 # text_en = Well the reason for doing the Zaar festival, explain the reason why you do it!
 1	tôː	tòː	PART	_	_	8	discourse	_	AlignBegin=102296|AlignEnd=102502|Gloss=well|PartType=Disc
-2	dèk	dèy	NOUN	_	_	9	dislocated@top	_	AlignBegin=102502|AlignEnd=102605|Gloss=reason
+2	dèk	dèy	NOUN	_	_	8	dislocated@top	_	AlignBegin=102502|AlignEnd=102605|Gloss=reason
 3	kə̀	kə́	ADP	_	Case=Gen	2	mod	_	AlignBegin=102708|AlignEnd=102914|Gloss=of
 4	fíɣə̂n	fi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	3	comp	_	AlignBegin=102914|AlignEnd=103120|Gloss=do-Vnoun
 5	lə̌pm	lə̌pm	NOUN	_	Definite=Cons	4	comp:obj	_	AlignBegin=103120|AlignEnd=103326|Gloss=festival-CONS
@@ -747,7 +747,7 @@
 # text = èː tôː kóː ləpí gyòː máː Tʃoɣn á lə̌ːrkíɗi áy //
 # text_ortho = èː tôː kóː ləpí gyòː máː Tʃoɣn á lə̌ːrkíɗi áy //
 # text_en = Yes, every festival, God has kept you alive.
-1	èː	èː	INTJ	_	_	9	discourse@filler	_	AlignBegin=127520|AlignEnd=127731|Gloss=FILL
+1	èː	èː	INTJ	_	_	8	discourse@filler	_	AlignBegin=127520|AlignEnd=127731|Gloss=FILL
 2	tôː	tòː	PART	_	_	8	discourse	_	AlignBegin=127731|AlignEnd=127942|Gloss=well|PartType=Disc
 3	kóː	kóː	DET	_	_	4	det	_	AlignBegin=127942|AlignEnd=128153|Gloss=UNIV
 4	ləpí	lə̌pm	NOUN	_	Definite=Ind	8	mod	_	AlignBegin=128153|AlignEnd=128364|Gloss=festival-Ind
@@ -940,7 +940,7 @@
 1	lə̌pm	lə̌pm	NOUN	_	_	5	subj	_	AlignBegin=160380|AlignEnd=160640|Gloss=festival
 2	geɗí	geɗí	NOUN	_	Number=Plur	1	compound	_	AlignBegin=160640|AlignEnd=160900|Gloss=tuber
 3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=160900|AlignEnd=161160|Gloss=PUNCT
-4	gwàːsə̀ŋ	gwàːsə̀ŋ	PRON	_	Case=Gen|Number=Plur|Person=3	6	dislocated@top	_	AlignBegin=161400|AlignEnd=161623|Gloss=3PlurGen
+4	gwàːsə̀ŋ	gwàːsə̀ŋ	PRON	_	Case=Gen|Number=Plur|Person=3	5	dislocated@top	_	AlignBegin=161400|AlignEnd=161623|Gloss=3PlurGen
 5	ʧǎː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=3	0	root	_	AlignBegin=161623|AlignEnd=161846|Copula=No|Gloss=3Plur.Imp=|wordform=ʧǎː
 6	gìː	giː	VERB	_	_	5	comp:aux	_	AlignBegin=161846|AlignEnd=162069|Gloss=plough
 7	geɗí	geɗí	PRON	_	_	6	comp:obj	_	AlignBegin=162069|AlignEnd=162292|Gloss=tuber
@@ -1023,7 +1023,7 @@
 # text_ortho = wàːtòː gwàːn kə́ yǐr ngə́tn wón gáyǐŋ ?//
 # text_en = That is, yours, isn't there something in it?
 1	wàːtòː	wàːtòː	INTJ	_	_	3	discourse	_	AlignBegin=169480|AlignEnd=169649|Gloss=i.e.|Lang=ha
-2	gwàːn	gwàːn	PRON	_	Case=Gen|Number=Plur|Person=2	4	dislocated@top	_	AlignBegin=169649|AlignEnd=169818|Gloss=2PlurGen
+2	gwàːn	gwàːn	PRON	_	Case=Gen|Number=Plur|Person=2	3	dislocated@top	_	AlignBegin=169649|AlignEnd=169818|Gloss=2PlurGen
 3	kə́=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	0	root	_	AlignBegin=169818|AlignEnd=169987|Copula=No|Gloss=2Plur.Aor=|wordform=kə́
 4	yǐr	yír	VERB	_	_	3	comp:aux	_	AlignBegin=169987|AlignEnd=170156|Gloss=have
 5	ngə́tn	ngə́tn	NOUN	_	_	4	comp:obj	_	AlignBegin=170156|AlignEnd=170325|Gloss=thing
@@ -1113,7 +1113,7 @@
 # text = èː yáː fǐː dà wuri báː ?//
 # text_ortho = èː yáː fǐː dà wuri bâː //
 # text_en = Yes, when the guineacorn is just ripe no ?
-1	èː	èː	INTJ	_	_	3	discourse@filler	_	AlignBegin=179300|AlignEnd=179450|Gloss=FILL
+1	èː	èː	INTJ	_	_	2	discourse@filler	_	AlignBegin=179300|AlignEnd=179450|Gloss=FILL
 2	yáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=3	0	root	_	AlignBegin=179450|AlignEnd=179600|Copula=No|Gloss=3Sing.Cnd=|wordform=yáː
 3	fi	fi	VERB	_	_	2	comp:aux	_	AlignBegin=179600|AlignEnd=179750|Gloss=do|wordform=fǐː
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=179600|AlignEnd=179750|Gloss=Acpl
@@ -1163,7 +1163,7 @@
 4	tâ	ta	VERB	_	_	1	comp	_	AlignBegin=183972|AlignEnd=184176|Gloss=climb
 5	hŋ́	hŋ́	PART	_	Polarity=Neg	4	mod	_	AlignBegin=184176|AlignEnd=184380|Gloss=Neg|PartType=Neg
 6	||	||	PUNCT	_	_	9	punct	_	AlignBegin=184380|AlignEnd=184380|Gloss=PUNCT
-7	èː	èː	INTJ	_	_	10	discourse@filler	_	AlignBegin=184680|AlignEnd=184885|Gloss=FILL
+7	èː	èː	INTJ	_	_	9	discourse@filler	_	AlignBegin=184680|AlignEnd=184885|Gloss=FILL
 8-9	wâː	_	_	_	_	_	_	_	_
 8	wâː	wâː	NOUN	_	_	9	subj	_	AlignBegin=184885|Gloss=guineacorn
 9	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	4	conj:dicto	_	AlignEnd=185090|Copula=No|Gloss=3Sing.Perf=|wordform=àː
@@ -1391,7 +1391,7 @@
 # text_en = Well, this one, they are asking here when did you do them?
 1	tôː	tòː	PART	_	_	4	discourse	_	AlignBegin=221360|AlignEnd=221530|Gloss=well|PartType=Disc
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=221530|AlignEnd=221700|Gloss=PUNCT
-3	ginín	giní	PRON	_	Deixis=Prox|PronType=Dem	5	dislocated@top	_	AlignBegin=222280|AlignEnd=222497|Gloss=Prox
+3	ginín	giní	PRON	_	Deixis=Prox|PronType=Dem	4	dislocated@top	_	AlignBegin=222280|AlignEnd=222497|Gloss=Prox
 4	ʧáː=	yáː=	AUX	_	Aspect=Imp|Number=Sing|Person=3	0	root	_	AlignBegin=222497|AlignEnd=222714|Copula=No|Gloss=3Sing.Imp=|wordform=ʧáː
 5	ʧet	ʧet	VERB	_	_	4	comp:aux	_	AlignBegin=222714|AlignEnd=222931|Gloss=ask
 6	ɗúːni	ɗúːni	ADV	_	_	5	mod	_	AlignBegin=222931|AlignEnd=223148|Gloss=here
@@ -1553,7 +1553,7 @@
 # sent_timecode = 243825, 246820
 # text_ortho = Mársəŋ ʧǎː fítə̀ tə́ lə̌pm Žàːr bàː gwàːsə̀ŋ wâː fi ngə́tn wónə̌ŋ áy //
 # text_en = Lusa, they do it at the Jar festival, when for them, their guineacorn isn't ripe indeed.
-1	Mársəŋ	Mársəŋ	PROPN	_	_	3	dislocated@top	_	AlignBegin=243825|AlignEnd=244055|Gloss=Lusa
+1	Mársəŋ	Mársəŋ	PROPN	_	_	2	dislocated@top	_	AlignBegin=243825|AlignEnd=244055|Gloss=Lusa
 2	ʧǎː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=3	0	root	_	AlignBegin=244055|AlignEnd=244285|Copula=No|Gloss=3Plur.Imp=|wordform=ʧǎː
 3-4	fítə̀	_	_	_	_	_	_	_	_
 3	fî	fi	VERB	_	_	2	comp:aux	_	AlignBegin=244285|AlignEnd=244400|Gloss=do
@@ -1581,7 +1581,7 @@
 # text = èː tôː tá fítə̀ kàmán ɗan lóːkaʧí gyôː ɣəŋ kéːloː ?//
 # text_ortho = èː tôː tá fítə̀ kàmán ɗan lóːkaʧí gyòː ɣəŋ kéːloː ?//
 # text_en = Yes, well, they would do it at what time according to you?
-1	èː	èː	INTJ	_	_	4	discourse@filler	_	AlignBegin=246940|AlignEnd=247132|Gloss=FILL
+1	èː	èː	INTJ	_	_	3	discourse@filler	_	AlignBegin=246940|AlignEnd=247132|Gloss=FILL
 2	tôː	tòː	PART	_	_	3	discourse	_	AlignBegin=247132|AlignEnd=247324|Gloss=well|PartType=Disc
 3	tá=	a=	AUX	_	Number=Plur|Person=3|Tense=Fut	0	root	_	AlignBegin=247324|AlignEnd=247516|Copula=No|Gloss=3Plur.Fut=|wordform=tá
 4-5	fítə̀	_	_	_	_	_	_	_	_
@@ -1799,7 +1799,7 @@
 # text_ortho = Wàːtòː dàlìːléywâːsə̀ŋ ɗangənín bàː kə kə yísə́ŋ dàlìːléywâːsə̀ŋ ɗan ʧǎː fî hŋ́ ?//
 # text_en = Well their reason, don't...  don't you know their reason for doing it?
 1	wàːtòː	wàːtòː	PART	_	_	6	discourse	_	AlignBegin=272820|AlignEnd=273255|Gloss=i.e.|Lang=ha|PartType=Disc
-2	dàlìːléy	dàlíːli	NOUN	_	Definite=Cons|Number=Plur	8	dislocated@top	_	AlignBegin=273255|AlignEnd=273473|Gloss=reason-Plur.Cons|wordform=dàlìːléywâːsə̀ŋ
+2	dàlìːléy	dàlíːli	NOUN	_	Definite=Cons|Number=Plur	6	dislocated@top	_	AlignBegin=273255|AlignEnd=273473|Gloss=reason-Plur.Cons|wordform=dàlìːléywâːsə̀ŋ
 3	=waːsəŋ	=waːsəŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	mod:poss/m	_	AlignBegin=273255|AlignEnd=273473|Gloss==3Plur.Gen|wordform=-waːsəŋ
 4	ɗangənín	ɗangəní	ADV	_	_	6	mod	_	AlignBegin=273690|AlignEnd=274125|Gloss=now
 5	bàː	bàː	PART	_	Polarity=Neg	6	mod	_	AlignBegin=274125|AlignEnd=274560|Gloss=Neg|PartType=Neg
@@ -1980,7 +1980,7 @@
 # text_ortho = wàːtòː kàmán fuŋ < ɗan káː nal fuŋ ŋâː < tôː < ɗôːs ɗan tə́ tûːríː < dzàŋ gíː gə̀dès < wò ngaː ŋaː ndə́ːʧi gáːy //
 # text_en = That is like... the granary, when you built a granary, well, the beer that they brewed, that day, the woman would take some dregs and keep them.
 1	wàːtòː	wàːtòː	PART	_	_	23	discourse	_	AlignBegin=296840|AlignEnd=297508|Gloss=i.e.|Lang=ha|PartType=Disc
-2	kàmán	kàmán	ADP	_	_	24	dislocated@top	_	AlignBegin=297508|AlignEnd=298176|Gloss=like
+2	kàmán	kàmán	ADP	_	_	23	dislocated@top	_	AlignBegin=297508|AlignEnd=298176|Gloss=like
 3	fuŋ	fuŋ	NOUN	_	_	2	comp	_	AlignBegin=298843|AlignEnd=299031|Gloss=granary
 4	<	<	PUNCT	_	_	2	punct	_	AlignBegin=299031|AlignEnd=299220|Gloss=PUNCT
 5	ɗan	ɗan	SCONJ	_	_	23	mod	_	AlignBegin=300280|AlignEnd=300577|Gloss=as
@@ -2282,7 +2282,7 @@
 1	tôː	tòː	PART	_	_	13	discourse	_	AlignBegin=353240|AlignEnd=353450|Gloss=well|PartType=Disc
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=353450|AlignEnd=353660|Gloss=PUNCT
 3	əː	əː	INTJ	_	_	1	discourse@filler	_	AlignBegin=353980|AlignEnd=354229|Gloss=FILL
-4	ndə́ːʧi	ndə́ːʧi	NOUN	_	_	14	dislocated@top	_	AlignBegin=354229|AlignEnd=354478|Gloss=dregs|wordform=ndə́ːtsə́y
+4	ndə́ːʧi	ndə́ːʧi	NOUN	_	_	13	dislocated@top	_	AlignBegin=354229|AlignEnd=354478|Gloss=dregs|wordform=ndə́ːtsə́y
 5	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	4	det/m	_	AlignBegin=354229|AlignEnd=354478|Gloss=Remt
 6	ɗáɲâːl	ɗáɲâːl	ADV	_	_	4	mod	_	AlignBegin=354478|AlignEnd=354727|Gloss=as_it_is
 7	ɗan	ɗan	SCONJ	_	_	4	mod@relcl	_	AlignBegin=354727|AlignEnd=354976|Gloss=REL
@@ -2473,7 +2473,7 @@
 # text_ortho = gyáː ngəʃí ɗan kə́ ɲôm kə́ ɬə́ nʤâk tə́ wûl álálá áláléy ?//
 # text_en = Those things that you took and dropped, did they shout "alala, alala"?
 1	gyáː	gyáː	DET	_	Number=Plur	2	det	_	AlignBegin=376599|AlignEnd=376771|Gloss=Plur
-2	ngəʃí	ngə́tn	NOUN	_	Definite=Def	10	dislocated@top	_	AlignBegin=376771|AlignEnd=376943|Gloss=thing
+2	ngəʃí	ngə́tn	NOUN	_	Definite=Def	9	dislocated@top	_	AlignBegin=376771|AlignEnd=376943|Gloss=thing
 3	ɗan	ɗan	SCONJ	_	_	2	mod@relcl	_	AlignBegin=376943|AlignEnd=377115|Gloss=REL
 4	kə́=	á=	AUX	_	Number=Plur|Person=2|Tense=Pres	3	comp	_	AlignBegin=377115|AlignEnd=377287|Copula=No|Gloss=2Plur.Aor=|wordform=kə́
 5	ɲom	ɲom	VERB	_	_	4	comp:aux	_	AlignBegin=377287|AlignEnd=377459|Gloss=take
@@ -2687,7 +2687,7 @@
 # text = ma wu tu dzàŋ gíː ɗan tə́ bə̀s ɗúːy < tôː dzàŋ gíː tə́ ɓíɬndi < ká ɲôm gyáː ngértsə kot kóː gyáː pyaːɗa kóː gyáː ʃit kóː burgàl |c tôː kə́ dìngá kítâr ɗan ɗûːn hár kə́ ɬíː ɗan Wǔːr Vùŋ || tarí wón || yâwwàː tarí wón Vùŋ || dàtə̂pm Vùŋ //
 # text_ortho = ma wu tu dzàŋ gíː ɗan tə́ bə̀s ɗúːy < tôː dzàŋ gíː tə́ ɓíɬndi < ká ɲôm gyáː ngértsə kot kóː gyáː pyaːɗa kóː gyáː ʃit kóː burgàl |c tôː kə́ dìngá kítâr ɗan ɗûːn hár kə́ ɬǐː ɗan Wǔːr Vùŋ || tarí wón || yâwwàː tarí wón Vùŋ || dàtə̂pm Vùŋ ||
 # text_en = Let me say, the day that they brew the beer, well, that day in the morning, you would take potsherds or ladles or stirring sticks or swizzle sticks, then you would keep running from here until you reached like the Vung mountain, some flat rock, OK, some flat rock at Vung on the road to Vung.
-1	ma=	a=	AUX	_	Number=Sing|Person=1|Tense=Fut	19	parataxis@discourse	_	AlignBegin=414640|AlignEnd=414914|Copula=No|Gloss=1Sing.Fut=|wordform=ma
+1	ma=	a=	AUX	_	Number=Sing|Person=1|Tense=Fut	18	parataxis@discourse	_	AlignBegin=414640|AlignEnd=414914|Copula=No|Gloss=1Sing.Fut=|wordform=ma
 2	wu	wul	VERB	_	_	1	comp:aux	_	AlignBegin=414914|AlignEnd=415188|Gloss=say
 3	tu	tu	SCONJ	_	_	2	comp:obj	_	AlignBegin=415188|AlignEnd=415463|Gloss=Qot
 4	dzàŋ	dzàŋ	NOUN	_	_	18	mod	_	AlignBegin=415463|AlignEnd=415640|Gloss=day
@@ -3138,7 +3138,7 @@
 # text_ortho = kóː yaːɬi gyòː tá wûl tu ɬíː ɣá Daːvàrì //
 # text_en = Everywhere, they would say go do Davari.
 1	kóː	kóː	DET	_	_	2	det	_	AlignBegin=487371|AlignEnd=487543|Gloss=UNIV
-2	yaːɬi	yaːɬ	NOUN	_	Definite=Ind	5	dislocated@top	_	AlignBegin=487543|AlignEnd=487715|Gloss=place-INDEF
+2	yaːɬi	yaːɬ	NOUN	_	Definite=Ind	4	dislocated@top	_	AlignBegin=487543|AlignEnd=487715|Gloss=place-INDEF
 3	gyòː	gyòː	DET	_	_	2	det	_	AlignBegin=487715|AlignEnd=487887|Gloss=UNIV
 4	tá=	a=	AUX	_	Number=Plur|Person=3|Tense=Fut	0	root	_	AlignBegin=487887|AlignEnd=488059|Copula=No|Gloss=3Plur.Fut=|wordform=tá
 5	wûl	wul	VERB	_	_	4	comp:aux	_	AlignBegin=488059|AlignEnd=488231|Gloss=say

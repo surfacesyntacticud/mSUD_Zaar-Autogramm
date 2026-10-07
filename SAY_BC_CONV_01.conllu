@@ -616,7 +616,7 @@
 # text = batú kaːyáwôpíː máː ɗan mə̀tàyáː wû tu má ɗìːɓíː kóː < kə yél wuriː ?//
 # text_ortho = batu kaːyáwôpíː máː ɗan mə̀tàyáː wû tu má ɗìːɓíː kóː < kə yél wuriː ?//
 # text_en = Concerning that talk about those things that we said we would buy, what do you think?
-1	batú	batu	NOUN	_	Definite=Cons	16	dislocated@top	_	AlignBegin=63156|AlignEnd=63670|Gloss=conversation
+1	batú	batu	NOUN	_	Definite=Cons	15	dislocated@top	_	AlignBegin=63156|AlignEnd=63670|Gloss=conversation
 2	kaːya	kaːya	NOUN	_	Definite=Cons	1	mod@poss	_	AlignBegin=63670|AlignEnd=63742|Gloss=things.Cons|wordform=kaːyáwôpíː
 3	=wopm	=wopm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	mod:poss/m	_	AlignBegin=63670|AlignEnd=63742|Gloss==1Plur.Gen|wordform=-wopm
 4	máː	máː	PART	_	_	2	discourse@top	_	AlignBegin=63885|AlignEnd=64100|Gloss=even|PartType=Top
@@ -1099,7 +1099,7 @@
 # text = kə yél yáːwón ɗan mì yǎː fúːtə̀ < XX ɗan mí yǎː ŋáːstə ɣáy < kíyí yèl láː áy yǎː fi wuriː ?//
 # text_ortho = kə yél yáːwón ɗan mìyǎː fúːtə̀ < XX ɗan míyàː ŋáːstə ɣáy < kíː yèl láː áyǎː fi wuriː ?//
 # text_en = You see today as we told him, XX as I was teasing him, did you see what he was doing?
-1	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	19	parataxis@discourse	_	AlignBegin=122636|AlignEnd=122811|Copula=No|Gloss=2Sing.Aor=|wordform=kə
+1	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	18	parataxis@discourse	_	AlignBegin=122636|AlignEnd=122811|Copula=No|Gloss=2Sing.Aor=|wordform=kə
 2	yél	yel	VERB	_	_	1	comp:aux	_	AlignBegin=122811|AlignEnd=122986|Gloss=see
 3	yáːwón	yáːwón	NOUN	_	_	18	mod	_	AlignBegin=122986|AlignEnd=123161|Gloss=today
 4	ɗan	ɗan	SCONJ	_	_	18	mod	_	AlignBegin=123161|AlignEnd=123336|Gloss=as
@@ -1109,7 +1109,7 @@
 7	fûː	fuː	VERB	_	_	5	comp:aux	_	AlignBegin=123511|AlignEnd=123599|Gloss=tell
 8	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	7	comp:obj/m	_	AlignBegin=123599|AlignEnd=123686|Gloss==3Sing.Acc
 9	<	<	PUNCT	_	_	4	punct	_	AlignBegin=123686|AlignEnd=123861|Gloss=PUNCT
-10	XX	XX	X	_	_	19	unk	_	AlignBegin=123861|AlignEnd=124134|Gloss=XX
+10	XX	XX	X	_	_	18	unk	_	AlignBegin=123861|AlignEnd=124134|Gloss=XX
 11	ɗan	ɗan	SCONJ	_	_	18	mod	_	AlignBegin=124134|AlignEnd=124407|Gloss=as
 12	mí=	TaYiNa=	AUX	_	Number=Sing|Person=1|Tense=Past	11	comp	_	AlignBegin=124407|AlignEnd=124680|Copula=No|Gloss=1Sing.ImmPast=|PastType=Imm|wordform=míyǎː
 13	yǎː=	yáː=	AUX	_	Aspect=Imp	12	compound	_	Copula=No|Gloss=Imp=|wordform=yǎː
@@ -1427,8 +1427,8 @@
 7	mə̀=	tə̀=	AUX	_	Mood=Sub|Number=Plur|Person=1	0	root	_	AlignBegin=161762|AlignEnd=161971|Copula=No|Gloss=1Plur.Sub=|wordform=mə̀
 8	kàp	kap	VERB	_	_	7	comp:aux	_	AlignBegin=161971|AlignEnd=162180|Gloss=take
 9	Ŋgas	Ŋgas	PROPN	_	_	8	comp:obj	_	AlignBegin=162180|AlignEnd=162390|Gloss=Angas
-10	àmáː	àmáː	CCONJ	_	_	16	cc	_	AlignBegin=162390|AlignEnd=162721|Gloss=but
-11	súːɣə̀n	súː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	16	dislocated@top	_	AlignBegin=162721|AlignEnd=162828|Gloss=want.Vnoun
+10	àmáː	àmáː	CCONJ	_	_	15	cc	_	AlignBegin=162390|AlignEnd=162721|Gloss=but
+11	súːɣə̀n	súː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	15	dislocated@top	_	AlignBegin=162721|AlignEnd=162828|Gloss=want.Vnoun
 12	gə̀tn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	mod@poss	_	AlignBegin=162935|AlignEnd=163149|Gloss=3SingGen
 13	<	<	PUNCT	_	_	11	punct	_	AlignBegin=163149|AlignEnd=163362|Gloss=PUNCT
 14	tt	tt	INTJ	_	_	15	discourse	_	AlignBegin=163362|AlignEnd=163863|Gloss=INTJ
@@ -1843,7 +1843,7 @@
 5	tu	tu	SCONJ	_	_	2	comp:obj@T	_	AlignBegin=206093|AlignEnd=206276|Gloss=Qot
 6	tòː	tòː	PART	_	_	21	discourse	_	AlignBegin=206276|AlignEnd=206459|Gloss=well|PartType=Disc
 7	<	<	PUNCT	_	_	6	punct	_	AlignBegin=206459|AlignEnd=206640|Gloss=PUNCT
-8	myâːn	myáːni	PRON	_	Number=Sing|Person=1|PronType=Prs	22	dislocated@top	_	AlignBegin=206640|AlignEnd=206868|Gloss=1Sing
+8	myâːn	myáːni	PRON	_	Number=Sing|Person=1|PronType=Prs	21	dislocated@top	_	AlignBegin=206640|AlignEnd=206868|Gloss=1Sing
 9	fáː	fáː	PART	_	_	8	discourse@top	_	AlignBegin=206868|AlignEnd=207096|Gloss=certainly|PartType=Top
 10	<	<	PUNCT	_	_	8	punct	_	AlignBegin=207096|AlignEnd=207324|Gloss=PUNCT
 11	dúk	dúk	ADV	_	_	12	mod	_	AlignBegin=207528|AlignEnd=207712|Gloss=all
@@ -1868,7 +1868,7 @@
 # text_ortho = dóŋ káː yisə́ŋ < farko máː < ɗan Kámʃâk tà wul tu ʧáː sûːm < mətá wultə tu baːbù //
 # text_en = Because you know <hau in the beginning even hau>, when Kamshak said that he loved me, I told him no way.
 1	dón	dón	SCONJ	_	_	17	discourse	_	AlignBegin=210198|AlignEnd=210474|Gloss=because
-2	káː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=2	18	parataxis@discourse	_	AlignBegin=210474|AlignEnd=210573|Copula=No|Gloss=2Sing.Perf=|wordform=káː
+2	káː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=2	17	parataxis@discourse	_	AlignBegin=210474|AlignEnd=210573|Copula=No|Gloss=2Sing.Perf=|wordform=káː
 3	yisə́ŋ	yisə́ŋ	VERB	_	_	2	comp:aux	_	AlignBegin=210573|AlignEnd=210672|Gloss=know
 4	<	<	PUNCT	_	_	2	punct	_	AlignBegin=210672|AlignEnd=210771|Gloss=PUNCT
 5	farko	farko	NOUN	_	Foreign=Yes	17	mod	_	AlignBegin=210771|AlignEnd=210941|Gloss=beginning|Lang=ha
@@ -2002,7 +2002,7 @@
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_01.WAV
 # sent_timecode = 224152, 225715
-# text = àː- yaddá -íː wò- ʧanʤá kə̀lâːʃ -íː //
+# text = àː= yaddá -íː wò= ʧanʤá kə̀lâːs -íː //
 # text_ortho = àː yaddéy wò ʧanʤá kə́lâːʃíː //
 # text_en = He agreed to change class.
 1	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	0	root	_	AlignBegin=224152|AlignEnd=224394|Copula=No|Gloss=3Sing.Perf=|wordform=àː
@@ -2010,7 +2010,7 @@
 3	-íː	-íː	ADV	_	_	2	mod/m	_	Accomplished=Yes|AlignBegin=224394|AlignEnd=224514|Gloss=Acpl
 4	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	2	comp:obj	_	AlignBegin=224635|AlignEnd=224905|Copula=No|Gloss=3Sing.Fut=|wordform=wò
 5	ʧanʤá	ʧanʤá	VERB	_	_	4	comp:aux	_	AlignBegin=224905|AlignEnd=225175|Gloss=change
-6	kə̀lâːʃ	kə̀lâːs	NOUN	_	_	5	comp:obj	_	AlignBegin=225175|AlignEnd=225310|Gloss=class|wordform=kə̀lâːʃíː
+6	kə̀lâːs	kə̀lâːs	NOUN	_	_	5	comp:obj	_	AlignBegin=225175|AlignEnd=225310|Gloss=class|wordform=kə̀lâːʃíː
 7	-íː	-íː	ADV	_	_	5	mod/m	_	Accomplished=Yes|AlignBegin=225175|AlignEnd=225310|Gloss=Acpl
 8	//	//	PUNCT	_	_	1	punct	_	AlignBegin=225445|AlignEnd=225715|Gloss=PUNCT
 
@@ -2314,7 +2314,7 @@
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_01.WAV
 # sent_timecode = 258267, 259595
-# text = èːhêː < àː- tu gə̀ɗ -íː báː ?//
+# text = èːhêː < àː= tu gə̀ɗ -íː báː ?//
 # text_ortho = èːhêː < àː tu gə̀ɗíː báː ?//
 # text_en = Ok, that he has found a wife, eh?
 1	èːhêː	èːhêː	INTJ	_	_	3	discourse	_	AlignBegin=258267|AlignEnd=258540|Gloss=OK
@@ -2383,7 +2383,7 @@
 2	tə́	tə́	ADP	_	_	1	comp	_	AlignBegin=263877|AlignEnd=264013|Gloss=with
 3	gíː	gíː	PRON	_	Deixis=Remt|PronType=Dem	2	comp	_	AlignBegin=264013|AlignEnd=264149|Gloss=Remt
 4	<	<	PUNCT	_	_	1	punct	_	AlignBegin=264149|AlignEnd=264284|Gloss=PUNCT
-5	ngə́tn	ngə́tn	NOUN	_	_	15	dislocated@top	_	AlignBegin=264284|AlignEnd=264447|Gloss=thing
+5	ngə́tn	ngə́tn	NOUN	_	_	14	dislocated@top	_	AlignBegin=264284|AlignEnd=264447|Gloss=thing
 6	wón	wón	DET	_	Definite=Spec	5	det	_	AlignBegin=264447|AlignEnd=264610|Gloss=SPEC
 7	ɗa	ɗan	SCONJ	_	_	5	mod@relcl	_	AlignBegin=264610|AlignEnd=264773|Gloss=REL
 8	má=	a=	AUX	_	Number=Plur|Person=1|Tense=Fut	7	comp	_	AlignBegin=264773|AlignEnd=264936|Copula=No|Gloss=1Plur.Fut=|wordform=má
@@ -2406,7 +2406,7 @@
 # text = kyáː yél < hár má ɗyǎː má ɬǐː má ɬə́ mbûɗíː Pànʃín mə̀ sûmíɗi ŋǎːn ?//
 # text_ortho = kyáː yél < hár má ɗyǎː má ɬǐː má ɬə́ mbûɗíː Pànʃín mə̀ sûmíɗi ŋǎːn ?//
 # text_en = You see, we would even go and spend the night in Pankshin and come back, no?
-1	kyáː=	yáː=	AUX	_	Aspect=Imp|Number=Sing|Person=2	6	parataxis@discourse	_	AlignBegin=267490|AlignEnd=267585|Copula=No|Gloss=2Sing.Imp=|wordform=kyáː
+1	kyáː=	yáː=	AUX	_	Aspect=Imp|Number=Sing|Person=2	5	parataxis@discourse	_	AlignBegin=267490|AlignEnd=267585|Copula=No|Gloss=2Sing.Imp=|wordform=kyáː
 2	yél	yel	VERB	_	_	1	comp:aux	_	AlignBegin=267585|AlignEnd=267680|Gloss=see
 3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=267680|AlignEnd=267774|Gloss=PUNCT
 4	hár	hár	ADV	_	_	5	mod	_	AlignBegin=267774|AlignEnd=267940|Gloss=up_to
@@ -2545,7 +2545,7 @@
 # text_en = Kamshak, you know he said that his father and his mother have died.
 1	Kámʃâk	Kámʃâk	PROPN	_	_	5	dislocated@subj	_	AlignBegin=283898|AlignEnd=284114|Gloss=Kamshak
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=284114|AlignEnd=284331|Gloss=PUNCT
-3	káː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=2	6	parataxis@discourse	_	AlignBegin=284331|AlignEnd=284533|Copula=No|Gloss=2Sing.Perf=|wordform=káː
+3	káː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=2	5	parataxis@discourse	_	AlignBegin=284331|AlignEnd=284533|Copula=No|Gloss=2Sing.Perf=|wordform=káː
 4	yisə́ŋ	yisə́ŋ	VERB	_	_	3	comp:aux	_	AlignBegin=284533|AlignEnd=284735|Gloss=know
 5	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=284735|AlignEnd=284937|Copula=No|Gloss=3Sing.Aor=|wordform=á
 6	wûl	wul	VERB	_	_	5	comp:aux	_	AlignBegin=284937|AlignEnd=285139|Gloss=say
@@ -2624,10 +2624,10 @@
 # text = gòs káwêy < dàːmuwa -wos tə̀- yél àː- kapmíː -íː dón mə̀- ɬə -íː mə̀- yì- ɬə́ irin teːmakéʃí á tuːrɣə̂n gyǎː ngə́tn ʧíɣə̂n da sauransu dai tə̀- ngáː tə̀- húːtá //
 # text_ortho = gòs káwêy < dàːmuwáwôs tə̀ yél àː kapmíː dòn mə̀ ɬíː mə̀yi ɬə́ irin teːmakéʃí á tuːrɣə̂n gyǎː ngətn ʧíɣə̂n da sauransu dai tə̀ ngáː tə̀ húːtá //
 # text_en = For him, his only trouble is to marry me so that I would go and <hau kind of hau> help him with cooking some food <hau etc. hau> so that he would get some rest.
-1	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	dislocated@top	_	AlignBegin=294788|AlignEnd=295020|Gloss=3SingGen
+1	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	dislocated@top	_	AlignBegin=294788|AlignEnd=295020|Gloss=3SingGen
 2	káwêy	káwêy	ADV	_	_	1	mod	_	AlignBegin=295020|AlignEnd=295252|Gloss=merely
 3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=295252|AlignEnd=295484|Gloss=PUNCT
-4	dàːmuwa	dàːmuwa	NOUN	_	_	7	dislocated@top	_	AlignBegin=295484|AlignEnd=295600|Gloss=trouble|Lang=ha|wordform=dàːmuwá
+4	dàːmuwa	dàːmuwa	NOUN	_	_	6	dislocated@top	_	AlignBegin=295484|AlignEnd=295600|Gloss=trouble|Lang=ha|wordform=dàːmuwá
 5	=wos	=wos	PRON	_	Case=Gen|Foreign=Yes|Number=Sing|Person=3|PronType=Prs	4	mod:poss/m	_	AlignBegin=295484|AlignEnd=295600|Gloss==3Sing.Gen|Lang=ha|wordform=-wos
 6	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	0	root	_	AlignBegin=295716|AlignEnd=295948|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 7	yél	yel	VERB	_	_	6	comp:aux	_	AlignBegin=295948|AlignEnd=296180|Gloss=see
@@ -2763,7 +2763,7 @@
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_01.WAV
 # sent_timecode = 314702, 322393
-# text = àmáː á súːɣə̂ngə̀tn < myáː= súː mə̀= yél tu myáː= gámá sekóndə́ríː sə̀kúːl =atn -íː < mə̀ ɬə -íː makaranta College of Education Azare //
+# text = àmáː á súːɣə̂ngə̀tn < myáː= súː mə̀= yél tu myáː= gámá sekóndə́ríː sə̀kúːl =at -íː < mə̀= ɬə -íː makaranta College of Education Azare //
 # text_ortho = àmáː á súːɣə̂n gə̀tn < myáː súː mə̀ yél tu myáː gámá sekóndə́ríː sə̀kúːlâtíː < mə̀ ɬíː makaranta College of Education Azare //
 # text_en = But in my opinion, I want to see that ... if I finish my secondary school, I will go... to school... at the <en College of Education, Azare en>.
 1	àmáː	àmáː	CCONJ	_	_	6	discourse	_	AlignBegin=314702|AlignEnd=314883|Gloss=but
@@ -2781,7 +2781,7 @@
 12	gámá	gamá	VERB	_	_	11	comp:aux	_	AlignBegin=317591|AlignEnd=317954|Gloss=finish
 13	sekóndə́ríː	sekóndə́ríː	ADJ	_	_	14	mod	_	AlignBegin=317954|AlignEnd=318317|Gloss=secondary
 14	sə̀kúːl	sə̀kúːl	NOUN	_	Definite=Cons	12	comp:obj	_	AlignBegin=318317|AlignEnd=318438|Gloss=school-Cons|wordform=sə̀kúːlâtíː
-15	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	14	mod:poss/m	_	AlignBegin=318317|AlignEnd=318438|Gloss==SingGen|wordform=-atn
+15	=at	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	14	mod:poss/m	_	AlignBegin=318317|AlignEnd=318438|Gloss==SingGen|wordform=-atn
 16	-íː	-íː	ADV	_	Case=Gen|Number=Sing|Person=1	12	mod/m	_	Accomplished=Yes|AlignBegin=318317|AlignEnd=318438|Gloss=Acpl
 17	<	<	PUNCT	_	_	11	punct	_	AlignBegin=318680|AlignEnd=319042|Gloss=PUNCT
 18	mə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=1	10	comp	_	AlignBegin=319380|AlignEnd=319664|Copula=No|Gloss=1Sing.Sub=|wordform=mə̀

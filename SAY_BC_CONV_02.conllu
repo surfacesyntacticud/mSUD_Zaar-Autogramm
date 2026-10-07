@@ -138,7 +138,7 @@
 # text_en = Well, as for Momi's mother, when she comes back, what she does, is to teach children in school.
 1	tòː	tòː	PART	_	_	12	discourse	_	AlignBegin=19035|AlignEnd=19177|Gloss=well|PartType=Disc
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=19177|AlignEnd=19319|Gloss=PUNCT
-3	Mǎːm	Maːm	PROPN	_	_	13	dislocated@top	_	AlignBegin=19942|AlignEnd=20048|Gloss=mum
+3	Mǎːm	Maːm	PROPN	_	_	12	dislocated@top	_	AlignBegin=19942|AlignEnd=20048|Gloss=mum
 4	Móːmi	Móːmi	PROPN	_	_	3	flat@name	_	AlignBegin=20154|AlignEnd=20366|Gloss=Momi
 5	kúmá	kúmá	PART	_	_	3	discourse@top	_	AlignBegin=20366|AlignEnd=20578|Gloss=also|PartType=Top
 6	<	<	PUNCT	_	_	3	punct	_	AlignBegin=20578|AlignEnd=20791|Gloss=PUNCT
@@ -1310,7 +1310,7 @@
 # text_ortho = tôː gín tá < séː mə̀ tsə̌tnni káwêy mə̀ wùm ngə́r wéy ɗan ʧi káwêy ɣá məːrín ŋǎːn ?//
 # text_en = Well this indeed... shall we sit down and listen to what is going on with this boy ?
 1	tôː	tòː	PART	_	_	6	discourse	_	AlignBegin=170272|AlignEnd=170493|Gloss=well|PartType=Disc
-2	gín	gín	PRON	_	Deixis=Prox|PronType=Dem	7	dislocated@top	_	AlignBegin=170493|AlignEnd=170714|Gloss=Prox
+2	gín	gín	PRON	_	Deixis=Prox|PronType=Dem	6	dislocated@top	_	AlignBegin=170493|AlignEnd=170714|Gloss=Prox
 3	tá	tá	ADV	_	_	6	mod	_	AlignBegin=170714|AlignEnd=170935|Gloss=then
 4	<	<	PUNCT	_	_	3	punct	_	AlignBegin=170935|AlignEnd=171156|Gloss=PUNCT
 5	séː	séː	ADV	_	_	6	mod	_	AlignBegin=171640|AlignEnd=171851|Gloss=only
@@ -1394,7 +1394,7 @@
 # sent_timecode = 182423, 186692
 # text_ortho = yáːlɣə̂n ɗan ʧǎː yáːlɣə̂nín < myǎː yêl m̀ː Bàtúːrén nə ʒèlì //́
 # text_en = That watching that they are doing... we see er... that the European is white.
-1	yáːlɣə̂n	yel	VERB	_	ExtPos=NOUN|Number=Plur|VerbForm=Vnoun	7	dislocated@top	_	AlignBegin=183087|AlignEnd=183224|Gloss=watch-Plur-Vnoun
+1	yáːlɣə̂n	yel	VERB	_	ExtPos=NOUN|Number=Plur|VerbForm=Vnoun	6	dislocated@top	_	AlignBegin=183087|AlignEnd=183224|Gloss=watch-Plur-Vnoun
 2	ɗan	ɗan	SCONJ	_	_	1	mod@relcl	_	AlignBegin=183361|AlignEnd=183635|Gloss=as
 3	ʧǎː=	yiká=	AUX	_	Aspect=Prog|Number=Plur|Person=3	2	comp	_	AlignBegin=183909|AlignEnd=184183|Copula=No|Gloss=3Plur.Prog=|wordform=ʧǎː
 4	yáːlɣə̂nín	yel	VERB	_	Deixis=Prox|ExtPos=NOUN|Number=Plur|VerbForm=Vnoun	3	comp:aux	_	AlignBegin=184183|AlignEnd=184274|Gloss=watch-Plur-Vnoun.Prox
@@ -1873,7 +1873,7 @@
 # text_ortho = tôː aːːː < má fítə̀ wúr ɣəní eː ?//
 # text_en = Well, how shall we do?
 1	tôː	tòː	PART	_	_	4	discourse	_	AlignBegin=247320|AlignEnd=247515|Gloss=well|PartType=Disc
-2	aː	aː	INTJ	_	_	5	discourse@filler	_	AlignBegin=247515|AlignEnd=247710|Gloss=Virt
+2	aː	aː	INTJ	_	_	4	discourse@filler	_	AlignBegin=247515|AlignEnd=247710|Gloss=Virt
 3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=247710|AlignEnd=247904|Gloss=PUNCT
 4	má=	a=	AUX	_	Number=Plur|Person=1|Tense=Fut	0	root	_	AlignBegin=247904|AlignEnd=248206|Copula=No|Gloss=1Plur.Fut=|wordform=má
 5-6	fitə	_	_	_	_	_	_	_	_
@@ -1988,7 +1988,7 @@
 # text_en = Well, their sickness, you should leave them without water.
 1	tóː	tòː	PART	_	_	7	discourse	_	AlignBegin=256584|AlignEnd=256722|Gloss=well|PartType=Disc
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=256722|AlignEnd=256861|Gloss=PUNCT
-3	gìːr	gìːr	NOUN	_	_	8	dislocated@top	_	AlignBegin=256861|AlignEnd=256999|Gloss=illness.Cons|wordform=gìːrwàːsə̀ŋ
+3	gìːr	gìːr	NOUN	_	_	7	dislocated@top	_	AlignBegin=256861|AlignEnd=256999|Gloss=illness.Cons|wordform=gìːrwàːsə̀ŋ
 4-5	-waːsəŋ	_	_	_	_	_	_	_	_
 4	=waːsəŋ	=waːsəŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	3	mod:poss/m	_	AlignBegin=256861|AlignEnd=256999|Gloss==3Plur.Gen|wordform=-waːsəŋ
 5	gəní	kən	PART	_	_	3	discourse@foc	_	AlignBegin=257137|AlignEnd=257275|Gloss=be|PartType=Foc
@@ -2265,7 +2265,7 @@
 # text_en = That is ... as for water ... We spend the night without sleeping because of... because of the shortage of water.
 1	tu	tu	SCONJ	_	_	5	discourse	_	AlignBegin=296019|AlignEnd=296729|Gloss=Qot
 2-3	ʒòː	_	_	_	_	_	_	_	_
-2	ʒà	ʒà	NOUN	_	_	6	dislocated@top	_	AlignBegin=296729|AlignEnd=296878|Gloss=water
+2	ʒà	ʒà	NOUN	_	_	5	dislocated@top	_	AlignBegin=296729|AlignEnd=296878|Gloss=water
 3	òː	oː	PART	_	_	2	mod	_	AlignBegin=296878|AlignEnd=297027|Gloss=Emph|PartType=Ill
 4	<	<	PUNCT	_	_	2	punct	_	AlignBegin=297027|AlignEnd=297325|Gloss=PUNCT
 5	mə́=	á=	AUX	_	Number=Plur|Person=1|Tense=Pres	0	root	_	AlignBegin=297873|AlignEnd=298101|Copula=No|Gloss=1Plur.Aor=|wordform=mə́
@@ -2305,18 +2305,18 @@
 # text_en = Well now, the day... the day has come to go and fetch water?
 1	tôː	tòː	PART	_	_	10	discourse	_	AlignBegin=301689|AlignEnd=301886|Gloss=well|PartType=Disc
 2	ɗangəní	ɗangəní	ADV	_	_	10	mod	_	AlignBegin=301886|AlignEnd=302083|Gloss=now
-3	<	<	PUNCT	_	_	5	punct	_	AlignBegin=302083|AlignEnd=302280|Gloss=PUNCT
-4	{	{	PUNCT	_	_	5	punct	_	AlignBegin=302280|AlignEnd=302417|Gloss=PUNCT
-5	dzàn	dzàn	NOUN	_	_	10	subj	_	AlignBegin=302417|AlignEnd=302554|Gloss=day
-6	||	||	PUNCT	_	_	7	punct	_	AlignBegin=302554|AlignEnd=302690|Gloss=PUNCT
-7	dzàŋ	dzàŋ	NOUN	_	_	5	conj:dicto	_	AlignBegin=302690|AlignEnd=302788|Gloss=day|wordform=dzàŋə́n
+3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=302083|AlignEnd=302280|Gloss=PUNCT
+4	{	{	PUNCT	_	_	7	punct	_	AlignBegin=302280|AlignEnd=302417|Gloss=PUNCT
+5	dzàn	dzàn	NOUN	_	_	7	reparandum	_	AlignBegin=302417|AlignEnd=302554|Gloss=day
+6	||	||	PUNCT	_	_	5	punct	_	AlignBegin=302554|AlignEnd=302690|Gloss=PUNCT
+7	dzàŋ	dzàŋ	NOUN	_	_	10	subj	_	AlignBegin=302690|AlignEnd=302788|Gloss=day|wordform=dzàŋə́n
 8	-ə́n	-ə́n	DET	_	Deixis=Prox|PronType=Dem	7	det/m	_	AlignBegin=302690|AlignEnd=302788|Gloss=-Prox
-9	}	}	PUNCT	_	_	5	punct	_	AlignBegin=302885|AlignEnd=303080|Gloss=PUNCT
+9	}	}	PUNCT	_	_	7	punct	_	AlignBegin=302885|AlignEnd=303080|Gloss=PUNCT
 10	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	0	root	_	AlignBegin=303080|AlignEnd=303275|Copula=No|Gloss=3Sing.Perf=|wordform=àː
 11	fi	fi	VERB	_	_	10	comp:aux	_	AlignBegin=303275|AlignEnd=303373|Gloss=do|wordform=fíː
 12	-íː	-íː	ADV	_	_	11	mod/m	_	Accomplished=Yes|AlignBegin=303275|AlignEnd=303373|Gloss=Acpl
-13	ɗan	ɗan	SCONJ	_	_	5	mod@relcl	_	AlignBegin=303470|AlignEnd=303667|Gloss=REL
-14	á	á	INTJ	_	_	16	discourse@filler	_	AlignBegin=303667|AlignEnd=303891|Gloss=FILL
+13	ɗan	ɗan	SCONJ	_	_	7	mod@relcl	_	AlignBegin=303470|AlignEnd=303667|Gloss=REL
+14	á	á	INTJ	_	_	15	discourse@filler	_	AlignBegin=303667|AlignEnd=303891|Gloss=FILL
 15	mə́=	á=	AUX	_	Number=Plur|Person=1|Tense=Pres	13	comp	_	AlignBegin=303891|AlignEnd=304115|Copula=No|Gloss=1Plur.Aor=|wordform=mə́
 16-17	ɬənní	_	_	_	_	_	_	_	_
 16	ɬən	ɬə	VERB	_	Number=Plur	15	comp:aux	_	AlignBegin=304115|AlignEnd=304190|Gloss=go.Plur
@@ -2324,8 +2324,8 @@
 18	ɗa	ɗa	ADP	_	_	16	comp:obl	_	AlignBegin=304339|AlignEnd=304563|Gloss=at
 19	ŋálɣə́nì	ŋal	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	18	comp	_	AlignBegin=304563|AlignEnd=304675|Gloss=look_for
 20-21	ŋâː	_	_	_	_	_	_	_	_
-20	hŋ́	hŋ́	PART	_	Polarity=Neg	11	mod	_	AlignBegin=304787|AlignEnd=305011|Gloss=Neg|PartType=Neg
-21	aː	aː	PART	_	_	11	mod	_	AlignBegin=304787|AlignEnd=305011|Gloss=Irr|PartType=Ill
+20	hŋ́	hŋ́	PART	_	Polarity=Neg	10	mod	_	AlignBegin=304787|AlignEnd=305011|Gloss=Neg|PartType=Neg
+21	aː	aː	PART	_	_	10	mod	_	AlignBegin=304787|AlignEnd=305011|Gloss=Irr|PartType=Ill
 22	?//	?//	PUNCT	_	_	10	punct	_	AlignBegin=305011|AlignEnd=305236|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_02_249-252
@@ -2589,7 +2589,7 @@
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_02.WAV
 # sent_timecode = 355649, 359243
-# text = ə̀ːm < mə́ tût gyáː lə́ɓíː < tôː < mə́ ʧôp gyáː koɗêʃíː //
+# text = ə̀ːm < mə́= tût gyáː lə̂p -íː < tôː < mə́= ʧôp gyáː kot -eʃ -íː //
 # text_ortho = ə̀ːm < mə́ tût gyáː lə́ɓíː < tôː < mə́ ʧôp gyáː koɗêʃíː //
 # text_en = Er, when we have swept everywhere, well, we wash the dishes.
 1	ə̀ːm	ə̀ːm	INTJ	_	_	11	discourse	_	AlignBegin=355649|AlignEnd=355845|Gloss=ə̀ːm
@@ -2606,7 +2606,7 @@
 12	ʧôp	ʧop	VERB	_	_	11	comp:aux	_	AlignBegin=358209|AlignEnd=358467|Gloss=wash
 13	gyáː	gyaː	DET	_	Number=Plur	14	det	_	AlignBegin=358467|AlignEnd=358725|Gloss=Plur
 14	kot	kot	NOUN	_	_	12	comp:obj	_	AlignBegin=358725|AlignEnd=358811|Gloss=dish|wordform=koɗêʃíː
-15	-es	-es	DET	_	Definite=Def	14	det/m	_	AlignBegin=358725|AlignEnd=358811|Gloss=Def
+15	-eʃ	-es	DET	_	Definite=Def	14	det/m	_	AlignBegin=358725|AlignEnd=358811|Gloss=Def
 16	-íː	-íː	ADV	_	Definite=Def	14	mod/m	_	Accomplished=Yes|AlignBegin=358725|AlignEnd=358811|Gloss=Acpl
 17	//	//	PUNCT	_	_	11	punct	_	AlignBegin=358983|AlignEnd=359243|Gloss=PUNCT
 
@@ -2684,7 +2684,7 @@
 26	//	//	PUNCT	_	_	3	punct	_	AlignBegin=367676|AlignEnd=367877|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_02_289-293
-# text = tôː lə̂p yáː ɬǎːy < ɗan mə́ ʃîʃí < tôː < mə́ mbîː ə̀ːm sorɣéy //= mə́ tût lə́ɓêʃíː //
+# text = tôː lə̂p yáː= ɬaː -íː < ɗan mə́= ʃîʃí < tôː < mə́= mbîː ə̀ːm sorɣa -íː //= mə́= tût lə̂p -eʃ -íː //
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_02.WAV
 # sent_timecode = 368503, 373043
@@ -2711,7 +2711,7 @@
 19	mə́=	á=	AUX	_	Number=Plur|Person=1|Tense=Pres	14	parataxis@conj	_	AlignBegin=372149|AlignEnd=372373|Copula=No|Gloss=1Plur.Aor=|wordform=mə́
 20	tût	tut	VERB	_	_	19	comp:aux	_	AlignBegin=372373|AlignEnd=372597|Gloss=sweep
 21	lə̂p	lə̂p	NOUN	_	_	20	comp:obj	_	AlignBegin=372597|AlignEnd=372672|Gloss=place|wordform=lə́ɓêʃíː
-22	-es	-es	DET	_	Definite=Def	21	det/m	_	AlignBegin=372597|AlignEnd=372672|Gloss=Def
+22	-eʃ	-es	DET	_	Definite=Def	21	det/m	_	AlignBegin=372597|AlignEnd=372672|Gloss=Def
 23	-íː	-íː	ADV	_	Definite=Def	21	mod/m	_	Accomplished=Yes|AlignBegin=372597|AlignEnd=372672|Gloss=Acpl
 24	//	//	PUNCT	_	_	13	punct	_	AlignBegin=372821|AlignEnd=373043|Gloss=PUNCT
 
@@ -2833,7 +2833,7 @@
 # text_ortho = tôː ʤáːriwòpm myǎː fîn < gyaː ʤáːri ɲinʧi //
 # text_en = Well the business that we do, is locust-bean cakes.
 1	tôː	tòː	PART	_	_	4	discourse	_	AlignBegin=386689|AlignEnd=386930|Gloss=well|PartType=Disc
-2	ʤáːri	ʤáːri	NOUN	_	_	5	dislocated@top	_	AlignBegin=386930|AlignEnd=387050|Gloss=business.Cons|wordform=ʤáːriwòpm
+2	ʤáːri	ʤáːri	NOUN	_	_	4	dislocated@top	_	AlignBegin=386930|AlignEnd=387050|Gloss=business.Cons|wordform=ʤáːriwòpm
 3	=wopm	=wopm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	mod:poss/m	_	AlignBegin=386930|AlignEnd=387050|Gloss==1Plur.Gen|wordform=-wopm
 4	myǎː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=1	0	root	_	AlignBegin=387171|AlignEnd=387412|Copula=No|Gloss=1Plur.Imp=|wordform=myǎː
 5-6	fîn	_	_	_	_	_	_	_	_
