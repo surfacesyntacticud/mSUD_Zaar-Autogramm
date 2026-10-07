@@ -113,7 +113,7 @@
 7	=ɣə́	=kə	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	comp:obj/m	_	AlignBegin=16735|AlignEnd=16798|Gloss==2Sing.Acc
 8	á	ká	ADP	_	_	6	comp:obl	_	AlignBegin=16860|AlignEnd=17048|Gloss=at
 9	láːpkə̂n	láːp	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	8	comp	_	AlignBegin=17048|AlignEnd=17236|Gloss=follow-Vnoun|wordform=láːpkə̂níː
-10	-íː	-íː	ADV	_	ExtPos=NOUN|VerbForm=Vnoun	8	mod/m	_	Accomplished=Yes|AlignBegin=17048|AlignEnd=17236|Gloss=Acpl
+10	-íː	-íː	DET	_	Deixis=Remt|ExtPos=NOUN|PronType=Dem|VerbForm=Vnoun	9	det/m	_	AlignBegin=17048|AlignEnd=17236|Gloss=Remt
 11	<	<	PUNCT	_	_	1	punct	_	AlignBegin=17236|AlignEnd=17420|Gloss=PUNCT
 12	mə̀=	tə̀=	AUX	_	Mood=Sub|Number=Plur|Person=1	0	root	_	AlignBegin=18080|AlignEnd=18235|Copula=No|Gloss=1Plur.Sub=|wordform=mə̀
 13	wùm	wum	VERB	_	_	12	comp:aux	_	AlignBegin=18235|AlignEnd=18390|Gloss=hear
@@ -452,7 +452,7 @@
 3	yáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=3	1	comp	_	AlignBegin=75208|AlignEnd=75342|Copula=No|Gloss=3Sing.Imp=|wordform=yáː
 4	ʧî	ʧi	VERB	_	_	3	comp:aux	_	AlignBegin=75342|AlignEnd=75476|Gloss=eat
 5	yǎːr	yǎːr	NOUN	_	_	4	comp:obj	_	AlignBegin=75476|AlignEnd=75610|Gloss=grass|wordform=yǎːríː
-6	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=75476|AlignEnd=75610|Gloss=Acpl
+6	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	5	det/m	_	AlignBegin=75476|AlignEnd=75610|Gloss=Remt
 7	tôː	tòː	PART	_	_	10	discourse	_	AlignBegin=75610|AlignEnd=75744|Gloss=well|PartType=Disc
 8	<	<	PUNCT	_	_	7	punct	_	AlignBegin=75744|AlignEnd=75877|Gloss=PUNCT
 9	tá	tá	ADV	_	_	10	mod	_	AlignBegin=75877|AlignEnd=76050|Gloss=then
@@ -620,8 +620,8 @@
 2	tə́=	á=	AUX	_	Number=Plur|Person=3|Tense=Pres	1	comp	_	AlignBegin=100944|AlignEnd=101268|Copula=No|Gloss=3Plur.Aor=|wordform=tə́
 3	ʧôp	ʧop	VERB	_	_	2	comp:aux	_	AlignBegin=101268|AlignEnd=101592|Gloss=eat|wordform=#ʧôp-íː
 4	wâːr	wâːr	NOUN	_	_	3	comp:obj	_	AlignBegin=101592|AlignEnd=101916|Gloss=ritual|wordform=wáːrêʃíː
-5	-es	-es	DET	_	Definite=Def	4	det/m	_	AlignBegin=101592|AlignEnd=101916|Gloss=Def
-6	-íː	-íː	ADV	_	Definite=Def	4	mod/m	_	Accomplished=Yes|AlignBegin=101592|AlignEnd=101916|Gloss=Acpl
+5	-eʃ	-es	DET	_	Definite=Def	4	det/m	_	AlignBegin=101592|AlignEnd=101916|Gloss=Def|wordform=-es
+6	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	4	det/m	_	AlignBegin=101592|AlignEnd=101916|Gloss=Remt
 7	<	<	PUNCT	_	_	2	punct	_	AlignBegin=101916|AlignEnd=102240|Gloss=PUNCT
 8	tôː	tòː	PART	_	_	10	discourse	_	AlignBegin=102580|AlignEnd=102835|Gloss=well|PartType=Disc
 9	vòy	vwàː	NOUN	_	Definite=Ind	10	subj	_	AlignBegin=102835|AlignEnd=103090|Gloss=belly-Ind|wordform=vwàː
@@ -667,8 +667,8 @@
 13	yí=	yiː=	AUX	_	Aspect=Iter	12	compound	_	Copula=No|Gloss=Iter=|wordform=yí
 14	kəp	kəp	VERB	_	_	12	comp:aux	_	AlignBegin=111089|AlignEnd=111332|Gloss=cut|wordform=*kəp-íː
 15	gwàːs	gwàːs	NOUN	_	_	14	comp:obj	_	AlignBegin=111332|AlignEnd=111575|Gloss=tree|wordform=gwàːʃèʃíː
-16	-es	-es	DET	_	Definite=Def	15	det/m	_	AlignBegin=111332|AlignEnd=111575|Gloss=Def
-17	-íː	-íː	ADV	_	Definite=Def	15	mod/m	_	Accomplished=Yes|AlignBegin=111332|AlignEnd=111575|Gloss=Acpl
+16	-eʃ	-es	DET	_	Definite=Def	15	det/m	_	AlignBegin=111332|AlignEnd=111575|Gloss=Def|wordform=-es
+17	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	15	det/m	_	AlignBegin=111332|AlignEnd=111575|Gloss=Remt
 18	)	)	PUNCT	_	_	12	punct	_	AlignBegin=111575|AlignEnd=111820|Gloss=PUNCT
 19	tôː	tòː	PART	_	_	20	discourse	_	AlignBegin=112400|AlignEnd=112540|Gloss=well|PartType=Disc
 20	ka=	a=	AUX	_	Number=Sing|Person=2|Tense=Fut	0	root	_	AlignBegin=112540|AlignEnd=112680|Copula=No|Gloss=2Sing.Fut=|wordform=ka
@@ -1614,8 +1614,8 @@
 37	yáː=	yáː=	AUX	_	Aspect=Imp	36	compound	_	Copula=No|Gloss=Imp=|wordform=yáː
 38	fî	fi	VERB	_	_	36	comp:aux	_	AlignBegin=273864|AlignEnd=274056|Gloss=do|wordform=*fî-íː
 39	laː	laː	NOUN	_	_	38	comp:obj	_	AlignBegin=274056|AlignEnd=274248|Gloss=work|wordform=lǎːʃíː
-40	-es	-es	DET	_	Definite=Def	39	det/m	_	AlignBegin=274056|AlignEnd=274248|Gloss=Def
-41	-íː	-íː	ADV	_	Definite=Def	39	mod/m	_	Accomplished=Yes|AlignBegin=274056|AlignEnd=274248|Gloss=Acpl
+40	-eʃ	-es	DET	_	Definite=Def	39	det/m	_	AlignBegin=274056|AlignEnd=274248|Gloss=Def|wordform=-es
+41	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	39	det/m	_	AlignBegin=274056|AlignEnd=274248|Gloss=Remt
 42	?//	?//	PUNCT	_	_	36	punct	_	AlignBegin=274248|AlignEnd=274441|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_01_Religion_168-173

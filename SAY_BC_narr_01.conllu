@@ -601,8 +601,8 @@
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	2	parataxis@conj	_	AlignBegin=69350|AlignEnd=69559|Copula=No|Gloss=3Sing.Aor=|wordform=á
 4	wûm	wum	VERB	_	_	3	comp:aux	_	AlignBegin=69559|AlignEnd=69768|Gloss=feel|wordform=*wûm-íː
 5	myak	myak	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp:obj	_	AlignBegin=69768|AlignEnd=69977|Gloss=sweet.Vnoun|wordform=myákkə́nèʃíː
-6	-es	-es	DET	_	Definite=Def|ExtPos=NOUN|VerbForm=Vnoun	5	det/m	_	AlignBegin=69768|AlignEnd=69977|Gloss=Def
-7	-íː	-íː	ADV	_	Definite=Def|ExtPos=NOUN|VerbForm=Vnoun	5	mod/m	_	Accomplished=Yes|AlignBegin=69768|AlignEnd=69977|Gloss=Acpl
+6	-eʃ	-es	DET	_	Definite=Def|ExtPos=NOUN|VerbForm=Vnoun	5	det/m	_	AlignBegin=69768|AlignEnd=69977|Gloss=Def|wordform=-es
+7	-íː	-íː	DET	_	Deixis=Remt|ExtPos=NOUN|PronType=Dem|VerbForm=Vnoun	5	det/m	_	AlignBegin=69768|AlignEnd=69977|Gloss=Remt
 8	//	//	PUNCT	_	_	1	punct	_	AlignBegin=69977|AlignEnd=70187|Gloss=PUNCT
 
 # sent_id = SAY_BC_narr_01_058-059
@@ -694,8 +694,8 @@
 7	||	||	PUNCT	_	_	8	punct	_	AlignBegin=80359|AlignEnd=80548|Gloss=PUNCT
 8	yúɣn	yúɣn	VERB	_	_	6	conj:dicto	_	AlignBegin=80548|AlignEnd=80798|Gloss=fill|wordform=*yúɣn-íː
 9	vìː	vìː	NOUN	_	_	8	comp:obj	_	AlignBegin=80798|AlignEnd=81048|Gloss=mouth|wordform=vèːʃíː
-10	-es	-es	DET	_	Definite=Def	9	det/m	_	AlignBegin=80798|AlignEnd=81048|Gloss=Def
-11	-íː	-íː	ADV	_	Definite=Def	9	mod/m	_	Accomplished=Yes|AlignBegin=80798|AlignEnd=81048|Gloss=Acpl
+10	-eʃ	-es	DET	_	Definite=Def	9	det/m	_	AlignBegin=80798|AlignEnd=81048|Gloss=Def|wordform=-es
+11	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	9	det/m	_	AlignBegin=80798|AlignEnd=81048|Gloss=Remt
 12	ɓâ	ɓâ	INTJ	_	_	5	discourse	_	AlignBegin=81048|AlignEnd=81298|Gloss=indeed
 13	!//	!//	PUNCT	_	_	5	punct	_	AlignBegin=81298|AlignEnd=81548|Gloss=PUNCT
 
@@ -1610,8 +1610,8 @@
 9	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	8	parataxis@conj	_	AlignBegin=209428|AlignEnd=209676|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 10	yúɣn	yúɣn	VERB	_	_	9	comp:aux	_	AlignBegin=209676|AlignEnd=209924|Gloss=fill|wordform=*yúɣn-íː
 11	kongâː	kongâː	NOUN	_	_	10	comp:obj	_	AlignBegin=209924|AlignEnd=210172|Gloss=cheek|wordform=kongâːʃíː
-12	-es	-es	DET	_	Definite=Def	11	det/m	_	AlignBegin=209924|AlignEnd=210172|Gloss=Def
-13	-íː	-íː	ADV	_	Definite=Def	11	mod/m	_	Accomplished=Yes|AlignBegin=209924|AlignEnd=210172|Gloss=Acpl
+12	-eʃ	-es	DET	_	Definite=Def	11	det/m	_	AlignBegin=209924|AlignEnd=210172|Gloss=Def|wordform=-es
+13	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	11	det/m	_	AlignBegin=209924|AlignEnd=210172|Gloss=Remt
 14	//	//	PUNCT	_	_	1	punct	_	AlignBegin=210172|AlignEnd=210423|Gloss=PUNCT
 
 # sent_id = SAY_BC_narr_01_165-165
@@ -1675,8 +1675,8 @@
 1	mán	mán	VERB	_	_	7	mod	_	AlignBegin=215126|AlignEnd=215263|Gloss=come|SVC=Yes
 2	bullú	bullú	VERB	_	_	1	compound:svc	_	AlignBegin=215263|AlignEnd=215400|Gloss=burn|wordform=*bullú-íː
 3	vìː	vìː	NOUN	_	_	2	comp:obj	_	AlignBegin=215400|AlignEnd=215537|Gloss=mouth|wordform=vèːʃíː
-4	-es	-es	DET	_	Definite=Def	3	det/m	_	AlignBegin=215400|AlignEnd=215537|Gloss=Def
-5	-íː	-íː	ADV	_	Definite=Def	3	mod/m	_	Accomplished=Yes|AlignBegin=215400|AlignEnd=215537|Gloss=Acpl
+4	-eʃ	-es	DET	_	Definite=Def	3	det/m	_	AlignBegin=215400|AlignEnd=215537|Gloss=Def|wordform=-es
+5	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	3	det/m	_	AlignBegin=215400|AlignEnd=215537|Gloss=Remt
 6	<	<	PUNCT	_	_	1	punct	_	AlignBegin=215537|AlignEnd=215674|Gloss=PUNCT
 7	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=215674|AlignEnd=215811|Copula=No|Gloss=3Sing.Aor=|wordform=á
 8	wû	wul	VERB	_	_	7	comp:aux	_	AlignBegin=215811|AlignEnd=215948|Gloss=say
@@ -1914,8 +1914,8 @@
 2	tə́=	á=	AUX	_	Number=Plur|Person=3|Tense=Pres	1	comp	_	AlignBegin=239488|AlignEnd=239714|Copula=No|Gloss=3Plur.Aor=|wordform=tə́
 3	ʧaː	ʧaː	VERB	_	_	2	comp:aux	_	AlignBegin=239714|AlignEnd=239940|Gloss=collect|wordform=*ʧâː-íː
 4	dǔːm	dǔːm	NOUN	_	_	3	comp:obj	_	AlignBegin=239940|AlignEnd=240166|Gloss=honey|wordform=duːmêːʃíː
-5	-es	-es	DET	_	Definite=Def	4	det/m	_	AlignBegin=239940|AlignEnd=240166|Gloss=Def
-6	-íː	-íː	ADV	_	Definite=Def	4	mod/m	_	Accomplished=Yes|AlignBegin=239940|AlignEnd=240166|Gloss=Acpl
+5	-eʃ	-es	DET	_	Definite=Def	4	det/m	_	AlignBegin=239940|AlignEnd=240166|Gloss=Def|wordform=-es
+6	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	4	det/m	_	AlignBegin=239940|AlignEnd=240166|Gloss=Remt
 7	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=240166|AlignEnd=240392|Copula=No|Gloss=3Sing.Aor=|wordform=á
 8	mbìː	mbiː	VERB	_	_	7	comp:aux	_	AlignBegin=240392|AlignEnd=240618|Gloss=take
 9	gyòmɬì	gyòmɬì	NOUN	_	Number=Plur	8	comp:obj	_	AlignBegin=240618|AlignEnd=240844|Gloss=wing
@@ -2478,8 +2478,8 @@
 1	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	0	root	_	AlignBegin=315478|AlignEnd=315701|Copula=No|Gloss=3Sing.Perf=|wordform=àː
 2	ye	yel	VERB	_	_	1	comp:aux	_	AlignBegin=315701|AlignEnd=315924|Gloss=see|wordform=*ye-íː
 3	lə̂p	lə̂p	NOUN	_	_	2	comp:obj	_	AlignBegin=315924|AlignEnd=316147|Gloss=place|wordform=lə́ɓeʃíː
-4	-es	-es	DET	_	Definite=Def	3	det/m	_	AlignBegin=315924|AlignEnd=316147|Gloss=Def
-5	-íː	-íː	ADV	_	Definite=Def	3	mod/m	_	Accomplished=Yes|AlignBegin=315924|AlignEnd=316147|Gloss=Acpl
+4	-eʃ	-es	DET	_	Definite=Def	3	det/m	_	AlignBegin=315924|AlignEnd=316147|Gloss=Def|wordform=-es
+5	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	3	det/m	_	AlignBegin=315924|AlignEnd=316147|Gloss=Remt
 6	//	//	PUNCT	_	_	1	punct	_	AlignBegin=316147|AlignEnd=316371|Gloss=PUNCT
 
 # sent_id = SAY_BC_narr_01_239-239
@@ -3662,7 +3662,7 @@
 1	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=455546|AlignEnd=455676|Copula=No|Gloss=3Sing.Aor=|wordform=á
 2	yîː	yiː	VERB	_	_	1	comp:aux	_	AlignBegin=455676|AlignEnd=455806|Gloss=produce|wordform=*yîː-íː
 3	mbəs	mbəs	NOUN	_	_	2	comp:obj	_	AlignBegin=455806|AlignEnd=455936|Gloss=claw|wordform=mbəʃíː
-4	-íː	-íː	ADV	_	_	2	mod/m	_	Accomplished=Yes|AlignBegin=455806|AlignEnd=455936|Gloss=Acpl
+4	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	3	det/m	_	AlignBegin=455806|AlignEnd=455936|Gloss=Remt
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=455936|AlignEnd=456067|Gloss=PUNCT
 
 # sent_id = SAY_BC_narr_01_351-351
@@ -3694,7 +3694,7 @@
 7	mán	mán	VERB	_	_	6	comp:aux	_	AlignBegin=458349|AlignEnd=458589|Gloss=come|SVC=Yes
 8	yiː	yiː	VERB	_	_	7	compound:svc	_	AlignBegin=458589|AlignEnd=458829|Gloss=produce|wordform=*yiː-íː
 9	mbəs	mbəs	VERB	_	_	8	comp:obj	_	AlignBegin=458829|AlignEnd=459069|Gloss=claw|wordform=mbəʃíː
-10	-íː	-íː	ADV	_	_	8	mod/m	_	Accomplished=Yes|AlignBegin=458829|AlignEnd=459069|Gloss=Acpl
+10	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	9	det/m	_	AlignBegin=458829|AlignEnd=459069|Gloss=Remt
 11	gìp	gìp	ADP	_	_	8	comp:pred	_	AlignBegin=459069|AlignEnd=459309|Gloss=inside
 12	gìːr	gìːr	NOUN	_	_	11	comp	_	AlignBegin=459309|AlignEnd=459549|Gloss=hole
 13	//	//	PUNCT	_	_	2	punct	_	AlignBegin=459549|AlignEnd=459792|Gloss=PUNCT
@@ -4577,7 +4577,7 @@
 9	ɮiː	ɮiː	VERB	_	_	8	compound:svc	_	AlignBegin=557517|AlignEnd=557795|Gloss=take|wordform=*ɮiː-íː
 10	ɬûː	ɬûː	NOUN	_	Definite=Cons	9	comp:obj	_	AlignBegin=557795|AlignEnd=558073|Gloss=meat-Cons|wordform=ɬúːwòʃíː
 11	=wòʃ	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	mod:poss/m	_	AlignBegin=557795|AlignEnd=558073|Gloss==SingGen|wordform=-wòʃ
-12	-íː	-íː	ADV	_	Case=Gen|Number=Sing|Person=3	9	mod/m	_	Accomplished=Yes|AlignBegin=557795|AlignEnd=558073|Gloss=Acpl
+12	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	11	det/m	_	AlignBegin=557795|AlignEnd=558073|Gloss=Remt
 13	//	//	PUNCT	_	_	4	punct	_	AlignBegin=558073|AlignEnd=558351|Gloss=PUNCT
 
 # sent_id = SAY_BC_narr_01_440-440
@@ -4604,7 +4604,7 @@
 3	ɮiː	ɮiː	VERB	_	_	2	comp:aux	_	AlignBegin=560403|AlignEnd=560651|Gloss=take|wordform=*ɮìː-íː
 4	ɬûː	ɬûː	NOUN	_	Definite=Cons	3	comp:obj	_	AlignBegin=560651|AlignEnd=560899|Gloss=meat-Cons|wordform=ɬúːwòʃíː
 5	=wòʃ	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	mod:poss/m	_	AlignBegin=560651|AlignEnd=560899|Gloss==SingGen|wordform=-wòʃ
-6	-íː	-íː	ADV	_	Case=Gen|Number=Sing|Person=3	3	mod/m	_	Accomplished=Yes|AlignBegin=560651|AlignEnd=560899|Gloss=Acpl
+6	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	5	det/m	_	AlignBegin=560651|AlignEnd=560899|Gloss=Remt
 7	<	<	PUNCT	_	_	2	punct	_	AlignBegin=560899|AlignEnd=561145|Gloss=PUNCT
 8	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=561386|AlignEnd=561605|Copula=No|Gloss=3Sing.Aor=|wordform=á
 9	ɬə	ɬə	VERB	_	Voice=Cau	8	comp:aux	_	AlignBegin=561605|AlignEnd=561824|Gloss=go-Cau|wordform=ɬə̌ːr

@@ -279,7 +279,7 @@
 1	yáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=3	8	mod	_	AlignBegin=64540|AlignEnd=64760|Copula=No|Gloss=3Sing.Cnd=|wordform=yáː
 2	yǔɣn	yúɣn	VERB	_	_	1	comp:aux	_	AlignBegin=64760|AlignEnd=64980|Gloss=INTJ
 3	bə̀nd	bə̀ndə̀	NOUN	_	Definite=Cons	2	comp:obj	_	AlignBegin=64980|AlignEnd=65090|Gloss=big_pot|wordform=bə̀ndíː
-4	-íː	-íː	ADV	_	Definite=Cons	2	mod/m	_	Accomplished=Yes|AlignBegin=64980|AlignEnd=65090|Gloss=Acpl
+4	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	3	det/m	_	AlignBegin=64980|AlignEnd=65090|Gloss=Remt
 5	ɗan	ɗan	ADP	_	_	2	mod	_	AlignBegin=65200|AlignEnd=65420|Gloss=like
 6	gín	giní	PRON	_	Deixis=Prox|PronType=Dem	5	comp	_	AlignBegin=65420|AlignEnd=65640|Gloss=Prox
 7	tòː	tòː	PART	_	_	8	discourse	_	AlignBegin=67020|AlignEnd=67244|Gloss=well|PartType=Disc
@@ -376,8 +376,8 @@
 13	mán	máni	VERB	_	_	12	comp:aux	_	AlignBegin=89700|AlignEnd=89900|Gloss=come
 14	ngaː	ngaː	VERB	_	_	13	compound:svc	_	AlignBegin=89900|AlignEnd=90100|Gloss=fetch
 15	naː	naː	NOUN	_	_	14	comp:obj	_	AlignBegin=90640|AlignEnd=90740|Gloss=remaining|wordform=naːyêʃíː
-16	-es	-es	DET	_	Definite=Def	15	det/m	_	AlignBegin=90640|AlignEnd=90740|Gloss=Def
-17	-íː	-íː	ADV	_	Definite=Def|ExtPos=NOUN|VerbForm=Vnoun	15	mod/m	_	Accomplished=Yes|AlignBegin=90640|AlignEnd=90740|Gloss=Acpl
+16	-eʃ	-es	DET	_	Definite=Def	15	det/m	_	AlignBegin=90640|AlignEnd=90740|Gloss=Def|wordform=-es
+17	-íː	-íː	DET	_	Deixis=Remt|ExtPos=NOUN|PronType=Dem|VerbForm=Vnoun	15	det/m	_	AlignBegin=90640|AlignEnd=90740|Gloss=Remt
 18	//	//	PUNCT	_	_	12	punct	_	AlignBegin=90940|AlignEnd=91240|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_01_Beer_048-049
@@ -428,8 +428,8 @@
 7	myáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=1	17	mod	_	AlignBegin=101364|AlignEnd=101608|Copula=No|Gloss=1Sing.Cnd=|wordform=myáː
 8	ɲóm	ɲom	VERB	_	_	7	comp:aux	_	AlignBegin=101608|AlignEnd=101852|Gloss=take
 9	dàt	dàt	NOUN	_	_	8	comp:obj	_	AlignBegin=101852|AlignEnd=101933|Gloss=bottom-of-beer|wordform=dàɗèʃíː
-10	-es	-es	DET	_	Definite=Def	9	det/m	_	AlignBegin=101852|AlignEnd=101933|Gloss=Def
-11	-íː	-íː	ADV	_	Definite=Def	9	mod/m	_	Accomplished=Yes|AlignBegin=101852|AlignEnd=101933|Gloss=Acpl
+10	-eʃ	-es	DET	_	Definite=Def	9	det/m	_	AlignBegin=101852|AlignEnd=101933|Gloss=Def|wordform=-es
+11	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	9	det/m	_	AlignBegin=101852|AlignEnd=101933|Gloss=Remt
 12	ɗan	ɗan	SCONJ	_	_	9	mod@relcl	_	AlignBegin=102096|AlignEnd=102340|Gloss=that
 13	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	12	comp	_	AlignBegin=102340|AlignEnd=102584|Copula=No|Gloss=3Sing.Aor=|wordform=á
 14	nâː	naː	VERB	_	_	13	comp:aux	_	AlignBegin=102584|AlignEnd=102828|Gloss=become
@@ -507,7 +507,7 @@
 12	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	11	comp:obj	_	AlignBegin=121656|AlignEnd=121940|Copula=No|Gloss=2Sing.Aor=|wordform=kə
 13	gamá	gamá	VERB	_	_	12	comp:aux	_	AlignBegin=121940|AlignEnd=122224|Gloss=finish
 14	túːrɣə̂n	tuːr	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	13	comp:obj	_	AlignBegin=122224|AlignEnd=122319|Gloss=cook-Vnoun|wordform=túːrɣə̂níː
-15	-íː	-íː	ADV	_	ExtPos=NOUN|VerbForm=Vnoun	13	mod/m	_	Accomplished=Yes|AlignBegin=122224|AlignEnd=122319|Gloss=Acpl
+15	-íː	-íː	DET	_	Deixis=Remt|ExtPos=NOUN|PronType=Dem|VerbForm=Vnoun	14	det/m	_	AlignBegin=122224|AlignEnd=122319|Gloss=Remt
 16	ɗeɓát	ɗeɓát	ADV	_	_	13	mod	_	AlignBegin=122508|AlignEnd=122792|Gloss=all|Ideo=Yes
 17	?//	?//	PUNCT	_	_	1	punct	_	AlignBegin=122792|AlignEnd=123080|Gloss=PUNCT
 
@@ -802,8 +802,8 @@
 9	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	7	parataxis@conj	_	AlignBegin=189680|AlignEnd=189932|Copula=No|Gloss=3Sing.Aor=|wordform=á
 10	kâp	kap	VERB	_	_	9	comp:aux	_	AlignBegin=189932|AlignEnd=190184|Gloss=catch
 11	dùːl	dùːl	NOUN	_	_	10	comp:obj	_	AlignBegin=190184|AlignEnd=190268|Gloss=top-of-beer|wordform=dùːlèʃíː
-12	-es	-es	DET	_	Definite=Def	11	det/m	_	AlignBegin=190184|AlignEnd=190268|Gloss=Def
-13	-íː	-íː	ADV	_	Definite=Def	11	mod/m	_	Accomplished=Yes|AlignBegin=190184|AlignEnd=190268|Gloss=Acpl
+12	-eʃ	-es	DET	_	Definite=Def	11	det/m	_	AlignBegin=190184|AlignEnd=190268|Gloss=Def|wordform=-es
+13	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	11	det/m	_	AlignBegin=190184|AlignEnd=190268|Gloss=Remt
 14	ɗeɓát	ɗeɓát	ADV	_	_	10	mod	_	AlignBegin=190436|AlignEnd=190688|Gloss=all|Ideo=Yes
 15	tôː	tòː	PART	_	_	16	discourse	_	AlignBegin=191920|AlignEnd=192124|Gloss=well|PartType=Disc
 16	mə=	á=	AUX	_	Number=Sing|Person=1|Tense=Pres	0	root	_	AlignBegin=192124|AlignEnd=192328|Copula=No|Gloss=1Sing.Aor=|wordform=mə
@@ -1158,8 +1158,8 @@
 3	mán	máni	VERB	_	_	2	comp:aux	_	AlignBegin=282066|AlignEnd=282279|Gloss=come
 4	ɲom	ɲom	VERB	_	_	3	compound:svc	_	AlignBegin=282279|AlignEnd=282492|Gloss=take
 5	dùːl	dùːl	NOUN	_	_	4	comp:obj	_	AlignBegin=282492|AlignEnd=282563|Gloss=top-of-beer|wordform=dùːlèʃíː
-6	-es	-es	DET	_	Definite=Def	5	det/m	_	AlignBegin=282492|AlignEnd=282563|Gloss=Def
-7	-íː	-íː	ADV	_	Definite=Def	5	mod/m	_	Accomplished=Yes|AlignBegin=282492|AlignEnd=282563|Gloss=Acpl
+6	-eʃ	-es	DET	_	Definite=Def	5	det/m	_	AlignBegin=282492|AlignEnd=282563|Gloss=Def|wordform=-es
+7	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	5	det/m	_	AlignBegin=282492|AlignEnd=282563|Gloss=Remt
 8	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	2	conj:coord	_	AlignBegin=284000|AlignEnd=284220|Copula=No|Gloss=2Sing.Aor=|wordform=kə
 9-10	ʃintíː	_	_	_	_	_	_	_	_
 9	ʃin	ʃin	VERB	_	_	8	comp:aux	_	AlignBegin=284220|AlignEnd=284293|Gloss=pour

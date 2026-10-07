@@ -1910,7 +1910,7 @@
 15	ɬə́	ɬə	VERB	_	_	14	comp:aux	_	AlignBegin=284235|AlignEnd=284449|Gloss=go
 16	ɗyáː	ɗyáː	VERB	_	_	15	compound:svc	_	AlignBegin=284449|AlignEnd=284681|Gloss=can|wordform=*ɗyáː-íː
 17	naːr	naːr	NOUN	_	_	16	comp:obj	_	AlignBegin=284681|AlignEnd=284913|Gloss=hunting|wordform=naːríː
-18	-íː	-íː	ADV	_	_	16	mod/m	_	Accomplished=Yes|AlignBegin=284681|AlignEnd=284913|Gloss=Acpl
+18	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	17	det/m	_	AlignBegin=284681|AlignEnd=284913|Gloss=Remt
 19	sòːséy	sòːséy	ADV	_	_	16	mod	_	AlignBegin=284913|AlignEnd=285145|Gloss=quite
 20	aː	aː	PART	_	_	2	mod	_	AlignBegin=285145|AlignEnd=285377|Gloss=Int|PartType=Ill|wordform=a:
 21	?//	?//	PUNCT	_	_	1	punct	_	AlignBegin=285377|AlignEnd=285610|Gloss=PUNCT
@@ -2361,13 +2361,13 @@
 5	gə́=	á=	AUX	_	Number=Plur|Person=2|Tense=Pres	4	comp	_	AlignBegin=359891|AlignEnd=360048|Copula=No|Gloss=2Plur.Aor=|wordform=gə́
 6	ɗu	ɗu	VERB	_	_	5	comp:aux	_	AlignBegin=360048|AlignEnd=360205|Gloss=kill|wordform=*ɗû-íː
 7	zaːr	zaːr	NOUN	_	_	6	comp:obj	_	AlignBegin=360205|AlignEnd=360360|Gloss=person|wordform=zaːríː
-8	-íː	-íː	ADV	_	_	6	mod/m	_	Accomplished=Yes|AlignBegin=360205|AlignEnd=360360|Gloss=Acpl
+8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	7	det/m	_	AlignBegin=360205|AlignEnd=360360|Gloss=Remt
 9	hár	hár	ADP	_	_	4	conj:coord	_	AlignBegin=361220|AlignEnd=361424|Gloss=up_to
 10	gə́=	á=	AUX	_	Number=Plur|Person=2|Tense=Pres	9	comp	_	AlignBegin=361424|AlignEnd=361628|Copula=No|Gloss=2Plur.Aor=|wordform=gə́
 11	ngêr	nger	VERB	_	_	10	comp:aux	_	AlignBegin=361628|AlignEnd=361832|Gloss=cut|wordform=*ngêr-íː
 12	gaːm	gaːm	NOUN	_	_	11	comp:obj	_	AlignBegin=361832|AlignEnd=362036|Gloss=head|wordform=gaːméʃíː
-13	-es	-es	DET	_	Definite=Def	12	det/m	_	AlignBegin=361832|AlignEnd=362036|Gloss=Def|wordform=-éʃ
-14	-íː	-íː	ADV	_	Definite=Def	12	mod/m	_	Accomplished=Yes|AlignBegin=361832|AlignEnd=362036|Gloss=Acpl
+13	-eʃ	-es	DET	_	Definite=Def	12	det/m	_	AlignBegin=361832|AlignEnd=362036|Gloss=Def|wordform=-éʃ
+14	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	12	det/m	_	AlignBegin=361832|AlignEnd=362036|Gloss=Remt
 15	//	//	PUNCT	_	_	1	punct	_	AlignBegin=362036|AlignEnd=362240|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_04_Hunt_265-265

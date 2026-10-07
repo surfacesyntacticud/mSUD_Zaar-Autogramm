@@ -410,7 +410,7 @@
 4	gə̀m	gəm	VERB	_	_	3	comp:aux	_	AlignBegin=87920|AlignEnd=88200|Gloss=release
 5	longa	longa	NOUN	_	Definite=Cons	4	comp:obj	_	AlignBegin=88200|AlignEnd=88270|Gloss=rabbit-Cons|wordform=longáwôʃíː
 6	=wôʃ	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	mod:poss/m	_	AlignBegin=88200|AlignEnd=88270|Gloss==Sing.Gen|wordform=-wôʃ
-7	-íː	-íː	ADV	_	Case=Gen|Number=Sing|Person=3	4	mod/m	_	Accomplished=Yes|AlignBegin=88200|AlignEnd=88270|Gloss=Acpl
+7	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	6	det/m	_	AlignBegin=88200|AlignEnd=88270|Gloss=Remt
 8	tu	tu	SCONJ	_	_	4	mod	_	AlignBegin=89420|AlignEnd=89540|Gloss=Qot
 9	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	8	comp	_	AlignBegin=89540|AlignEnd=89660|Copula=No|Gloss=3Plur.Sub=|wordform=tə̀
 10	lǎːp	láːp	VERB	_	_	9	comp:aux	_	AlignBegin=89660|AlignEnd=89780|Gloss=follow
@@ -478,8 +478,8 @@
 4	gə̀m	gəm	VERB	_	_	3	comp:aux	_	AlignBegin=100480|AlignEnd=100710|Gloss=release
 5	kə́	á	ADP	_	_	4	comp:obj	_	AlignBegin=100710|AlignEnd=100940|Gloss=of
 6	mâːy	mâːy	NOUN	_	_	5	comp	_	AlignBegin=100940|AlignEnd=101017|Gloss=three|wordform=máːyêʃíː
-7	-es	-es	DET	_	Definite=Def	6	det/m	_	AlignBegin=100940|AlignEnd=101017|Gloss=Def
-8	-íː	-íː	ADV	_	Definite=Def	6	mod/m	_	Accomplished=Yes|AlignBegin=100940|AlignEnd=101017|Gloss=Acpl
+7	-eʃ	-es	DET	_	Definite=Def	6	det/m	_	AlignBegin=100940|AlignEnd=101017|Gloss=Def|wordform=-es
+8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	6	det/m	_	AlignBegin=100940|AlignEnd=101017|Gloss=Remt
 9	séy	séː	ADV	_	_	11	mod	_	AlignBegin=102220|AlignEnd=102415|Gloss=then
 10	gùŋ	gùŋ	NOUN	_	_	11	subj	_	AlignBegin=102415|AlignEnd=102610|Gloss=chief
 11	ʃìʃí	ʃiʃí	VERB	_	_	0	root	_	AlignBegin=102610|AlignEnd=102675|Gloss=get_up
@@ -509,8 +509,8 @@
 11	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=109380|AlignEnd=109600|Copula=No|Gloss=3Sing.Aor=|wordform=á
 12	mbîː	mbiː	VERB	_	_	11	comp:aux	_	AlignBegin=109600|AlignEnd=109820|Gloss=take
 13	zobbè	zobbè	NOUN	_	_	12	comp:obj	_	AlignBegin=109820|AlignEnd=109893|Gloss=ring|wordform=zobbèʃíː
-14	-es	-es	DET	_	Definite=Def	13	det/m	_	AlignBegin=109820|AlignEnd=109893|Gloss=Def
-15	-íː	-íː	ADV	_	Definite=Def	13	mod/m	_	Accomplished=Yes|AlignBegin=109820|AlignEnd=109893|Gloss=Acpl
+14	-eʃ	-es	DET	_	Definite=Def	13	det/m	_	AlignBegin=109820|AlignEnd=109893|Gloss=Def|wordform=-es
+15	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	13	det/m	_	AlignBegin=109820|AlignEnd=109893|Gloss=Remt
 16	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	12	parataxis@conj	_	AlignBegin=111120|AlignEnd=111255|Copula=No|Gloss=3Sing.Aor=|wordform=á
 17	ɬə	ɬə	VERB	_	_	16	comp:aux	_	AlignBegin=111255|AlignEnd=111323|Gloss=go|wordform=ɬǐː
 18	-íː	-íː	ADV	_	_	17	mod/m	_	Accomplished=Yes|AlignBegin=111255|AlignEnd=111323|Gloss=Acpl
@@ -979,7 +979,7 @@
 15	mbíː	mbiː	VERB	_	_	14	comp:aux	_	AlignBegin=217630|AlignEnd=217880|Gloss=take
 16	bàrgo	bàrgo	NOUN	_	Definite=Cons	15	comp:obj	_	AlignBegin=217880|AlignEnd=217963|Gloss=blanket-Cons|wordform=bàrgówôʃíː
 17	=wôʃ	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	16	mod:poss/m	_	AlignBegin=217880|AlignEnd=217963|Gloss==SingGen|wordform=-wôʃ
-18	-íː	-íː	ADV	_	Case=Gen|Number=Sing|Person=3	15	mod/m	_	Accomplished=Yes|AlignBegin=217880|AlignEnd=217963|Gloss=Acpl
+18	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	17	det/m	_	AlignBegin=217880|AlignEnd=217963|Gloss=Remt
 19	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	15	parataxis@conj	_	AlignBegin=219260|AlignEnd=219528|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 20-22	və́rtə́ɗi	_	_	_	_	_	_	_	_
 20	və́r	vər	VERB	_	_	19	comp:aux	_	AlignBegin=219528|AlignEnd=219617|Gloss=give
@@ -1041,13 +1041,13 @@
 8	wul	wul	VERB	_	_	7	compound:svc	_	AlignBegin=231746|AlignEnd=232009|Gloss=say
 9	gə̀t	gə̀t	NOUN	_	Definite=Ind	8	comp:obj@R	_	AlignBegin=232009|AlignEnd=232075|Gloss=wife-Ind|wordform=gə̀ɗìwòʃíː
 10	=wòʃ	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	mod:poss/m	_	AlignBegin=232009|AlignEnd=232075|Gloss==SingGen|wordform=-wòʃ
-11	-íː	-íː	ADV	_	Case=Gen|Definite=Ind|Number=Sing|Person=3	8	mod/m	_	Accomplished=Yes|AlignBegin=232009|AlignEnd=232075|Gloss=Acpl
+11	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	10	det/m	_	AlignBegin=232009|AlignEnd=232075|Gloss=Remt
 12	tu	tu	SCONJ	_	_	8	comp:obj@T	_	AlignBegin=232272|AlignEnd=232535|Gloss=Qot
 13	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	12	comp	_	AlignBegin=232535|AlignEnd=232798|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 14	mbíː	mbiː	VERB	_	_	13	comp:aux	_	AlignBegin=232798|AlignEnd=233061|Gloss=take
 15	bàrgo	bàrgo	NOUN	_	Definite=Cons	14	comp:obj	_	AlignBegin=233061|AlignEnd=233127|Gloss=blanket-Cons|wordform=bàrgówôʃíː
 16	=wôʃ	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	15	mod:poss/m	_	AlignBegin=233061|AlignEnd=233127|Gloss==SingGen|wordform=-wôʃ
-17	-íː	-íː	ADV	_	Case=Gen|Number=Sing|Person=3	14	mod/m	_	Accomplished=Yes|AlignBegin=233061|AlignEnd=233127|Gloss=Acpl
+17	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	16	det/m	_	AlignBegin=233061|AlignEnd=233127|Gloss=Remt
 18	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	14	parataxis@conj	_	AlignBegin=233324|AlignEnd=233587|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 19-20	və́rtə	_	_	_	_	_	_	_	_
 19	və́r	vər	VERB	_	_	18	comp:aux	_	AlignBegin=233587|AlignEnd=233719|Gloss=give
@@ -1146,7 +1146,7 @@
 3	wùl	wul	VERB	_	_	0	root	_	AlignBegin=250026|AlignEnd=250249|Gloss=say
 4	gə̀t	gə̀t	NOUN	_	Definite=Ind	3	comp:obj@R	_	AlignBegin=250249|AlignEnd=250305|Gloss=wife-Ind|wordform=gə̀ɗiwòʃíː
 5	=wòʃ	=wos	PRON	_	Case=Gen|Number=Sing|Person=3	4	mod:poss/m	_	AlignBegin=250249|AlignEnd=250305|Gloss==ife-Ind.3SingGen|wordform=-wòʃ
-6	-íː	-íː	ADV	_	Case=Gen|Number=Sing|Person=3	3	mod/m	_	Accomplished=Yes|AlignBegin=250249|AlignEnd=250305|Gloss=Acpl
+6	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	5	det/m	_	AlignBegin=250249|AlignEnd=250305|Gloss=Remt
 7	tu	tu	SCONJ	_	_	3	comp:obj@T	_	AlignBegin=250472|AlignEnd=250695|Gloss=Qot
 8	múri	muri	NOUN	_	Definite=Ind	18	dislocated@subj	_	AlignBegin=251540|AlignEnd=251660|Gloss=man-Ind|wordform=múr
 9	gíː	gíː	DET	_	Deixis=Remt|PronType=Dem	8	det	_	AlignBegin=251780|AlignEnd=252020|Gloss=Remt
@@ -1512,8 +1512,8 @@
 4	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=332920|AlignEnd=333130|Copula=No|Gloss=3Sing.Aor=|wordform=á
 5	vùm	vum	VERB	_	_	4	comp:aux	_	AlignBegin=333130|AlignEnd=333340|Gloss=snatch
 6	péndi	péndi	NOUN	_	_	5	comp:obj	_	AlignBegin=333340|AlignEnd=333410|Gloss=pot|wordform=péndêʃíː
-7	-es	-es	DET	_	Definite=Def	6	det/m	_	AlignBegin=333340|AlignEnd=333410|Gloss=Def
-8	-íː	-íː	ADV	_	Definite=Def	6	mod/m	_	Accomplished=Yes|AlignBegin=333340|AlignEnd=333410|Gloss=Acpl
+7	-eʃ	-es	DET	_	Definite=Def	6	det/m	_	AlignBegin=333340|AlignEnd=333410|Gloss=Def|wordform=-es
+8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	6	det/m	_	AlignBegin=333340|AlignEnd=333410|Gloss=Remt
 9	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	5	parataxis@conj	_	AlignBegin=335340|AlignEnd=335532|Copula=No|Gloss=3Sing.Aor=|wordform=á
 10	ngǔp	ngúp	VERB	_	_	9	comp:aux	_	AlignBegin=335532|AlignEnd=335724|Gloss=squat
 11	ɬyáɣə̂n	ɬya	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	10	comp:obj	_	AlignBegin=335724|AlignEnd=335820|Gloss=drink-Vnoun|wordform=ɬya
@@ -1766,7 +1766,7 @@
 21	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	20	det/m	_	AlignBegin=392650|AlignEnd=392795|Gloss=Remt
 22-23	ɣáyíː	_	_	_	_	_	_	_	_
 22	ɣáy	káy	PRON	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	19	comp	_	AlignBegin=392940|AlignEnd=393085|Gloss=3Sing.Loc
-23	-íː	-íː	ADV	_	_	14	mod/m	_	Accomplished=Yes|AlignBegin=392940|AlignEnd=393085|Gloss=Acpl
+23	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	22	det/m	_	AlignBegin=392940|AlignEnd=393085|Gloss=Remt
 24	//	//	PUNCT	_	_	9	punct	_	AlignBegin=393230|AlignEnd=393520|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_12_NAR_The_master_thief_192-194
@@ -1968,7 +1968,7 @@
 15	mbíː	mbiː	VERB	_	_	14	comp:aux	_	AlignBegin=441106|AlignEnd=441352|Gloss=take
 16	lìmâːn	lìmâːn	NOUN	_	_	15	comp:obj	_	AlignBegin=441352|AlignEnd=441434|Gloss=imam|wordform=lìmáːníː
 17-18	-íː	_	_	_	_	_	_	_	_
-17	-íː	-íː	ADV	_	_	15	mod/m	_	Accomplished=Yes|AlignBegin=441352|AlignEnd=441434|Gloss=Acpl
+17	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	16	det/m	_	AlignBegin=441352|AlignEnd=441434|Gloss=Remt
 18	ɗi	ɗi	PART	_	_	15	compound:prt	_	AlignBegin=441516|AlignEnd=441598|Gloss=CTP|PartType=Adv|wordform=-́ɗi
 19	nə	nə	ADP	_	_	15	mod	_	AlignBegin=441598|AlignEnd=441844|Gloss=DER
 20	mə́ːri	mə̂ːr	NOUN	_	Definite=Ind|Number=Plur	19	comp	_	AlignBegin=441844|AlignEnd=441967|Gloss=stealing-Ind|wordform=mə̂ːr
@@ -2309,7 +2309,7 @@
 18	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	16	comp:obj@agent	_	AlignBegin=520500|AlignEnd=520663|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 19	ʧi	ʧi	VERB	_	_	18	comp:aux	_	AlignBegin=520663|AlignEnd=520826|Gloss=eat
 20	yaːɬ	yaːɬ	NOUN	_	_	19	comp:obj	_	AlignBegin=520826|AlignEnd=520880|Gloss=country.Prox|wordform=yaːɬə́níː
-21	-íː	-íː	ADV	_	_	19	mod/m	_	Accomplished=Yes|AlignBegin=520826|AlignEnd=520880|Gloss=Acpl
+21	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	20	det/m	_	AlignBegin=520826|AlignEnd=520880|Gloss=Remt
 22	tə́	tə́	ADP	_	_	19	comp:obl	_	AlignBegin=520989|AlignEnd=521152|Gloss=with
 23	wût	wût	NOUN	_	_	22	comp	_	AlignBegin=521152|AlignEnd=521315|Gloss=N
 24	dòmín	dòmín	SCONJ	_	_	19	mod	_	AlignBegin=522360|AlignEnd=522549|Gloss=because
@@ -2380,7 +2380,7 @@
 5	ʤìká	ʤìká	NOUN	_	Definite=Cons	4	comp:obj	_	AlignBegin=535132|AlignEnd=535205|Gloss=bag-Cons|wordform=ʤìɣáwôʃíː
 6	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	mod:poss/m	_	AlignBegin=535132|AlignEnd=535205|Gloss==SingGen|wordform=-wos
 7-8	-íː	_	_	_	_	_	_	_	_
-7	-íː	-íː	ADV	_	Case=Gen|Number=Sing|Person=3	5	mod/m	_	Accomplished=Yes|AlignBegin=535132|AlignEnd=535205|Gloss=Acpl
+7	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	6	det/m	_	AlignBegin=535132|AlignEnd=535205|Gloss=Remt
 8	ɗi	ɗi	PART	_	_	4	compound:prt	_	AlignBegin=535351|AlignEnd=535425|Gloss=CTP|PartType=Adv|wordform=-́ɗi
 9	//	//	PUNCT	_	_	3	punct	_	AlignBegin=535425|AlignEnd=535720|Gloss=PUNCT
 
@@ -2489,7 +2489,7 @@
 11	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	3	conj:coord	_	AlignBegin=555596|AlignEnd=555804|Copula=No|Gloss=3Sing.Aor=|wordform=á
 12	ɗû	ɗu	VERB	_	_	11	comp:aux	_	AlignBegin=555804|AlignEnd=556012|Gloss=beat
 13	gaːm	gaːm	NOUN	_	_	12	comp:obj	_	AlignBegin=556012|AlignEnd=556116|Gloss=head|wordform=gaːmíː
-14	-íː	-íː	ADV	_	_	12	mod/m	_	Accomplished=Yes|AlignBegin=556012|AlignEnd=556116|Gloss=Acpl
+14	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	13	det/m	_	AlignBegin=556012|AlignEnd=556116|Gloss=Remt
 15	ɗa	ɗa	ADP	_	_	12	comp:obl	_	AlignBegin=556220|AlignEnd=556428|Gloss=at
 16	puːʃi	puːs	NOUN	_	Definite=Ind	15	comp	_	AlignBegin=556428|AlignEnd=556532|Gloss=stone-Ind|wordform=puːs
 17	//	//	PUNCT	_	_	3	punct	_	AlignBegin=556636|AlignEnd=556840|Gloss=PUNCT
@@ -2691,7 +2691,7 @@
 11	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	10	comp	_	AlignBegin=604940|AlignEnd=605108|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 12	ɗə́rə́	ɗərə	VERB	_	_	11	comp:aux	_	AlignBegin=605108|AlignEnd=605276|Gloss=open
 13	ʤìka	ʤìka	VERB	_	_	12	comp:obj	_	AlignBegin=605276|AlignEnd=605360|Gloss=bag|wordform=ʤìɣáy
-14	-íː	-íː	ADV	_	_	12	mod/m	_	Accomplished=Yes|AlignBegin=605276|AlignEnd=605360|Gloss=Acpl
+14	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	13	det/m	_	AlignBegin=605276|AlignEnd=605360|Gloss=Remt
 15	oː	oː	PART	_	_	11	mod	_	AlignBegin=605444|AlignEnd=605612|Gloss=Emph|PartType=Ill
 16	//	//	PUNCT	_	_	8	punct	_	AlignBegin=605612|AlignEnd=605780|Gloss=PUNCT
 
@@ -2934,8 +2934,8 @@
 1	tə́=	á=	AUX	_	Number=Plur|Person=3|Tense=Pres	0	root	_	AlignBegin=662060|AlignEnd=662277|Copula=No|Gloss=3Plur.Aor=|wordform=tə́
 2	ɗâɣár	ɗaɣár	VERB	_	_	1	comp:aux	_	AlignBegin=662277|AlignEnd=662494|Gloss=forbid
 3	ɲíː	ɲíː	NOUN	_	_	2	comp:obj	_	AlignBegin=662494|AlignEnd=662566|Gloss=girl|wordform=ɲêːʃíː
-4	-es	-es	DET	_	Definite=Def	3	det/m	_	AlignBegin=662494|AlignEnd=662566|Gloss=Def
-5	-íː	-íː	ADV	_	Definite=Def	3	mod/m	_	Accomplished=Yes|AlignBegin=662494|AlignEnd=662566|Gloss=Acpl
+4	-eʃ	-es	DET	_	Definite=Def	3	det/m	_	AlignBegin=662494|AlignEnd=662566|Gloss=Def|wordform=-es
+5	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	3	det/m	_	AlignBegin=662494|AlignEnd=662566|Gloss=Remt
 6	ɣá	ká	ADP	_	_	2	comp:obl	_	AlignBegin=662711|AlignEnd=662928|Gloss=at
 7	Nòːmáu	Nòːmáu	PROPN	_	_	6	comp	_	AlignBegin=662928|AlignEnd=663145|Gloss=Nomau
 8	//	//	PUNCT	_	_	1	punct	_	AlignBegin=662928|AlignEnd=663145|Gloss=PUNCT
@@ -2989,8 +2989,8 @@
 7	tá=	a=	AUX	_	Number=Plur|Person=3|Tense=Fut	6	parataxis@conj	_	AlignBegin=669608|AlignEnd=669786|Copula=No|Gloss=3Plur.Fut=|wordform=tá
 8	nât	nat	VERB	_	_	7	comp:aux	_	AlignBegin=669786|AlignEnd=669964|Gloss=tie
 9	awre	awre	NOUN	_	_	8	comp:obj	_	AlignBegin=669964|AlignEnd=670023|Gloss=wedding|wordform=awrêʃíː
-10	-es	-es	DET	_	Definite=Def	9	det/m	_	AlignBegin=669964|AlignEnd=670023|Gloss=Def
-11	-íː	-íː	ADV	_	Definite=Def	9	mod/m	_	Accomplished=Yes|AlignBegin=669964|AlignEnd=670023|Gloss=Acpl
+10	-eʃ	-es	DET	_	Definite=Def	9	det/m	_	AlignBegin=669964|AlignEnd=670023|Gloss=Def|wordform=-es
+11	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	9	det/m	_	AlignBegin=669964|AlignEnd=670023|Gloss=Remt
 12	káː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=2	1	parataxis:insert	_	AlignBegin=671700|AlignEnd=671890|Copula=No|Gloss=2Sing.Perf=|wordform=káː
 13	yisə́ŋ	yisə́ŋ	VERB	_	_	12	comp:aux	_	AlignBegin=671890|AlignEnd=672080|Gloss=know
 14	ngə́tn	ngə́tn	NOUN	_	_	13	comp:obj	_	AlignBegin=672080|AlignEnd=672270|Gloss=thing
@@ -3011,8 +3011,8 @@
 29	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	18	parataxis@conj	_	AlignBegin=677380|AlignEnd=677600|Copula=No|Gloss=3Sing.Aor=|wordform=á
 30	mbîː	mbiː	VERB	_	_	29	comp:aux	_	AlignBegin=677600|AlignEnd=677820|Gloss=take
 31	amarya	amarya	NOUN	_	_	30	comp:obj	_	AlignBegin=677820|AlignEnd=677893|Gloss=bride|wordform=amaryêʃíː
-32	-es	-es	DET	_	Definite=Def	31	det/m	_	AlignBegin=677820|AlignEnd=677893|Gloss=Def
-33	-íː	-íː	ADV	_	Definite=Def	31	mod/m	_	Accomplished=Yes|AlignBegin=677820|AlignEnd=677893|Gloss=Acpl
+32	-eʃ	-es	DET	_	Definite=Def	31	det/m	_	AlignBegin=677820|AlignEnd=677893|Gloss=Def|wordform=-es
+33	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	31	det/m	_	AlignBegin=677820|AlignEnd=677893|Gloss=Remt
 34	nə	nə	ADP	_	_	30	mod	_	AlignBegin=678040|AlignEnd=678260|Gloss=DER
 35	mə́ːri	mə̂ːr	NOUN	_	Definite=Ind|Number=Plur	34	comp	_	AlignBegin=678260|AlignEnd=678370|Gloss=stealing-Ind|wordform=mə̂ːr
 36	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	30	parataxis@conj	_	AlignBegin=679180|AlignEnd=679427|Copula=No|Gloss=3Sing.Aor=|wordform=á

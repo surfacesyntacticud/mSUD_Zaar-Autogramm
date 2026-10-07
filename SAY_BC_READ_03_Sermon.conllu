@@ -63,7 +63,7 @@
 8	waskát	waskát	VERB	_	_	7	comp:aux	_	AlignBegin=17124|AlignEnd=17368|Gloss=find_out
 9	vwàː	vwàː	NOUN	_	Definite=Cons	8	comp:obj	_	AlignBegin=17368|AlignEnd=17449|Gloss=belly-Cons|wordform=vwàːwòʃíː
 10	=wòs	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	mod:poss/m	_	AlignBegin=17368|AlignEnd=17449|Gloss==SingGen|wordform=-wòs
-11	-íː	-íː	ADV	_	Case=Gen|Number=Sing|Person=3	8	mod/m	_	Accomplished=Yes|AlignBegin=17368|AlignEnd=17449|Gloss=Acpl
+11	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	10	det/m	_	AlignBegin=17368|AlignEnd=17449|Gloss=Remt
 12	ɗeɓát	ɗeɓát	ADV	_	_	8	mod	_	AlignBegin=17612|AlignEnd=17856|Gloss=all|Ideo=Yes
 13	//	//	PUNCT	_	_	2	punct	_	AlignBegin=17856|AlignEnd=18100|Gloss=PUNCT
 
@@ -231,8 +231,8 @@
 4	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	2	comp:obj@T	_	AlignBegin=56689|AlignEnd=56912|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 5	ɮə́pm	ɮə́pm	VERB	_	_	4	comp:aux	_	AlignBegin=56912|AlignEnd=57135|Gloss=cover
 6	vìː	vìː	NOUN	_	_	5	comp:obj	_	AlignBegin=57135|AlignEnd=57209|Gloss=speech|wordform=vèːʃíː
-7	-es	-es	DET	_	Definite=Def	6	det/m	_	AlignBegin=57135|AlignEnd=57209|Gloss=Def
-8	-íː	-íː	ADV	_	Definite=Def	6	mod/m	_	Accomplished=Yes|AlignBegin=57135|AlignEnd=57209|Gloss=Acpl
+7	-eʃ	-es	DET	_	Definite=Def	6	det/m	_	AlignBegin=57135|AlignEnd=57209|Gloss=Def|wordform=-es
+8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	6	det/m	_	AlignBegin=57135|AlignEnd=57209|Gloss=Remt
 9	káɗâ	káɗá	PART	_	Polarity=Neg	10	mod	_	AlignBegin=58500|AlignEnd=58713|Gloss=Neg|PartType=Neg
 10	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	5	parataxis@conj	_	AlignBegin=58713|AlignEnd=58926|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 11-12	bótártə	_	_	_	_	_	_	_	_
@@ -318,7 +318,7 @@
 9	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	5	conj:coord	_	AlignBegin=87344|AlignEnd=87528|Copula=No|Gloss=3Sing.Fut=|wordform=wò
 10	ɗak	ɗak	VERB	_	_	9	comp:aux	_	AlignBegin=87528|AlignEnd=87712|Gloss=refuse
 11	wúlɣə̂n	wul	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	10	comp:obj	_	AlignBegin=87712|AlignEnd=87773|Gloss=say-Vnoun|wordform=wúlɣə̂níː
-12	-íː	-íː	ADV	_	ExtPos=NOUN|VerbForm=Vnoun	10	mod/m	_	Accomplished=Yes|AlignBegin=87712|AlignEnd=87773|Gloss=Acpl
+12	-íː	-íː	DET	_	Deixis=Remt|ExtPos=NOUN|PronType=Dem|VerbForm=Vnoun	11	det/m	_	AlignBegin=87712|AlignEnd=87773|Gloss=Remt
 13	//	//	PUNCT	_	_	1	punct	_	AlignBegin=87896|AlignEnd=88080|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_03_Sermon_038-039
@@ -1280,7 +1280,7 @@
 5	ndə̀ːr	ndəːr	VERB	_	_	4	comp:aux	_	AlignBegin=374245|AlignEnd=374510|Gloss=repair
 6	tsə́tngə̂n	tsə́tn	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	5	comp:obj	_	AlignBegin=374510|AlignEnd=374576|Gloss=sit-Vnoun|wordform=tsə́tngə́nwôpíː
 7	=wopm	=wopm	PRON	_	Case=Gen|ExtPos=NOUN|Number=Plur|Person=1|PronType=Prs|VerbForm=Vnoun	6	mod:poss/m	_	AlignBegin=374510|AlignEnd=374576|Gloss==Plur|wordform=-wopm
-8	-íː	-íː	ADV	_	Case=Gen|ExtPos=NOUN|Number=Plur|Person=1|VerbForm=Vnoun	5	mod/m	_	Accomplished=Yes|AlignBegin=374510|AlignEnd=374576|Gloss=Acpl
+8	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|ExtPos=NOUN|Number=Plur|Person=1|PronType=Dem|VerbForm=Vnoun	7	det/m	_	AlignBegin=374510|AlignEnd=374576|Gloss=Remt
 9	nə́	nə́	ADP	_	ExtPos=SCONJ	5	mod	_	AlignBegin=375920|AlignEnd=376080|Gloss=for|Idiom=Yes
 10	dur	dur	NOUN	_	_	9	comp	_	AlignBegin=376080|AlignEnd=376240|Gloss=cause|InIdiom=Yes
 11	ɣə́	kə́	ADP	_	Case=Gen	10	mod	_	AlignBegin=376240|AlignEnd=376400|Gloss=of|InIdiom=Yes
@@ -1561,7 +1561,7 @@
 19-20	dur	_	_	_	_	_	_	_	_
 19	dur	dur	NOUN	_	Definite=Cons	18	comp	_	AlignBegin=473667|AlignEnd=473763|Gloss=cause-Cons|wordform=dǔrwâːníː
 20	=wâːn	=waːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	19	mod:poss/m	_	AlignBegin=473667|AlignEnd=473763|Gloss==PlurGen|wordform=-wâːn
-21	-íː	-íː	ADV	_	Case=Gen|Number=Plur|Person=2	17	mod/m	_	Accomplished=Yes|AlignBegin=473667|AlignEnd=473763|Gloss=Acpl
+21	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|Number=Plur|Person=2|PronType=Dem	20	det/m	_	AlignBegin=473667|AlignEnd=473763|Gloss=Remt
 22	//	//	PUNCT	_	_	1	punct	_	AlignBegin=473954|AlignEnd=474240|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_03_Sermon_213-214
@@ -1679,7 +1679,7 @@
 27	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	26	mod@ethic	_	AlignBegin=505558|AlignEnd=505904|Gloss=3SingGen
 28	ká	ká	ADP	_	_	26	comp:obl	_	AlignBegin=505904|AlignEnd=506250|Gloss=at
 29	ləːtsə́ɣə̂n	ləːtsə́	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	28	comp	_	AlignBegin=506250|AlignEnd=506365|Gloss=blaze-Vnoun|wordform=ləːtsə́ɣə̂níː
-30	-íː	-íː	ADV	_	ExtPos=NOUN|VerbForm=Vnoun	28	mod/m	_	Accomplished=Yes|AlignBegin=506250|AlignEnd=506365|Gloss=Acpl
+30	-íː	-íː	DET	_	Deixis=Remt|ExtPos=NOUN|PronType=Dem|VerbForm=Vnoun	29	det/m	_	AlignBegin=506250|AlignEnd=506365|Gloss=Remt
 31	gíː	gíː	DET	_	Deixis=Remt|PronType=Dem	22	conj:appos	_	AlignBegin=508680|AlignEnd=509036|Gloss=Remt
 32	ɗan	ɗan	SCONJ	_	_	31	mod@relcl	_	AlignBegin=509036|AlignEnd=509392|Gloss=that
 33	tə̀tà=	TaYiNa=	AUX	_	Number=Plur|Person=3|Tense=Past	32	comp	_	AlignBegin=509392|AlignEnd=509748|Copula=No|Gloss=3Plur.RemPast=|PastType=Remt|wordform=tə̀tà
@@ -2052,7 +2052,7 @@
 7	ka=	a=	AUX	_	Number=Sing|Person=2|Tense=Fut	5	comp:obj@agent	_	AlignBegin=625860|AlignEnd=626112|Copula=No|Gloss=2Sing.Fut=|wordform=ka
 8	ɗu	ɗu	VERB	_	_	7	comp:aux	_	AlignBegin=626112|AlignEnd=626364|Gloss=kill
 9	zaːr	zaːr	NOUN	_	Definite=Cons	8	comp:obj	_	AlignBegin=626364|AlignEnd=626490|Gloss=person|wordform=zaːríː
-10	-íː	-íː	ADV	_	Definite=Cons	8	mod/m	_	Accomplished=Yes|AlignBegin=626364|AlignEnd=626490|Gloss=Acpl
+10	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	9	det/m	_	AlignBegin=626364|AlignEnd=626490|Gloss=Remt
 11	gəri-gərí	gəri-gərí	ADV	_	_	8	mod	_	AlignBegin=626616|AlignEnd=626868|Gloss=openly|Ideo=Yes
 12	á	ká	ADP	_	_	8	mod	_	AlignBegin=626868|AlignEnd=627120|Gloss=at
 13	kén	kéni	ADP	_	_	12	comp	_	AlignBegin=627120|AlignEnd=627372|Gloss=front
@@ -2212,7 +2212,7 @@
 6	kə̀t	kat	VERB	_	_	5	comp:aux	_	AlignBegin=673456|AlignEnd=673732|Gloss=leave
 7	mórɣə̂n	mor	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	comp:obj	_	AlignBegin=673732|AlignEnd=673870|Gloss=cheat-Vnoun|wordform=mor
 8	gamawopm	gamawopm	PRON	_	Number=Plur|Person=1|Reflex=Yes	7	comp:obj	_	AlignBegin=674008|AlignEnd=674146|Gloss=1Plur.REFL|wordform=gamawopíː
-9	-íː	-íː	ADV	_	Number=Plur|Person=1|Reflex=Yes	7	mod/m	_	Accomplished=Yes|AlignBegin=674008|AlignEnd=674146|Gloss=Acpl
+9	-íː	-íː	DET	_	Deixis=Remt|Number=Plur|Person=1|PronType=Dem|Reflex=Yes	8	det/m	_	AlignBegin=674008|AlignEnd=674146|Gloss=Remt
 10	//	//	PUNCT	_	_	2	punct	_	AlignBegin=674008|AlignEnd=674146|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_03_Sermon_306-307

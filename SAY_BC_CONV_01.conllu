@@ -872,7 +872,7 @@
 14	fi	fi	VERB	_	_	13	comp:aux	_	AlignBegin=91629|AlignEnd=91970|Gloss=do
 15	anko	anko	NOUN	_	Definite=Cons	14	comp:obj	_	AlignBegin=91970|AlignEnd=92083|Gloss=similar_dressing-Cons|wordform=ankówôpíː
 16	=wôp	=wopm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	15	mod:poss/m	_	AlignBegin=91970|AlignEnd=92083|Gloss==PlurGen|wordform=-wôp
-17	-íː	-íː	ADV	_	Case=Gen|Definite=Cons|Number=Plur|Person=1	15	mod/m	_	Accomplished=Yes|AlignBegin=91970|AlignEnd=92083|Gloss=Acpl
+17	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|Number=Plur|Person=1|PronType=Dem	16	det/m	_	AlignBegin=91970|AlignEnd=92083|Gloss=Remt
 18	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	12	parataxis@conj	_	AlignBegin=93055|AlignEnd=93277|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 19-20	pólmí	_	_	_	_	_	_	_	_
 19	pól	pol	VERB	_	_	18	comp:aux	_	AlignBegin=93277|AlignEnd=93351|Gloss=please
@@ -1925,13 +1925,13 @@
 11	fi	fi	VERB	_	_	10	comp:aux	_	AlignBegin=216378|AlignEnd=216696|Gloss=do
 12	àrkáwalé	àrkáwalé	NOUN	_	Definite=Cons	11	comp:obj	_	AlignBegin=216696|AlignEnd=216802|Gloss=promise-Cons|wordform=àrkáwalêtíː
 13	=t	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	12	mod:poss/m	_	AlignBegin=216696|AlignEnd=216802|Gloss==Sing.Poss|wordform=-t
-14	-íː	-íː	ADV	_	Number=Sing|Person=1	11	mod/m	_	Accomplished=Yes|AlignBegin=216696|AlignEnd=216802|Gloss=Acpl
+14	-íː	-íː	DET	_	Deixis=Remt|Number=Sing|Person=1|PronType=Dem	13	det/m	_	AlignBegin=216696|AlignEnd=216802|Gloss=Remt
 15	hár	hár	CCONJ	_	_	16	cc	_	AlignBegin=217015|AlignEnd=217251|Gloss=and_even
 16	tàː=	áː=	AUX	_	Aspect=Perf|Number=Plur|Person=3	10	conj:coord	_	AlignBegin=217251|AlignEnd=217487|Copula=No|Gloss=3Plur.Perf=|wordform=tàː
 17	ʧi	ʧi	VERB	_	_	16	comp:aux	_	AlignBegin=217487|AlignEnd=217723|Gloss=eat|wordform=*ʧi-íː
 18	mânʤá	mânʤá	NOUN	_	Definite=Cons	17	comp:obj	_	AlignBegin=217723|AlignEnd=217782|Gloss=palm_oil-Cons|wordform=mânʤátíː
 19	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	18	mod:poss/m	_	AlignBegin=217723|AlignEnd=217782|Gloss==SingGen|wordform=-atn
-20	-íː	-íː	ADV	_	Case=Gen|Number=Sing|Person=1	17	mod/m	_	Accomplished=Yes|AlignBegin=217723|AlignEnd=217782|Gloss=Acpl
+20	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|Number=Sing|Person=1|PronType=Dem	19	det/m	_	AlignBegin=217723|AlignEnd=217782|Gloss=Remt
 21	oː	oː	PART	_	_	10	mod	_	AlignBegin=217900|AlignEnd=217959|Gloss=Emph|PartType=Ill
 22	//	//	PUNCT	_	_	1	punct	_	AlignBegin=217959|AlignEnd=218195|Gloss=PUNCT
 
@@ -2002,7 +2002,7 @@
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_01.WAV
 # sent_timecode = 224152, 225715
-# text = àː= yaddá -íː wò= ʧanʤá kə̀lâːs -íː //
+# text = àː= yaddá -íː wò= ʧanʤá kə̀lâːʃ -íː //
 # text_ortho = àː yaddéy wò ʧanʤá kə́lâːʃíː //
 # text_en = He agreed to change class.
 1	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	0	root	_	AlignBegin=224152|AlignEnd=224394|Copula=No|Gloss=3Sing.Perf=|wordform=àː
@@ -2010,8 +2010,8 @@
 3	-íː	-íː	ADV	_	_	2	mod/m	_	Accomplished=Yes|AlignBegin=224394|AlignEnd=224514|Gloss=Acpl
 4	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	2	comp:obj	_	AlignBegin=224635|AlignEnd=224905|Copula=No|Gloss=3Sing.Fut=|wordform=wò
 5	ʧanʤá	ʧanʤá	VERB	_	_	4	comp:aux	_	AlignBegin=224905|AlignEnd=225175|Gloss=change
-6	kə̀lâːs	kə̀lâːs	NOUN	_	_	5	comp:obj	_	AlignBegin=225175|AlignEnd=225310|Gloss=class|wordform=kə̀lâːʃíː
-7	-íː	-íː	ADV	_	_	5	mod/m	_	Accomplished=Yes|AlignBegin=225175|AlignEnd=225310|Gloss=Acpl
+6	kə̀lâːʃ	kə̀lâːs	NOUN	_	_	5	comp:obj	_	AlignBegin=225175|AlignEnd=225310|Gloss=class|wordform=kə̀lâːʃíː
+7	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	6	det/m	_	AlignBegin=225175|AlignEnd=225310|Gloss=Remt
 8	//	//	PUNCT	_	_	1	punct	_	AlignBegin=225445|AlignEnd=225715|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_01_232-232
@@ -2322,7 +2322,7 @@
 3	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	0	root	_	AlignBegin=258813|AlignEnd=258969|Copula=No|Gloss=3Sing.Perf=|wordform=àː
 4	tu	tu	VERB	_	_	3	comp:aux	_	AlignBegin=258969|AlignEnd=259125|Gloss=get
 5	gə̀ɗ	gə̀t	NOUN	_	Definite=Ind	4	comp:obj	_	AlignBegin=259125|AlignEnd=259203|Gloss=wife.Ind|wordform=gə̀ɗíː
-6	-íː	-íː	ADV	_	Definite=Ind	4	mod/m	_	Accomplished=Yes|AlignBegin=259125|AlignEnd=259203|Gloss=Acpl
+6	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	5	det/m	_	AlignBegin=259125|AlignEnd=259203|Gloss=Remt
 7	báː	báː	PART	_	Polarity=Neg	3	mod	_	AlignBegin=259281|AlignEnd=259437|Gloss=Neg|PartType=Neg
 8	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=259437|AlignEnd=259595|Gloss=PUNCT
 
@@ -2782,7 +2782,7 @@
 13	sekóndə́ríː	sekóndə́ríː	ADJ	_	_	14	mod	_	AlignBegin=317954|AlignEnd=318317|Gloss=secondary
 14	sə̀kúːl	sə̀kúːl	NOUN	_	Definite=Cons	12	comp:obj	_	AlignBegin=318317|AlignEnd=318438|Gloss=school-Cons|wordform=sə̀kúːlâtíː
 15	=at	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	14	mod:poss/m	_	AlignBegin=318317|AlignEnd=318438|Gloss==SingGen|wordform=-atn
-16	-íː	-íː	ADV	_	Case=Gen|Number=Sing|Person=1	12	mod/m	_	Accomplished=Yes|AlignBegin=318317|AlignEnd=318438|Gloss=Acpl
+16	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|Number=Sing|Person=1|PronType=Dem	15	det/m	_	AlignBegin=318317|AlignEnd=318438|Gloss=Remt
 17	<	<	PUNCT	_	_	11	punct	_	AlignBegin=318680|AlignEnd=319042|Gloss=PUNCT
 18	mə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=1	10	comp	_	AlignBegin=319380|AlignEnd=319664|Copula=No|Gloss=1Sing.Sub=|wordform=mə̀
 19	ɬə	ɬə	VERB	_	_	18	comp:aux	_	AlignBegin=319664|AlignEnd=319806|Gloss=go|wordform=ɬíː

@@ -126,8 +126,8 @@
 1	ʧǎː=	yáː=	AUX	_	Aspect=Imp|Number=Sing|Person=3	8	mod	_	AlignBegin=21620|AlignEnd=21844|Copula=No|Gloss=3Plur.Imp=|wordform=ʧǎː
 2	ɓə̂l	ɓəl	VERB	_	_	1	comp:aux	_	AlignBegin=21844|AlignEnd=22068|Gloss=dig|wordform=*ɓə̂l-íː
 3	gìːr	gìːr	NOUN	_	_	2	comp:obj	_	AlignBegin=22068|AlignEnd=22292|Gloss=grave|wordform=gìːrèʃíː
-4	-es	-es	DET	_	Definite=Def	3	det/m	_	AlignBegin=22068|AlignEnd=22292|Gloss=Def
-5	-íː	-íː	ADV	_	Definite=Def	3	mod/m	_	Accomplished=Yes|AlignBegin=22068|AlignEnd=22292|Gloss=Acpl
+4	-eʃ	-es	DET	_	Definite=Def	3	det/m	_	AlignBegin=22068|AlignEnd=22292|Gloss=Def|wordform=-es
+5	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	3	det/m	_	AlignBegin=22068|AlignEnd=22292|Gloss=Remt
 6	<	<	PUNCT	_	_	1	punct	_	AlignBegin=22292|AlignEnd=22514|Gloss=PUNCT
 7	tôː	tòː	PART	_	_	8	discourse	_	AlignBegin=23897|AlignEnd=24208|Gloss=well|PartType=Disc
 8	tá=	a=	AUX	_	Number=Plur|Person=3|Tense=Fut	0	root	_	AlignBegin=24208|AlignEnd=24519|Copula=No|Gloss=3Plur.Fut=|wordform=tá
@@ -1518,8 +1518,8 @@
 4	ʧǎː=	yáː=	AUX	_	Aspect=Imp|Number=Sing|Person=3	11	mod	_	AlignBegin=205478|AlignEnd=205653|Copula=No|Gloss=3Plur.=|wordform=ʧǎː
 5	ɓǎn	ɓán	VERB	_	_	4	comp:aux	_	AlignBegin=205653|AlignEnd=205828|Gloss=finish|wordform=*ɓǎn-íː
 6	miːtsə	miːtsə	NOUN	_	_	5	comp:obj	_	AlignBegin=205828|AlignEnd=206003|Gloss=burial|wordform=miːtʃêʃíː
-7	-es	-es	DET	_	Definite=Def	6	det/m	_	AlignBegin=205828|AlignEnd=206003|Gloss=Def
-8	-íː	-íː	ADV	_	Definite=Def	6	mod/m	_	Accomplished=Yes|AlignBegin=205828|AlignEnd=206003|Gloss=Acpl
+7	-eʃ	-es	DET	_	Definite=Def	6	det/m	_	AlignBegin=205828|AlignEnd=206003|Gloss=Def|wordform=-es
+8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	6	det/m	_	AlignBegin=205828|AlignEnd=206003|Gloss=Remt
 9	<	<	PUNCT	_	_	4	punct	_	AlignBegin=206003|AlignEnd=206178|Gloss=PUNCT
 10	tôː	tòː	PART	_	_	11	discourse	_	AlignBegin=206178|AlignEnd=206353|Gloss=well|PartType=Disc
 11	tá=	a=	AUX	_	Number=Plur|Person=3|Tense=Fut	0	root	_	AlignBegin=206353|AlignEnd=206528|Copula=No|Gloss=3Plur.Fut=|wordform=tá
@@ -2046,7 +2046,7 @@
 6	tá=	a=	AUX	_	Number=Plur|Person=3|Tense=Fut	0	root	_	AlignBegin=286221|AlignEnd=286396|Copula=No|Gloss=3Plur.Fut=|wordform=tá
 7	tût	tut	VERB	_	_	6	comp:aux	_	AlignBegin=286396|AlignEnd=286571|Gloss=sweep
 8	lə́ɓ	lə̂p	NOUN	_	_	7	comp:obj	_	AlignBegin=286571|AlignEnd=286746|Gloss=place|wordform=lə́ɓíː
-9	-íː	-íː	ADV	_	_	7	mod/m	_	Accomplished=Yes|AlignBegin=286571|AlignEnd=286746|Gloss=Acpl
+9	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	8	det/m	_	AlignBegin=286571|AlignEnd=286746|Gloss=Remt
 10	//=	//=	PUNCT	_	_	12	punct	_	AlignBegin=286746|AlignEnd=286922|Gloss=PUNCT
 11	tôː	tòː	PART	_	_	12	discourse	_	AlignBegin=287379|AlignEnd=287559|Gloss=well|PartType=Disc
 12	tə́=	á=	AUX	_	Number=Plur|Person=3|Tense=Pres	6	conj:coord	_	AlignBegin=287559|AlignEnd=287739|Copula=No|Gloss=3Plur.Aor=|wordform=tə́

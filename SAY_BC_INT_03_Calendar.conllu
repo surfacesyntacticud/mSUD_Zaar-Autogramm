@@ -594,7 +594,7 @@
 5	ʧǎː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=3	11	mod	_	AlignBegin=98944|AlignEnd=99100|Copula=No|Gloss=3Plur.Cnd=|wordform=ʧǎː
 6	ndâ	nda	VERB	_	_	5	comp:aux	_	AlignBegin=99100|AlignEnd=99256|Gloss=start
 7	gwàːsə̀ŋ	gwàːsə̀ŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	6	comp:obj	_	AlignBegin=99256|AlignEnd=99412|Gloss=3PlurGen|wordform=gwàːsə̀ŋə́y
-8	-íː	-íː	ADV	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	6	mod/m	_	Accomplished=Yes|AlignBegin=99256|AlignEnd=99412|Gloss=Acpl
+8	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|Number=Plur|Person=3|PronType=Dem	7	det/m	_	AlignBegin=99256|AlignEnd=99412|Gloss=Remt
 9	<	<	PUNCT	_	_	5	punct	_	AlignBegin=99412|AlignEnd=99568|Gloss=PUNCT
 10	tôː	tòː	PART	_	_	11	discourse	_	AlignBegin=99568|AlignEnd=99724|Gloss=well|PartType=Disc
 11	má=	a=	AUX	_	Number=Plur|Person=1|Tense=Fut	0	root	_	AlignBegin=99724|AlignEnd=99880|Copula=No|Gloss=1Plur.Fut=|wordform=má
