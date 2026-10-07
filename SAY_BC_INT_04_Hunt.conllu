@@ -463,7 +463,7 @@
 15	<	<	PUNCT	_	_	9	punct	_	AlignBegin=81222|AlignEnd=81489|Gloss=PUNCT
 16	tôː	tòː	PART	_	_	19	discourse	_	AlignBegin=81680|AlignEnd=81860|Gloss=well|PartType=Disc
 17	ɬûː	ɬûː	NOUN	_	_	19	dislocated@comp	_	AlignBegin=81860|AlignEnd=82040|Gloss=animal|wordform=ɬúːy
-18	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	17	det/m	_	AlignBegin=81860|AlignEnd=82040|Gloss=Remt
+18	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	17	det/m	_	AlignBegin=81860|AlignEnd=82040|Gloss=Remt
 19	tá=	a=	AUX	_	Number=Plur|Person=3|Tense=Fut	0	root	_	AlignBegin=82040|AlignEnd=82220|Copula=No|Gloss=3Plur.Fut=|wordform=tá
 20-21	və̀rɣə̀	_	_	_	_	_	_	_	_
 20	və̀r	vər	VERB	_	_	19	comp:aux	_	AlignBegin=82220|AlignEnd=82310|Gloss=give
@@ -809,7 +809,7 @@
 5	máː	máː	ADV	_	_	2	mod	_	AlignBegin=132284|AlignEnd=132380|Gloss=also
 6	<	<	PUNCT	_	_	1	punct	_	AlignBegin=132380|AlignEnd=132474|Gloss=PUNCT
 7	ɬûː	ɬûː	NOUN	_	_	9	subj	_	AlignBegin=132474|AlignEnd=132587|Gloss=meat|wordform=ɬúːy
-8	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	7	det/m	_	AlignBegin=132474|AlignEnd=132587|Gloss=Remt
+8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	7	det/m	_	AlignBegin=132474|AlignEnd=132587|Gloss=Remt
 9	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	0	root	_	AlignBegin=132587|AlignEnd=132700|Copula=No|Gloss=3Sing.Fut=|wordform=wò
 10	láːp	láːp	VERB	_	_	9	comp:aux	_	AlignBegin=132700|AlignEnd=132813|Gloss=follow
 11	ʒà	ʒà	NOUN	_	_	10	comp:obj	_	AlignBegin=132813|AlignEnd=132926|Gloss=water
@@ -954,7 +954,7 @@
 1	átâ=	TaYiNa=	AUX	_	Number=Sing|Person=3|Tense=Past	0	root	_	AlignBegin=150623|AlignEnd=150793|Copula=No|Gloss=3Sing.RemPast=|PastType=Remt|wordform=átâ
 2	yi	yi	VERB	_	_	1	comp:aux	_	AlignBegin=150793|AlignEnd=150963|Gloss=be
 3	ʧík	ʧík	ADV	_	_	2	comp:pred	_	AlignBegin=150963|AlignEnd=151048|Gloss=thus|wordform=ʧǐː
-4	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	3	det/m	_	AlignBegin=150963|AlignEnd=151048|Gloss=Remt
+4	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	3	det/m	_	AlignBegin=150963|AlignEnd=151048|Gloss=Remt
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=151133|AlignEnd=151303|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_04_Hunt_107-108
@@ -1235,7 +1235,7 @@
 5	ɗan	ɗan	ADP	_	_	2	comp:obl	_	AlignBegin=191604|AlignEnd=191826|Gloss=like
 6	pîːs	pîːs	NOUN	_	_	5	comp	_	AlignBegin=191826|AlignEnd=192048|Gloss=arrow
 7	ʧík	ʧík	ADV	_	_	2	mod	_	AlignBegin=192048|AlignEnd=192159|Gloss=thus|wordform=ʧǐː
-8	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	7	det/m	_	AlignBegin=192048|AlignEnd=192159|Gloss=Remt
+8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	7	det/m	_	AlignBegin=192048|AlignEnd=192159|Gloss=Remt
 9	//	//	PUNCT	_	_	1	punct	_	AlignBegin=192270|AlignEnd=192494|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_04_Hunt_141-141
@@ -1378,7 +1378,7 @@
 2	átâ=	TaYiNa=	AUX	_	Number=Sing|Person=3|Tense=Past	0	root	_	AlignBegin=209336|AlignEnd=209492|Copula=No|Gloss=3Sing.RemPast=|PastType=Remt|wordform=átâ
 3	yi	yi	VERB	_	_	2	comp:aux	_	AlignBegin=209492|AlignEnd=209648|Gloss=be
 4	ʧík	ʧík	ADV	_	_	3	comp:pred	_	AlignBegin=209648|AlignEnd=209726|Gloss=thus|wordform=ʧǐː
-5	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	4	det/m	_	AlignBegin=209648|AlignEnd=209726|Gloss=Remt
+5	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	4	det/m	_	AlignBegin=209648|AlignEnd=209726|Gloss=Remt
 6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=209804|AlignEnd=209960|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_04_Hunt_154-154
@@ -1491,7 +1491,7 @@
 # text_en = Well that iron, they went and took something like 'datsang' (bauxitic laterite).
 1	tôː	tòː	PART	_	_	5	discourse	_	AlignBegin=226240|AlignEnd=226440|Gloss=well|PartType=Disc
 2	búːya	búːya	NOUN	_	_	5	dislocated@top	_	AlignBegin=226440|AlignEnd=226640|Gloss=local_iron|wordform=búːyáy
-3	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	2	det/m	_	AlignBegin=226440|AlignEnd=226640|Gloss=Remt
+3	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	2	det/m	_	AlignBegin=226440|AlignEnd=226640|Gloss=Remt
 4	<	<	PUNCT	_	_	2	punct	_	AlignBegin=226640|AlignEnd=226840|Gloss=PUNCT
 5	ʧàː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=3	0	root	_	AlignBegin=227700|AlignEnd=227896|Copula=No|Gloss=3Plur.Cnd=|wordform=ʧàː
 6	ɬə	ɬə	VERB	_	_	5	comp:aux	_	AlignBegin=227896|AlignEnd=228092|Gloss=go|wordform=ɬíː
@@ -1934,7 +1934,7 @@
 10	tu	tu	VERB	_	_	9	comp:aux	_	AlignBegin=288900|AlignEnd=289099|Gloss=get|wordform=*tu-íː
 11	ngə̌tn	ngə́tn	NOUN	_	Definite=Cons	10	comp:obj	_	AlignBegin=289099|AlignEnd=289298|Gloss=thing|wordform=ngə́tn
 12	ndə̂ːr	ndə̂ːr	NOUN	_	_	11	compound	_	AlignBegin=289298|AlignEnd=289497|Gloss=bush|wordform=ndə́ːríː
-13	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	12	det/m	_	AlignBegin=289298|AlignEnd=289497|Gloss=Remt
+13	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	12	det/m	_	AlignBegin=289298|AlignEnd=289497|Gloss=Remt
 14	sòːséy	sòːséy	ADV	_	_	10	mod	_	AlignBegin=289497|AlignEnd=289696|Gloss=quite
 15	aː	aː	PART	_	_	3	mod	_	AlignBegin=289696|AlignEnd=289895|Gloss=Int|PartType=Ill|wordform=a:
 16	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=289895|AlignEnd=290094|Gloss=PUNCT
@@ -2019,7 +2019,7 @@
 3	átâ=	TaYiNa=	AUX	_	Number=Sing|Person=3|Tense=Past	0	root	_	AlignBegin=302840|AlignEnd=303000|Copula=No|Gloss=3Sing.RemPast=|PastType=Remt|wordform=átâ
 4	yi	yi	VERB	_	_	3	comp:aux	_	AlignBegin=303000|AlignEnd=303160|Gloss=be
 5	ʧík	ʧík	ADV	_	_	4	comp:pred	_	AlignBegin=303160|AlignEnd=303240|Gloss=thus|wordform=ʧǐː
-6	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	5	det/m	_	AlignBegin=303160|AlignEnd=303240|Gloss=Remt
+6	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	5	det/m	_	AlignBegin=303160|AlignEnd=303240|Gloss=Remt
 7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=303320|AlignEnd=303480|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_04_Hunt_218-218
@@ -2052,7 +2052,7 @@
 11	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	10	comp	_	AlignBegin=307223|AlignEnd=307413|Copula=No|Gloss=2Sing.Sub=|wordform=àː
 12	yél	yeli	VERB	_	_	11	comp:aux	_	AlignBegin=307413|AlignEnd=307606|Gloss=see
 13	ɬúnàmtsə	ɬúnàmtsə	NOUN	_	_	12	comp:obj	_	AlignBegin=307606|AlignEnd=308402|Gloss=wild_animals|wordform=ɬúnàmtsə́y
-14	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	13	det/m	_	AlignBegin=307606|AlignEnd=308402|Gloss=Remt
+14	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	13	det/m	_	AlignBegin=307606|AlignEnd=308402|Gloss=Remt
 15	swǎːt	swǎːt	ADV	_	_	12	mod	_	AlignBegin=308402|AlignEnd=308801|Gloss=fast|Ideo=Yes
 16	swǎːt	swǎːt	ADV	_	_	15	compound:redup	_	AlignBegin=309123|AlignEnd=309259|Gloss=fast|Ideo=Yes
 17	hŋ́	hŋ́	PART	_	Polarity=Neg	2	mod	_	AlignBegin=309259|AlignEnd=309395|Gloss=Neg|PartType=Neg
@@ -2216,7 +2216,7 @@
 1	átâ=	TaYiNa=	AUX	_	Number=Sing|Person=3|Tense=Past	0	root	_	AlignBegin=331480|AlignEnd=331625|Copula=No|Gloss=3Sing.RemPast=|PastType=Remt|wordform=átâ
 2	yi	yi	VERB	_	_	1	comp:aux	_	AlignBegin=331625|AlignEnd=331770|Gloss=be
 3	ʧík	ʧík	ADV	_	_	2	comp:pred	_	AlignBegin=331770|AlignEnd=331842|Gloss=thus|wordform=ʧǐː
-4	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	3	det/m	_	AlignBegin=331770|AlignEnd=331842|Gloss=Remt
+4	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	3	det/m	_	AlignBegin=331770|AlignEnd=331842|Gloss=Remt
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=331915|AlignEnd=332060|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_04_Hunt_243-243

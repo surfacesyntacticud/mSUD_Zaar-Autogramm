@@ -63,7 +63,7 @@
 8	waskát	waskát	VERB	_	_	7	comp:aux	_	AlignBegin=17124|AlignEnd=17368|Gloss=find_out
 9	vwàː	vwàː	NOUN	_	Definite=Cons	8	comp:obj	_	AlignBegin=17368|AlignEnd=17449|Gloss=belly-Cons|wordform=vwàːwòʃíː
 10	=wòs	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	mod:poss/m	_	AlignBegin=17368|AlignEnd=17449|Gloss==SingGen|wordform=-wòs
-11	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Dem	10	det/m	_	AlignBegin=17368|AlignEnd=17449|Gloss=Remt
+11	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	10	det/m	_	AlignBegin=17368|AlignEnd=17449|Gloss=Remt
 12	ɗeɓát	ɗeɓát	ADV	_	_	8	mod	_	AlignBegin=17612|AlignEnd=17856|Gloss=all|Ideo=Yes
 13	//	//	PUNCT	_	_	2	punct	_	AlignBegin=17856|AlignEnd=18100|Gloss=PUNCT
 
@@ -95,7 +95,7 @@
 20	rǎː	raː	NOUN	_	Definite=Cons	19	comp:obj	_	AlignBegin=23424|AlignEnd=23551|Gloss=heart.Cons
 21	gùŋ	gùŋ	NOUN	_	_	20	mod	_	AlignBegin=23932|AlignEnd=24186|Gloss=chief
 22	mə́n	mə́n	PART	_	Case=Dat	19	compound:prt	_	AlignBegin=24694|AlignEnd=24948|Gloss=BEN|PartType=Adv|wordform=məníː
-23	-íː	Remt	DET	_	Case=Dat|Deixis=Remt|PronType=Dem	22	det/m	_	AlignBegin=24694|AlignEnd=24948|Gloss=Remt|PartType=Adv
+23	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	22	det/m	_	AlignBegin=24694|AlignEnd=24948|Gloss=Remt|PartType=Adv
 24	//	//	PUNCT	_	_	1	punct	_	AlignBegin=24694|AlignEnd=24948|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_03_Sermon_008-008_split2
@@ -461,7 +461,7 @@
 16	ɣá	ká	ADP	_	_	14	comp:obl	_	AlignBegin=128311|AlignEnd=128508|Gloss=at
 17	kên	kéni	ADP	_	_	16	comp	_	AlignBegin=128508|AlignEnd=128705|Gloss=front
 18	Tʃóɣnvòn	Tʃóɣnvòn	PROPN	_	_	17	comp	_	AlignBegin=128705|AlignEnd=128803|Gloss=God|wordform=Tʃóknvòníː
-19	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	18	det/m	_	AlignBegin=128705|AlignEnd=128803|Gloss=Remt
+19	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	18	det/m	_	AlignBegin=128705|AlignEnd=128803|Gloss=Remt
 20	//	//	PUNCT	_	_	13	punct	_	AlignBegin=128803|AlignEnd=128902|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_03_Sermon_058-059
@@ -639,7 +639,7 @@
 6	vìː	vìː	NOUN	_	_	4	comp:obj@T	_	AlignBegin=186640|AlignEnd=186760|Gloss=speech|wordform=vèːs
 7	-es	-es	DET	_	Definite=Def	6	det/m	_	AlignBegin=186640|AlignEnd=186760|Gloss=Def
 8	mə́n	mə́n	PART	_	Case=Dat	4	compound:prt	_	AlignBegin=186880|AlignEnd=187000|Gloss=BEN|PartType=Adv|wordform=mə́níː
-9	-íː	Remt	DET	_	Case=Dat|Deixis=Remt|PronType=Dem	8	det/m	_	AlignBegin=186880|AlignEnd=187000|Gloss=Remt|PartType=Adv
+9	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	8	det/m	_	AlignBegin=186880|AlignEnd=187000|Gloss=Remt|PartType=Adv
 10	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=188220|AlignEnd=188398|Copula=No|Gloss=3Sing.Aor=|wordform=á
 11	wûl	wul	VERB	_	_	10	comp:aux	_	AlignBegin=188398|AlignEnd=188576|Gloss=say
 12	á	ká	ADP	_	_	11	mod	_	AlignBegin=188576|AlignEnd=188754|Gloss=at
@@ -694,7 +694,7 @@
 16	ngə́tn	ngə́tn	NOUN	_	_	14	comp:obj@T	_	AlignBegin=207312|AlignEnd=207510|Gloss=thing
 17	wón	wón	DET	_	Definite=Spec	16	det	_	AlignBegin=207510|AlignEnd=207708|Gloss=QLT
 18	mə́n	mə́n	PART	_	Case=Dat	14	compound:prt	_	AlignBegin=207708|AlignEnd=207807|Gloss=BEN|PartType=Adv|PrevRef=Yes|wordform=məníː
-19	-íː	Remt	DET	_	Case=Dat|Deixis=Remt|PronType=Dem	18	det/m	_	AlignBegin=207708|AlignEnd=207807|Gloss=Remt|PartType=Adv|PrevRef=Yes
+19	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	18	det/m	_	AlignBegin=207708|AlignEnd=207807|Gloss=Remt|PartType=Adv|PrevRef=Yes
 20	//	//	PUNCT	_	_	2	punct	_	AlignBegin=207906|AlignEnd=208100|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_03_Sermon_092-094
@@ -759,7 +759,7 @@
 8	waːt	waːt	VERB	_	_	7	comp:obj	_	AlignBegin=227138|AlignEnd=227407|Gloss=hide
 9	tákwáːrà	tákwáːrà	NOUN	_	_	8	comp:obj@R	_	AlignBegin=227407|AlignEnd=227676|Gloss=bush_fowl
 10	mə́n	mə́n	PART	_	Case=Dat	8	compound:prt	_	AlignBegin=227676|AlignEnd=227810|Gloss=BEN|PartType=Adv|PrevRef=Yes|wordform=məníː
-11	-íː	Remt	DET	_	Case=Dat|Deixis=Remt|PronType=Dem	10	det/m	_	AlignBegin=227676|AlignEnd=227810|Gloss=Remt|PartType=Adv|PrevRef=Yes
+11	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	10	det/m	_	AlignBegin=227676|AlignEnd=227810|Gloss=Remt|PartType=Adv|PrevRef=Yes
 12	aː	aː	PART	_	_	7	mod	_	AlignBegin=227945|AlignEnd=228214|Gloss=Int|PartType=Ill|wordform=a:
 13	//	//	PUNCT	_	_	2	punct	_	AlignBegin=228214|AlignEnd=228480|Gloss=PUNCT
 
@@ -1280,7 +1280,7 @@
 5	ndə̀ːr	ndəːr	VERB	_	_	4	comp:aux	_	AlignBegin=374245|AlignEnd=374510|Gloss=repair
 6	tsə́tngə̂n	tsə́tn	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	5	comp:obj	_	AlignBegin=374510|AlignEnd=374576|Gloss=sit-Vnoun|wordform=tsə́tngə́nwôpíː
 7	=wopm	=wopm	PRON	_	Case=Gen|ExtPos=NOUN|Number=Plur|Person=1|PronType=Prs|VerbForm=Vnoun	6	mod:poss/m	_	AlignBegin=374510|AlignEnd=374576|Gloss==Plur|wordform=-wopm
-8	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|ExtPos=NOUN|Number=Plur|Person=1|PronType=Dem|VerbForm=Vnoun	7	det/m	_	AlignBegin=374510|AlignEnd=374576|Gloss=Remt
+8	-íː	-íː	DET	_	Deixis=Remt|ExtPos=NOUN|PronType=Dem|VerbForm=Vnoun	7	det/m	_	AlignBegin=374510|AlignEnd=374576|Gloss=Remt
 9	nə́	nə́	ADP	_	ExtPos=SCONJ	5	mod	_	AlignBegin=375920|AlignEnd=376080|Gloss=for|Idiom=Yes
 10	dur	dur	NOUN	_	_	9	comp	_	AlignBegin=376080|AlignEnd=376240|Gloss=cause|InIdiom=Yes
 11	ɣə́	kə́	ADP	_	Case=Gen	10	mod	_	AlignBegin=376240|AlignEnd=376400|Gloss=of|InIdiom=Yes
@@ -1348,7 +1348,7 @@
 18	tâːgyaː	tâːgyaː	NOUN	_	_	16	comp:obj@T	_	AlignBegin=398300|AlignEnd=398498|Gloss=crown.Cons|wordform=tâːgyaːwâːn
 19	=waːn	=waːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	18	mod:poss/m	_	AlignBegin=398300|AlignEnd=398498|Gloss==2Plur.Gen|wordform=-waːn
 20	mə́n	mə́n	PART	_	Case=Dat	16	compound:prt	_	AlignBegin=398695|AlignEnd=398893|Gloss=BEN|PartType=Adv|wordform=mə́níː
-21	-íː	Remt	DET	_	Case=Dat|Deixis=Remt|PronType=Dem	20	det/m	_	AlignBegin=398695|AlignEnd=398893|Gloss=Remt|PartType=Adv
+21	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	20	det/m	_	AlignBegin=398695|AlignEnd=398893|Gloss=Remt|PartType=Adv
 22	hŋ́	hŋ́	PART	_	Polarity=Neg	15	mod	_	AlignBegin=399090|AlignEnd=399485|Gloss=Neg|PartType=Neg
 23	!//	!//	PUNCT	_	_	1	punct	_	AlignBegin=399485|AlignEnd=399880|Gloss=PUNCT
 
@@ -1505,7 +1505,7 @@
 13	vìː	vìː	NOUN	_	_	11	comp:obj@T	_	AlignBegin=448532|AlignEnd=448694|Gloss=speech|wordform=vèːs
 14	-es	-es	DET	_	Definite=Def	13	det/m	_	AlignBegin=448532|AlignEnd=448694|Gloss=Def
 15	mə́n	mə́n	PART	_	Case=Dat	11	compound:prt	_	AlignBegin=448855|AlignEnd=449017|Gloss=BEN|PartType=Adv|wordform=mə́níː
-16	-íː	Remt	DET	_	Case=Dat|Deixis=Remt|PronType=Dem	15	det/m	_	AlignBegin=448855|AlignEnd=449017|Gloss=Remt|PartType=Adv
+16	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	15	det/m	_	AlignBegin=448855|AlignEnd=449017|Gloss=Remt|PartType=Adv
 17	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	10	conj:coord	_	AlignBegin=451440|AlignEnd=451690|Copula=No|Gloss=3Sing.Fut=|wordform=wò
 18	taʧí	taʧí	VERB	_	_	17	comp:aux	_	AlignBegin=451690|AlignEnd=451940|Gloss=climb
 19-20	tsə́tnni	_	_	_	_	_	_	_	_
@@ -1544,7 +1544,7 @@
 2	wul	wul	VERB	_	_	1	comp:aux	_	AlignBegin=464210|AlignEnd=464380|Gloss=say
 3	mə́n	mə́n	NOUN	_	Number=Plur	2	comp:obj@R	_	AlignBegin=464380|AlignEnd=464550|Gloss=people
 4	zàːri	zàːri	NOUN	_	_	3	compound	_	AlignBegin=464550|AlignEnd=464635|Gloss=right|wordform=zàːríː
-5	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	4	det/m	_	AlignBegin=464550|AlignEnd=464635|Gloss=Remt
+5	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	4	det/m	_	AlignBegin=464550|AlignEnd=464635|Gloss=Remt
 6	tu	tu	SCONJ	_	_	2	comp:obj@T	_	AlignBegin=464720|AlignEnd=464890|Gloss=Qot
 7	mànə́n	man	VERB	_	Number=Plur	6	comp	_	AlignBegin=466460|AlignEnd=466580|Gloss=come.Plur.Juss|wordform=man
 8	ɗûːn	ɗúːni	PRON	_	_	7	comp:obj@G	_	AlignBegin=466700|AlignEnd=466940|Gloss=here
@@ -1561,7 +1561,7 @@
 19-20	dur	_	_	_	_	_	_	_	_
 19	dur	dur	NOUN	_	Definite=Cons	18	comp	_	AlignBegin=473667|AlignEnd=473763|Gloss=cause-Cons|wordform=dǔrwâːníː
 20	=wâːn	=waːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	19	mod:poss/m	_	AlignBegin=473667|AlignEnd=473763|Gloss==PlurGen|wordform=-wâːn
-21	-íː	-íː	DET	_	Case=Gen|Deixis=Remt|Number=Plur|Person=2|PronType=Dem	20	det/m	_	AlignBegin=473667|AlignEnd=473763|Gloss=Remt
+21	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	20	det/m	_	AlignBegin=473667|AlignEnd=473763|Gloss=Remt
 22	//	//	PUNCT	_	_	1	punct	_	AlignBegin=473954|AlignEnd=474240|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_03_Sermon_213-214
@@ -1655,7 +1655,7 @@
 6	ɣá	ká	ADP	_	_	4	comp:obl	_	AlignBegin=495992|AlignEnd=496250|Gloss=at
 7	mə́n	mə́n	NOUN	_	Number=Plur	6	comp	_	AlignBegin=496250|AlignEnd=496508|Gloss=people
 8	napti	napti	NOUN	_	_	7	compound	_	AlignBegin=496508|AlignEnd=496637|Gloss=left|wordform=naptíː
-9	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	8	det/m	_	AlignBegin=496508|AlignEnd=496637|Gloss=Remt
+9	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	8	det/m	_	AlignBegin=496508|AlignEnd=496637|Gloss=Remt
 10-11	wulʃí	_	_	_	_	_	_	_	_
 10	wul	wul	VERB	_	_	3	conj:coord	_	AlignBegin=498640|AlignEnd=498736|Gloss=say
 11	=ʃí	=ʃí	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	10	comp:obj@R/m	_	AlignBegin=498736|AlignEnd=498833|Gloss==3Plur.Acc
@@ -1672,7 +1672,7 @@
 20	ʃíːn	ʃíːn	VERB	_	_	19	compound:svc	_	AlignBegin=502826|AlignEnd=503019|Gloss=enter
 21	gìp	gìp	ADP	_	_	20	comp:obl	_	AlignBegin=503019|AlignEnd=503212|Gloss=inside
 22	wût	wût	NOUN	_	_	21	comp	_	AlignBegin=503212|AlignEnd=503308|Gloss=N|wordform=wûɗíː
-23	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	22	det/m	_	AlignBegin=503212|AlignEnd=503308|Gloss=Remt
+23	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	22	det/m	_	AlignBegin=503212|AlignEnd=503308|Gloss=Remt
 24	ɗan	ɗan	SCONJ	_	_	22	mod@relcl	_	AlignBegin=504520|AlignEnd=504866|Gloss=that
 25	ʧáː=	yáː=	AUX	_	Aspect=Imp|Number=Sing|Person=3	24	comp	_	AlignBegin=504866|AlignEnd=505212|Copula=No|Gloss=3Sing.Imp=|wordform=ʧáː
 26	vyáː	vyaː	VERB	_	_	25	comp:aux	_	AlignBegin=505212|AlignEnd=505558|Gloss=spend_day
@@ -1680,8 +1680,8 @@
 28	ká	ká	ADP	_	_	26	comp:obl	_	AlignBegin=505904|AlignEnd=506250|Gloss=at
 29	ləːtsə́ɣə̂n	ləːtsə́	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	28	comp	_	AlignBegin=506250|AlignEnd=506365|Gloss=blaze-Vnoun|wordform=ləːtsə́ɣə̂níː
 30	-íː	-íː	DET	_	Deixis=Remt|ExtPos=NOUN|PronType=Dem|VerbForm=Vnoun	29	det/m	_	AlignBegin=506250|AlignEnd=506365|Gloss=Remt
-31	gíː	gíː	DET	_	Deixis=Remt|PronType=Dem	22	conj:appos	_	AlignBegin=508680|AlignEnd=509036|Gloss=Remt
-32	ɗan	ɗan	SCONJ	_	_	31	mod@relcl	_	AlignBegin=509036|AlignEnd=509392|Gloss=that
+31	gíː	gíː	DET	_	Deixis=Remt|PronType=Dem	29	det	_	AlignBegin=508680|AlignEnd=509036|Gloss=Remt
+32	ɗan	ɗan	SCONJ	_	_	29	mod@relcl	_	AlignBegin=509036|AlignEnd=509392|Gloss=that
 33	tə̀tà=	TaYiNa=	AUX	_	Number=Plur|Person=3|Tense=Past	32	comp	_	AlignBegin=509392|AlignEnd=509748|Copula=No|Gloss=3Plur.RemPast=|PastType=Remt|wordform=tə̀tà
 34-35	ndəːrtə	_	_	_	_	_	_	_	_
 34	ndəːr	ndəːr	VERB	_	_	33	comp:aux	_	AlignBegin=509748|AlignEnd=509926|Gloss=prepare
@@ -1763,7 +1763,7 @@
 # text_en = Those on his left will answer Jesus saying "Jesus, when did we see you hungry or a stranger or needing clothes and then we refused to help you ?"
 1	mə́n	muri	NOUN	_	Number=Plur	4	dislocated@subj	_	AlignBegin=532000|AlignEnd=532253|Gloss=people
 2	napti	napti	NOUN	_	_	1	compound	_	AlignBegin=532253|AlignEnd=532379|Gloss=left|wordform=naptíː
-3	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	2	det/m	_	AlignBegin=532253|AlignEnd=532379|Gloss=Remt
+3	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	2	det/m	_	AlignBegin=532253|AlignEnd=532379|Gloss=Remt
 4	tá=	a=	AUX	_	Number=Plur|Person=3|Tense=Fut	0	root	_	AlignBegin=533660|AlignEnd=533843|Copula=No|Gloss=3Plur.Fut=|wordform=tá
 5	sû	su	VERB	_	_	4	comp:aux	_	AlignBegin=533843|AlignEnd=534026|Gloss=answer
 6	Yéːsu	Yéːsu	PROPN	_	_	5	comp:obj@R	_	AlignBegin=534026|AlignEnd=534209|Gloss=Jesus
@@ -1992,7 +1992,7 @@
 4	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	3	comp:obj	_	AlignBegin=608065|AlignEnd=608380|Copula=No|Gloss=2Sing.Sub=|wordform=àː
 5	ʤwáːm	ʤwáːm	VERB	_	_	4	comp:aux	_	AlignBegin=608380|AlignEnd=608695|Gloss=gather
 6	lawya	lawya	NOUN	_	_	5	comp:obj	_	AlignBegin=608695|AlignEnd=609010|Gloss=lawyers|wordform=lawyoːyi
-7	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	6	det/m	_	AlignBegin=608695|AlignEnd=609010|Gloss=Remt
+7	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	6	det/m	_	AlignBegin=608695|AlignEnd=609010|Gloss=Remt
 8	ɓurúk	ɓurúk	DET	_	_	6	det	_	AlignBegin=609010|AlignEnd=609325|Gloss=all
 9	tá=	a=	AUX	_	Number=Plur|Person=3|Tense=Fut	0	root	_	AlignBegin=610580|AlignEnd=610823|Copula=No|Gloss=3Plur.Fut=|wordform=tá
 10	kə̌ːm	kə́ːm	VERB	_	_	9	comp:aux	_	AlignBegin=610823|AlignEnd=611066|Gloss=succeed
@@ -2133,7 +2133,7 @@
 3	vìː	vìː	NOUN	_	_	2	compound	_	AlignBegin=648826|AlignEnd=649109|Gloss=speech
 4	kapkə́	kapkə́	ADP	_	_	2	mod	_	AlignBegin=649109|AlignEnd=649392|Gloss=for
 5	Tʃóɣnvòn	Tʃóɣnvòn	NOUN	_	_	4	comp	_	AlignBegin=649392|AlignEnd=649534|Gloss=God|wordform=Tʃóknvòníː
-6	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	5	det/m	_	AlignBegin=649392|AlignEnd=649534|Gloss=Remt
+6	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	5	det/m	_	AlignBegin=649392|AlignEnd=649534|Gloss=Remt
 7	mə́n	mə́n	NOUN	_	Number=Plur	14	dislocated@top	_	AlignBegin=651120|AlignEnd=651350|Gloss=people
 8	fíɣə̂n	fi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	7	compound	_	AlignBegin=651350|AlignEnd=651465|Gloss=do-Vnoun|wordform=fi
 9	kúskə̀	kúskə̀	ADJ	_	_	10	mod	_	AlignBegin=651580|AlignEnd=651810|Gloss=evil
@@ -2212,7 +2212,7 @@
 6	kə̀t	kat	VERB	_	_	5	comp:aux	_	AlignBegin=673456|AlignEnd=673732|Gloss=leave
 7	mórɣə̂n	mor	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	comp:obj	_	AlignBegin=673732|AlignEnd=673870|Gloss=cheat-Vnoun|wordform=mor
 8	gamawopm	gamawopm	PRON	_	Number=Plur|Person=1|Reflex=Yes	7	comp:obj	_	AlignBegin=674008|AlignEnd=674146|Gloss=1Plur.REFL|wordform=gamawopíː
-9	-íː	-íː	DET	_	Deixis=Remt|Number=Plur|Person=1|PronType=Dem|Reflex=Yes	8	det/m	_	AlignBegin=674008|AlignEnd=674146|Gloss=Remt
+9	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem|Reflex=Yes	8	det/m	_	AlignBegin=674008|AlignEnd=674146|Gloss=Remt
 10	//	//	PUNCT	_	_	2	punct	_	AlignBegin=674008|AlignEnd=674146|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_03_Sermon_306-307
@@ -2791,7 +2791,7 @@
 14	-íː	-íː	ADV	_	_	13	mod/m	_	Accomplished=Yes|AlignBegin=855560|AlignEnd=855680|Gloss=Acpl
 15	kap	kap	VERB	_	_	13	compound:svc	_	AlignBegin=856780|AlignEnd=856987|Gloss=take
 16	Yéːsu	Yéːsu	PROPN	_	_	15	comp:obj	_	AlignBegin=856987|AlignEnd=857091|Gloss=Jesus|wordform=Yéːsúy
-17	-íː	Remt	DET	_	Deixis=Remt|PronType=Dem	16	det/m	_	AlignBegin=856987|AlignEnd=857091|Gloss=Remt
+17	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	16	det/m	_	AlignBegin=856987|AlignEnd=857091|Gloss=Remt
 18	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	12	conj:coord	_	AlignBegin=858020|AlignEnd=858248|Copula=No|Gloss=2Sing.Sub=|wordform=àː
 19-20	númtíː	_	_	_	_	_	_	_	_
 19	núm	num	VERB	_	_	18	comp:aux	_	AlignBegin=858248|AlignEnd=858324|Gloss=hold
