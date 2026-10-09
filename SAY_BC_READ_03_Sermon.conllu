@@ -1820,7 +1820,7 @@
 14	fi	fi	VERB	_	_	12	comp:aux	_	AlignBegin=556163|AlignEnd=556386|Gloss=do
 15	mə́n	muri	NOUN	_	Number=Plur	14	comp:obj@R	_	AlignBegin=556386|AlignEnd=556609|Gloss=people
 16	láːpkə́nì	laːp	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	15	compound	_	AlignBegin=556609|AlignEnd=556683|Gloss=follow-Vnoun|wordform=láːpkə́nètn
-17	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	16	mod:poss/m	_	AlignBegin=556609|AlignEnd=556683|Gloss==1SingGen|wordform=láːpkə́nètn
+17	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	16	mod:poss/m	_	AlignBegin=556609|AlignEnd=556683|Gloss=-1Sing.Gen|wordform=láːpkə́nètn
 18	mə́n	mə́n	PART	_	Case=Dat|PartType=Case	14	compound:prt	_	AlignBegin=556832|AlignEnd=557055|Gloss=Dat
 19	á	ká	ADP	_	_	14	mod	_	AlignBegin=558180|AlignEnd=558333|Gloss=at
 20	ɗə̂ɣn	ɗə̂ɣn	VERB	_	_	19	comp	_	AlignBegin=558333|AlignEnd=558486|Gloss=world

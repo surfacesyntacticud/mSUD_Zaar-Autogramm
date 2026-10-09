@@ -932,7 +932,7 @@
 19	ɗi	ɗi	PART	_	PartType=Adv	17	compound:prt	_	AlignBegin=127587|AlignEnd=127676|Gloss=Ctp|wordform==ɗi
 20	á	ká	ADP	_	_	17	comp:obl	_	AlignBegin=127676|AlignEnd=127945|Gloss=at
 21	kârː	kârː	NOUN	_	_	20	comp	_	AlignBegin=127945|AlignEnd=128214|Gloss=back.Cons|wordform=káːrâtə́n
-22	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	21	mod:poss/m	_	AlignBegin=127945|AlignEnd=128214|Gloss==1Sing.Gen|wordform=-atn
+22	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	21	mod:poss/m	_	AlignBegin=127945|AlignEnd=128214|Gloss=-1Sing.Gen
 23	-ə́n	-ə́n	DET	_	PronType=Dem	21	det/m	_	AlignBegin=127945|AlignEnd=128214|Gloss=-Prox
 24	!//=	!//=	PUNCT	_	_	25	punct	_	AlignBegin=128214|AlignEnd=128484|Gloss=PUNCT
 25	má=	a=	AUX	_	Number=Plur|Person=1|Tense=Fut	17	parataxis@conj	_	AlignBegin=128484|AlignEnd=128601|Copula=No|Gloss=1Plur.Fut=|wordform=má
@@ -1311,7 +1311,7 @@
 1	ʃèː	ʃèː	X	_	_	8	unk	_	AlignBegin=178572|AlignEnd=178814|Gloss=X
 2	gyáː	gyáː	DET	_	Number=Plur	3	det	_	AlignBegin=178814|AlignEnd=179056|Gloss=Plur
 3	daːkâm	daːkâm	NOUN	_	_	8	vocative	_	AlignBegin=179056|AlignEnd=179177|Gloss=friend.Cons|wordform=daːkámâtn
-4	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	mod:poss/m	_	AlignBegin=179056|AlignEnd=179177|Gloss==1Sing.Gen|wordform=-atn
+4	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	mod:poss/m	_	AlignBegin=179056|AlignEnd=179177|Gloss=-1Sing.Gen
 5	<	<	PUNCT	_	_	3	punct	_	AlignBegin=179298|AlignEnd=179542|Gloss=PUNCT
 6	ká	ká	INTJ	_	_	8	discourse	_	AlignBegin=180005|AlignEnd=180033|Gloss=disapproval
 7	<	<	PUNCT	_	_	6	punct	_	AlignBegin=180033|AlignEnd=180061|Gloss=PUNCT
@@ -2510,7 +2510,7 @@
 5	ká	ká	INTJ	_	_	10	discourse	_	AlignBegin=318570|AlignEnd=318726|Gloss=disapproval
 6	ʃèː	ʃèː	X	_	_	10	unk	_	AlignBegin=319711|AlignEnd=319976|Gloss=X
 7	daːkâm	daːkâm	NOUN	_	_	10	vocative	_	AlignBegin=319976|AlignEnd=320108|Gloss=friend.Cons|wordform=daːkámâtn
-8	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	mod:poss/m	_	AlignBegin=319976|AlignEnd=320108|Gloss==1Sing.Gen|wordform=-atn
+8	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	mod:poss/m	_	AlignBegin=319976|AlignEnd=320108|Gloss=-1Sing.Gen
 9	ʃèː	ʃèː	X	_	_	10	unk	_	AlignBegin=320241|AlignEnd=320506|Gloss=X
 10-11	fini	_	_	_	_	_	_	_	_
 10	fi	fi	VERB	_	_	3	comp	_	AlignBegin=320506|AlignEnd=320638|Gloss=do|wordform=*fi-íː
@@ -2603,7 +2603,7 @@
 # text_en = See.. See how old I am!
 1	ʃèː~	ʃèːkára	NOUN	_	_	4	subj	_	AlignBegin=328032|AlignEnd=328404|Gloss=HESIT[year]
 2	ʃèːkára	ʃèːkára	NOUN	_	_	1	conj:dicto	_	AlignBegin=328404|AlignEnd=328758|Gloss=year.Cons|wordform=ʃèːkárâtn
-3	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	mod:poss/m	_	AlignBegin=328404|AlignEnd=328758|Gloss==1Sing.Gen|wordform=-atn
+3	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	mod:poss/m	_	AlignBegin=328404|AlignEnd=328758|Gloss=-1Sing.Gen
 4	wuriː	wuriː	ADV	_	PronType=Int	0	root	_	AlignBegin=328758|AlignEnd=329112|Gloss=how_many
 5	máː	máː	ADV	_	_	4	mod	_	AlignBegin=329112|AlignEnd=329466|Gloss=even
 6	?//	?//	PUNCT	_	_	4	punct	_	AlignBegin=329466|AlignEnd=329821|Gloss=PUNCT
@@ -2779,7 +2779,7 @@
 10	[	[	PUNCT	_	_	16	punct	_	AlignBegin=347165|AlignEnd=347330|Gloss=PUNCT
 11	ʃèː	ʃèː	X	_	_	16	unk	_	AlignBegin=347330|AlignEnd=347493|Gloss=X
 12	daːkâm	daːkâm	NOUN	_	_	16	vocative	_	AlignBegin=347493|AlignEnd=347591|Gloss=friend.Cons|wordform=daːkámâtn
-13	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	12	mod:poss/m	_	AlignBegin=347493|AlignEnd=347591|Gloss==1Sing.Gen|wordform=-atn
+13	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	12	mod:poss/m	_	AlignBegin=347493|AlignEnd=347591|Gloss=-1Sing.Gen
 14	<	<	PUNCT	_	_	12	punct	_	AlignBegin=347689|AlignEnd=347885|Gloss=PUNCT
 15	ʃèː	ʃèː	X	_	_	16	unk	_	AlignBegin=347885|AlignEnd=348081|Gloss=X
 16-17	fuːɣə	_	_	_	_	_	_	_	_
@@ -3270,7 +3270,7 @@
 10	yeli	yeli	VERB	_	_	6	comp	_	AlignBegin=404699|AlignEnd=404836|Gloss=see|wordform=yel
 11	<	<	PUNCT	_	_	16	punct	_	AlignBegin=404836|AlignEnd=404972|Gloss=PUNCT
 12	daːkâm	daːkâm	NOUN	_	_	16	vocative	_	AlignBegin=404972|AlignEnd=405076|Gloss=friend.Cons|wordform=daːkámâtn
-13	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	12	mod:poss/m	_	AlignBegin=404972|AlignEnd=405076|Gloss==1Sing.Gen|wordform=-atn
+13	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	12	mod:poss/m	_	AlignBegin=404972|AlignEnd=405076|Gloss=-1Sing.Gen
 14	<	<	PUNCT	_	_	16	punct	_	AlignBegin=405180|AlignEnd=405388|Gloss=PUNCT
 15	ʃèː	ʃèː	X	_	_	16	unk	_	AlignBegin=405388|AlignEnd=405596|Gloss=X
 16	vwàràŋ	vwàràŋ	NOUN	_	_	10	parataxis	_	AlignBegin=405596|AlignEnd=405779|Gloss=blood
@@ -4147,7 +4147,7 @@
 # text_en = My man, did you like the taste of the meat?
 1	ʃèː	ʃèː	X	_	_	5	unk	_	AlignBegin=515169|AlignEnd=515391|Gloss=X
 2	muri	muri	NOUN	_	_	5	vocative	_	AlignBegin=515391|AlignEnd=515502|Gloss=man.Cons|wordform=múrâtn
-3	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	mod:poss/m	_	AlignBegin=515391|AlignEnd=515502|Gloss==1Sing.Gen|wordform=-atn
+3	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	mod:poss/m	_	AlignBegin=515391|AlignEnd=515502|Gloss=-1Sing.Gen
 4	káː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=2	0	root	_	AlignBegin=515613|AlignEnd=515835|Copula=No|Gloss=2Sing.Perf=|wordform=káː
 5	wum	wum	VERB	_	_	4	comp:aux	_	AlignBegin=515835|AlignEnd=516057|Gloss=feel
 6	ʃèː	ʃèː	X	_	_	7	unk	_	AlignBegin=516057|AlignEnd=516279|Gloss=X

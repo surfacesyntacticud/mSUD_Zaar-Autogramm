@@ -111,7 +111,7 @@
 13	mə́n	mə́n	NOUN	_	Number=Plur	12	comp	_	AlignBegin=22028|AlignEnd=22250|Gloss=people
 14	sópkə̂n	sop	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	13	compound	_	AlignBegin=22250|AlignEnd=22361|Gloss=court-Vnoun|wordform=sop
 15	ɲiː	ɲiː	NOUN	_	_	14	comp:obj	_	AlignBegin=22472|AlignEnd=22546|Gloss=daughter.Cons|wordform=ɲêːtə́n
-16	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	15	mod:poss/m	_	AlignBegin=22472|AlignEnd=22546|Gloss==1Sing.Gen|wordform=-atn
+16	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	15	mod:poss/m	_	AlignBegin=22472|AlignEnd=22546|Gloss=-1Sing.Gen
 17	-ə́n	-ə́n	DET	_	PronType=Dem	15	det/m	_	AlignBegin=22472|AlignEnd=22546|Gloss=-Prox
 18	tòː	tòː	PART	_	PartType=Disc	19	discourse	_	AlignBegin=24180|AlignEnd=24450|Gloss=well
 19	ma=	a=	AUX	_	Number=Sing|Person=1|Tense=Fut	8	comp	_	AlignBegin=24450|AlignEnd=24720|Copula=No|Gloss=1Sing.Fut=|wordform=ma
@@ -157,7 +157,7 @@
 6	vər	vər	VERB	_	_	5	comp:aux	_	AlignBegin=32895|AlignEnd=32993|Gloss=give
 7	=ɣə	=kə	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	comp:obj@R/m	_	AlignBegin=32993|AlignEnd=33090|Gloss==2Sing.OBJ
 8	ɲiː	ɲiː	NOUN	_	_	6	comp:obj@T	_	AlignBegin=33090|AlignEnd=33155|Gloss=daughter.Cons|wordform=ɲêːtə́n
-9	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	8	mod:poss/m	_	AlignBegin=33090|AlignEnd=33155|Gloss==1Sing.Gen|wordform=-atn
+9	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	8	mod:poss/m	_	AlignBegin=33090|AlignEnd=33155|Gloss=-1Sing.Gen
 10	-ə́n	-ə́n	DET	_	PronType=Dem	8	det/m	_	AlignBegin=33090|AlignEnd=33155|Gloss=-Prox
 11	//	//	PUNCT	_	_	5	punct	_	AlignBegin=33285|AlignEnd=33480|Gloss=PUNCT
 
@@ -2822,7 +2822,7 @@
 12	vìː	vìː	NOUN	_	_	11	comp:obj@lvc	_	AlignBegin=635364|AlignEnd=635552|Gloss=speech
 13	tə́	tə́	ADP	_	_	11	comp:obl	_	AlignBegin=635552|AlignEnd=635740|Gloss=with
 14	zàrsə̀	zaːr	NOUN	_	_	13	comp	_	AlignBegin=635740|AlignEnd=635803|Gloss=person.Plur.Cons|wordform=zàrsàtn
-15	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	14	mod:poss/m	_	AlignBegin=635740|AlignEnd=635803|Gloss==1Sing.Gen|wordform=-atn
+15	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	14	mod:poss/m	_	AlignBegin=635740|AlignEnd=635803|Gloss=-1Sing.Gen
 16	kàm	kàm	PART	_	_	13	discourse	_	AlignBegin=635928|AlignEnd=636116|Gloss=indeed
 17	//	//	PUNCT	_	_	3	punct	_	AlignBegin=636116|AlignEnd=636300|Gloss=PUNCT
 

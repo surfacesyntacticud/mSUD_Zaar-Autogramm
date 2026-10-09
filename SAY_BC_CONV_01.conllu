@@ -1543,7 +1543,7 @@
 10	maːndə	maːndə	NOUN	_	_	8	comp:obj	_	AlignBegin=175333|AlignEnd=175525|Gloss=fight
 11	tə́	tə́	ADP	_	_	8	comp:obl	_	AlignBegin=175525|AlignEnd=175658|Gloss=with
 12	kúni	kúni	NOUN	_	_	11	comp	_	AlignBegin=175658|AlignEnd=175724|Gloss=boy.Cons|wordform=kúɲêtn
-13	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	12	mod:poss/m	_	AlignBegin=175658|AlignEnd=175724|Gloss==1Sing.Gen|wordform=-atn
+13	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	12	mod:poss/m	_	AlignBegin=175658|AlignEnd=175724|Gloss=-1Sing.Gen
 14	//	//	PUNCT	_	_	6	punct	_	AlignBegin=175791|AlignEnd=175923|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_01_172-174
@@ -1565,7 +1565,7 @@
 9	maːndə	maːndə	NOUN	_	_	7	comp:obj	_	AlignBegin=177728|AlignEnd=177898|Gloss=fight
 10	tə́	tə́	ADP	_	_	7	comp:obl	_	AlignBegin=177898|AlignEnd=178068|Gloss=with
 11	kúni	kúni	NOUN	_	_	10	comp	_	AlignBegin=178068|AlignEnd=178153|Gloss=boy.Cons|wordform=kúɲêtn
-12	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	11	mod:poss/m	_	AlignBegin=178068|AlignEnd=178153|Gloss==1Sing.Gen|wordform=-atn
+12	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	11	mod:poss/m	_	AlignBegin=178068|AlignEnd=178153|Gloss=-1Sing.Gen
 13	<	<	PUNCT	_	_	5	punct	_	AlignBegin=178238|AlignEnd=178410|Gloss=PUNCT
 14	bâː	baːbù	PART	_	Foreign=Yes|PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=178410|AlignEnd=178609|Gloss=there_is.Neg|Lang=ha
 15	dàːmuwa	dàːmuwa	NOUN	_	Foreign=Yes	14	subj	_	AlignBegin=178609|AlignEnd=178808|Gloss=problem|Lang=ha
@@ -1597,12 +1597,12 @@
 5	mi	yi	AUX	_	Number=Sing|Person=1	4	comp	_	AlignEnd=180479|Copula=Yes|Gloss=1Sing.be.Loc
 6	tə́	tə́	ADP	_	_	5	comp:pred	_	AlignBegin=180479|AlignEnd=180756|Gloss=with
 7	túr	túr	NOUN	_	_	6	comp	_	AlignBegin=180756|AlignEnd=180894|Gloss=husband.Cons|wordform=túrâtn
-8	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	mod:poss/m	_	AlignBegin=180756|AlignEnd=180894|Gloss==1Sing.Gen|wordform=-atn
+8	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	mod:poss/m	_	AlignBegin=180756|AlignEnd=180894|Gloss=-1Sing.Gen
 9	kúmá	kúmá	CCONJ	_	_	10	cc	_	AlignBegin=181033|AlignEnd=181309|Gloss=also
 10	mi	yi	AUX	_	Number=Sing|Person=1	5	conj:coord	_	AlignEnd=181468|Copula=Yes|Gloss=1Sing.be.Loc
 11	tə́	tə́	ADP	_	_	10	comp:pred	_	AlignBegin=181468|AlignEnd=181627|Gloss=with
 12	kúni	kúni	NOUN	_	_	11	comp	_	AlignBegin=181627|AlignEnd=181707|Gloss=boy.Cons|wordform=kúɲêtn
-13	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	12	mod:poss/m	_	AlignBegin=181627|AlignEnd=181707|Gloss==1Sing.Gen|wordform=-atn
+13	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	12	mod:poss/m	_	AlignBegin=181627|AlignEnd=181707|Gloss=-1Sing.Gen
 14	//	//	PUNCT	_	_	1	punct	_	AlignBegin=181786|AlignEnd=181944|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_01_179-179
@@ -1699,7 +1699,7 @@
 5	yâːn	yâːn	SCONJ	_	_	4	unk	_	AlignBegin=188122|AlignEnd=188305|Gloss=if|InIdiom=Yes
 6	nə	nə	AUX	_	_	4	comp	_	AlignBegin=188305|AlignEnd=188488|Copula=Yes|Gloss=be.Ident
 7	kúni	kúni	NOUN	_	_	6	comp:pred	_	AlignBegin=188488|AlignEnd=188580|Gloss=boy.Cons|wordform=kúɲêtn
-8	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	mod:poss/m	_	AlignBegin=188488|AlignEnd=188580|Gloss==1Sing.Gen|wordform=-atn
+8	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	7	mod:poss/m	_	AlignBegin=188488|AlignEnd=188580|Gloss=-1Sing.Gen
 9	ndá	nda	VERB	_	_	6	comp:cleft	_	AlignBegin=188671|AlignEnd=188854|Gloss=enter
 10	tá=	a=	AUX	_	Number=Plur|Person=3|Tense=Fut	6	conj:coord	_	AlignBegin=188854|AlignEnd=189037|Copula=No|Gloss=3Plur.Fut=|wordform=tá
 11	fî	fi	VERB	_	_	10	comp:aux	_	AlignBegin=189037|AlignEnd=189220|Gloss=do
@@ -1908,7 +1908,7 @@
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_01.WAV
 # sent_timecode = 214785, 218195
-# text = mətá- wultə tu yáː- yê ʧík fáː < tàː- fi àrkáwalé -t -íː hár tàː- ʧi mânʤá -atn -íː oː //
+# text = mətá= wultə tu yáː= yê ʧík fáː < tàː= fi àrkáwalé -atn -íː hár tàː= ʧi mânʤá -atn -íː oː //
 # text_ortho = mətá wultə tu yáː yê ʧík fáː < tàː fi àrkáwalêtíː hár tàː ʧi mânʤátíyoː //
 # text_en = I told him that if that's what he thinks, they have already proposed to me and even tasted my palm oil.
 1	mətá=	TaYiNa=	AUX	_	Number=Sing|Person=1|Tense=Past	0	root	_	AlignBegin=214785|AlignEnd=214982|Copula=No|Gloss=1Sing.RemPast=|PastType=Remt|wordform=mətá
@@ -1924,13 +1924,13 @@
 10	tàː=	áː=	AUX	_	Aspect=Perf|Number=Plur|Person=3	4	comp	_	AlignBegin=216060|AlignEnd=216378|Copula=No|Gloss=3Plur.Perf=|wordform=tàː
 11	fi	fi	VERB	_	_	10	comp:aux	_	AlignBegin=216378|AlignEnd=216696|Gloss=do
 12	àrkáwalé	àrkáwalé	NOUN	_	Definite=Cons	11	comp:obj	_	AlignBegin=216696|AlignEnd=216802|Gloss=promise-Cons|wordform=àrkáwalêtíː
-13	=t	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	12	mod:poss/m	_	AlignBegin=216696|AlignEnd=216802|Gloss==Sing.Poss|wordform=-t
-14	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	13	det/m	_	AlignBegin=216696|AlignEnd=216802|Gloss=Remt
+13	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	12	mod:poss/m	_	AlignBegin=216696|AlignEnd=216802|Gloss=-1Sing.Gen
+14	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	12	det/m	_	AlignBegin=216696|AlignEnd=216802|Gloss=Remt
 15	hár	hár	CCONJ	_	_	16	cc	_	AlignBegin=217015|AlignEnd=217251|Gloss=and_even
 16	tàː=	áː=	AUX	_	Aspect=Perf|Number=Plur|Person=3	10	conj:coord	_	AlignBegin=217251|AlignEnd=217487|Copula=No|Gloss=3Plur.Perf=|wordform=tàː
 17	ʧi	ʧi	VERB	_	_	16	comp:aux	_	AlignBegin=217487|AlignEnd=217723|Gloss=eat|wordform=*ʧi-íː
 18	mânʤá	mânʤá	NOUN	_	Definite=Cons	17	comp:obj	_	AlignBegin=217723|AlignEnd=217782|Gloss=palm_oil-Cons|wordform=mânʤátíː
-19	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	18	mod:poss/m	_	AlignBegin=217723|AlignEnd=217782|Gloss==SingGen|wordform=-atn
+19	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	18	mod:poss/m	_	AlignBegin=217723|AlignEnd=217782|Gloss=-1Sing.Gen
 20	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	19	det/m	_	AlignBegin=217723|AlignEnd=217782|Gloss=Remt
 21	oː	oː	PART	_	PartType=Ill	10	mod	_	AlignBegin=217900|AlignEnd=217959|Gloss=Emph
 22	//	//	PUNCT	_	_	1	punct	_	AlignBegin=217959|AlignEnd=218195|Gloss=PUNCT
@@ -2763,7 +2763,7 @@
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_01.WAV
 # sent_timecode = 314702, 322393
-# text = àmáː á súːɣə̂ngə̀tn < myáː= súː mə̀= yél tu myáː= gámá sekóndə́ríː sə̀kúːl =at -íː < mə̀= ɬə -íː makaranta College of Education Azare //
+# text = àmáː á súːɣə̂ngə̀tn < myáː= súː mə̀= yél tu myáː= gámá sekóndə́ríː sə̀kúːl -atn -íː < mə̀= ɬə -íː makaranta College of Education Azare //
 # text_ortho = àmáː á súːɣə̂n gə̀tn < myáː súː mə̀ yél tu myáː gámá sekóndə́ríː sə̀kúːlâtíː < mə̀ ɬíː makaranta College of Education Azare //
 # text_en = But in my opinion, I want to see that ... if I finish my secondary school, I will go... to school... at the <en College of Education, Azare en>.
 1	àmáː	àmáː	CCONJ	_	_	6	discourse	_	AlignBegin=314702|AlignEnd=314883|Gloss=but
@@ -2781,8 +2781,8 @@
 12	gámá	gamá	VERB	_	_	11	comp:aux	_	AlignBegin=317591|AlignEnd=317954|Gloss=finish
 13	sekóndə́ríː	sekóndə́ríː	ADJ	_	_	14	mod	_	AlignBegin=317954|AlignEnd=318317|Gloss=secondary
 14	sə̀kúːl	sə̀kúːl	NOUN	_	Definite=Cons	12	comp:obj	_	AlignBegin=318317|AlignEnd=318438|Gloss=school-Cons|wordform=sə̀kúːlâtíː
-15	=at	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	14	mod:poss/m	_	AlignBegin=318317|AlignEnd=318438|Gloss==SingGen|wordform=-atn
-16	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	15	det/m	_	AlignBegin=318317|AlignEnd=318438|Gloss=Remt
+15	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	14	mod:poss/m	_	AlignBegin=318317|AlignEnd=318438|Gloss=-1Sing.Gen
+16	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	14	det/m	_	AlignBegin=318317|AlignEnd=318438|Gloss=Remt
 17	<	<	PUNCT	_	_	11	punct	_	AlignBegin=318680|AlignEnd=319042|Gloss=PUNCT
 18	mə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=1	10	comp	_	AlignBegin=319380|AlignEnd=319664|Copula=No|Gloss=1Sing.Sub=|wordform=mə̀
 19	ɬə	ɬə	VERB	_	_	18	comp:aux	_	AlignBegin=319664|AlignEnd=319806|Gloss=go|wordform=ɬíː

@@ -3851,7 +3851,7 @@
 18	ɬə́	ɬə	VERB	_	_	17	comp:aux	_	AlignBegin=516890|AlignEnd=517072|Gloss=go
 19	tuːr	tuːr	VERB	_	_	18	compound:svc	_	AlignBegin=517072|AlignEnd=517254|Gloss=cook
 20	ngətn	ngətn	NOUN	_	_	19	comp:obj	_	AlignBegin=517254|AlignEnd=517345|Gloss=thing.Cons|wordform=ngə́tâtn
-21	=atn	=atn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	20	mod:poss/m	_	AlignBegin=517254|AlignEnd=517345|Gloss==1Sing.Gen|wordform=-atn
+21	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	20	mod:poss/m	_	AlignBegin=517254|AlignEnd=517345|Gloss=-1Sing.Gen
 22	əndá	kəndá	SCONJ	_	_	23	mod	_	AlignBegin=518054|AlignEnd=518225|Gloss=then
 23	mə́=	á=	AUX	_	Number=Plur|Person=1|Tense=Pres	19	conj:coord	_	AlignBegin=518225|AlignEnd=518396|Copula=No|Gloss=1Plur.Aor=|wordform=mə́
 24	ʧî	ʧi	VERB	_	_	23	comp:aux	_	AlignBegin=518396|AlignEnd=518567|Gloss=eat
