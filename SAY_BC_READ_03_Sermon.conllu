@@ -1535,7 +1535,7 @@
 41	//	//	PUNCT	_	_	30	punct	_	AlignBegin=462240|AlignEnd=462460|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_03_Sermon_208-212
-# text = wò- wul mə́n zàːri -íː tu mànə́n ɗûːn á də̀n gə̀ daː gə̀tíː gíː ɗan mə- ndəːr nə́ dur -íː //
+# text = wò= wul mə́n zàːri -íː tu mànə́n ɗûːn á də̀n gə̀ daː gə̀tíː gíː ɗan mə= ndəːr nə́ dur -íː //
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_03_Sermon.WAV
 # sent_timecode = 464040, 474240
 # text_ortho = wò wul mə́n zàːríː tu mànə́n ɗûːn á də̀n gə̀ dàːgə̀tíː gíː ɗan mə ndə́ːr nə́ dǔrwâːníː //
@@ -1552,17 +1552,19 @@
 10	də̀n	də̀n	NOUN	_	_	9	comp	_	AlignBegin=468528|AlignEnd=468716|Gloss=compound
 11	gə̀	kə́	ADP	_	Case=Gen	10	mod	_	AlignBegin=468716|AlignEnd=468904|Gloss=of
 12	daː	daː	VERB	_	_	11	comp	_	AlignBegin=468904|AlignEnd=468967|Gloss=father
-13	gə̀tíː	gə̀tn	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|Person=1|PronType=Prs	12	mod@poss	_	AlignBegin=468967|AlignEnd=469030|Gloss=1SingGen.Remt|wordform==gə̀tn
-14	gíː	gíː	PRON	_	Deixis=Remt|PronType=Dem	10	conj:appos	_	AlignBegin=471000|AlignEnd=471208|Gloss=Remt
-15	ɗan	ɗan	SCONJ	_	_	14	mod@relcl	_	AlignBegin=471208|AlignEnd=471416|Gloss=that
-16	mə=	á=	AUX	_	Number=Sing|Person=1|Tense=Pres	15	comp	_	AlignBegin=471416|AlignEnd=471624|Copula=No|Gloss=1Sing.Aor=|wordform=mə
-17	ndəːr	ndəːr	VERB	_	_	16	comp:aux	_	AlignBegin=471624|AlignEnd=471832|Gloss=prepare
-18	nə́	nə́	ADP	_	_	17	comp:obl	_	AlignBegin=473380|AlignEnd=473667|Gloss=for
-19-20	dur	_	_	_	_	_	_	_	_
-19	dur	dur	NOUN	_	Definite=Cons	18	comp	_	AlignBegin=473667|AlignEnd=473763|Gloss=cause-Cons|wordform=dǔrwâːníː
-20	=wâːn	=waːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	19	mod:poss/m	_	AlignBegin=473667|AlignEnd=473763|Gloss==PlurGen|wordform=-wâːn
-21	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	20	det/m	_	AlignBegin=473667|AlignEnd=473763|Gloss=Remt
-22	//	//	PUNCT	_	_	1	punct	_	AlignBegin=473954|AlignEnd=474240|Gloss=PUNCT
+13-14	gə̀tíː	_	_	_	_	_	_	_	_
+13	gə̀tn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	12	mod@poss	_	AlignBegin=468967|AlignEnd=469030|Gloss=1SingGen|wordform==gə̀tn
+14	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	13	det/m	_	AlignBegin=468967|AlignEnd=469030|Gloss=Remt
+15	gíː	gíː	PRON	_	Deixis=Remt|PronType=Dem	10	conj:appos	_	AlignBegin=471000|AlignEnd=471208|Gloss=Remt
+16	ɗan	ɗan	SCONJ	_	_	15	mod@relcl	_	AlignBegin=471208|AlignEnd=471416|Gloss=that
+17	mə=	á=	AUX	_	Number=Sing|Person=1|Tense=Pres	16	comp	_	AlignBegin=471416|AlignEnd=471624|Copula=No|Gloss=1Sing.Aor=|wordform=mə
+18	ndəːr	ndəːr	VERB	_	_	17	comp:aux	_	AlignBegin=471624|AlignEnd=471832|Gloss=prepare
+19	nə́	nə́	ADP	_	_	18	comp:obl	_	AlignBegin=473380|AlignEnd=473667|Gloss=for
+20-21	dur	_	_	_	_	_	_	_	_
+20	dur	dur	NOUN	_	Definite=Cons	19	comp	_	AlignBegin=473667|AlignEnd=473763|Gloss=cause-Cons|wordform=dǔrwâːníː
+21	=wâːn	=waːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	20	mod:poss/m	_	AlignBegin=473667|AlignEnd=473763|Gloss==PlurGen|wordform=-wâːn
+22	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	21	det/m	_	AlignBegin=473667|AlignEnd=473763|Gloss=Remt
+23	//	//	PUNCT	_	_	1	punct	_	AlignBegin=473954|AlignEnd=474240|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_03_Sermon_213-214
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_03_Sermon.WAV

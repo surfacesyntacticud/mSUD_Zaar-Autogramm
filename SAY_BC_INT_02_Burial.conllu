@@ -2548,18 +2548,20 @@
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_02_BURIAL.WAV
 # sent_timecode = 358522, 360548
-# text = nə́ myáːni gə̀tíː < tu máː ndwaːtsə́y //
+# text = nə́ myáːni gə̀tíː < tu máː= ndwaːtsə́ -íː //
 # text_ortho = nə́ myáːni gə̀tíː < tu máː ndwaːtsə́y //
 # text_en = As for me myself, it's because I am old.
-1	nə́	nə́	ADP	_	_	6	dislocated@top	_	AlignBegin=358522|AlignEnd=358734|Gloss=for
+1	nə́	nə́	ADP	_	_	7	dislocated@top	_	AlignBegin=358522|AlignEnd=358734|Gloss=for
 2	myáːni	myáːni	PRON	_	Number=Sing|Person=1|PronType=Prs	1	comp	_	AlignBegin=358734|AlignEnd=358946|Gloss=1Sing.IDP
-3	gə̀tíː	gə̀tn	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3	1	mod@ethic	_	AlignBegin=358946|AlignEnd=359158|Gloss=3SingGen.Remt|wordform=gə̀tn
-4	<	<	PUNCT	_	_	1	punct	_	AlignBegin=359158|AlignEnd=359372|Gloss=PUNCT
-5	tu	tu	SCONJ	_	_	6	mod	_	AlignBegin=359763|AlignEnd=359959|Gloss=Qot
-6	máː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=1	0	root	_	AlignBegin=359959|AlignEnd=360155|Copula=No|Gloss=1Sing.Perf=|wordform=máː
-7	ndwaːtsə́	ndwaːtsə́	VERB	_	_	6	comp:aux	_	AlignBegin=360155|AlignEnd=360351|Gloss=grow_old|wordform=ndwaːtsə́y
-8	-íː	-íː	ADV	_	_	7	mod/m	_	Accomplished=Yes|AlignBegin=360155|AlignEnd=360351|Gloss=Acpl
-9	//	//	PUNCT	_	_	6	punct	_	AlignBegin=360351|AlignEnd=360548|Gloss=PUNCT
+3-4	gə̀tíː	_	_	_	_	_	_	_	_
+3	gə̀tn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=3	1	mod@ethic	_	AlignBegin=358946|AlignEnd=359158|Gloss=3SingGen
+4	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	3	det/m	_	AlignBegin=358946|AlignEnd=359158|Gloss=Remt
+5	<	<	PUNCT	_	_	1	punct	_	AlignBegin=359158|AlignEnd=359372|Gloss=PUNCT
+6	tu	tu	SCONJ	_	_	7	mod	_	AlignBegin=359763|AlignEnd=359959|Gloss=Qot
+7	máː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=1	0	root	_	AlignBegin=359959|AlignEnd=360155|Copula=No|Gloss=1Sing.Perf=|wordform=máː
+8	ndwaːtsə́	ndwaːtsə́	VERB	_	_	7	comp:aux	_	AlignBegin=360155|AlignEnd=360351|Gloss=grow_old|wordform=ndwaːtsə́y
+9	-íː	-íː	ADV	_	_	8	mod/m	_	Accomplished=Yes|AlignBegin=360155|AlignEnd=360351|Gloss=Acpl
+10	//	//	PUNCT	_	_	7	punct	_	AlignBegin=360351|AlignEnd=360548|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_02_Burial_263-266
 # speaker_id = SP1

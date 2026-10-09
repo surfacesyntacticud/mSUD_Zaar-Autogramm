@@ -834,7 +834,7 @@
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_03.WAV
 # sent_timecode = 121808, 124779
-# text = áʔá myáː yel kàmán kâːy ʤǎːn || ʤǎːn-ʤǎːn ma ɬə́ laːtsə́ gə̀tíː də̀n //
+# text = áʔá myáː= yel kàmán kâːy ʤǎːn || ʤǎːn-ʤǎːn ma= ɬə́ laːtsə́ gə̀tíː də̀n //
 # text_ortho = áʔá myáː yel kàmán kâːy ʤǎːn || ʤǎːnʤǎːn ma ɬə́ laːtsə́ gə̀tíː də̀n //
 # text_en = But I think that really tomorrow, tomorrow for sure I will move on home.
 1	áʔá	áʔá	INTJ	_	_	2	discourse	_	AlignBegin=121808|AlignEnd=121963|Gloss=surprise
@@ -848,9 +848,11 @@
 9	ma=	a=	AUX	_	Number=Sing|Person=1|Tense=Fut	4	comp	_	AlignBegin=123504|AlignEnd=123717|Copula=No|Gloss=1Sing.Fut=|wordform=ma
 10	ɬə́	ɬə	VERB	_	_	9	comp:aux	_	AlignBegin=123717|AlignEnd=123930|Gloss=go
 11	laːtsə́	laːtsə́	VERB	_	_	10	compound:svc	_	AlignBegin=123930|AlignEnd=124143|Gloss=pass_by|wordform=*laːtsə́-íː
-12	gə̀tíː	gə̀tn	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|Person=1|PronType=Prs	11	mod@ethic	_	AlignBegin=124143|AlignEnd=124356|Gloss=1SingGen.Remt|wordform=gə̀tn
-13	də̀n	də̀n	NOUN	_	_	11	comp:obj@G	_	AlignBegin=124356|AlignEnd=124569|Gloss=compound
-14	//	//	PUNCT	_	_	2	punct	_	AlignBegin=124569|AlignEnd=124779|Gloss=PUNCT
+12-13	gə̀tíː	_	_	_	_	_	_	_	_
+12	gə̀tn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	11	mod@ethic	_	AlignBegin=124143|AlignEnd=124356|Gloss=1SingGen
+13	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	12	det/m	_	AlignBegin=124143|AlignEnd=124356|Gloss=Remt|wordform=gə̀tn
+14	də̀n	də̀n	NOUN	_	_	11	comp:obj@G	_	AlignBegin=124356|AlignEnd=124569|Gloss=compound
+15	//	//	PUNCT	_	_	2	punct	_	AlignBegin=124569|AlignEnd=124779|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_03_112-112
 # speaker_id = SP1
