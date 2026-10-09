@@ -110,8 +110,8 @@
 12	á	ká	ADP	_	_	11	comp:obl	_	AlignBegin=21806|AlignEnd=22028|Gloss=at
 13	mə́n	mə́n	NOUN	_	Number=Plur	12	comp	_	AlignBegin=22028|AlignEnd=22250|Gloss=people
 14	sópkə̂n	sop	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	13	compound	_	AlignBegin=22250|AlignEnd=22361|Gloss=court-Vnoun|wordform=sop
-15	ɲiː	ɲiː	NOUN	_	_	14	comp:obj	_	AlignBegin=22472|AlignEnd=22546|Gloss=daughter.Cons|wordform=ɲêːtə́n
-16	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	15	mod:poss/m	_	AlignBegin=22472|AlignEnd=22546|Gloss=-1Sing.Gen
+15	ɲiː	ɲiː	NOUN	_	_	14	comp:obj	_	AlignBegin=22472|AlignEnd=22546|Gloss=daughter.Cons|SpaceAfter=No|wordform=ɲêːtə́n
+16	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	15	mod:poss/m	_	AlignBegin=22472|AlignEnd=22546|Gloss=-1Sing.Gen|SpaceAfter=No
 17	-ə́n	-ə́n	DET	_	PronType=Dem	15	det/m	_	AlignBegin=22472|AlignEnd=22546|Gloss=-Prox
 18	tòː	tòː	PART	_	PartType=Disc	19	discourse	_	AlignBegin=24180|AlignEnd=24450|Gloss=well
 19	ma=	a=	AUX	_	Number=Sing|Person=1|Tense=Fut	8	comp	_	AlignBegin=24450|AlignEnd=24720|Copula=No|Gloss=1Sing.Fut=|wordform=ma
@@ -131,14 +131,14 @@
 # text_ortho = kyáː ndáːɗíː ɣá nàmbóŋ ma ɗuɣə́y //
 # text_en = "If you fail one, I will kill you."
 1	kyáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=2	6	mod	_	AlignBegin=27300|AlignEnd=27549|Copula=No|Gloss=2Sing.Cnd=|wordform=kyáː
-2	ndáːt	ndáːt	VERB	_	_	1	comp:aux	_	AlignBegin=27549|AlignEnd=27673|Gloss=fall|wordform=ndáːɗíː
+2	ndáːt	ndáːt	VERB	_	_	1	comp:aux	_	AlignBegin=27549|AlignEnd=27673|Gloss=fall|SpaceAfter=No|wordform=ndáːɗíː
 3	-íː	-íː	ADV	_	_	2	mod/m	_	Accomplished=Yes|AlignBegin=27549|AlignEnd=27673|Gloss=Acpl
 4	ɣá	ká	ADP	_	_	2	comp:obl	_	AlignBegin=27798|AlignEnd=28047|Gloss=at
 5	nàmbóŋ	nàmbóŋ	NUM	_	_	4	comp	_	AlignBegin=28047|AlignEnd=28296|Gloss=one
 6	ma=	a=	AUX	_	Number=Sing|Person=1|Tense=Fut	0	root	_	AlignBegin=28296|AlignEnd=28545|Copula=No|Gloss=1Sing.Fut=|wordform=ma
 7-8	ɗuɣə́y	_	_	_	_	_	_	_	_
 7	ɗu	ɗu	VERB	_	_	6	comp:aux	_	AlignBegin=28545|AlignEnd=28628|Gloss=kill
-8	=kə	=kə	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	comp:obj/m	_	AlignBegin=28628|AlignEnd=28711|Gloss==2Sing.OBJ|wordform=-ɣə́y
+8	=kə	=kə	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	comp:obj/m	_	AlignBegin=28628|AlignEnd=28711|Gloss==2Sing.OBJ|SpaceAfter=No|wordform=-ɣə́y
 9	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	8	mod/m	_	Accomplished=Yes|AlignBegin=28628|AlignEnd=28711|Gloss=Acpl
 10	//	//	PUNCT	_	_	6	punct	_	AlignBegin=28794|AlignEnd=29040|Gloss=PUNCT
 
@@ -150,14 +150,14 @@
 # text_en = "But if you win, I will give you my daughter."
 1	àmáː	àmáː	CCONJ	_	_	5	discourse	_	AlignBegin=30920|AlignEnd=31145|Gloss=but
 2	kyáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=2	5	mod	_	AlignBegin=31145|AlignEnd=31370|Copula=No|Gloss=2Sing.Cnd=|wordform=kyáː
-3	ʧi	ʧi	VERB	_	_	2	comp:aux	_	AlignBegin=31370|AlignEnd=31482|Gloss=eat|wordform=ʧíː
+3	ʧi	ʧi	VERB	_	_	2	comp:aux	_	AlignBegin=31370|AlignEnd=31482|Gloss=eat|SpaceAfter=No|wordform=ʧíː
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=31370|AlignEnd=31482|Gloss=Acpl
 5	ma=	a=	AUX	_	Number=Sing|Person=1|Tense=Fut	0	root	_	AlignBegin=32700|AlignEnd=32895|Copula=No|Gloss=1Sing.Fut=|wordform=ma
 6-7	vərɣə	_	_	_	_	_	_	_	_
 6	vər	vər	VERB	_	_	5	comp:aux	_	AlignBegin=32895|AlignEnd=32993|Gloss=give
 7	=ɣə	=kə	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	comp:obj@R/m	_	AlignBegin=32993|AlignEnd=33090|Gloss==2Sing.OBJ
-8	ɲiː	ɲiː	NOUN	_	_	6	comp:obj@T	_	AlignBegin=33090|AlignEnd=33155|Gloss=daughter.Cons|wordform=ɲêːtə́n
-9	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	8	mod:poss/m	_	AlignBegin=33090|AlignEnd=33155|Gloss=-1Sing.Gen
+8	ɲiː	ɲiː	NOUN	_	_	6	comp:obj@T	_	AlignBegin=33090|AlignEnd=33155|Gloss=daughter.Cons|SpaceAfter=No|wordform=ɲêːtə́n
+9	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	8	mod:poss/m	_	AlignBegin=33090|AlignEnd=33155|Gloss=-1Sing.Gen|SpaceAfter=No
 10	-ə́n	-ə́n	DET	_	PronType=Dem	8	det/m	_	AlignBegin=33090|AlignEnd=33155|Gloss=-Prox
 11	//	//	PUNCT	_	_	5	punct	_	AlignBegin=33285|AlignEnd=33480|Gloss=PUNCT
 
@@ -175,7 +175,7 @@
 5	tu	tu	SCONJ	_	_	3	comp:obj@T	_	AlignBegin=35566|AlignEnd=35808|Gloss=Qot
 6	tòː	tòː	PART	_	PartType=Disc	7	discourse	_	AlignBegin=35808|AlignEnd=36050|Gloss=well
 7	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	5	comp	_	AlignBegin=36050|AlignEnd=36292|Copula=No|Gloss=3Sing.Perf=|wordform=àː
-8	wum	wum	VERB	_	_	7	comp:aux	_	AlignBegin=36292|AlignEnd=36413|Gloss=understand|wordform=wumíː
+8	wum	wum	VERB	_	_	7	comp:aux	_	AlignBegin=36292|AlignEnd=36413|Gloss=understand|SpaceAfter=No|wordform=wumíː
 9	-íː	-íː	ADV	_	_	8	mod/m	_	Accomplished=Yes|AlignBegin=36292|AlignEnd=36413|Gloss=Acpl
 10	//	//	PUNCT	_	_	2	punct	_	AlignBegin=36534|AlignEnd=36780|Gloss=PUNCT
 
@@ -186,7 +186,7 @@
 # text_ortho = á ɬǐː də̀n //
 # text_en = He went home.
 1	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=37800|AlignEnd=37945|Copula=No|Gloss=3Sing.Aor=|wordform=á
-2	ɬə	ɬə	VERB	_	_	1	comp:aux	_	AlignBegin=37945|AlignEnd=38017|Gloss=go|wordform=ɬǐː
+2	ɬə	ɬə	VERB	_	_	1	comp:aux	_	AlignBegin=37945|AlignEnd=38017|Gloss=go|SpaceAfter=No|wordform=ɬǐː
 3	-íː	-íː	ADV	_	_	2	mod/m	_	Accomplished=Yes|AlignBegin=37945|AlignEnd=38017|Gloss=Acpl
 4	də̀n	də̀n	NOUN	_	_	2	comp:obj@G	_	AlignBegin=38090|AlignEnd=38235|Gloss=compound
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=38235|AlignEnd=38380|Gloss=PUNCT
@@ -201,7 +201,7 @@
 2-3	ɗǎː	_	_	_	_	_	_	_	_
 2	ɗa	ɗan	ADV	_	_	3	mod	_	AlignBegin=39575|AlignEnd=39673|Gloss=then
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	6	mod	_	AlignBegin=39673|AlignEnd=39770|Copula=No|Gloss=3Sing.Aor=|wordform=á
-4	ɬaː	ɬaː	VERB	_	_	3	comp:aux	_	AlignBegin=39770|AlignEnd=39868|Gloss=cut|wordform=ɬǎːy
+4	ɬaː	ɬaː	VERB	_	_	3	comp:aux	_	AlignBegin=39770|AlignEnd=39868|Gloss=cut|SpaceAfter=No|wordform=ɬǎːy
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=39770|AlignEnd=39868|Gloss=Acpl
 6	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=40540|AlignEnd=40713|Copula=No|Gloss=3Sing.Aor=|wordform=á
 7-9	sûtə́ɗi	_	_	_	_	_	_	_	_
@@ -251,7 +251,7 @@
 5	tu	tu	SCONJ	_	_	3	comp:obj@T	_	AlignBegin=55194|AlignEnd=55392|Gloss=Qot
 6	tôː	tòː	PART	_	PartType=Disc	7	discourse	_	AlignBegin=55392|AlignEnd=55590|Gloss=well
 7	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	5	comp	_	AlignBegin=55590|AlignEnd=55788|Copula=No|Gloss=3Sing.Perf=|wordform=àː
-8	wum	wum	VERB	_	_	7	comp:aux	_	AlignBegin=55788|AlignEnd=55887|Gloss=understand|wordform=wumíː
+8	wum	wum	VERB	_	_	7	comp:aux	_	AlignBegin=55788|AlignEnd=55887|Gloss=understand|SpaceAfter=No|wordform=wumíː
 9	-íː	-íː	ADV	_	_	8	mod/m	_	Accomplished=Yes|AlignBegin=55788|AlignEnd=55887|Gloss=Acpl
 10	//	//	PUNCT	_	_	2	punct	_	AlignBegin=55986|AlignEnd=56180|Gloss=PUNCT
 
@@ -264,7 +264,7 @@
 1	lə̂p	lə̂p	NOUN	_	_	3	dislocated@subj	_	AlignBegin=57320|AlignEnd=57520|Gloss=place
 2	ɗa	ɗa	AUX	_	_	3	mod	_	AlignBegin=57520|AlignEnd=57620|Copula=Yes|Gloss=exist
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	7	mod	_	AlignBegin=57620|AlignEnd=57720|Copula=No|Gloss=3Sing.Aor=|wordform=á
-4	ɬaː	ɬaː	VERB	_	_	3	comp:aux	_	AlignBegin=57720|AlignEnd=57820|Gloss=cut|wordform=ɬǎːy
+4	ɬaː	ɬaː	VERB	_	_	3	comp:aux	_	AlignBegin=57720|AlignEnd=57820|Gloss=cut|SpaceAfter=No|wordform=ɬǎːy
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=57720|AlignEnd=57820|Gloss=Acpl
 6	Nòːmáu	nòːmáw	PROPN	_	_	7	subj	_	AlignBegin=58800|AlignEnd=59103|Gloss=Nomau|wordform=nòːmáw
 7	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=59103|AlignEnd=59406|Copula=No|Gloss=3Sing.Aor=|wordform=á
@@ -286,7 +286,7 @@
 1	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=63320|AlignEnd=63510|Copula=No|Gloss=3Sing.Aor=|wordform=á
 2-3	ɮə̌pmtíː	_	_	_	_	_	_	_	_
 2	ɮə̌pm	ɮə́pm	VERB	_	_	1	comp:aux	_	AlignBegin=63510|AlignEnd=63573|Gloss=cover
-3	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	comp:obj/m	_	AlignBegin=63573|AlignEnd=63636|Gloss===3Sing.Acc|wordform=-tíː
+3	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	comp:obj/m	_	AlignBegin=63573|AlignEnd=63636|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
 4	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	mod/m	_	Accomplished=Yes|AlignBegin=63573|AlignEnd=63636|Gloss=Acpl
 5	ɣáy	káy	PRON	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	2	comp:obl	_	AlignBegin=63700|AlignEnd=63890|Gloss=3Sing.Loc
 6	//	//	PUNCT	_	_	1	punct	_	AlignBegin=63890|AlignEnd=64080|Gloss=PUNCT
@@ -312,7 +312,7 @@
 # text_ortho = á ɬǐː də̀n gyaː gùŋ ʧáː ríː ɗan ndwáːtsə //
 # text_en = He went to the house of the king walking like an old man.
 1	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=67940|AlignEnd=68100|Copula=No|Gloss=3Sing.Aor=|wordform=á
-2	ɬə	ɬə	VERB	_	_	1	comp:aux	_	AlignBegin=68100|AlignEnd=68180|Gloss=go|wordform=ɬǐː
+2	ɬə	ɬə	VERB	_	_	1	comp:aux	_	AlignBegin=68100|AlignEnd=68180|Gloss=go|SpaceAfter=No|wordform=ɬǐː
 3	-íː	-íː	ADV	_	_	2	mod/m	_	Accomplished=Yes|AlignBegin=68100|AlignEnd=68180|Gloss=Acpl
 4	də̀n	də̀n	NOUN	_	_	2	comp:obj@G	_	AlignBegin=68260|AlignEnd=68420|Gloss=compound
 5	gyáː	gyáː	DET	_	Number=Plur	6	det	_	AlignBegin=68420|AlignEnd=68580|Gloss=Plur
@@ -331,7 +331,7 @@
 # text_en = When he arrived he found them all gathered in the parlour.
 1	ɗan	ɗan	SCONJ	_	_	5	mod	_	AlignBegin=72340|AlignEnd=72500|Gloss=as
 2	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	1	comp	_	AlignBegin=72500|AlignEnd=72660|Copula=No|Gloss=3Sing.Aor=|wordform=á
-3	tul	tul	VERB	_	_	2	comp:aux	_	AlignBegin=72660|AlignEnd=72740|Gloss=reach|wordform=tûlíː
+3	tul	tul	VERB	_	_	2	comp:aux	_	AlignBegin=72660|AlignEnd=72740|Gloss=reach|SpaceAfter=No|wordform=tûlíː
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=72660|AlignEnd=72740|Gloss=Acpl
 5	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=74020|AlignEnd=74332|Copula=No|Gloss=3Sing.Aor=|wordform=á
 6	ɬə́n	ɬə́n	VERB	_	_	5	comp:aux	_	AlignBegin=74332|AlignEnd=74488|Gloss=go_for
@@ -409,7 +409,7 @@
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=87640|AlignEnd=87920|Copula=No|Gloss=3Sing.Aor=|wordform=á
 4	gə̀m	gəm	VERB	_	_	3	comp:aux	_	AlignBegin=87920|AlignEnd=88200|Gloss=release
 5	longa	longa	NOUN	_	Definite=Cons	4	comp:obj	_	AlignBegin=88200|AlignEnd=88270|Gloss=rabbit-Cons|wordform=longáwôʃíː
-6	=wôʃ	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	mod:poss/m	_	AlignBegin=88200|AlignEnd=88270|Gloss==Sing.Gen|wordform=-wôʃ
+6	=wôʃ	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	mod:poss/m	_	AlignBegin=88200|AlignEnd=88270|Gloss==Sing.Gen|SpaceAfter=No|wordform=-wôʃ
 7	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	6	det/m	_	AlignBegin=88200|AlignEnd=88270|Gloss=Remt
 8	tu	tu	SCONJ	_	_	4	mod	_	AlignBegin=89420|AlignEnd=89540|Gloss=Qot
 9	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	8	comp	_	AlignBegin=89540|AlignEnd=89660|Copula=No|Gloss=3Plur.Sub=|wordform=tə̀
@@ -477,8 +477,8 @@
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	2	comp	_	AlignBegin=100365|AlignEnd=100480|Copula=No|Gloss=3Sing.Aor=|wordform=á
 4	gə̀m	gəm	VERB	_	_	3	comp:aux	_	AlignBegin=100480|AlignEnd=100710|Gloss=release
 5	kə́	á	ADP	_	_	4	comp:obj	_	AlignBegin=100710|AlignEnd=100940|Gloss=of
-6	mâːy	mâːy	NOUN	_	_	5	comp	_	AlignBegin=100940|AlignEnd=101017|Gloss=three|wordform=máːyêʃíː
-7	-eʃ	-es	DET	_	Definite=Def	6	det/m	_	AlignBegin=100940|AlignEnd=101017|Gloss=Def|wordform=-es
+6	mâːy	mâːy	NOUN	_	_	5	comp	_	AlignBegin=100940|AlignEnd=101017|Gloss=three|SpaceAfter=No|wordform=máːyêʃíː
+7	-eʃ	-es	DET	_	Definite=Def	6	det/m	_	AlignBegin=100940|AlignEnd=101017|Gloss=Def|SpaceAfter=No|wordform=-es
 8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	6	det/m	_	AlignBegin=100940|AlignEnd=101017|Gloss=Remt
 9	séy	séː	ADV	_	_	11	mod	_	AlignBegin=102220|AlignEnd=102415|Gloss=then
 10	gùŋ	gùŋ	NOUN	_	_	11	subj	_	AlignBegin=102415|AlignEnd=102610|Gloss=chief
@@ -498,21 +498,21 @@
 # text_en = When they had left to follow that rabbit, then Nomau took the ring and went home.
 1	ɗan	ɗan	SCONJ	_	_	11	mod	_	AlignBegin=105320|AlignEnd=105629|Gloss=as
 2	tə́=	á=	AUX	_	Number=Plur|Person=3|Tense=Pres	1	comp	_	AlignBegin=105629|AlignEnd=105938|Copula=No|Gloss=3Plur.Aor=|wordform=tə́
-3	ɬə	ɬə	VERB	_	_	2	comp:aux	_	AlignBegin=105938|AlignEnd=106092|Gloss=go|wordform=ɬǐː
+3	ɬə	ɬə	VERB	_	_	2	comp:aux	_	AlignBegin=105938|AlignEnd=106092|Gloss=go|SpaceAfter=No|wordform=ɬǐː
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=105938|AlignEnd=106092|Gloss=Acpl
 5	nə́	nə́	ADP	_	_	3	mod	_	AlignBegin=106247|AlignEnd=106556|Gloss=for
-6	longa	longa	NOUN	_	Definite=Cons	5	comp	_	AlignBegin=106556|AlignEnd=106710|Gloss=rabbit|wordform=longáy
+6	longa	longa	NOUN	_	Definite=Cons	5	comp	_	AlignBegin=106556|AlignEnd=106710|Gloss=rabbit|SpaceAfter=No|wordform=longáy
 7	-íː	-íː	DET	_	Definite=Cons|Deixis=Remt|PronType=Dem	6	det/m	_	AlignBegin=106556|AlignEnd=106710|Gloss=Remt
 8	láːpkə̂n	láːp	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	compound	_	AlignBegin=106865|AlignEnd=107019|Gloss=follow-Vnoun|Object=ObjectRaising|Raising=Yes|wordform=láːp
 9	séy	séː	ADV	_	_	11	mod	_	AlignBegin=108040|AlignEnd=108260|Gloss=then
 10	Nòːmáu	Nòːmáu	PROPN	_	_	11	subj	_	AlignBegin=108260|AlignEnd=108480|Gloss=Nomau
 11	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=109380|AlignEnd=109600|Copula=No|Gloss=3Sing.Aor=|wordform=á
 12	mbîː	mbiː	VERB	_	_	11	comp:aux	_	AlignBegin=109600|AlignEnd=109820|Gloss=take
-13	zobbè	zobbè	NOUN	_	_	12	comp:obj	_	AlignBegin=109820|AlignEnd=109893|Gloss=ring|wordform=zobbèʃíː
-14	-eʃ	-es	DET	_	Definite=Def	13	det/m	_	AlignBegin=109820|AlignEnd=109893|Gloss=Def|wordform=-es
+13	zobbè	zobbè	NOUN	_	_	12	comp:obj	_	AlignBegin=109820|AlignEnd=109893|Gloss=ring|SpaceAfter=No|wordform=zobbèʃíː
+14	-eʃ	-es	DET	_	Definite=Def	13	det/m	_	AlignBegin=109820|AlignEnd=109893|Gloss=Def|SpaceAfter=No|wordform=-es
 15	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	13	det/m	_	AlignBegin=109820|AlignEnd=109893|Gloss=Remt
 16	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	12	parataxis@conj	_	AlignBegin=111120|AlignEnd=111255|Copula=No|Gloss=3Sing.Aor=|wordform=á
-17	ɬə	ɬə	VERB	_	_	16	comp:aux	_	AlignBegin=111255|AlignEnd=111323|Gloss=go|wordform=ɬǐː
+17	ɬə	ɬə	VERB	_	_	16	comp:aux	_	AlignBegin=111255|AlignEnd=111323|Gloss=go|SpaceAfter=No|wordform=ɬǐː
 18	-íː	-íː	ADV	_	_	17	mod/m	_	Accomplished=Yes|AlignBegin=111255|AlignEnd=111323|Gloss=Acpl
 19	də̀n	də̀n	NOUN	_	_	17	comp:obj@G	_	AlignBegin=111390|AlignEnd=111525|Gloss=compound
 20	//	//	PUNCT	_	_	11	punct	_	AlignBegin=111525|AlignEnd=111660|Gloss=PUNCT
@@ -572,7 +572,7 @@
 # text_ortho = tə́ ɬǐː də̀n //
 # text_en = They went home.
 1	tə́=	á=	AUX	_	Number=Plur|Person=3|Tense=Pres	0	root	_	AlignBegin=123380|AlignEnd=123520|Copula=No|Gloss=3Plur.Aor=|wordform=tə́
-2	ɬə	ɬə	VERB	_	_	1	comp:aux	_	AlignBegin=123520|AlignEnd=123590|Gloss=go|wordform=ɬǐː
+2	ɬə	ɬə	VERB	_	_	1	comp:aux	_	AlignBegin=123520|AlignEnd=123590|Gloss=go|SpaceAfter=No|wordform=ɬǐː
 3	-íː	-íː	ADV	_	_	2	mod/m	_	Accomplished=Yes|AlignBegin=123520|AlignEnd=123590|Gloss=Acpl
 4	də̀n	də̀n	NOUN	_	_	2	comp:obj@G	_	AlignBegin=123660|AlignEnd=123800|Gloss=compound
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=123800|AlignEnd=123940|Gloss=PUNCT
@@ -586,7 +586,7 @@
 1	lə̂p	lə̂p	NOUN	_	_	3	dislocated@subj	_	AlignBegin=124980|AlignEnd=125183|Gloss=place
 2	ɗa	ɗan	ADV	_	_	3	mod	_	AlignBegin=125183|AlignEnd=125285|Gloss=then
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	9	mod	_	AlignBegin=125285|AlignEnd=125386|Copula=No|Gloss=3Sing.Aor=|wordform=á
-4	ɬaː	ɬaː	VERB	_	_	3	comp:aux	_	AlignBegin=125386|AlignEnd=125488|Gloss=cut|wordform=ɬǎːy
+4	ɬaː	ɬaː	VERB	_	_	3	comp:aux	_	AlignBegin=125386|AlignEnd=125488|Gloss=cut|SpaceAfter=No|wordform=ɬǎːy
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=125386|AlignEnd=125488|Gloss=Acpl
 6	tə́	tə́	ADP	_	_	4	mod	_	AlignBegin=125589|AlignEnd=125792|Gloss=with
 7	ɓíɬndi	ɓíɬndi	NOUN	_	_	6	comp	_	AlignBegin=125792|AlignEnd=125995|Gloss=morning
@@ -683,7 +683,7 @@
 4	tu	tu	SCONJ	_	_	2	comp:obj@T	_	AlignBegin=148170|AlignEnd=148365|Gloss=Qot
 5	kávit	kávit	NOUN	_	_	6	subj	_	AlignBegin=149340|AlignEnd=149540|Gloss=night
 6	yáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=3	9	mod	_	AlignBegin=149540|AlignEnd=149740|Copula=No|Gloss=3Sing.Cnd=|wordform=yáː
-7	fi	fi	VERB	_	_	6	comp:aux	_	AlignBegin=149740|AlignEnd=149840|Gloss=do|wordform=fǐː
+7	fi	fi	VERB	_	_	6	comp:aux	_	AlignBegin=149740|AlignEnd=149840|Gloss=do|SpaceAfter=No|wordform=fǐː
 8	-íː	-íː	ADV	_	_	7	mod/m	_	Accomplished=Yes|AlignBegin=149740|AlignEnd=149840|Gloss=Acpl
 9	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	4	comp	_	AlignBegin=150620|AlignEnd=150763|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 10	fí	fi	VERB	_	_	9	comp:aux	_	AlignBegin=150763|AlignEnd=150906|Gloss=do
@@ -719,7 +719,7 @@
 4	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	comp:obj@R/m	_	AlignBegin=157740|AlignEnd=157840|Gloss===3Sing.Acc
 5	tu	tu	SCONJ	_	_	3	comp:obj@T	_	AlignBegin=157840|AlignEnd=158040|Gloss=Qot
 6	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	5	comp	_	AlignBegin=158740|AlignEnd=158900|Copula=No|Gloss=3Sing.Perf=|wordform=àː
-7	wum	wum	VERB	_	_	6	comp:aux	_	AlignBegin=158900|AlignEnd=158980|Gloss=understand|wordform=wumíː
+7	wum	wum	VERB	_	_	6	comp:aux	_	AlignBegin=158900|AlignEnd=158980|Gloss=understand|SpaceAfter=No|wordform=wumíː
 8	-íː	-íː	ADV	_	_	7	mod/m	_	Accomplished=Yes|AlignBegin=158900|AlignEnd=158980|Gloss=Acpl
 9	//	//	PUNCT	_	_	2	punct	_	AlignBegin=159060|AlignEnd=159220|Gloss=PUNCT
 
@@ -730,7 +730,7 @@
 # text_ortho = á ɬǐː də̀n //
 # text_en = He went home.
 1	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=160060|AlignEnd=160200|Copula=No|Gloss=3Sing.Aor=|wordform=á
-2	ɬə	ɬə	VERB	_	_	1	comp:aux	_	AlignBegin=160200|AlignEnd=160270|Gloss=go|wordform=ɬǐː
+2	ɬə	ɬə	VERB	_	_	1	comp:aux	_	AlignBegin=160200|AlignEnd=160270|Gloss=go|SpaceAfter=No|wordform=ɬǐː
 3	-íː	-íː	ADV	_	_	2	mod/m	_	Accomplished=Yes|AlignBegin=160200|AlignEnd=160270|Gloss=Acpl
 4	də̀n	də̀n	NOUN	_	_	2	comp:obj@G	_	AlignBegin=160340|AlignEnd=160480|Gloss=compound
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=160480|AlignEnd=160620|Gloss=PUNCT
@@ -745,10 +745,10 @@
 2-3	ɗǎː	_	_	_	_	_	_	_	_
 2	ɗa	ɗan	ADV	_	_	3	mod	_	AlignBegin=162015|AlignEnd=162123|Gloss=then
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	6	mod	_	AlignBegin=162123|AlignEnd=162230|Copula=No|Gloss=3Sing.Aor=|wordform=á
-4	fi	fi	VERB	_	_	3	comp:aux	_	AlignBegin=162230|AlignEnd=162338|Gloss=do|wordform=fǐː
+4	fi	fi	VERB	_	_	3	comp:aux	_	AlignBegin=162230|AlignEnd=162338|Gloss=do|SpaceAfter=No|wordform=fǐː
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=162230|AlignEnd=162338|Gloss=Acpl
 6	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=164300|AlignEnd=164494|Copula=No|Gloss=3Sing.Aor=|wordform=á
-7	ɬə	ɬə	VERB	_	_	6	comp:aux	_	AlignBegin=164494|AlignEnd=164591|Gloss=go|wordform=ɬǐː
+7	ɬə	ɬə	VERB	_	_	6	comp:aux	_	AlignBegin=164494|AlignEnd=164591|Gloss=go|SpaceAfter=No|wordform=ɬǐː
 8	-íː	-íː	ADV	_	_	7	mod/m	_	Accomplished=Yes|AlignBegin=164494|AlignEnd=164591|Gloss=Acpl
 9	ɣá	ká	ADP	_	_	7	comp:obl	_	AlignBegin=164688|AlignEnd=164882|Gloss=at
 10	lə̂p	lə̂p	NOUN	_	_	9	comp	_	AlignBegin=164882|AlignEnd=165076|Gloss=place
@@ -790,7 +790,7 @@
 5	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	2	parataxis@conj	_	AlignBegin=170920|AlignEnd=171127|Copula=No|Gloss=3Sing.Aor=|wordform=á
 6-7	ɮìːtíːɗi	_	_	_	_	_	_	_	_
 6	ɮìː	ɮiː	VERB	_	_	5	comp:aux	_	AlignBegin=171127|AlignEnd=171179|Gloss=remove
-7	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	6	comp:obj/m	_	AlignBegin=171179|AlignEnd=171231|Gloss===3Sing.Acc|wordform=-tíː
+7	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	6	comp:obj/m	_	AlignBegin=171179|AlignEnd=171231|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
 8-9	-íː	_	_	_	_	_	_	_	_
 8	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	7	mod/m	_	Accomplished=Yes|AlignBegin=171179|AlignEnd=171231|Gloss=Acpl
 9	ɗi	ɗi	PART	_	PartType=Adv	6	compound:prt	_	AlignBegin=171283|AlignEnd=171334|Gloss=CTP|wordform=-́ɗi
@@ -828,13 +828,13 @@
 1	séy	séː	ADV	_	_	2	mod	_	AlignBegin=177900|AlignEnd=178050|Gloss=then
 2	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=178520|AlignEnd=178745|Copula=No|Gloss=3Sing.Aor=|wordform=á
 3	mbîː	mbiː	VERB	_	_	2	comp:aux	_	AlignBegin=178745|AlignEnd=178970|Gloss=take
-4	daː	daː	NOUN	_	_	3	comp:obj	_	AlignBegin=178970|AlignEnd=179082|Gloss=person|wordform=dàːʃíː
+4	daː	daː	NOUN	_	_	3	comp:obj	_	AlignBegin=178970|AlignEnd=179082|Gloss=person|SpaceAfter=No|wordform=dàːʃíː
 5	-íː	-íː	DET	_	_	4	det/m	_	AlignBegin=178970|AlignEnd=179082|Gloss=Remt
 6	ɗan	ɗan	SCONJ	_	_	4	mod@relcl	_	AlignBegin=180480|AlignEnd=180650|Gloss=that
 7	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	6	comp	_	AlignBegin=180650|AlignEnd=180820|Copula=No|Gloss=3Sing.Perf=|wordform=àː
-8	məs	məs	VERB	_	_	7	comp:aux	_	Gloss=die|wordform=məʃíː
+8	məs	məs	VERB	_	_	7	comp:aux	_	Gloss=die|SpaceAfter=No|wordform=məʃíː
 9	-íː	-íː	ADV	_	_	8	mod/m	_	Accomplished=Yes|Gloss=Acpl
-10	gaː	gaː	VERB	_	_	3	compound:svc	_	AlignBegin=181760|AlignEnd=181894|Gloss=put|wordform=gáːy
+10	gaː	gaː	VERB	_	_	3	compound:svc	_	AlignBegin=181760|AlignEnd=181894|Gloss=put|SpaceAfter=No|wordform=gáːy
 11	-íː	-íː	ADV	_	_	10	mod/m	_	Accomplished=Yes|AlignBegin=181760|AlignEnd=181894|Gloss=Acpl
 12	ʤàŋyèr	ʤàŋyèr	NOUN	_	_	10	comp:obj@L	_	AlignBegin=182027|AlignEnd=182294|Gloss=shoulder
 13	//	//	PUNCT	_	_	2	punct	_	AlignBegin=182027|AlignEnd=182294|Gloss=PUNCT
@@ -846,16 +846,16 @@
 # text_ortho = á tǎy á gàː gǎːm múríː ɗan àː məʃíː ɗa wíndoy //
 # text_en = He climbed and put the head of the man who had died on the window.
 1	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=184240|AlignEnd=184483|Copula=No|Gloss=3Sing.Aor=|wordform=á
-2	ta	ta	VERB	_	_	1	comp:aux	_	AlignBegin=184483|AlignEnd=184605|Gloss=climb|wordform=tǎy
+2	ta	ta	VERB	_	_	1	comp:aux	_	AlignBegin=184483|AlignEnd=184605|Gloss=climb|SpaceAfter=No|wordform=tǎy
 3	-íː	-íː	ADV	_	_	2	mod/m	_	Accomplished=Yes|AlignBegin=184483|AlignEnd=184605|Gloss=Acpl
 4	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	2	parataxis@conj	_	AlignBegin=184726|AlignEnd=184969|Copula=No|Gloss=3Sing.Aor=|wordform=á
 5	gàː	gaː	VERB	_	_	4	comp:aux	_	AlignBegin=184969|AlignEnd=185212|Gloss=put
 6	gǎːm	gaːm	NOUN	_	Definite=Cons	5	comp:obj	_	AlignBegin=185212|AlignEnd=185334|Gloss=head.Cons
-7	muri	muri	NOUN	_	_	6	mod	_	AlignBegin=185455|AlignEnd=185577|Gloss=man|wordform=múríː
+7	muri	muri	NOUN	_	_	6	mod	_	AlignBegin=185455|AlignEnd=185577|Gloss=man|SpaceAfter=No|wordform=múríː
 8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	7	det/m	_	AlignBegin=185455|AlignEnd=185577|Gloss=Remt
 9	ɗan	ɗan	SCONJ	_	_	7	mod@relcl	_	AlignBegin=185698|AlignEnd=185941|Gloss=that
 10	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	9	comp	_	AlignBegin=185941|AlignEnd=186184|Copula=No|Gloss=3Sing.Perf=|wordform=àː
-11	məs	məs	VERB	_	_	10	comp:aux	_	Gloss=die|wordform=məʃíː
+11	məs	məs	VERB	_	_	10	comp:aux	_	Gloss=die|SpaceAfter=No|wordform=məʃíː
 12	-íː	-íː	ADV	_	_	11	mod/m	_	Accomplished=Yes|Gloss=Acpl
 13	ɗa	ɗa	ADP	_	_	5	comp:obl	_	AlignBegin=186427|AlignEnd=186670|Gloss=at
 14	wíndoy	wíndo	NOUN	_	Definite=Ind	13	comp	_	AlignBegin=186670|AlignEnd=186792|Gloss=window-Ind|wordform=wíndo
@@ -897,7 +897,7 @@
 2	Nòːmáu	Nòːmáu	PROPN	_	_	3	subj	_	AlignBegin=196486|AlignEnd=196712|Gloss=Nomau
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=196712|AlignEnd=196938|Copula=No|Gloss=3Sing.Aor=|wordform=á
 4	gə̀m	gəm	VERB	_	_	3	comp:aux	_	AlignBegin=196938|AlignEnd=197164|Gloss=release
-5	muri	muri	NOUN	_	_	4	comp:obj@T	_	AlignBegin=197164|AlignEnd=197277|Gloss=man|wordform=muríː
+5	muri	muri	NOUN	_	_	4	comp:obj@T	_	AlignBegin=197164|AlignEnd=197277|Gloss=man|SpaceAfter=No|wordform=muríː
 6	-íː	-íː	ADV	_	_	5	mod/m	_	Accomplished=Yes|AlignBegin=197164|AlignEnd=197277|Gloss=Acpl
 7	yâːɬ	yâːɬ	NOUN	_	_	4	comp:obj@L	_	AlignBegin=197390|AlignEnd=197616|Gloss=on_the_ground
 8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=197616|AlignEnd=197840|Gloss=PUNCT
@@ -912,11 +912,11 @@
 2	yáːni	yáːni	PRON	_	Number=Sing|Person=3|PronType=Prs	4	dislocated@subj	_	AlignBegin=199785|AlignEnd=199990|Gloss=3Sing.IDP
 3	kúmá	kúmá	PART	_	PartType=Top	2	discourse@top	_	AlignBegin=199990|AlignEnd=200195|Gloss=also
 4	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=201520|AlignEnd=201845|Copula=No|Gloss=3Sing.Aor=|wordform=á
-5	ʃiː	ʃiː	VERB	_	_	4	comp:aux	_	AlignBegin=201845|AlignEnd=202007|Gloss=get_down|wordform=ʃǐː
+5	ʃiː	ʃiː	VERB	_	_	4	comp:aux	_	AlignBegin=201845|AlignEnd=202007|Gloss=get_down|SpaceAfter=No|wordform=ʃǐː
 6	-íː	-íː	ADV	_	_	5	mod/m	_	Accomplished=Yes|AlignBegin=201845|AlignEnd=202007|Gloss=Acpl
 7-8	waːttíː	_	_	_	_	_	_	_	_
 7	waːt	waːt	VERB	_	_	5	compound:svc	_	AlignBegin=202170|AlignEnd=202278|Gloss=hide
-8	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	7	comp:obj/m	_	AlignBegin=202278|AlignEnd=202386|Gloss===3Sing.Acc|wordform=-tíː
+8	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	7	comp:obj/m	_	AlignBegin=202278|AlignEnd=202386|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
 9	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	8	mod/m	_	Accomplished=Yes|AlignBegin=202278|AlignEnd=202386|Gloss=Acpl
 10	//	//	PUNCT	_	_	4	punct	_	AlignBegin=202495|AlignEnd=202820|Gloss=PUNCT
 
@@ -937,7 +937,7 @@
 8	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	3	parataxis@conj	_	AlignBegin=207600|AlignEnd=207804|Copula=No|Gloss=3Sing.Aor=|wordform=á
 9	mbîː	mbiː	VERB	_	_	8	comp:aux	_	AlignBegin=207804|AlignEnd=208008|Gloss=take
 10	gaːwá	gaːwa	NOUN	_	Definite=Cons	9	comp:obj	_	AlignBegin=208008|AlignEnd=208110|Gloss=corpse.Cons
-11	daː	daː	NOUN	_	_	10	mod	_	AlignBegin=208212|AlignEnd=208314|Gloss=person|wordform=dàːʃíː
+11	daː	daː	NOUN	_	_	10	mod	_	AlignBegin=208212|AlignEnd=208314|Gloss=person|SpaceAfter=No|wordform=dàːʃíː
 12	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	11	det/m	_	AlignBegin=208212|AlignEnd=208314|Gloss=Remt
 13	//	//	NOUN	_	_	3	mod	_	AlignBegin=208212|AlignEnd=208314|Gloss=PUNCT|wordform=daː
 
@@ -978,7 +978,7 @@
 14	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	13	comp	_	AlignBegin=217380|AlignEnd=217630|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 15	mbíː	mbiː	VERB	_	_	14	comp:aux	_	AlignBegin=217630|AlignEnd=217880|Gloss=take
 16	bàrgo	bàrgo	NOUN	_	Definite=Cons	15	comp:obj	_	AlignBegin=217880|AlignEnd=217963|Gloss=blanket-Cons|wordform=bàrgówôʃíː
-17	=wôʃ	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	16	mod:poss/m	_	AlignBegin=217880|AlignEnd=217963|Gloss==SingGen|wordform=-wôʃ
+17	=wôʃ	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	16	mod:poss/m	_	AlignBegin=217880|AlignEnd=217963|Gloss==SingGen|SpaceAfter=No|wordform=-wôʃ
 18	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	17	det/m	_	AlignBegin=217880|AlignEnd=217963|Gloss=Remt
 19	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	15	parataxis@conj	_	AlignBegin=219260|AlignEnd=219528|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 20-22	və́rtə́ɗi	_	_	_	_	_	_	_	_
@@ -991,7 +991,7 @@
 26	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	25	comp	_	AlignBegin=222820|AlignEnd=223007|Copula=No|Gloss=3Sing.Perf=|wordform=àː
 27-28	ɗutíː	_	_	_	_	_	_	_	_
 27	ɗu	ɗu	VERB	_	_	26	comp:aux	_	AlignBegin=223007|AlignEnd=223069|Gloss=kill
-28	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	27	comp:obj/m	_	AlignBegin=223069|AlignEnd=223131|Gloss===3Sing.Acc|wordform=-tíː
+28	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	27	comp:obj/m	_	AlignBegin=223069|AlignEnd=223131|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
 29	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	28	mod/m	_	Accomplished=Yes|AlignBegin=223069|AlignEnd=223131|Gloss=Acpl
 30	//	//	PUNCT	_	_	3	punct	_	AlignBegin=223194|AlignEnd=223380|Gloss=PUNCT
 
@@ -1002,7 +1002,7 @@
 # text_ortho = séy gə̀ɗès á mbîː vərtə́ɗi //
 # text_en = Then the wife took [it] and gave it to him.
 1	séy	séː	ADV	_	_	4	mod	_	AlignBegin=224620|AlignEnd=224847|Gloss=then
-2	gə̀t	gə̀t	NOUN	_	_	4	subj	_	AlignBegin=224847|AlignEnd=224961|Gloss=woman|wordform=gə̀ɗès
+2	gə̀t	gə̀t	NOUN	_	_	4	subj	_	AlignBegin=224847|AlignEnd=224961|Gloss=woman|SpaceAfter=No|wordform=gə̀ɗès
 3	-es	-es	DET	_	Definite=Def	2	det/m	_	AlignBegin=224847|AlignEnd=224961|Gloss=Def
 4	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=225074|AlignEnd=225301|Copula=No|Gloss=3Sing.Aor=|wordform=á
 5	mbîː	mbiː	VERB	_	_	4	comp:aux	_	AlignBegin=225301|AlignEnd=225528|Gloss=take
@@ -1019,7 +1019,7 @@
 # text_ortho = á ɬǐː də̀n //
 # text_en = He went home.
 1	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=226580|AlignEnd=226720|Copula=No|Gloss=3Sing.Aor=|wordform=á
-2	ɬə	ɬə	VERB	_	_	1	comp:aux	_	AlignBegin=226720|AlignEnd=226790|Gloss=go|wordform=ɬǐː
+2	ɬə	ɬə	VERB	_	_	1	comp:aux	_	AlignBegin=226720|AlignEnd=226790|Gloss=go|SpaceAfter=No|wordform=ɬǐː
 3	-íː	-íː	ADV	_	_	2	mod/m	_	Accomplished=Yes|AlignBegin=226720|AlignEnd=226790|Gloss=Acpl
 4	də̀n	də̀n	NOUN	_	_	2	comp:obj@G	_	AlignBegin=226860|AlignEnd=227000|Gloss=compound
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=227000|AlignEnd=227140|Gloss=PUNCT
@@ -1032,7 +1032,7 @@
 # text_en = When the king arrived he went to tell his wife to take his blanket and give it to him to hide [the corpse] in it.
 1	ɗan	ɗan	SCONJ	_	_	6	mod	_	AlignBegin=228880|AlignEnd=229140|Gloss=as
 2	gùŋ	gùŋ	NOUN	_	_	3	subj	_	AlignBegin=229140|AlignEnd=229400|Gloss=chief
-3	tul	tul	VERB	_	_	1	comp	_	AlignBegin=229400|AlignEnd=229487|Gloss=reach|wordform=tùlíː
+3	tul	tul	VERB	_	_	1	comp	_	AlignBegin=229400|AlignEnd=229487|Gloss=reach|SpaceAfter=No|wordform=tùlíː
 4-5	-íː	_	_	_	_	_	_	_	_
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=229400|AlignEnd=229487|Gloss=Acpl
 5	ɗi	ɗi	PART	_	PartType=Adv	3	compound:prt	_	AlignBegin=229574|AlignEnd=229660|Gloss=CTP|wordform=-́ɗi
@@ -1040,13 +1040,13 @@
 7	mán	máni	VERB	_	_	6	comp:aux	_	AlignBegin=231483|AlignEnd=231746|Gloss=come
 8	wul	wul	VERB	_	_	7	compound:svc	_	AlignBegin=231746|AlignEnd=232009|Gloss=say
 9	gə̀t	gə̀t	NOUN	_	Definite=Ind	8	comp:obj@R	_	AlignBegin=232009|AlignEnd=232075|Gloss=wife-Ind|wordform=gə̀ɗìwòʃíː
-10	=wòʃ	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	mod:poss/m	_	AlignBegin=232009|AlignEnd=232075|Gloss==SingGen|wordform=-wòʃ
+10	=wòʃ	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	mod:poss/m	_	AlignBegin=232009|AlignEnd=232075|Gloss==SingGen|SpaceAfter=No|wordform=-wòʃ
 11	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	10	det/m	_	AlignBegin=232009|AlignEnd=232075|Gloss=Remt
 12	tu	tu	SCONJ	_	_	8	comp:obj@T	_	AlignBegin=232272|AlignEnd=232535|Gloss=Qot
 13	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	12	comp	_	AlignBegin=232535|AlignEnd=232798|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 14	mbíː	mbiː	VERB	_	_	13	comp:aux	_	AlignBegin=232798|AlignEnd=233061|Gloss=take
 15	bàrgo	bàrgo	NOUN	_	Definite=Cons	14	comp:obj	_	AlignBegin=233061|AlignEnd=233127|Gloss=blanket-Cons|wordform=bàrgówôʃíː
-16	=wôʃ	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	15	mod:poss/m	_	AlignBegin=233061|AlignEnd=233127|Gloss==SingGen|wordform=-wôʃ
+16	=wôʃ	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	15	mod:poss/m	_	AlignBegin=233061|AlignEnd=233127|Gloss==SingGen|SpaceAfter=No|wordform=-wôʃ
 17	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	16	det/m	_	AlignBegin=233061|AlignEnd=233127|Gloss=Remt
 18	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	14	parataxis@conj	_	AlignBegin=233324|AlignEnd=233587|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 19-20	və́rtə	_	_	_	_	_	_	_	_
@@ -1066,7 +1066,7 @@
 # text_ortho = séy gə̀ɗès wùltə̀ tu bàrgoy gyòː //
 # text_en = Then the wife told him "What blanket ?"
 1	séy	séː	ADV	_	_	4	mod	_	AlignBegin=235880|AlignEnd=236169|Gloss=then
-2	gə̀t	gə̀t	NOUN	_	_	4	subj	_	AlignBegin=236169|AlignEnd=236313|Gloss=woman|wordform=gə̀ɗès
+2	gə̀t	gə̀t	NOUN	_	_	4	subj	_	AlignBegin=236169|AlignEnd=236313|Gloss=woman|SpaceAfter=No|wordform=gə̀ɗès
 3	-es	-es	DET	_	Definite=Def	2	det/m	_	AlignBegin=236169|AlignEnd=236313|Gloss=Def
 4-5	wùltə̀	_	_	_	_	_	_	_	_
 4	wùl	wul	VERB	_	_	0	root	_	AlignBegin=236458|AlignEnd=236602|Gloss=say
@@ -1101,7 +1101,7 @@
 # text = gə̀ɗès wùltə̀ tu mi ɣáy tu nə kyáːni ɣən kə wúləm á wíndo tu mə̀ və́rɣə́ káː ɗutíː oː ŋǎːn ?//
 # text_ortho = gə̀ɗès wùltə̀ tu mi ɣáy tu nə kyáːni ɣən kə wúləm á wíndo tu mə̀ və́rɣə́ káː ɗutíː oː ŋǎːn ?//
 # text_en = The wife told him "I think it is you who told me at the window to give [it] to you [because] you had killed him, isn't that so ?"
-1	gə̀t	gə̀t	NOUN	_	_	3	subj	_	AlignBegin=241860|AlignEnd=241968|Gloss=woman|wordform=gə̀ɗès
+1	gə̀t	gə̀t	NOUN	_	_	3	subj	_	AlignBegin=241860|AlignEnd=241968|Gloss=woman|SpaceAfter=No|wordform=gə̀ɗès
 2	-es	-es	DET	_	Definite=Def	1	det/m	_	AlignBegin=241860|AlignEnd=241968|Gloss=Def
 3-4	wùltə̀	_	_	_	_	_	_	_	_
 3	wùl	wul	VERB	_	_	0	root	_	AlignBegin=242075|AlignEnd=242183|Gloss=say
@@ -1127,7 +1127,7 @@
 21	káː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=2	19	parataxis@mod	_	AlignBegin=247060|AlignEnd=247232|Copula=No|Gloss=2Sing.Perf=|wordform=káː
 22-23	ɗutíː	_	_	_	_	_	_	_	_
 22	ɗu	ɗu	VERB	_	_	21	comp:aux	_	AlignBegin=247232|AlignEnd=247289|Gloss=kill
-23	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	22	comp:obj/m	_	AlignBegin=247289|AlignEnd=247346|Gloss===3Sing.Acc|wordform=-tíː
+23	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	22	comp:obj/m	_	AlignBegin=247289|AlignEnd=247346|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
 24	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	23	mod/m	_	Accomplished=Yes|AlignBegin=247289|AlignEnd=247346|Gloss=Acpl
 25	oː	oː	PART	_	PartType=Ill	21	mod	_	AlignBegin=247404|AlignEnd=247576|Gloss=Emph
 26-27	ŋǎːn	_	_	_	_	_	_	_	_
@@ -1145,7 +1145,7 @@
 2	gùŋ	gùŋ	NOUN	_	Definite=Cons	1	conj:appos	_	AlignBegin=249803|AlignEnd=250026|Gloss=chief
 3	wùl	wul	VERB	_	_	0	root	_	AlignBegin=250026|AlignEnd=250249|Gloss=say
 4	gə̀t	gə̀t	NOUN	_	Definite=Ind	3	comp:obj@R	_	AlignBegin=250249|AlignEnd=250305|Gloss=wife-Ind|wordform=gə̀ɗiwòʃíː
-5	=wòʃ	=wos	PRON	_	Case=Gen|Number=Sing|Person=3	4	mod:poss/m	_	AlignBegin=250249|AlignEnd=250305|Gloss==ife-Ind.3SingGen|wordform=-wòʃ
+5	=wòʃ	=wos	PRON	_	Case=Gen|Number=Sing|Person=3	4	mod:poss/m	_	AlignBegin=250249|AlignEnd=250305|Gloss==ife-Ind.3SingGen|SpaceAfter=No|wordform=-wòʃ
 6	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	5	det/m	_	AlignBegin=250249|AlignEnd=250305|Gloss=Remt
 7	tu	tu	SCONJ	_	_	3	comp:obj@T	_	AlignBegin=250472|AlignEnd=250695|Gloss=Qot
 8	múri	muri	NOUN	_	Definite=Ind	18	dislocated@subj	_	AlignBegin=251540|AlignEnd=251660|Gloss=man-Ind|wordform=múr
@@ -1156,7 +1156,7 @@
 12	mbîː	mbiː	VERB	_	_	11	comp:aux	_	AlignBegin=253360|AlignEnd=253470|Gloss=take
 13	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	12	comp:obj/m	_	AlignBegin=253470|AlignEnd=253580|Gloss===3Sing.Acc
 14	ɬə́n	ɬə	VERB	_	_	12	compound:svc	_	AlignBegin=253580|AlignEnd=253690|Gloss=go
-15	kur	kur	VERB	_	_	14	compound:svc	_	AlignBegin=253800|AlignEnd=253910|Gloss=throw|wordform=kuríː
+15	kur	kur	VERB	_	_	14	compound:svc	_	AlignBegin=253800|AlignEnd=253910|Gloss=throw|SpaceAfter=No|wordform=kuríː
 16	-íː	-íː	ADV	_	_	15	mod/m	_	Accomplished=Yes|AlignBegin=253800|AlignEnd=253910|Gloss=Acpl
 17	máː	máː	PART	_	PartType=Top	8	discourse@top	_	AlignBegin=254020|AlignEnd=254240|Gloss=even
 18	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	7	comp	_	AlignBegin=255280|AlignEnd=255446|Copula=No|Gloss=3Sing.Aor=|wordform=á
@@ -1198,14 +1198,14 @@
 # text_en = The following morning, Nomau brought his blanket to the king.
 1	ɗan	ɗan	SCONJ	_	_	7	mod	_	AlignBegin=262340|AlignEnd=262515|Gloss=as
 2	lə̂p	lə̂p	NOUN	_	_	3	subj	_	AlignBegin=262515|AlignEnd=262690|Gloss=place
-3	ɬaː	ɬaː	VERB	_	_	1	comp	_	AlignBegin=262748|AlignEnd=262806|Gloss=cut|wordform=ɬǎːy
+3	ɬaː	ɬaː	VERB	_	_	1	comp	_	AlignBegin=262748|AlignEnd=262806|Gloss=cut|SpaceAfter=No|wordform=ɬǎːy
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=262748|AlignEnd=262806|Gloss=Acpl
 5	séy	séː	ADV	_	_	7	mod	_	AlignBegin=263400|AlignEnd=263668|Gloss=then
 6	Nòːmáu	Nòːmáu	PROPN	_	_	7	subj	_	AlignBegin=263668|AlignEnd=263936|Gloss=Nomau
 7	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=263936|AlignEnd=264204|Copula=No|Gloss=3Sing.Aor=|wordform=á
 8	lə̌ːr	lə́ːr	VERB	_	_	7	comp:aux	_	AlignBegin=264204|AlignEnd=264472|Gloss=bring
 9	gùŋ	gùŋ	NOUN	_	Definite=Cons	8	comp:obj@R	_	AlignBegin=264472|AlignEnd=264740|Gloss=chief
-10	bàrgo	bàrgo	NOUN	_	_	8	comp:obj@T	_	AlignBegin=264740|AlignEnd=264874|Gloss=blanquet|wordform=bàrgôs
+10	bàrgo	bàrgo	NOUN	_	_	8	comp:obj@T	_	AlignBegin=264740|AlignEnd=264874|Gloss=blanquet|SpaceAfter=No|wordform=bàrgôs
 11	-es	-es	DET	_	Definite=Def	10	det/m	_	AlignBegin=264740|AlignEnd=264874|Gloss=Def
 12-13	mə́nɗi	_	_	_	_	_	_	_	_
 12	mə́n	mə́n	PART	_	Case=Dat|PartType=Case	8	compound:prt	_	AlignBegin=265008|AlignEnd=265142|Gloss=Dat
@@ -1229,11 +1229,11 @@
 8	ngap	ngap	VERB	_	_	7	compound:svc	_	AlignBegin=269050|AlignEnd=269175|Gloss=catch
 9	ŋǎː	ŋaː	ADJ	_	_	10	mod	_	AlignBegin=270120|AlignEnd=270280|Gloss=small
 10	pərʃi	pərʃi	NOUN	_	_	8	comp:obj	_	AlignBegin=270440|AlignEnd=270520|Gloss=horse.Cons|wordform=pərʃíwôsə́n
-11	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	mod:poss/m	_	AlignBegin=270440|AlignEnd=270520|Gloss==3Sing.Gen|wordform=-wos
+11	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	mod:poss/m	_	AlignBegin=270440|AlignEnd=270520|Gloss==3Sing.Gen|SpaceAfter=No|wordform=-wos
 12	-ə́n	-ə́n	DET	_	PronType=Dem	10	det/m	_	AlignBegin=270440|AlignEnd=270520|Gloss=-Prox
 13	ɗan	ɗan	SCONJ	_	_	10	mod@relcl	_	AlignBegin=272000|AlignEnd=272185|Gloss=that
 14	yi	yi	VERB	_	_	13	comp	_	AlignBegin=272185|AlignEnd=272370|Gloss=be
-15	balɣám	balɣám	NOUN	_	_	14	comp:pred	_	AlignBegin=272370|AlignEnd=272462|Gloss=entrance_room|wordform=balɣámə́n
+15	balɣám	balɣám	NOUN	_	_	14	comp:pred	_	AlignBegin=272370|AlignEnd=272462|Gloss=entrance_room|SpaceAfter=No|wordform=balɣámə́n
 16	-ə́n	-ə́n	DET	_	Deixis=Prox|PronType=Dem	15	det/m	_	AlignBegin=272370|AlignEnd=272462|Gloss=-Prox
 17	//	//	PUNCT	_	_	3	punct	_	AlignBegin=272555|AlignEnd=272740|Gloss=PUNCT
 
@@ -1263,7 +1263,7 @@
 3	wûl	wul	VERB	_	_	2	comp:aux	_	AlignBegin=278254|AlignEnd=278471|Gloss=say
 4	tu	tu	SCONJ	_	_	3	comp:obj@T	_	AlignBegin=278471|AlignEnd=278688|Gloss=Qot
 5	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	4	comp	_	AlignBegin=278688|AlignEnd=278905|Copula=No|Gloss=3Sing.Perf=|wordform=àː
-6	wum	wum	VERB	_	_	5	comp:aux	_	AlignBegin=278905|AlignEnd=279013|Gloss=understand|wordform=wumíː
+6	wum	wum	VERB	_	_	5	comp:aux	_	AlignBegin=278905|AlignEnd=279013|Gloss=understand|SpaceAfter=No|wordform=wumíː
 7	-íː	-íː	ADV	_	_	6	mod/m	_	Accomplished=Yes|AlignBegin=278905|AlignEnd=279013|Gloss=Acpl
 8	//	//	PUNCT	_	_	2	punct	_	AlignBegin=279122|AlignEnd=279340|Gloss=PUNCT
 
@@ -1274,7 +1274,7 @@
 # text_ortho = á ɬǐː də̀n //
 # text_en = He went home.
 1	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=280240|AlignEnd=280365|Copula=No|Gloss=3Sing.Aor=|wordform=á
-2	ɬə	ɬə	VERB	_	_	1	comp:aux	_	AlignBegin=280365|AlignEnd=280427|Gloss=go|wordform=ɬǐː
+2	ɬə	ɬə	VERB	_	_	1	comp:aux	_	AlignBegin=280365|AlignEnd=280427|Gloss=go|SpaceAfter=No|wordform=ɬǐː
 3	-íː	-íː	ADV	_	_	2	mod/m	_	Accomplished=Yes|AlignBegin=280365|AlignEnd=280427|Gloss=Acpl
 4	də̀n	də̀n	NOUN	_	_	2	comp:obj@G	_	AlignBegin=280490|AlignEnd=280615|Gloss=compound
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=280615|AlignEnd=280740|Gloss=PUNCT
@@ -1287,7 +1287,7 @@
 # text_en = In the evening he cut pieces of wood with branches like a catapult handle.
 1	ɗan	ɗan	ADP	_	_	5	mod	_	AlignBegin=281920|AlignEnd=282120|Gloss=as
 2	súːtu	súːtu	NOUN	_	_	3	subj	_	AlignBegin=282120|AlignEnd=282320|Gloss=evening
-3	fi	fi	VERB	_	_	1	comp	_	AlignBegin=282387|AlignEnd=282454|Gloss=do|wordform=fǐː
+3	fi	fi	VERB	_	_	1	comp	_	AlignBegin=282387|AlignEnd=282454|Gloss=do|SpaceAfter=No|wordform=fǐː
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=282387|AlignEnd=282454|Gloss=Acpl
 5	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=283440|AlignEnd=283763|Copula=No|Gloss=3Sing.Aor=|wordform=á
 6	ɬə́n	ɬə́n	VERB	_	_	5	comp:aux	_	AlignBegin=283763|AlignEnd=283925|Gloss=go_for
@@ -1311,7 +1311,7 @@
 # text_ortho = á ʃîníː ɣá ʤìɣáwôs //
 # text_en = He put them into his bag.
 1	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=288380|AlignEnd=288604|Copula=No|Gloss=3Sing.Aor=|wordform=á
-2	ʃin	ʃin	VERB	_	_	1	comp:aux	_	AlignBegin=288604|AlignEnd=288716|Gloss=pour|wordform=ʃîníː
+2	ʃin	ʃin	VERB	_	_	1	comp:aux	_	AlignBegin=288604|AlignEnd=288716|Gloss=pour|SpaceAfter=No|wordform=ʃîníː
 3	-íː	-íː	ADV	_	_	2	mod/m	_	Accomplished=Yes|AlignBegin=288604|AlignEnd=288716|Gloss=Acpl
 4	ɣá	ká	ADP	_	_	2	comp:obl	_	AlignBegin=288828|AlignEnd=289052|Gloss=at
 5	ʤìka	ʤìka	NOUN	_	_	4	comp	_	AlignBegin=289052|AlignEnd=289164|Gloss=bag.Cons|wordform=ʤìɣáwôs
@@ -1328,10 +1328,10 @@
 2-3	ɗǎː	_	_	_	_	_	_	_	_
 2	ɗa	ɗan	ADV	_	_	3	mod	_	AlignBegin=290639|AlignEnd=290759|Gloss=then
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	6	mod	_	AlignBegin=290759|AlignEnd=290878|Copula=No|Gloss=3Sing.Aor=|wordform=á
-4	fi	fi	VERB	_	_	3	comp:aux	_	AlignBegin=290878|AlignEnd=290998|Gloss=do|wordform=fǐː
+4	fi	fi	VERB	_	_	3	comp:aux	_	AlignBegin=290878|AlignEnd=290998|Gloss=do|SpaceAfter=No|wordform=fǐː
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=290878|AlignEnd=290998|Gloss=Acpl
 6	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=291940|AlignEnd=292083|Copula=No|Gloss=3Sing.Aor=|wordform=á
-7	ɬə	ɬə	VERB	_	_	6	comp:aux	_	AlignBegin=292083|AlignEnd=292155|Gloss=go|wordform=ɬǐː
+7	ɬə	ɬə	VERB	_	_	6	comp:aux	_	AlignBegin=292083|AlignEnd=292155|Gloss=go|SpaceAfter=No|wordform=ɬǐː
 8	-íː	-íː	ADV	_	_	7	mod/m	_	Accomplished=Yes|AlignBegin=292083|AlignEnd=292155|Gloss=Acpl
 9	də̀n	də̀n	NOUN	_	_	7	comp:obj@G	_	AlignBegin=292226|AlignEnd=292369|Gloss=compound
 10	gyaː	gyáː	DET	_	Number=Plur	11	det	_	AlignBegin=292369|AlignEnd=292512|Gloss=Plur
@@ -1371,7 +1371,7 @@
 # text_en = When he arrived, he met their chief patrolling with his gun.
 1	ɗan	ɗan	SCONJ	_	_	5	mod	_	AlignBegin=298260|AlignEnd=298410|Gloss=as
 2	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	1	comp	_	AlignBegin=298410|AlignEnd=298560|Copula=No|Gloss=3Sing.Aor=|wordform=á
-3	tul	tul	VERB	_	_	2	comp:aux	_	AlignBegin=298560|AlignEnd=298635|Gloss=reach|wordform=tûlíː
+3	tul	tul	VERB	_	_	2	comp:aux	_	AlignBegin=298560|AlignEnd=298635|Gloss=reach|SpaceAfter=No|wordform=tûlíː
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=298560|AlignEnd=298635|Gloss=Acpl
 5	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=299480|AlignEnd=299673|Copula=No|Gloss=3Sing.Aor=|wordform=á
 6	ɬə́n	ɬə́n	VERB	_	_	5	comp:aux	_	AlignBegin=299673|AlignEnd=299769|Gloss=go.for
@@ -1395,12 +1395,12 @@
 1	ɗan	ɗan	SCONJ	_	_	10	mod	_	AlignBegin=304340|AlignEnd=304564|Gloss=as
 2	Nòːmáu	Nòːmáu	PROPN	_	_	3	subj	_	AlignBegin=304564|AlignEnd=304788|Gloss=Nomau
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	1	comp	_	AlignBegin=304788|AlignEnd=305012|Copula=No|Gloss=3Sing.Aor=|wordform=á
-4	tul	tul	VERB	_	_	3	comp:aux	_	AlignBegin=305012|AlignEnd=305087|Gloss=reach|wordform=tûlíː
+4	tul	tul	VERB	_	_	3	comp:aux	_	AlignBegin=305012|AlignEnd=305087|Gloss=reach|SpaceAfter=No|wordform=tûlíː
 5-6	-íː	_	_	_	_	_	_	_	_
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=305012|AlignEnd=305087|Gloss=Acpl
 6	ɗi	ɗi	PART	_	PartType=Adv	4	compound:prt	_	AlignBegin=305162|AlignEnd=305236|Gloss=CTP|wordform=-́ɗi
 7	séy	séː	ADV	_	_	10	mod	_	AlignBegin=305940|AlignEnd=306113|Gloss=then
-8	muri	muri	NOUN	_	_	10	subj	_	AlignBegin=306113|AlignEnd=306199|Gloss=man|wordform=muríː
+8	muri	muri	NOUN	_	_	10	subj	_	AlignBegin=306113|AlignEnd=306199|Gloss=man|SpaceAfter=No|wordform=muríː
 9	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	8	det/m	_	AlignBegin=306113|AlignEnd=306199|Gloss=Remt
 10	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=306286|AlignEnd=306459|Copula=No|Gloss=3Sing.Aor=|wordform=á
 11-12	wúltə̀	_	_	_	_	_	_	_	_
@@ -1408,7 +1408,7 @@
 12	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	11	comp:obj@R/m	_	AlignBegin=306545|AlignEnd=306632|Gloss===3Sing.Acc
 13	tu	tu	SCONJ	_	_	11	comp:obj@T	_	AlignBegin=306632|AlignEnd=306805|Gloss=Qot|Quote=Yes
 14	ndótsə	ndótsə	ADJ	_	_	15	mod	_	AlignBegin=307580|AlignEnd=307777|Gloss=old
-15	gə̀t	gə̀t	NOUN	_	_	18	vocative	_	AlignBegin=307777|AlignEnd=307875|Gloss=woman|wordform=gə̀ɗín
+15	gə̀t	gə̀t	NOUN	_	_	18	vocative	_	AlignBegin=307777|AlignEnd=307875|Gloss=woman|SpaceAfter=No|wordform=gə̀ɗín
 16	-ə́n	-ə́n	DET	_	Deixis=Prox|PronType=Dem	15	det/m	_	AlignBegin=307777|AlignEnd=307875|Gloss=-Prox
 17	kyáː=	yáː=	AUX	_	Aspect=Imp|Number=Sing|Person=2	13	comp	_	AlignBegin=307974|AlignEnd=308171|Copula=No|Gloss=2Sing.Imp=|wordform=kyáː
 18	máːn	máːn	VERB	_	_	17	comp:aux	_	AlignBegin=308171|AlignEnd=308368|Gloss=go
@@ -1459,7 +1459,7 @@
 # text_ortho = séy murés wùl tu á yǐrni níː ɣá péndi eː ?//
 # text_en = Then the man told her "What do you have in that pot ?"
 1	séy	séː	ADV	_	_	4	mod	_	AlignBegin=318700|AlignEnd=318888|Gloss=then
-2	muri	muri	NOUN	_	_	4	subj	_	AlignBegin=318888|AlignEnd=318982|Gloss=man|wordform=murês
+2	muri	muri	NOUN	_	_	4	subj	_	AlignBegin=318888|AlignEnd=318982|Gloss=man|SpaceAfter=No|wordform=murês
 3	-es	-es	DET	_	Definite=Def	2	det/m	_	AlignBegin=318888|AlignEnd=318982|Gloss=Def
 4	wùl	wul	VERB	_	_	0	root	_	AlignBegin=319170|AlignEnd=319264|Gloss=say
 5	tu	tu	SCONJ	_	_	4	comp:obj	_	AlignBegin=319264|AlignEnd=319452|Gloss=Qot
@@ -1507,12 +1507,12 @@
 # text_ortho = séy múrês á vùm péndêʃíː á ngǔp ɬyáɣə̂n ɗûːy wéy á fî wǔɣn kúʧíː oː //
 # text_en = Then the man took the pot, started drinking beer, saying it was a medicine for sleep.
 1	séy	séː	ADV	_	_	4	mod	_	AlignBegin=329420|AlignEnd=329700|Gloss=then
-2	muri	muri	NOUN	_	_	4	subj	_	AlignBegin=331820|AlignEnd=331945|Gloss=man|wordform=murês
+2	muri	muri	NOUN	_	_	4	subj	_	AlignBegin=331820|AlignEnd=331945|Gloss=man|SpaceAfter=No|wordform=murês
 3	-es	-es	DET	_	Definite=Def	2	det/m	_	AlignBegin=331820|AlignEnd=331945|Gloss=Def
 4	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=332920|AlignEnd=333130|Copula=No|Gloss=3Sing.Aor=|wordform=á
 5	vùm	vum	VERB	_	_	4	comp:aux	_	AlignBegin=333130|AlignEnd=333340|Gloss=snatch
-6	péndi	péndi	NOUN	_	_	5	comp:obj	_	AlignBegin=333340|AlignEnd=333410|Gloss=pot|wordform=péndêʃíː
-7	-eʃ	-es	DET	_	Definite=Def	6	det/m	_	AlignBegin=333340|AlignEnd=333410|Gloss=Def|wordform=-es
+6	péndi	péndi	NOUN	_	_	5	comp:obj	_	AlignBegin=333340|AlignEnd=333410|Gloss=pot|SpaceAfter=No|wordform=péndêʃíː
+7	-eʃ	-es	DET	_	Definite=Def	6	det/m	_	AlignBegin=333340|AlignEnd=333410|Gloss=Def|SpaceAfter=No|wordform=-es
 8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	6	det/m	_	AlignBegin=333340|AlignEnd=333410|Gloss=Remt
 9	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	5	parataxis@conj	_	AlignBegin=335340|AlignEnd=335532|Copula=No|Gloss=3Sing.Aor=|wordform=á
 10	ngǔp	ngúp	VERB	_	_	9	comp:aux	_	AlignBegin=335532|AlignEnd=335724|Gloss=squat
@@ -1522,7 +1522,7 @@
 14	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	10	parataxis:conj	_	AlignBegin=338157|AlignEnd=338314|Copula=No|Gloss=3Sing.Aor=|wordform=á
 15	fî	fi	VERB	_	_	14	comp:aux	_	AlignBegin=338314|AlignEnd=338471|Gloss=do
 16	wǔɣn	wuɣn	NOUN	_	_	15	comp:obj	_	AlignBegin=338471|AlignEnd=338549|Gloss=medicine.Cons
-17	kúʧi	kúʧi	NOUN	_	_	16	mod	_	AlignBegin=338628|AlignEnd=338706|Gloss=sleep|wordform=kúʧíː
+17	kúʧi	kúʧi	NOUN	_	_	16	mod	_	AlignBegin=338628|AlignEnd=338706|Gloss=sleep|SpaceAfter=No|wordform=kúʧíː
 18	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	17	det/m	_	AlignBegin=338628|AlignEnd=338706|Gloss=Remt
 19	oː	oː	PART	_	PartType=Ill	14	mod	_	AlignBegin=338785|AlignEnd=338942|Gloss=Emph
 20	//	//	PUNCT	_	_	4	punct	_	AlignBegin=338942|AlignEnd=339100|Gloss=PUNCT
@@ -1537,7 +1537,7 @@
 1	ɗa	ɗan	SCONJ	_	_	7	mod	_	AlignBegin=340060|AlignEnd=340145|Gloss=as
 2	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	1	comp	_	AlignBegin=340145|AlignEnd=340230|Copula=No|Gloss=3Sing.Aor=|wordform=á
 3	ɬyâ	ɬya	VERB	_	_	2	comp:aux	_	AlignBegin=340230|AlignEnd=340400|Gloss=drink
-4	ɓan	ɓan	VERB	_	_	3	compound:svc	_	AlignBegin=340400|AlignEnd=340485|Gloss=finish|wordform=ɓaníː
+4	ɓan	ɓan	VERB	_	_	3	compound:svc	_	AlignBegin=340400|AlignEnd=340485|Gloss=finish|SpaceAfter=No|wordform=ɓaníː
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=340400|AlignEnd=340485|Gloss=Acpl
 6	séy	séː	SCONJ	_	_	7	mod	_	AlignBegin=341580|AlignEnd=341769|Gloss=then
 7	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=341769|AlignEnd=341958|Copula=No|Gloss=3Sing.Aor=|wordform=á
@@ -1568,7 +1568,7 @@
 5	kúʧi	kúʧi	NOUN	_	_	6	subj	_	AlignBegin=348900|AlignEnd=349120|Gloss=sleep
 6-7	mbìːtíː	_	_	_	_	_	_	_	_
 6	mbìː	mbiː	VERB	_	_	4	comp:obj	_	AlignBegin=349120|AlignEnd=349193|Gloss=take
-7	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	6	comp:obj/m	_	AlignBegin=349193|AlignEnd=349266|Gloss===3Sing.Acc|wordform=-tíː
+7	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	6	comp:obj/m	_	AlignBegin=349193|AlignEnd=349266|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
 8	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	7	mod/m	_	Accomplished=Yes|AlignBegin=349193|AlignEnd=349266|Gloss=Acpl
 9	//	//	PUNCT	_	_	1	punct	_	AlignBegin=349340|AlignEnd=349560|Gloss=PUNCT
 
@@ -1586,9 +1586,9 @@
 6	ɮìː	ɮiː	VERB	_	_	5	comp:aux	_	AlignBegin=353083|AlignEnd=353266|Gloss=pull
 7	lúː	lûː	NOUN	_	_	6	comp:obj	_	AlignBegin=353266|AlignEnd=353449|Gloss=shirt
 8	ɣə̀	kə́	ADP	_	Case=Gen	7	mod	_	AlignBegin=353449|AlignEnd=353632|Gloss=of
-9	muri	muri	NOUN	_	_	8	comp	_	AlignBegin=353632|AlignEnd=353724|Gloss=man|wordform=murês
+9	muri	muri	NOUN	_	_	8	comp	_	AlignBegin=353632|AlignEnd=353724|Gloss=man|SpaceAfter=No|wordform=murês
 10	-es	-es	DET	_	Definite=Def	9	det/m	_	AlignBegin=353632|AlignEnd=353724|Gloss=Def
-11	ʧaː	ʧaː	VERB	_	_	6	parataxis@conj	_	AlignBegin=354460|AlignEnd=354550|Gloss=put|wordform=ʧáːy
+11	ʧaː	ʧaː	VERB	_	_	6	parataxis@conj	_	AlignBegin=354460|AlignEnd=354550|Gloss=put|SpaceAfter=No|wordform=ʧáːy
 12	-íː	-íː	ADV	_	_	11	mod/m	_	Accomplished=Yes|AlignBegin=354460|AlignEnd=354550|Gloss=Acpl
 13	//	//	PUNCT	_	_	3	punct	_	AlignBegin=354640|AlignEnd=354820|Gloss=PUNCT
 
@@ -1600,12 +1600,12 @@
 # text_en = Then he entered and found those people sleeping, everyone had tucked in their feet.
 1	séy	séː	ADV	_	_	2	mod	_	AlignBegin=355800|AlignEnd=355950|Gloss=then
 2	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=355950|AlignEnd=356100|Copula=No|Gloss=3Sing.Aor=|wordform=á
-3	nda	nda	VERB	_	_	2	comp:aux	_	AlignBegin=356100|AlignEnd=356175|Gloss=enter|wordform=ndǎy
+3	nda	nda	VERB	_	_	2	comp:aux	_	AlignBegin=356100|AlignEnd=356175|Gloss=enter|SpaceAfter=No|wordform=ndǎy
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=356100|AlignEnd=356175|Gloss=Acpl
 5	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	3	parataxis@conj	_	AlignBegin=357340|AlignEnd=357492|Copula=No|Gloss=3Sing.Aor=|wordform=á
 6	ɬə́n	ɬə́n	VERB	_	_	5	comp:aux	_	AlignBegin=357492|AlignEnd=357568|Gloss=go_for
 7	tu	tu	VERB	_	_	6	compound:svc	_	AlignBegin=357644|AlignEnd=357796|Gloss=get
-8	mə́n	mə́n	NOUN	_	Number=Plur	10	subj	_	AlignBegin=357796|AlignEnd=357872|Gloss=people|wordform=məníː
+8	mə́n	mə́n	NOUN	_	Number=Plur	10	subj	_	AlignBegin=357796|AlignEnd=357872|Gloss=people|SpaceAfter=No|wordform=məníː
 9	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	8	det/m	_	AlignBegin=357796|AlignEnd=357872|Gloss=Remt
 10	tàː=	áː=	AUX	_	Aspect=Perf|Number=Plur|Person=3	7	comp:obj	_	AlignBegin=358520|AlignEnd=358700|Copula=No|Gloss=3Plur.Perf=|wordform=tàː
 11-12	mbútni	_	_	_	_	_	_	_	_
@@ -1649,7 +1649,7 @@
 9	ʧǎːnaː=	yiká=	AUX	_	Aspect=Prog|Number=Plur|Person=3	8	comp	_	AlignBegin=368286|AlignEnd=368539|Concomitant=Yes|Copula=No|Gloss=3Plur.Conc=|wordform=ʧǎːnaː
 10	ɲolə́n	ɲolə́n	VERB	_	_	9	comp:aux	_	AlignBegin=368539|AlignEnd=368792|Gloss=go_out
 11	dèydéy	dèydéy	ADV	_	_	10	mod	_	AlignBegin=369600|AlignEnd=369860|Gloss=exactly
-12	kúni	kúni	NOUN	_	_	14	subj	_	AlignBegin=369860|AlignEnd=369990|Gloss=boy|wordform=kúnés
+12	kúni	kúni	NOUN	_	_	14	subj	_	AlignBegin=369860|AlignEnd=369990|Gloss=boy|SpaceAfter=No|wordform=kúnés
 13	-es	-es	DET	_	Definite=Def	12	det/m	_	AlignBegin=369860|AlignEnd=369990|Gloss=Def
 14	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	6	comp	_	AlignBegin=370120|AlignEnd=370380|Copula=No|Gloss=3Sing.Perf=|wordform=àː
 15	máni	máni	VERB	_	_	14	comp:aux	_	AlignBegin=370380|AlignEnd=370640|Gloss=come
@@ -1670,7 +1670,7 @@
 # text_ortho = séy kúnés wùltə̀ tu tə̀ gáːtə kás //
 # text_en = Then the boy had told him to leave him.
 1	séy	séː	ADV	_	_	4	mod	_	AlignBegin=373740|AlignEnd=373948|Gloss=then
-2	kúni	kúni	NOUN	_	_	4	subj	_	AlignBegin=373948|AlignEnd=374052|Gloss=boy|wordform=kúnés
+2	kúni	kúni	NOUN	_	_	4	subj	_	AlignBegin=373948|AlignEnd=374052|Gloss=boy|SpaceAfter=No|wordform=kúnés
 3	-es	-es	DET	_	Definite=Def	2	det/m	_	AlignBegin=373948|AlignEnd=374052|Gloss=Def
 4-5	wùltə̀	_	_	_	_	_	_	_	_
 4	wùl	wul	VERB	_	_	0	root	_	AlignBegin=374156|AlignEnd=374260|Gloss=say
@@ -1745,7 +1745,7 @@
 # text_en = When they all slept, Nomau got up, came out, went to take his bag with sticks in it.
 1	ɗan	ɗan	SCONJ	_	_	9	mod	_	AlignBegin=386140|AlignEnd=386313|Gloss=as
 2	tə́=	á=	AUX	_	Number=Plur|Person=3|Tense=Pres	1	comp	_	AlignBegin=386313|AlignEnd=386486|Copula=No|Gloss=3Plur.Aor=|wordform=tə́
-3	nda	nda	VERB	_	_	2	comp:aux	_	AlignBegin=386486|AlignEnd=386572|Gloss=enter|wordform=ndǎy
+3	nda	nda	VERB	_	_	2	comp:aux	_	AlignBegin=386486|AlignEnd=386572|Gloss=enter|SpaceAfter=No|wordform=ndǎy
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=386486|AlignEnd=386572|Gloss=Acpl
 5	kúʧi	kúʧi	NOUN	_	_	3	comp:obj	_	AlignBegin=386659|AlignEnd=386832|Gloss=sleep
 6	ɗeɓát	ɗeɓát	ADV	_	_	3	mod	_	AlignBegin=386832|AlignEnd=387005|Gloss=all|Ideo=Yes
@@ -1753,7 +1753,7 @@
 8	Nòːmáu	Nòːmáu	PROPN	_	_	9	discourse	_	AlignBegin=388148|AlignEnd=388376|Gloss=Nomau
 9	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=388376|AlignEnd=388604|Copula=No|Gloss=3Sing.Aor=|wordform=á
 10	ʃiʃí	ʃiʃí	VERB	_	_	9	comp:aux	_	AlignBegin=388604|AlignEnd=388832|Gloss=get_up
-11	ɲol	ɲol	VERB	_	_	10	compound:svc	_	AlignBegin=389380|AlignEnd=389470|Gloss=go_out
+11	ɲol	ɲol	VERB	_	_	10	compound:svc	_	AlignBegin=389380|AlignEnd=389470|Gloss=go_out|SpaceAfter=No
 12	-íː	-íː	ADV	_	_	11	mod/m	_	Accomplished=Yes|AlignBegin=389380|AlignEnd=389470|Gloss=Acpl
 13	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	10	parataxis@conj	_	AlignBegin=391200|AlignEnd=391490|Copula=No|Gloss=3Sing.Aor=|wordform=á
 14	ɬə́n	ɬə́n	VERB	_	_	13	comp:aux	_	AlignBegin=391490|AlignEnd=391635|Gloss=go_for
@@ -1762,10 +1762,10 @@
 17	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	16	mod:poss/m	_	AlignBegin=392070|AlignEnd=392167|Gloss==SingGen|SpaceAfter=No|wordform=-wôʃ
 18	-íː	-íː	DET	_	PronType=Prs	17	det/m	_	AlignBegin=392070|AlignEnd=392167|Gloss=Remt
 19	ɗan	ɗan	SCONJ	_	_	16	mod@relcl	_	AlignBegin=392360|AlignEnd=392650|Gloss=that
-20	ŋantsə́	ŋantsə́	NOUN	_	_	22	subj	_	AlignBegin=392650|AlignEnd=392795|Gloss=wood|wordform=ŋantsə́y
+20	ŋantsə́	ŋantsə́	NOUN	_	_	22	subj	_	AlignBegin=392650|AlignEnd=392795|Gloss=wood|SpaceAfter=No|wordform=ŋantsə́y
 21	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	20	det/m	_	AlignBegin=392650|AlignEnd=392795|Gloss=Remt
 22-23	ɣáyíː	_	_	_	_	_	_	_	_
-22	ɣáy	káy	PRON	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	19	comp	_	AlignBegin=392940|AlignEnd=393085|Gloss=3Sing.Loc
+22	ɣáy	káy	PRON	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	19	comp	_	AlignBegin=392940|AlignEnd=393085|Gloss=3Sing.Loc|SpaceAfter=No
 23	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	22	det/m	_	AlignBegin=392940|AlignEnd=393085|Gloss=Remt
 24	//	//	PUNCT	_	_	9	punct	_	AlignBegin=393230|AlignEnd=393520|Gloss=PUNCT
 
@@ -1779,9 +1779,9 @@
 2	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=395100|AlignEnd=395240|Copula=No|Gloss=3Sing.Aor=|wordform=á
 3	lǎːp	láːp	VERB	_	_	2	comp:aux	_	AlignBegin=395240|AlignEnd=395380|Gloss=follow
 4	ʧaː	ʧaː	VERB	_	_	3	compound:svc	_	AlignBegin=396220|AlignEnd=396515|Gloss=put
-5	mur	mur	NOUN	_	Number=Plur	4	comp:obj@R	_	AlignBegin=396515|AlignEnd=396663|Gloss=man.Plur|wordform=məníː
+5	mur	mur	NOUN	_	Number=Plur	4	comp:obj@R	_	AlignBegin=396515|AlignEnd=396663|Gloss=man.Plur|SpaceAfter=No|wordform=məníː
 6	-íː	-íː	ADV	_	Number=Plur	5	mod/m	_	Accomplished=Yes|AlignBegin=396515|AlignEnd=396663|Gloss=Acpl
-7	ŋantsə́	ŋantsə́	NOUN	_	_	4	comp:obj@T	_	AlignBegin=396810|AlignEnd=396958|Gloss=wood|wordform=ŋantsə́y
+7	ŋantsə́	ŋantsə́	NOUN	_	_	4	comp:obj@T	_	AlignBegin=396810|AlignEnd=396958|Gloss=wood|SpaceAfter=No|wordform=ŋantsə́y
 8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	7	det/m	_	AlignBegin=396810|AlignEnd=396958|Gloss=Remt
 9	á	ká	ADP	_	_	4	comp:obl	_	AlignBegin=397700|AlignEnd=397880|Gloss=at
 10	tâːs	tâːs	NOUN	_	_	9	comp	_	AlignBegin=397880|AlignEnd=398060|Gloss=hand
@@ -1803,7 +1803,7 @@
 7	ŋǎː	ŋaː	ADJ	_	_	8	mod	_	AlignBegin=403120|AlignEnd=403235|Gloss=young-Cons
 8	pərʃi	pərʃi	NOUN	_	_	6	comp:obj	_	AlignBegin=403350|AlignEnd=403465|Gloss=horse
 9	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	6	parataxis@conj	_	AlignBegin=403580|AlignEnd=403810|Copula=No|Gloss=3Sing.Aor=|wordform=á
-10	ɬə	ɬə	VERB	_	_	9	comp:aux	_	AlignBegin=403810|AlignEnd=403925|Gloss=go|wordform=ɬǐː
+10	ɬə	ɬə	VERB	_	_	9	comp:aux	_	AlignBegin=403810|AlignEnd=403925|Gloss=go|SpaceAfter=No|wordform=ɬǐː
 11	-íː	-íː	ADV	_	_	10	mod/m	_	Accomplished=Yes|AlignBegin=403810|AlignEnd=403925|Gloss=Acpl
 12	də̀n	də̀n	NOUN	_	_	10	comp:obj@G	_	AlignBegin=404040|AlignEnd=404270|Gloss=compound
 13	//	//	PUNCT	_	_	2	punct	_	AlignBegin=404270|AlignEnd=404500|Gloss=PUNCT
@@ -1818,7 +1818,7 @@
 2-3	ɗǎː	_	_	_	_	_	_	_	_
 2	ɗa	ɗan	ADV	_	_	3	mod	_	AlignBegin=405250|AlignEnd=405335|Gloss=then
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	8	mod	_	AlignBegin=405335|AlignEnd=405420|Copula=No|Gloss=3Sing.Aor=|wordform=á
-4	ɬaː	ɬaː	VERB	_	_	3	comp:aux	_	AlignBegin=405477|AlignEnd=405534|Gloss=cut|wordform=ɬǎːy
+4	ɬaː	ɬaː	VERB	_	_	3	comp:aux	_	AlignBegin=405477|AlignEnd=405534|Gloss=cut|SpaceAfter=No|wordform=ɬǎːy
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=405477|AlignEnd=405534|Gloss=Acpl
 6	séy	séː	SCONJ	_	_	8	mod	_	AlignBegin=406480|AlignEnd=406698|Gloss=then
 7	gùŋ	gùŋ	NOUN	_	_	8	subj	_	AlignBegin=406698|AlignEnd=406916|Gloss=chief
@@ -1863,7 +1863,7 @@
 3-4	sùtə̀	_	_	_	_	_	_	_	_
 3	sù	su	VERB	_	_	0	root	_	AlignBegin=415936|AlignEnd=416040|Gloss=turn
 4	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	comp:obj/m	_	AlignBegin=416040|AlignEnd=416144|Gloss===3Sing.Acc
-5	ɲol	ɲol	VERB	_	_	3	compound:svc	_	AlignBegin=416144|AlignEnd=416248|Gloss=go_out|wordform=ɲolíː
+5	ɲol	ɲol	VERB	_	_	3	compound:svc	_	AlignBegin=416144|AlignEnd=416248|Gloss=go_out|SpaceAfter=No|wordform=ɲolíː
 6	-íː	-íː	ADV	_	_	5	mod/m	_	Accomplished=Yes|AlignBegin=416144|AlignEnd=416248|Gloss=Acpl
 7	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	3	parataxis@conj	_	AlignBegin=417460|AlignEnd=417688|Copula=No|Gloss=3Sing.Aor=|wordform=á
 8	ɬə́n	ɬə́n	VERB	_	_	7	comp:aux	_	AlignBegin=417688|AlignEnd=417802|Gloss=go_for
@@ -1911,7 +1911,7 @@
 2	ɣáy	káy	PRON	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	1	comp:obl	_	AlignBegin=427120|AlignEnd=427240|Gloss=3Sing.Loc
 3	ʧík	ʧík	ADV	_	_	1	comp:pred	_	AlignBegin=427240|AlignEnd=427360|Gloss=thus
 4	séy	séː	ADV	_	_	8	mod	_	AlignBegin=427960|AlignEnd=428236|Gloss=then
-5	ngaːlá	ngaːlá	VERB	_	_	8	mod	_	AlignBegin=428236|AlignEnd=428512|Gloss=spend_time|wordform=ngaːláy
+5	ngaːlá	ngaːlá	VERB	_	_	8	mod	_	AlignBegin=428236|AlignEnd=428512|Gloss=spend_time|SpaceAfter=No|wordform=ngaːláy
 6	-íː	-íː	ADV	_	_	5	mod/m	_	Accomplished=Yes|AlignBegin=428236|AlignEnd=428512|Gloss=Acpl
 7	Nòːmáu	Nòːmáu	PROPN	_	_	8	subj	_	AlignBegin=428512|AlignEnd=428788|Gloss=Nomau
 8	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=428788|AlignEnd=429064|Copula=No|Gloss=3Sing.Aor=|wordform=á
@@ -1966,7 +1966,7 @@
 13	fi	fi	VERB	_	_	12	comp:aux	_	AlignBegin=439875|AlignEnd=440018|Gloss=do
 14	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	13	mod	_	AlignBegin=440860|AlignEnd=441106|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 15	mbíː	mbiː	VERB	_	_	14	comp:aux	_	AlignBegin=441106|AlignEnd=441352|Gloss=take
-16	lìmâːn	lìmâːn	NOUN	_	_	15	comp:obj	_	AlignBegin=441352|AlignEnd=441434|Gloss=imam|wordform=lìmáːníː
+16	lìmâːn	lìmâːn	NOUN	_	_	15	comp:obj	_	AlignBegin=441352|AlignEnd=441434|Gloss=imam|SpaceAfter=No|wordform=lìmáːníː
 17-18	-íː	_	_	_	_	_	_	_	_
 17	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	16	det/m	_	AlignBegin=441352|AlignEnd=441434|Gloss=Remt
 18	ɗi	ɗi	PART	_	PartType=Adv	15	compound:prt	_	AlignBegin=441516|AlignEnd=441598|Gloss=CTP|wordform=-́ɗi
@@ -1990,7 +1990,7 @@
 6	tu	tu	SCONJ	_	_	4	comp:obj@T	_	AlignBegin=445044|AlignEnd=445280|Gloss=Qot
 7	tòː	tòː	PART	_	PartType=Disc	8	discourse	_	AlignBegin=445280|AlignEnd=445516|Gloss=well
 8	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	6	comp	_	AlignBegin=445516|AlignEnd=445752|Copula=No|Gloss=3Sing.Perf=|wordform=àː
-9	wum	wum	VERB	_	_	8	comp:aux	_	AlignBegin=445752|AlignEnd=445870|Gloss=understand|wordform=wumíː
+9	wum	wum	VERB	_	_	8	comp:aux	_	AlignBegin=445752|AlignEnd=445870|Gloss=understand|SpaceAfter=No|wordform=wumíː
 10	-íː	-íː	ADV	_	_	9	mod/m	_	Accomplished=Yes|AlignBegin=445752|AlignEnd=445870|Gloss=Acpl
 11	//	//	PUNCT	_	_	3	punct	_	AlignBegin=445988|AlignEnd=446220|Gloss=PUNCT
 
@@ -2001,7 +2001,7 @@
 # text_ortho = á ɬǐː də̀n //
 # text_en = He went home.
 1	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=447300|AlignEnd=447440|Copula=No|Gloss=3Sing.Aor=|wordform=á
-2	ɬə	ɬə	VERB	_	_	1	comp:aux	_	AlignBegin=447440|AlignEnd=447510|Gloss=go|wordform=ɬǐː
+2	ɬə	ɬə	VERB	_	_	1	comp:aux	_	AlignBegin=447440|AlignEnd=447510|Gloss=go|SpaceAfter=No|wordform=ɬǐː
 3	-íː	-íː	ADV	_	_	2	mod/m	_	Accomplished=Yes|AlignBegin=447440|AlignEnd=447510|Gloss=Acpl
 4	də̀n	də̀n	NOUN	_	_	2	comp:obj@G	_	AlignBegin=447580|AlignEnd=447720|Gloss=compound
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=447720|AlignEnd=447860|Gloss=PUNCT
@@ -2034,13 +2034,13 @@
 # text_en = Then he brought them home and put them in his room.
 1	ɗan	ɗan	SCONJ	_	_	2	mod	_	AlignBegin=454480|AlignEnd=454715|Gloss=as
 2	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=454715|AlignEnd=454950|Copula=No|Gloss=3Sing.Aor=|wordform=á
-3	lə́ːr	lə́ːr	VERB	_	_	2	comp:aux	_	AlignBegin=454950|AlignEnd=455028|Gloss=bring|wordform=lə̌ːríː
+3	lə́ːr	lə́ːr	VERB	_	_	2	comp:aux	_	AlignBegin=454950|AlignEnd=455028|Gloss=bring|SpaceAfter=No|wordform=lə̌ːríː
 4-5	-íː	_	_	_	_	_	_	_	_
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=454950|AlignEnd=455028|Gloss=Acpl
 5	ɗi	ɗi	PART	_	PartType=Adv	3	compound:prt	_	AlignBegin=455106|AlignEnd=455185|Gloss=CTP|wordform=-́ɗi
 6	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	3	parataxis@conj	_	AlignBegin=456120|AlignEnd=456353|Copula=No|Gloss=3Sing.Aor=|wordform=á
 7	mán	máni	VERB	_	_	6	comp:aux	_	AlignBegin=456353|AlignEnd=456586|Gloss=come
-8	gaː	gaː	VERB	_	_	7	compound:svc	_	AlignBegin=456586|AlignEnd=456702|Gloss=put|wordform=gáːy
+8	gaː	gaː	VERB	_	_	7	compound:svc	_	AlignBegin=456586|AlignEnd=456702|Gloss=put|SpaceAfter=No|wordform=gáːy
 9	-íː	-íː	ADV	_	_	8	mod/m	_	Accomplished=Yes|AlignBegin=456586|AlignEnd=456702|Gloss=Acpl
 10	ɗaːtə	ɗaːtə	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	mod@poss	_	AlignBegin=456819|AlignEnd=456935|Gloss=3Sing.Gen
 11	vìːn	vìːn	NOUN	_	_	8	comp:obj@L	_	AlignBegin=457052|AlignEnd=457285|Gloss=room
@@ -2054,7 +2054,7 @@
 # text_en = Then he went to the river and collected many crabs in a bag and took them home.
 1	séy	séː	ADV	_	_	2	mod	_	AlignBegin=458460|AlignEnd=458632|Gloss=then
 2	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=458632|AlignEnd=458804|Copula=No|Gloss=3Sing.Aor=|wordform=á
-3	ɬə	ɬə	VERB	_	_	2	comp:aux	_	AlignBegin=458804|AlignEnd=458890|Gloss=go|wordform=ɬǐː
+3	ɬə	ɬə	VERB	_	_	2	comp:aux	_	AlignBegin=458804|AlignEnd=458890|Gloss=go|SpaceAfter=No|wordform=ɬǐː
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=458804|AlignEnd=458890|Gloss=Acpl
 5	lâːr	lâːr	NOUN	_	_	3	comp:obj@G	_	AlignBegin=458976|AlignEnd=459148|Gloss=river
 6	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	3	parataxis@conj	_	AlignBegin=460680|AlignEnd=460893|Copula=No|Gloss=3Sing.Aor=|wordform=á
@@ -2067,7 +2067,7 @@
 12	á	ká	ADP	_	_	8	comp:obl	_	AlignBegin=462460|AlignEnd=462607|Gloss=at
 13	bùhú	bùhuu	VERB	_	_	12	comp	_	AlignBegin=462607|AlignEnd=462754|Gloss=bag
 14	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	7	parataxis@conj	_	AlignBegin=464340|AlignEnd=464535|Copula=No|Gloss=3Sing.Aor=|wordform=á
-15	lə́ːr	lə́ːr	VERB	_	_	14	comp:aux	_	AlignBegin=464535|AlignEnd=464600|Gloss=bring|wordform=lə̌ːríː
+15	lə́ːr	lə́ːr	VERB	_	_	14	comp:aux	_	AlignBegin=464535|AlignEnd=464600|Gloss=bring|SpaceAfter=No|wordform=lə̌ːríː
 16-17	-íː	_	_	_	_	_	_	_	_
 16	-íː	-íː	ADV	_	_	15	mod/m	_	Accomplished=Yes|AlignBegin=464535|AlignEnd=464600|Gloss=Acpl
 17	ɗi	ɗi	PART	_	PartType=Adv	15	compound:prt	_	AlignBegin=464665|AlignEnd=464730|Gloss=CTP|wordform=-́ɗi
@@ -2084,7 +2084,7 @@
 2-3	ɗǎː	_	_	_	_	_	_	_	_
 2	ɗa	ɗan	SCONJ	_	_	6	mod	_	AlignBegin=466355|AlignEnd=466453|Gloss=then
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	2	comp	_	AlignBegin=466453|AlignEnd=466550|Copula=No|Gloss=3Sing.Aor=|wordform=á
-4	fi	fi	VERB	_	_	3	comp:aux	_	AlignBegin=466550|AlignEnd=466648|Gloss=do|wordform=fǐː
+4	fi	fi	VERB	_	_	3	comp:aux	_	AlignBegin=466550|AlignEnd=466648|Gloss=do|SpaceAfter=No|wordform=fǐː
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=466550|AlignEnd=466648|Gloss=Acpl
 6	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=468120|AlignEnd=468364|Copula=No|Gloss=3Sing.Aor=|wordform=á
 7	ɲôm	ɲom	VERB	_	_	6	comp:aux	_	AlignBegin=468364|AlignEnd=468608|Gloss=take
@@ -2093,7 +2093,7 @@
 10	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	mod:poss/m	_	AlignBegin=468852|AlignEnd=468933|Gloss==Sing.Gen|SpaceAfter=No|wordform=-wòʃ
 11	-íː	-íː	DET	_	PronType=Dem	10	det/m	_	AlignBegin=468852|AlignEnd=468933|Gloss=Remt
 12	tə́	tə́	CCONJ	_	_	13	cc	_	AlignBegin=470500|AlignEnd=470680|Gloss=with
-13	ngála	ngála	NOUN	_	_	9	conj:coord	_	AlignBegin=470680|AlignEnd=470770|Gloss=crab|wordform=ngáláy
+13	ngála	ngála	NOUN	_	_	9	conj:coord	_	AlignBegin=470680|AlignEnd=470770|Gloss=crab|SpaceAfter=No|wordform=ngáláy
 14	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	13	det/m	_	AlignBegin=470680|AlignEnd=470770|Gloss=Remt
 15	//	//	PUNCT	_	_	6	punct	_	AlignBegin=470680|AlignEnd=470770|Gloss=PUNCT
 
@@ -2119,7 +2119,7 @@
 # text_en = When he arrived, he followed by tying the candles to them [the crabs],  then he set them free to wander in the mosque.
 1	ɗan	ɗan	SCONJ	_	_	6	mod	_	AlignBegin=475640|AlignEnd=475785|Gloss=as
 2	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	1	comp	_	AlignBegin=475785|AlignEnd=475930|Copula=No|Gloss=3Sing.Aor=|wordform=á
-3	tul	tul	VERB	_	_	2	comp:aux	_	AlignBegin=475930|AlignEnd=476002|Gloss=reach|wordform=tûlíː
+3	tul	tul	VERB	_	_	2	comp:aux	_	AlignBegin=475930|AlignEnd=476002|Gloss=reach|SpaceAfter=No|wordform=tûlíː
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=475930|AlignEnd=476002|Gloss=Acpl
 5	séy	séː	ADV	_	_	6	mod	_	AlignBegin=477600|AlignEnd=477745|Gloss=then
 6	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=477745|AlignEnd=477890|Copula=No|Gloss=3Sing.Aor=|wordform=á
@@ -2133,12 +2133,12 @@
 13-15	gəmʃíwâːʃíː	_	_	_	_	_	_	_	_
 13	gəm	gəm	VERB	_	_	7	conj:coord	_	AlignBegin=482447|AlignEnd=482529|Gloss=release
 14	=ʃí	=ʃí	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	comp:obj/m	_	AlignBegin=482529|AlignEnd=482611|Gloss==3Plur.Acc
-15	waːsəŋ	waːsəŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	14	mod@ethic	_	AlignBegin=482529|AlignEnd=482611|Gloss=3PlurGen|wordform=wâːʃíː
+15	waːsəŋ	waːsəŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	14	mod@ethic	_	AlignBegin=482529|AlignEnd=482611|Gloss=3PlurGen|SpaceAfter=No|wordform=wâːʃíː
 16	-íː	-íː	ADV	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	15	mod/m	_	Accomplished=Yes|AlignBegin=482529|AlignEnd=482611|Gloss=Acpl
 17	ʧǎː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=3	13	parataxis@mod	_	AlignBegin=484600|AlignEnd=484848|Copula=No|Gloss=3Plur.Imp=|wordform=ʧǎː
 18	ŋâl	ŋal	VERB	_	_	17	comp:aux	_	AlignBegin=484848|AlignEnd=485096|Gloss=walk_around
 19	ɗa	ɗa	ADP	_	_	18	comp:obl	_	AlignBegin=485096|AlignEnd=485344|Gloss=at
-20	masallaːʧi	masallaːʧi	NOUN	_	_	19	comp	_	AlignBegin=485344|AlignEnd=485468|Gloss=mosque|wordform=masallaːʧês
+20	masallaːʧi	masallaːʧi	NOUN	_	_	19	comp	_	AlignBegin=485344|AlignEnd=485468|Gloss=mosque|SpaceAfter=No|wordform=masallaːʧês
 21	-es	-es	DET	_	Definite=Def	20	det/m	_	AlignBegin=485344|AlignEnd=485468|Gloss=Def
 22	//	//	PUNCT	_	_	6	punct	_	AlignBegin=485592|AlignEnd=485840|Gloss=PUNCT
 
@@ -2167,7 +2167,7 @@
 3-4	ɗǎː	_	_	_	_	_	_	_	_
 3	ɗa	ɗa	SCONJ	_	_	8	mod	_	AlignBegin=491840|AlignEnd=491940|Gloss=as
 4	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	3	comp	_	AlignBegin=491940|AlignEnd=492040|Copula=No|Gloss=3Sing.Aor=|wordform=á
-5	wum	wum	VERB	_	_	4	comp:aux	_	AlignBegin=492040|AlignEnd=492140|Gloss=hear|wordform=wûmíː
+5	wum	wum	VERB	_	_	4	comp:aux	_	AlignBegin=492040|AlignEnd=492140|Gloss=hear|SpaceAfter=No|wordform=wûmíː
 6	-íː	-íː	ADV	_	_	5	mod/m	_	Accomplished=Yes|AlignBegin=492040|AlignEnd=492140|Gloss=Acpl
 7	séy	séː	SCONJ	_	_	8	mod	_	AlignBegin=493640|AlignEnd=493880|Gloss=then
 8	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=493880|AlignEnd=494120|Copula=No|Gloss=3Sing.Aor=|wordform=á
@@ -2202,7 +2202,7 @@
 # text_en = When he arrived he saw a man in a white gown calling for the prayer.
 1	ɗan	ɗan	SCONJ	_	_	7	mod	_	AlignBegin=499260|AlignEnd=499450|Gloss=as
 2	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	1	comp	_	AlignBegin=499450|AlignEnd=499640|Copula=No|Gloss=3Sing.Aor=|wordform=á
-3	tul	tul	VERB	_	_	2	comp:aux	_	AlignBegin=499640|AlignEnd=499703|Gloss=reach|wordform=tûlíː
+3	tul	tul	VERB	_	_	2	comp:aux	_	AlignBegin=499640|AlignEnd=499703|Gloss=reach|SpaceAfter=No|wordform=tûlíː
 4-5	-íː	_	_	_	_	_	_	_	_
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=499640|AlignEnd=499703|Gloss=Acpl
 5	ɗi	ɗi	PART	_	PartType=Adv	3	compound:prt	_	AlignBegin=499766|AlignEnd=499830|Gloss=CTP|wordform=-́ɗi
@@ -2236,7 +2236,7 @@
 9	tə́	tə́	ADP	_	_	8	mod	_	AlignBegin=506972|AlignEnd=507201|Gloss=with
 10	wût	wût	NOUN	_	_	9	comp	_	AlignBegin=507201|AlignEnd=507430|Gloss=N
 11	ɗa	ɗa	ADP	_	_	8	mod	_	AlignBegin=507430|AlignEnd=507659|Gloss=at
-12	masallaːʧi	masallaːʧi	NOUN	_	_	11	comp	_	AlignBegin=507659|AlignEnd=507773|Gloss=mosque|wordform=masallaːʧês
+12	masallaːʧi	masallaːʧi	NOUN	_	_	11	comp	_	AlignBegin=507659|AlignEnd=507773|Gloss=mosque|SpaceAfter=No|wordform=masallaːʧês
 13	-es	-es	DET	_	Definite=Def	12	det/m	_	AlignBegin=507659|AlignEnd=507773|Gloss=Def
 14	//	//	PUNCT	_	_	1	punct	_	AlignBegin=508520|AlignEnd=508740|Gloss=PUNCT
 
@@ -2250,7 +2250,7 @@
 2	vərtə́	vərtə	VERB	_	_	3	subj	_	AlignBegin=508740|AlignEnd=508960|Gloss=fear
 3-4	ngâptíː	_	_	_	_	_	_	_	_
 3	ngâp	ngap	VERB	_	_	0	root	_	AlignBegin=508960|AlignEnd=509033|Gloss=catch
-4	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	comp:obj/m	_	AlignBegin=509033|AlignEnd=509106|Gloss===3Sing.Acc|wordform=-tíː
+4	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	comp:obj/m	_	AlignBegin=509033|AlignEnd=509106|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
 5	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	mod/m	_	Accomplished=Yes|AlignBegin=509033|AlignEnd=509106|Gloss=Acpl
 6	//	//	PUNCT	_	_	3	punct	_	AlignBegin=509180|AlignEnd=509400|Gloss=PUNCT
 
@@ -2277,7 +2277,7 @@
 13	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	12	comp:obj@R/m	_	AlignBegin=513645|AlignEnd=513748|Gloss===3Sing.Acc
 14	tu	tu	SCONJ	_	_	12	comp:obj@T	_	AlignBegin=513748|AlignEnd=513955|Gloss=Qot
 15	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	14	comp	_	AlignBegin=514880|AlignEnd=515040|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
-16	ɮə	ɮə	VERB	_	_	15	comp:aux	_	AlignBegin=515040|AlignEnd=515120|Gloss=wait|wordform=ɮə́ːríː
+16	ɮə	ɮə	VERB	_	_	15	comp:aux	_	AlignBegin=515040|AlignEnd=515120|Gloss=wait|SpaceAfter=No|wordform=ɮə́ːríː
 17	-íː	-íː	ADV	_	_	16	mod/m	_	Accomplished=Yes|AlignBegin=515040|AlignEnd=515120|Gloss=Acpl
 18	//	//	PUNCT	_	_	1	punct	_	AlignBegin=515200|AlignEnd=515360|Gloss=PUNCT
 
@@ -2300,7 +2300,7 @@
 10	mán	máni	VERB	_	_	9	comp:aux	_	AlignBegin=517752|AlignEnd=518008|Gloss=come
 11-12	ɬə́ːrtíː	_	_	_	_	_	_	_	_
 11	ɬə́ːr	ɬə	VERB	_	_	10	compound:svc	_	AlignBegin=518008|AlignEnd=518072|Gloss=go-Cau
-12	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	11	comp:obj/m	_	AlignBegin=518136|AlignEnd=518200|Gloss===3Sing.Acc|wordform=-tíː
+12	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	11	comp:obj/m	_	AlignBegin=518136|AlignEnd=518200|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
 13	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	12	mod/m	_	Accomplished=Yes|AlignBegin=518136|AlignEnd=518200|Gloss=Acpl
 14	dòmín	dòmín	SCONJ	_	_	11	mod	_	AlignBegin=518920|AlignEnd=519108|Gloss=because
 15	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	14	comp	_	AlignBegin=519108|AlignEnd=519296|Copula=No|Gloss=3Sing.Perf=|wordform=àː
@@ -2308,7 +2308,7 @@
 17	mel	mel	ADP	_	_	16	comp:pred	_	AlignBegin=519484|AlignEnd=519672|Gloss=near
 18	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	16	comp:obj@agent	_	AlignBegin=520500|AlignEnd=520663|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 19	ʧi	ʧi	VERB	_	_	18	comp:aux	_	AlignBegin=520663|AlignEnd=520826|Gloss=eat
-20	yaːɬ	yaːɬ	NOUN	_	_	19	comp:obj	_	AlignBegin=520826|AlignEnd=520880|Gloss=country.Prox|wordform=yaːɬə́níː
+20	yaːɬ	yaːɬ	NOUN	_	_	19	comp:obj	_	AlignBegin=520826|AlignEnd=520880|Gloss=country.Prox|SpaceAfter=No|wordform=yaːɬə́níː
 21	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	20	det/m	_	AlignBegin=520826|AlignEnd=520880|Gloss=Remt
 22	tə́	tə́	ADP	_	_	19	comp:obl	_	AlignBegin=520989|AlignEnd=521152|Gloss=with
 23	wût	wût	NOUN	_	_	22	comp	_	AlignBegin=521152|AlignEnd=521315|Gloss=N
@@ -2333,7 +2333,7 @@
 1	kúmá	kúmá	PART	_	PartType=Disc	6	discourse	_	AlignBegin=525900|AlignEnd=526124|Gloss=and
 2	káp	káp	ADV	_	_	6	mod	_	AlignBegin=526124|AlignEnd=526348|Gloss=all
 3	ká	ká	ADP	_	_	6	mod	_	AlignBegin=526348|AlignEnd=526572|Gloss=at
-4	yaːɬ	yaːɬ	NOUN	_	Definite=Cons	3	comp	_	AlignBegin=526572|AlignEnd=526684|Gloss=country|wordform=yaːɬə́n
+4	yaːɬ	yaːɬ	NOUN	_	Definite=Cons	3	comp	_	AlignBegin=526572|AlignEnd=526684|Gloss=country|SpaceAfter=No|wordform=yaːɬə́n
 5	-ə́n	-ə́n	DET	_	Definite=Cons|Deixis=Prox|PronType=Dem	4	det/m	_	AlignBegin=526572|AlignEnd=526684|Gloss=-Prox
 6	bâː	baːbù	PART	_	Foreign=Yes|PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=527680|AlignEnd=527869|Gloss=there_is.Neg|Lang=ha
 7	gón	gón	PRON	_	Definite=Spec	6	subj	_	AlignBegin=527869|AlignEnd=528058|Gloss=Spec
@@ -2362,7 +2362,7 @@
 8	mán	máni	VERB	_	_	7	comp:aux	_	AlignBegin=532464|AlignEnd=532628|Gloss=come|wordform=máni
 9-10	ɬə́ːrtíː	_	_	_	_	_	_	_	_
 9	ɬə́ːr	ɬə	VERB	_	_	8	compound:svc	_	AlignBegin=532628|AlignEnd=532669|Gloss=go-Cau
-10	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	9	comp:obj/m	_	AlignBegin=532710|AlignEnd=532751|Gloss===3Sing.Acc|wordform=-tíː
+10	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	9	comp:obj/m	_	AlignBegin=532710|AlignEnd=532751|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
 11	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	10	mod/m	_	Accomplished=Yes|AlignBegin=532710|AlignEnd=532751|Gloss=Acpl
 12	oː	oː	PART	_	PartType=Ill	7	mod	_	AlignBegin=532792|AlignEnd=532956|Gloss=Emph
 13	//	//	PUNCT	_	_	1	punct	_	AlignBegin=532956|AlignEnd=533120|Gloss=PUNCT
@@ -2378,7 +2378,7 @@
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=534546|AlignEnd=534839|Copula=No|Gloss=3Sing.Aor=|wordform=á
 4	mbiː	mbiː	VERB	_	_	3	comp:aux	_	AlignBegin=534839|AlignEnd=535132|Gloss=take
 5	ʤìká	ʤìká	NOUN	_	Definite=Cons	4	comp:obj	_	AlignBegin=535132|AlignEnd=535205|Gloss=bag-Cons|wordform=ʤìɣáwôʃíː
-6	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	mod:poss/m	_	AlignBegin=535132|AlignEnd=535205|Gloss==SingGen|wordform=-wos
+6	=wos	=wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	mod:poss/m	_	AlignBegin=535132|AlignEnd=535205|Gloss==SingGen|SpaceAfter=No|wordform=-wos
 7-8	-íː	_	_	_	_	_	_	_	_
 7	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	6	det/m	_	AlignBegin=535132|AlignEnd=535205|Gloss=Remt
 8	ɗi	ɗi	PART	_	PartType=Adv	4	compound:prt	_	AlignBegin=535351|AlignEnd=535425|Gloss=CTP|wordform=-́ɗi
@@ -2407,7 +2407,7 @@
 1	séy	séː	ADV	_	_	3	mod	_	AlignBegin=538740|AlignEnd=538923|Gloss=then
 2	lìmâːn	lìmâːn	NOUN	_	Definite=Ind	3	subj	_	AlignBegin=538923|AlignEnd=539106|Gloss=imam
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=539106|AlignEnd=539289|Copula=No|Gloss=3Sing.Aor=|wordform=á
-4	nda	nda	VERB	_	_	3	comp:aux	_	AlignBegin=539289|AlignEnd=539381|Gloss=enter|wordform=ndǎy
+4	nda	nda	VERB	_	_	3	comp:aux	_	AlignBegin=539289|AlignEnd=539381|Gloss=enter|SpaceAfter=No|wordform=ndǎy
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=539289|AlignEnd=539381|Gloss=Acpl
 6	ɣáy	káy	PRON	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	4	comp:obl	_	AlignBegin=539472|AlignEnd=539655|Gloss=3Sing.Loc
 7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=539655|AlignEnd=539840|Gloss=PUNCT
@@ -2434,7 +2434,7 @@
 # text_ortho = á ɲôláríː //
 # text_en = He took it out.
 1	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=543020|AlignEnd=543200|Copula=No|Gloss=3Sing.Aor=|wordform=á
-2	ɲol	ɲol	VERB	_	_	1	comp:aux	_	AlignBegin=543200|AlignEnd=543260|Gloss=go_out-Cau|wordform=ɲôláríː
+2	ɲol	ɲol	VERB	_	_	1	comp:aux	_	AlignBegin=543200|AlignEnd=543260|Gloss=go_out-Cau|SpaceAfter=No|wordform=ɲôláríː
 3	-íː	-íː	ADV	_	_	2	mod/m	_	Accomplished=Yes|AlignBegin=543200|AlignEnd=543260|Gloss=Acpl
 4	//	//	PUNCT	_	_	1	punct	_	AlignBegin=543380|AlignEnd=543560|Gloss=PUNCT
 
@@ -2449,7 +2449,7 @@
 3	ɣáy	káy	PRON	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	2	comp:obl	_	AlignBegin=545328|AlignEnd=545512|Gloss=3Sing.Loc
 4	tu	tu	SCONJ	_	_	2	comp:pred	_	AlignBegin=545512|AlignEnd=545696|Gloss=Qot
 5	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	4	comp	_	AlignBegin=546620|AlignEnd=546805|Copula=No|Gloss=3Sing.Fut=|wordform=wò
-6	ɬə	ɬə	VERB	_	_	5	comp:aux	_	AlignBegin=546805|AlignEnd=546897|Gloss=go|wordform=ɬíː
+6	ɬə	ɬə	VERB	_	_	5	comp:aux	_	AlignBegin=546805|AlignEnd=546897|Gloss=go|SpaceAfter=No|wordform=ɬíː
 7	-íː	-íː	ADV	_	_	6	mod/m	_	Accomplished=Yes|AlignBegin=546805|AlignEnd=546897|Gloss=Acpl
 8	ʧóɣnvòn	ʧóɣnvòn	NOUN	_	_	6	comp:obj@G	_	AlignBegin=546990|AlignEnd=547175|Gloss=heaven
 9	//	//	PUNCT	_	_	2	punct	_	AlignBegin=547175|AlignEnd=547360|Gloss=PUNCT
@@ -2476,7 +2476,7 @@
 # text = ngaːláy tə́ tâ ɣá dùl ɣə̀ puːs séy lìmâːn á ɗû gaːmíː ɗa puːʃi //
 # text_ortho = ngaːláy tə́ tâ ká dùl kə̀ pu:s séy lìmâːn á ɗû gaːmíː ɗa pu:ʃi //
 # text_en = Later on, they went over a stone, and the imam banged his head on the stone.
-1	ngaːlá	ngaːlá	VERB	_	_	3	mod	_	AlignBegin=552620|AlignEnd=552818|Gloss=after_a_while|wordform=ngaːláy
+1	ngaːlá	ngaːlá	VERB	_	_	3	mod	_	AlignBegin=552620|AlignEnd=552818|Gloss=after_a_while|SpaceAfter=No|wordform=ngaːláy
 2	-íː	-íː	ADV	_	_	1	mod/m	_	Accomplished=Yes|AlignBegin=552620|AlignEnd=552818|Gloss=Acpl
 3	tə́=	á=	AUX	_	Number=Plur|Person=3|Tense=Pres	0	root	_	AlignBegin=552818|AlignEnd=553016|Copula=No|Gloss=3Plur.Aor=|wordform=tə́
 4	tâ	ta	VERB	_	_	3	comp:aux	_	AlignBegin=553016|AlignEnd=553214|Gloss=climb
@@ -2488,7 +2488,7 @@
 10	lìmâːn	lìmâːn	NOUN	_	Definite=Ind	11	subj	_	AlignBegin=555388|AlignEnd=555596|Gloss=imam
 11	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	3	conj:coord	_	AlignBegin=555596|AlignEnd=555804|Copula=No|Gloss=3Sing.Aor=|wordform=á
 12	ɗû	ɗu	VERB	_	_	11	comp:aux	_	AlignBegin=555804|AlignEnd=556012|Gloss=beat
-13	gaːm	gaːm	NOUN	_	_	12	comp:obj	_	AlignBegin=556012|AlignEnd=556116|Gloss=head|wordform=gaːmíː
+13	gaːm	gaːm	NOUN	_	_	12	comp:obj	_	AlignBegin=556012|AlignEnd=556116|Gloss=head|SpaceAfter=No|wordform=gaːmíː
 14	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	13	det/m	_	AlignBegin=556012|AlignEnd=556116|Gloss=Remt
 15	ɗa	ɗa	ADP	_	_	12	comp:obl	_	AlignBegin=556220|AlignEnd=556428|Gloss=at
 16	puːʃi	puːs	NOUN	_	Definite=Ind	15	comp	_	AlignBegin=556428|AlignEnd=556532|Gloss=stone-Ind|wordform=puːs
@@ -2523,7 +2523,7 @@
 8	laːtsə́	laːtsə́	VERB	_	_	7	comp:aux	_	AlignBegin=562787|AlignEnd=563034|Gloss=pass
 9	ɗə̂ɣn	ɗə̂ɣn	NOUN	_	_	8	mod	_	AlignBegin=564080|AlignEnd=564290|Gloss=world
 10	na	na	ADP	_	_	9	mod	_	AlignBegin=564290|AlignEnd=564500|Gloss=of
-11	nàmbóŋ	nàmbóŋ	NUM	_	_	10	comp	_	AlignBegin=564500|AlignEnd=564605|Gloss=one|wordform=nàmbóŋíː
+11	nàmbóŋ	nàmbóŋ	NUM	_	_	10	comp	_	AlignBegin=564500|AlignEnd=564605|Gloss=one|SpaceAfter=No|wordform=nàmbóŋíː
 12	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	11	det/m	_	AlignBegin=564500|AlignEnd=564605|Gloss=Remt
 13	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	8	parataxis@conj	_	AlignBegin=566020|AlignEnd=566196|Copula=No|Gloss=3Sing.Aor=|wordform=á
 14-15	náːnì	_	_	_	_	_	_	_	_
@@ -2544,7 +2544,7 @@
 3	ʧík	ʧík	ADV	_	_	2	mod	_	AlignBegin=567920|AlignEnd=568070|Gloss=thus
 4	hár	hár	ADP	_	_	2	mod	_	AlignBegin=569020|AlignEnd=569196|Gloss=until
 5	tə́=	á=	AUX	_	Number=Plur|Person=3|Tense=Pres	4	comp	_	AlignBegin=569196|AlignEnd=569372|Copula=No|Gloss=3Plur.Aor=|wordform=tə́
-6	tul	tul	VERB	_	_	5	comp:aux	_	AlignBegin=569372|AlignEnd=569460|Gloss=reach|wordform=tûlíː
+6	tul	tul	VERB	_	_	5	comp:aux	_	AlignBegin=569372|AlignEnd=569460|Gloss=reach|SpaceAfter=No|wordform=tûlíː
 7	-íː	-íː	ADV	_	_	6	mod/m	_	Accomplished=Yes|AlignBegin=569372|AlignEnd=569460|Gloss=Acpl
 8	də̀n	də̀n	NOUN	_	_	6	comp:obj@G	_	AlignBegin=569548|AlignEnd=569724|Gloss=compound
 9	//	//	PUNCT	_	_	1	punct	_	AlignBegin=569724|AlignEnd=569900|Gloss=PUNCT
@@ -2591,7 +2591,7 @@
 2-3	ɗǎː	_	_	_	_	_	_	_	_
 2	ɗa	ɗan	ADV	_	_	3	mod	_	AlignBegin=578830|AlignEnd=578935|Gloss=then
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	10	mod	_	AlignBegin=578935|AlignEnd=579040|Copula=No|Gloss=3Sing.Aor=|wordform=á
-4	ɬaː	ɬaː	VERB	_	_	3	comp:aux	_	AlignBegin=579040|AlignEnd=579145|Gloss=cut|wordform=ɬǎːy
+4	ɬaː	ɬaː	VERB	_	_	3	comp:aux	_	AlignBegin=579040|AlignEnd=579145|Gloss=cut|SpaceAfter=No|wordform=ɬǎːy
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=579040|AlignEnd=579145|Gloss=Acpl
 6	tə́	tə́	ADP	_	_	4	mod	_	AlignBegin=580000|AlignEnd=580207|Gloss=with
 7	ɓíɬndi	ɓíɬndi	NOUN	_	_	6	comp	_	AlignBegin=580207|AlignEnd=580414|Gloss=morning
@@ -2678,7 +2678,7 @@
 # text_en = When the vizier arrived, the king told him to open the bag.
 1	ɗan	ɗan	ADP	_	_	8	mod	_	AlignBegin=600460|AlignEnd=600715|Gloss=as
 2	wàzíːri	wầzíːr	NOUN	_	_	3	subj	_	AlignBegin=600715|AlignEnd=600970|Gloss=Waziri
-3	tul	tul	VERB	_	_	1	comp	_	AlignBegin=600970|AlignEnd=601055|Gloss=reach|wordform=tûlíː
+3	tul	tul	VERB	_	_	1	comp	_	AlignBegin=600970|AlignEnd=601055|Gloss=reach|SpaceAfter=No|wordform=tûlíː
 4-5	-íː	_	_	_	_	_	_	_	_
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=600970|AlignEnd=601055|Gloss=Acpl
 5	ɗi	ɗi	PART	_	PartType=Adv	3	compound:prt	_	AlignBegin=601140|AlignEnd=601225|Gloss=CTP|wordform=-́ɗi
@@ -2690,7 +2690,7 @@
 10	tu	tu	SCONJ	_	_	8	comp:obj@T	_	AlignBegin=602788|AlignEnd=602984|Gloss=Qot
 11	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	10	comp	_	AlignBegin=604940|AlignEnd=605108|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 12	ɗə́rə́	ɗərə	VERB	_	_	11	comp:aux	_	AlignBegin=605108|AlignEnd=605276|Gloss=open
-13	ʤìka	ʤìka	VERB	_	_	12	comp:obj	_	AlignBegin=605276|AlignEnd=605360|Gloss=bag|wordform=ʤìɣáy
+13	ʤìka	ʤìka	VERB	_	_	12	comp:obj	_	AlignBegin=605276|AlignEnd=605360|Gloss=bag|SpaceAfter=No|wordform=ʤìɣáy
 14	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	13	det/m	_	AlignBegin=605276|AlignEnd=605360|Gloss=Remt
 15	oː	oː	PART	_	PartType=Ill	11	mod	_	AlignBegin=605444|AlignEnd=605612|Gloss=Emph
 16	//	//	PUNCT	_	_	8	punct	_	AlignBegin=605612|AlignEnd=605780|Gloss=PUNCT
@@ -2706,7 +2706,7 @@
 3-4	ɗǎː	_	_	_	_	_	_	_	_
 3	ɗa	ɗan	SCONJ	_	_	7	mod	_	AlignBegin=607308|AlignEnd=607440|Gloss=as
 4	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	3	comp	_	AlignBegin=607440|AlignEnd=607572|Copula=No|Gloss=3Sing.Aor=|wordform=á
-5	ɗər	ɗər	VERB	_	_	4	comp:aux	_	AlignBegin=607572|AlignEnd=607704|Gloss=open|wordform=ɗə̂ríː
+5	ɗər	ɗər	VERB	_	_	4	comp:aux	_	AlignBegin=607572|AlignEnd=607704|Gloss=open|SpaceAfter=No|wordform=ɗə̂ríː
 6	-íː	-íː	ADV	_	_	5	mod/m	_	Accomplished=Yes|AlignBegin=607572|AlignEnd=607704|Gloss=Acpl
 7	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=608980|AlignEnd=609168|Copula=No|Gloss=3Sing.Aor=|wordform=á
 8-9	yélnì	_	_	_	_	_	_	_	_
@@ -2724,7 +2724,7 @@
 # text_en = When the imam got out, he saw he was in the king's house.
 1	ɗan	ɗan	SCONJ	_	_	9	mod	_	AlignBegin=610640|AlignEnd=610735|Gloss=as
 2	lìmâːn	lìmâːn	NOUN	_	_	3	subj	_	AlignBegin=610735|AlignEnd=610830|Gloss=imam
-3	ɲol	ɲol	VERB	_	_	1	comp	_	AlignBegin=610854|AlignEnd=610878|Gloss=go_out|wordform=ɲòlíː
+3	ɲol	ɲol	VERB	_	_	1	comp	_	AlignBegin=610854|AlignEnd=610878|Gloss=go_out|SpaceAfter=No|wordform=ɲòlíː
 4-5	-íː	_	_	_	_	_	_	_	_
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=610854|AlignEnd=610878|Gloss=Acpl
 5	ɗi	ɗi	PART	_	PartType=Adv	3	compound:prt	_	AlignBegin=610902|AlignEnd=610925|Gloss=CTP|wordform=-́ɗi
@@ -2758,7 +2758,7 @@
 11	hár	hár	SCONJ	_	_	10	mod	_	AlignBegin=619580|AlignEnd=619812|Gloss=even
 12	táːgya	táːgya	NOUN	_	Definite=Ind	13	subj	_	AlignBegin=619812|AlignEnd=620044|Gloss=cap
 13	ɮìː	ɮiː	VERB	_	_	11	comp	_	AlignBegin=620044|AlignEnd=620276|Gloss=remove
-14	vundá	vundá	VERB	_	_	13	compound:svc	_	AlignBegin=620276|AlignEnd=620392|Gloss=fall_down|wordform=vundáy
+14	vundá	vundá	VERB	_	_	13	compound:svc	_	AlignBegin=620276|AlignEnd=620392|Gloss=fall_down|SpaceAfter=No|wordform=vundáy
 15	-íː	-íː	ADV	_	_	14	mod/m	_	Accomplished=Yes|AlignBegin=620276|AlignEnd=620392|Gloss=Acpl
 16	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	17	mod	_	AlignBegin=621760|AlignEnd=621955|Gloss=Neg|wordform=báː
 17	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	13	parataxis@mod	_	AlignBegin=621955|AlignEnd=622150|Copula=No|Gloss=3Sing.Perf=|wordform=àː
@@ -2796,7 +2796,7 @@
 5	gùŋ	gùŋ	NOUN	_	_	4	comp:obj@R	_	AlignBegin=626524|AlignEnd=626695|Gloss=chief
 6	tu	tu	SCONJ	_	_	4	comp:obj@T	_	AlignBegin=626695|AlignEnd=626866|Gloss=Qot
 7	zànʧe	zànʧe	NOUN	_	Definite=Cons	6	comp	_	AlignBegin=627680|AlignEnd=627900|Gloss=situation
-8	ɲíː	ɲíː	NOUN	_	_	7	mod	_	AlignBegin=627900|AlignEnd=628010|Gloss=girl|wordform=ɲêːs
+8	ɲíː	ɲíː	NOUN	_	_	7	mod	_	AlignBegin=627900|AlignEnd=628010|Gloss=girl|SpaceAfter=No|wordform=ɲêːs
 9	-es	-es	DET	_	Definite=Def	8	det/m	_	AlignBegin=627900|AlignEnd=628010|Gloss=Def
 10	fáː	fáː	PART	_	PartType=Top	7	discourse@top	_	AlignBegin=628120|AlignEnd=628340|Gloss=certainly
 11	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=628340|AlignEnd=628560|Gloss=PUNCT
@@ -2814,14 +2814,14 @@
 4	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	comp:obj@R/m	_	AlignBegin=630900|AlignEnd=630992|Gloss===3Sing.Acc
 5	tu	tu	SCONJ	_	_	3	comp:obj@T	_	AlignBegin=630992|AlignEnd=631176|Gloss=Qot
 6	zànʧe	zànʧe	NOUN	_	Definite=Cons	10	dislocated@top	_	AlignBegin=632220|AlignEnd=632467|Gloss=situation
-7	ɲíː	ɲíː	NOUN	_	_	6	mod@poss	_	AlignBegin=632467|AlignEnd=632591|Gloss=girl|wordform=ɲêːs
+7	ɲíː	ɲíː	NOUN	_	_	6	mod@poss	_	AlignBegin=632467|AlignEnd=632591|Gloss=girl|SpaceAfter=No|wordform=ɲêːs
 8	-es	-es	DET	_	Definite=Def	7	det/m	_	AlignBegin=632467|AlignEnd=632591|Gloss=Def
 9	séy	séː	ADV	_	_	10	mod	_	AlignBegin=634800|AlignEnd=634988|Gloss=necesserily
 10	myǎː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=1	5	comp	_	AlignBegin=634988|AlignEnd=635176|Copula=No|Gloss=1Plur.Imp=|wordform=myǎː
 11	wúl	wul	VERB	_	_	10	comp:aux	_	AlignBegin=635176|AlignEnd=635364|Gloss=say
 12	vìː	vìː	NOUN	_	_	11	comp:obj@lvc	_	AlignBegin=635364|AlignEnd=635552|Gloss=speech
 13	tə́	tə́	ADP	_	_	11	comp:obl	_	AlignBegin=635552|AlignEnd=635740|Gloss=with
-14	zàrsə̀	zaːr	NOUN	_	_	13	comp	_	AlignBegin=635740|AlignEnd=635803|Gloss=person.Plur.Cons|wordform=zàrsàtn
+14	zàrsə̀	zaːr	NOUN	_	_	13	comp	_	AlignBegin=635740|AlignEnd=635803|Gloss=person.Plur.Cons|SpaceAfter=No|wordform=zàrsàtn
 15	-atn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	14	mod:poss/m	_	AlignBegin=635740|AlignEnd=635803|Gloss=-1Sing.Gen
 16	kàm	kàm	PART	_	_	13	discourse	_	AlignBegin=635928|AlignEnd=636116|Gloss=indeed
 17	//	//	PUNCT	_	_	3	punct	_	AlignBegin=636116|AlignEnd=636300|Gloss=PUNCT
@@ -2836,7 +2836,7 @@
 2	Nòːmáu	Nòːmáu	PROPN	_	_	3	subj	_	AlignBegin=638209|AlignEnd=638398|Gloss=Nomau
 3	wû~	wul	VERB	_	_	0	root	_	AlignBegin=638398|AlignEnd=638587|Gloss=say
 4	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	3	conj:dicto	_	AlignBegin=638587|AlignEnd=638776|Copula=No|Gloss=3Sing.Aor=|wordform=á
-5	ɬə	ɬə	VERB	_	_	4	comp:aux	_	AlignBegin=638776|AlignEnd=638870|Gloss=go|wordform=ɬǐː
+5	ɬə	ɬə	VERB	_	_	4	comp:aux	_	AlignBegin=638776|AlignEnd=638870|Gloss=go|SpaceAfter=No|wordform=ɬǐː
 6	-íː	-íː	ADV	_	_	5	mod/m	_	Accomplished=Yes|AlignBegin=638776|AlignEnd=638870|Gloss=Acpl
 7	də̀n	də̀n	NOUN	_	_	5	comp:obj@G	_	AlignBegin=638965|AlignEnd=639154|Gloss=compound
 8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=639154|AlignEnd=639340|Gloss=PUNCT
@@ -2851,7 +2851,7 @@
 2-3	ɗǎː	_	_	_	_	_	_	_	_
 2	ɗa	ɗan	ADV	_	_	3	mod	_	AlignBegin=640727|AlignEnd=640851|Gloss=then
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	6	mod	_	AlignBegin=640851|AlignEnd=640974|Copula=No|Gloss=3Sing.Aor=|wordform=á
-4	ɬaː	ɬaː	VERB	_	_	3	comp:aux	_	AlignBegin=640974|AlignEnd=641098|Gloss=cut|wordform=ɬǎːy
+4	ɬaː	ɬaː	VERB	_	_	3	comp:aux	_	AlignBegin=640974|AlignEnd=641098|Gloss=cut|SpaceAfter=No|wordform=ɬǎːy
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=640974|AlignEnd=641098|Gloss=Acpl
 6	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=641221|AlignEnd=641468|Copula=No|Gloss=3Sing.Aor=|wordform=á
 7-9	sûtə́ɗi	_	_	_	_	_	_	_	_
@@ -2879,7 +2879,7 @@
 1	yáːni	yáːni	PRON	_	Number=Sing|Person=3|PronType=Prs	3	dislocated@subj	_	AlignBegin=647360|AlignEnd=647546|Gloss=3Sing.IDP
 2	máː	máː	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=647546|AlignEnd=647732|Gloss=even
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=647732|AlignEnd=647918|Copula=No|Gloss=3Sing.Aor=|wordform=á
-4	nda	nda	VERB	_	_	3	comp:aux	_	AlignBegin=647918|AlignEnd=648011|Gloss=enter|wordform=ndǎy
+4	nda	nda	VERB	_	_	3	comp:aux	_	AlignBegin=647918|AlignEnd=648011|Gloss=enter|SpaceAfter=No|wordform=ndǎy
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=647918|AlignEnd=648011|Gloss=Acpl
 6	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	4	parataxis@conj	_	AlignBegin=648104|AlignEnd=648290|Copula=No|Gloss=3Sing.Aor=|wordform=á
 7-8	tsə̌tnni	_	_	_	_	_	_	_	_
@@ -2896,7 +2896,7 @@
 1	ɗan	ɗan	SCONJ	_	_	9	mod	_	AlignBegin=649980|AlignEnd=650248|Gloss=as
 2	wàzíːri	wầzíːr	NOUN	_	_	3	subj	_	AlignBegin=650248|AlignEnd=650516|Gloss=Waziri
 3	yèl	yeli	VERB	_	_	1	comp	_	AlignBegin=650516|AlignEnd=650784|Gloss=see
-4	kúni	kúni	NOUN	_	_	6	subj	_	AlignBegin=650784|AlignEnd=650918|Gloss=boy|wordform=kúnés
+4	kúni	kúni	NOUN	_	_	6	subj	_	AlignBegin=650784|AlignEnd=650918|Gloss=boy|SpaceAfter=No|wordform=kúnés
 5	-es	-es	DET	_	Definite=Def	4	det/m	_	AlignBegin=650784|AlignEnd=650918|Gloss=Def
 6	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	3	comp:obj	_	AlignBegin=652940|AlignEnd=653133|Copula=No|Gloss=3Sing.Perf=|wordform=àː
 7-8	tsə́tnni	_	_	_	_	_	_	_	_
@@ -2920,7 +2920,7 @@
 23	kâp	kap	VERB	_	_	22	comp:aux	_	AlignBegin=660186|AlignEnd=660352|Gloss=take
 24	mə́ːr	mə̂ːr	NOUN	_	_	23	comp:obj	_	AlignBegin=660352|AlignEnd=660518|Gloss=thief
 25	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	18	comp	_	AlignBegin=660518|AlignEnd=660684|Copula=No|Gloss=3Sing.Fut=|wordform=wò
-26	fi	fi	VERB	_	_	25	comp:aux	_	AlignBegin=660684|AlignEnd=660767|Gloss=do|wordform=fíː
+26	fi	fi	VERB	_	_	25	comp:aux	_	AlignBegin=660684|AlignEnd=660767|Gloss=do|SpaceAfter=No|wordform=fíː
 27	-íː	-íː	ADV	_	_	26	mod/m	_	Accomplished=Yes|AlignBegin=660684|AlignEnd=660767|Gloss=Acpl
 28	aː	aː	PART	_	PartType=Ill	26	mod	_	AlignBegin=660850|AlignEnd=661016|Gloss=Int
 29	?//	?//	PUNCT	_	_	9	punct	_	AlignBegin=661016|AlignEnd=661180|Gloss=PUNCT
@@ -2933,8 +2933,8 @@
 # text_en = They refused to marry the girl to Nomau.
 1	tə́=	á=	AUX	_	Number=Plur|Person=3|Tense=Pres	0	root	_	AlignBegin=662060|AlignEnd=662277|Copula=No|Gloss=3Plur.Aor=|wordform=tə́
 2	ɗâɣár	ɗaɣár	VERB	_	_	1	comp:aux	_	AlignBegin=662277|AlignEnd=662494|Gloss=forbid
-3	ɲíː	ɲíː	NOUN	_	_	2	comp:obj	_	AlignBegin=662494|AlignEnd=662566|Gloss=girl|wordform=ɲêːʃíː
-4	-eʃ	-es	DET	_	Definite=Def	3	det/m	_	AlignBegin=662494|AlignEnd=662566|Gloss=Def|wordform=-es
+3	ɲíː	ɲíː	NOUN	_	_	2	comp:obj	_	AlignBegin=662494|AlignEnd=662566|Gloss=girl|SpaceAfter=No|wordform=ɲêːʃíː
+4	-eʃ	-es	DET	_	Definite=Def	3	det/m	_	AlignBegin=662494|AlignEnd=662566|Gloss=Def|SpaceAfter=No|wordform=-es
 5	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	3	det/m	_	AlignBegin=662494|AlignEnd=662566|Gloss=Remt
 6	ɣá	ká	ADP	_	_	2	comp:obl	_	AlignBegin=662711|AlignEnd=662928|Gloss=at
 7	Nòːmáu	Nòːmáu	PROPN	_	_	6	comp	_	AlignBegin=662928|AlignEnd=663145|Gloss=Nomau
@@ -2969,7 +2969,7 @@
 8	=ʃí	=ʃí	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	comp:obj@R/m	_	AlignBegin=666682|AlignEnd=666777|Gloss==3Plur.Acc
 9	mə́n	mə́n	PART	_	Case=Dat|PartType=Case	7	compound:prt	_	AlignBegin=666777|AlignEnd=666968|Gloss=Dat
 10	tə́=	á=	AUX	_	Number=Plur|Person=3|Tense=Pres	2	parataxis@conj	_	AlignBegin=667480|AlignEnd=667600|Copula=No|Gloss=3Plur.Aor=|wordform=tə́
-11	ɬə	ɬə	VERB	_	_	10	comp:aux	_	AlignBegin=667600|AlignEnd=667660|Gloss=go|wordform=ɬǐː
+11	ɬə	ɬə	VERB	_	_	10	comp:aux	_	AlignBegin=667600|AlignEnd=667660|Gloss=go|SpaceAfter=No|wordform=ɬǐː
 12	-íː	-íː	ADV	_	_	11	mod/m	_	Accomplished=Yes|AlignBegin=667600|AlignEnd=667660|Gloss=Acpl
 13	də̀n	də̀n	NOUN	_	_	11	comp:obj@G	_	AlignBegin=667720|AlignEnd=667840|Gloss=compound
 14	//	//	PUNCT	_	_	1	punct	_	AlignBegin=667840|AlignEnd=667960|Gloss=PUNCT
@@ -2988,8 +2988,8 @@
 6	ɬaː	ɬaː	VERB	_	_	5	comp:aux	_	AlignBegin=669430|AlignEnd=669608|Gloss=cut
 7	tá=	a=	AUX	_	Number=Plur|Person=3|Tense=Fut	6	parataxis@conj	_	AlignBegin=669608|AlignEnd=669786|Copula=No|Gloss=3Plur.Fut=|wordform=tá
 8	nât	nat	VERB	_	_	7	comp:aux	_	AlignBegin=669786|AlignEnd=669964|Gloss=tie
-9	awre	awre	NOUN	_	_	8	comp:obj	_	AlignBegin=669964|AlignEnd=670023|Gloss=wedding|wordform=awrêʃíː
-10	-eʃ	-es	DET	_	Definite=Def	9	det/m	_	AlignBegin=669964|AlignEnd=670023|Gloss=Def|wordform=-es
+9	awre	awre	NOUN	_	_	8	comp:obj	_	AlignBegin=669964|AlignEnd=670023|Gloss=wedding|SpaceAfter=No|wordform=awrêʃíː
+10	-eʃ	-es	DET	_	Definite=Def	9	det/m	_	AlignBegin=669964|AlignEnd=670023|Gloss=Def|SpaceAfter=No|wordform=-es
 11	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	9	det/m	_	AlignBegin=669964|AlignEnd=670023|Gloss=Remt
 12	káː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=2	1	parataxis:insert	_	AlignBegin=671700|AlignEnd=671890|Copula=No|Gloss=2Sing.Perf=|wordform=káː
 13	yisə́ŋ	yisə́ŋ	VERB	_	_	12	comp:aux	_	AlignBegin=671890|AlignEnd=672080|Gloss=know
@@ -2997,7 +2997,7 @@
 15	tə́	tə́	ADP	_	_	14	mod	_	AlignBegin=672270|AlignEnd=672460|Gloss=with
 16	mə̂ːr	mə̂ːr	NOUN	_	_	15	comp	_	AlignBegin=672460|AlignEnd=672650|Gloss=thief
 17	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=674380|AlignEnd=674605|Copula=No|Gloss=3Sing.Aor=|wordform=á
-18	ɬə	ɬə	VERB	_	_	17	comp:aux	_	AlignBegin=674605|AlignEnd=674717|Gloss=go|wordform=ɬǐː
+18	ɬə	ɬə	VERB	_	_	17	comp:aux	_	AlignBegin=674605|AlignEnd=674717|Gloss=go|SpaceAfter=No|wordform=ɬǐː
 19	-íː	-íː	ADV	_	_	18	mod/m	_	Accomplished=Yes|AlignBegin=674605|AlignEnd=674717|Gloss=Acpl
 20	ɗa	ɗa	ADP	_	_	18	comp:obl	_	AlignBegin=674830|AlignEnd=675055|Gloss=at
 21	də̀nì	də̀n	NOUN	_	Definite=Ind	20	comp	_	AlignBegin=675055|AlignEnd=675167|Gloss=compound.Ind|wordform=də̀n
@@ -3010,15 +3010,15 @@
 28	kávit	kávit	NOUN	_	_	27	comp	_	AlignBegin=676405|AlignEnd=676630|Gloss=night
 29	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	18	parataxis@conj	_	AlignBegin=677380|AlignEnd=677600|Copula=No|Gloss=3Sing.Aor=|wordform=á
 30	mbîː	mbiː	VERB	_	_	29	comp:aux	_	AlignBegin=677600|AlignEnd=677820|Gloss=take
-31	amarya	amarya	NOUN	_	_	30	comp:obj	_	AlignBegin=677820|AlignEnd=677893|Gloss=bride|wordform=amaryêʃíː
-32	-eʃ	-es	DET	_	Definite=Def	31	det/m	_	AlignBegin=677820|AlignEnd=677893|Gloss=Def|wordform=-es
+31	amarya	amarya	NOUN	_	_	30	comp:obj	_	AlignBegin=677820|AlignEnd=677893|Gloss=bride|SpaceAfter=No|wordform=amaryêʃíː
+32	-eʃ	-es	DET	_	Definite=Def	31	det/m	_	AlignBegin=677820|AlignEnd=677893|Gloss=Def|SpaceAfter=No|wordform=-es
 33	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	31	det/m	_	AlignBegin=677820|AlignEnd=677893|Gloss=Remt
 34	nə	nə	ADP	_	_	30	mod	_	AlignBegin=678040|AlignEnd=678260|Gloss=DER
 35	mə́ːri	mə̂ːr	NOUN	_	Definite=Ind|Number=Plur	34	comp	_	AlignBegin=678260|AlignEnd=678370|Gloss=stealing-Ind|wordform=mə̂ːr
 36	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	30	parataxis@conj	_	AlignBegin=679180|AlignEnd=679427|Copula=No|Gloss=3Sing.Aor=|wordform=á
 37-38	kîlártíː	_	_	_	_	_	_	_	_
 37	kîlár	kír	VERB	_	Voice=Cau	36	comp:aux	_	AlignBegin=679427|AlignEnd=679489|Gloss=run-Cau|wordform=kír
-38	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	37	comp:obj/m	_	AlignBegin=679551|AlignEnd=679613|Gloss===3Sing.Acc|wordform=-tíː
+38	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	37	comp:obj/m	_	AlignBegin=679551|AlignEnd=679613|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
 39	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	38	mod/m	_	Accomplished=Yes|AlignBegin=679551|AlignEnd=679613|Gloss=Acpl
 40	//	//	PUNCT	_	_	17	punct	_	AlignBegin=679674|AlignEnd=679920|Gloss=PUNCT
 
@@ -3107,7 +3107,7 @@
 # text_en = Nomau had eloped with his wife.
 1	Nòːmáu	Nòːmáu	PROPN	_	_	2	subj	_	AlignBegin=695860|AlignEnd=696090|Gloss=Nomau
 2	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	0	root	_	AlignBegin=696620|AlignEnd=696856|Copula=No|Gloss=3Sing.Perf=|wordform=àː
-3	kír	kír	VERB	_	_	2	comp:aux	_	AlignBegin=696856|AlignEnd=696974|Gloss=run|wordform=kiríː
+3	kír	kír	VERB	_	_	2	comp:aux	_	AlignBegin=696856|AlignEnd=696974|Gloss=run|SpaceAfter=No|wordform=kiríː
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=696856|AlignEnd=696974|Gloss=Acpl
 5	tə́	tə́	ADP	_	_	3	comp:obl	_	AlignBegin=697092|AlignEnd=697328|Gloss=with
 6	gə̀t	gə̀t	NOUN	_	Definite=Ind	5	comp	_	AlignBegin=697328|AlignEnd=697407|Gloss=wife-Ind.Cons|wordform=gə̀ɗìwôs
