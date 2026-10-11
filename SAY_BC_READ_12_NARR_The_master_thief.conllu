@@ -898,7 +898,7 @@
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=196712|AlignEnd=196938|Copula=No|Gloss=3Sing.Aor=|wordform=á
 4	gə̀m	gəm	VERB	_	_	3	comp:aux	_	AlignBegin=196938|AlignEnd=197164|Gloss=release
 5	muri	muri	NOUN	_	_	4	comp:obj@T	_	AlignBegin=197164|AlignEnd=197277|Gloss=man|SpaceAfter=No|wordform=muríː
-6	-íː	-íː	ADV	_	_	5	mod/m	_	Accomplished=Yes|AlignBegin=197164|AlignEnd=197277|Gloss=Acpl
+6	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	5	det/m	_	AlignBegin=197164|AlignEnd=197277|Gloss=Remt
 7	yâːɬ	yâːɬ	NOUN	_	_	4	comp:obj@L	_	AlignBegin=197390|AlignEnd=197616|Gloss=on_the_ground
 8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=197616|AlignEnd=197840|Gloss=PUNCT
 
@@ -1780,7 +1780,7 @@
 3	lǎːp	láːp	VERB	_	_	2	comp:aux	_	AlignBegin=395240|AlignEnd=395380|Gloss=follow
 4	ʧaː	ʧaː	VERB	_	_	3	compound:svc	_	AlignBegin=396220|AlignEnd=396515|Gloss=put
 5	mur	mur	NOUN	_	Number=Plur	4	comp:obj@R	_	AlignBegin=396515|AlignEnd=396663|Gloss=man.Plur|SpaceAfter=No|wordform=məníː
-6	-íː	-íː	ADV	_	Number=Plur	5	mod/m	_	Accomplished=Yes|AlignBegin=396515|AlignEnd=396663|Gloss=Acpl
+6	-íː	-íː	DET	_	Deixis=Remt|Number=Plur|PronType=Dem	5	det/m	_	AlignBegin=396515|AlignEnd=396663|Gloss=Remt
 7	ŋantsə́	ŋantsə́	NOUN	_	_	4	comp:obj@T	_	AlignBegin=396810|AlignEnd=396958|Gloss=wood|SpaceAfter=No|wordform=ŋantsə́y
 8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	7	det/m	_	AlignBegin=396810|AlignEnd=396958|Gloss=Remt
 9	á	ká	ADP	_	_	4	comp:obl	_	AlignBegin=397700|AlignEnd=397880|Gloss=at

@@ -2516,7 +2516,7 @@
 10	fi	fi	VERB	_	_	3	comp	_	AlignBegin=320506|AlignEnd=320638|Gloss=do|wordform=*fi-íː
 11	ni	ni	PART	_	PartType=Adv	10	compound:prt	_	AlignBegin=320638|AlignEnd=320771|Gloss=Inch|Inchoative=Yes|wordform=-ni
 12	wàhála	wàhála	NOUN	_	_	10	comp:obj	_	AlignBegin=320771|AlignEnd=321036|Gloss=suffering.Prox|SpaceAfter=No|wordform=wàháláníː
-13	-íː	-íː	ADV	_	_	12	mod/m	_	Accomplished=Yes|AlignBegin=320771|AlignEnd=321036|Gloss=Acpl
+13	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	12	det/m	_	AlignBegin=320771|AlignEnd=321036|Gloss=Remt
 14	ɗûːn	ɗúːni	ADV	_	_	10	mod	_	AlignBegin=321036|AlignEnd=321301|Gloss=here
 15-16	tsənêː	_	_	_	_	_	_	_	_
 15	tsəní	tsəní	ADV	_	_	10	mod	_	AlignBegin=321301|AlignEnd=321433|Gloss=like_this
@@ -5540,7 +5540,7 @@
 28	bəprə́k	bəprə́k	VERB	_	_	27	compound:svc	_	AlignBegin=684168|AlignEnd=684328|Gloss=crush
 29	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	28	comp:obj@R/m	_	AlignBegin=684328|AlignEnd=684489|Gloss==3Sing.Acc
 30	yáːsəŋ	yáːsəŋ	NOUN	_	_	28	comp:obj@T	_	AlignBegin=684489|AlignEnd=684811|Gloss=leg|SpaceAfter=No|wordform=yáːsəŋíː
-31	-íː	-íː	ADV	_	_	30	mod/m	_	Accomplished=Yes|AlignBegin=684489|AlignEnd=684811|Gloss=Acpl
+31	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	30	det/m	_	AlignBegin=684489|AlignEnd=684811|Gloss=Remt
 32	búʒúk	búʒúk	ADV	_	_	28	mod	_	AlignBegin=685825|AlignEnd=686015|Gloss=breaking|Ideo=Yes
 33	tə́	tə́	ADP	_	_	28	comp:obl	_	AlignBegin=686015|AlignEnd=686205|Gloss=with
 34	gyáː	gyáː	DET	_	Number=Plur	35	det	_	AlignBegin=686205|AlignEnd=686395|Gloss=Plur

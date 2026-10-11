@@ -1063,7 +1063,7 @@
 2	ʧǎː=	yáː=	AUX	_	Aspect=Imp|Number=Sing|Person=3	1	comp	_	AlignBegin=147193|AlignEnd=147357|Copula=No|Gloss=3Plur.Imp=|wordform=ʧǎː
 3	tût	tut	VERB	_	_	2	comp:aux	_	AlignBegin=147357|AlignEnd=147521|Gloss=sweep
 4	lə̂p	lə̂p	NOUN	_	_	3	comp:obj	_	AlignBegin=147521|AlignEnd=147685|Gloss=place|SpaceAfter=No|wordform=lə́ɓíː
-5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=147521|AlignEnd=147685|Gloss=Acpl
+5	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	4	det/m	_	AlignBegin=147521|AlignEnd=147685|Gloss=Remt
 6	<	<	PUNCT	_	_	1	punct	_	AlignBegin=147685|AlignEnd=147848|Gloss=PUNCT
 7	kóːgón	kóːgón	PRON	_	PronType=Tot	12	dislocated@subj	_	AlignBegin=147848|AlignEnd=148026|Gloss=everyone
 8	yáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=3	7	mod@relcl	_	AlignBegin=148026|AlignEnd=148204|Copula=No|Gloss=3Sing.Cnd=|wordform=yáː

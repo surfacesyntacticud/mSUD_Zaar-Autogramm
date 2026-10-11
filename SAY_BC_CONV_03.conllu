@@ -2297,7 +2297,7 @@
 11	ɬə́	ɬə	VERB	_	_	10	comp:aux	_	AlignBegin=305673|AlignEnd=305847|Gloss=go
 12	èː	èː	INTJ	_	_	13	discourse	_	AlignBegin=306428|AlignEnd=306727|Gloss=èː
 13	ráːnábáwt	ráːnábáwt	NOUN	_	_	11	comp:obj@G	_	AlignBegin=306727|AlignEnd=307327|Gloss=roundabout|SpaceAfter=No|wordform=ráːnábáwɗíː
-14	-íː	-íː	ADV	_	_	13	mod/m	_	Accomplished=Yes|AlignBegin=306727|AlignEnd=307327|Gloss=Acpl
+14	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	13	det/m	_	AlignBegin=306727|AlignEnd=307327|Gloss=Remt
 15	kafin	kafin	ADP	_	Foreign=Yes	13	mod	_	AlignBegin=307327|AlignEnd=307795|Gloss=before|Lang=ha
 16	èː	èː	INTJ	_	_	17	discourse	_	AlignBegin=307795|AlignEnd=308262|Gloss=èː
 17	dàtə̂pm	dàtə̂pm	NOUN	_	_	15	comp	_	AlignBegin=308262|AlignEnd=308490|Gloss=way
@@ -5479,7 +5479,7 @@
 4	ə̀ː	ə̀ː	INTJ	_	_	6	discourse@filler	_	AlignBegin=621725|AlignEnd=621953|Gloss=FILL
 5	ə̀ː	ə̀ː	INTJ	_	_	6	discourse@filler	_	AlignBegin=622479|AlignEnd=622634|Gloss=FILL
 6	məːri	məːri	NOUN	_	Number=Plur	3	comp:obj	_	AlignBegin=622634|AlignEnd=622789|Gloss=children|SpaceAfter=No|wordform=məːríː
-7	-íː	-íː	ADV	_	Number=Plur	6	mod/m	_	Accomplished=Yes|AlignBegin=622634|AlignEnd=622789|Gloss=Acpl
+7	-íː	-íː	DET	_	Deixis=Remt|Number=Plur|PronType=Dem	6	det/m	_	AlignBegin=622634|AlignEnd=622789|Gloss=Remt
 8	&//	&//	PUNCT	_	_	2	punct	_	AlignBegin=622789|AlignEnd=622944|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_03_634-640_split2
@@ -6645,7 +6645,7 @@
 2	ɮiː	ɮiː	VERB	_	_	1	comp:aux	_	AlignBegin=749112|AlignEnd=749286|Gloss=remove|SpaceAfter=No|wordform=ɮìː
 3	-íː	-íː	ADV	_	_	2	mod/m	_	Accomplished=Yes|AlignBegin=749112|AlignEnd=749286|Gloss=Acpl
 4	kur	kur	NOUN	_	_	2	comp:obj	_	AlignBegin=749286|AlignEnd=749460|Gloss=skin|SpaceAfter=No|wordform=kuríː
-5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=749286|AlignEnd=749460|Gloss=Acpl
+5	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	4	det/m	_	AlignBegin=749286|AlignEnd=749460|Gloss=Remt
 6	//	//	PUNCT	_	_	1	punct	_	AlignBegin=749460|AlignEnd=749636|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_03_777-777
