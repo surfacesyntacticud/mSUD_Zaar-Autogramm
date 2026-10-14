@@ -690,9 +690,9 @@
 3	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	comp:obj/m	_	AlignBegin=79632|AlignEnd=79749|Gloss==3Sing.Acc
 4	//=	//=	PUNCT	_	_	5	punct	_	AlignBegin=79749|AlignEnd=79983|Gloss=PUNCT
 5	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	2	mod	_	AlignBegin=79983|AlignEnd=80171|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
-6	yú~	yúɣn	VERB	_	_	5	comp:aux	_	AlignBegin=80171|AlignEnd=80359|Gloss=HESIT[fill]
-7	||	||	PUNCT	_	_	8	punct	_	AlignBegin=80359|AlignEnd=80548|Gloss=PUNCT
-8	yúɣn	yúɣn	VERB	_	_	6	conj:dicto	_	AlignBegin=80548|AlignEnd=80798|Gloss=fill|wordform=*yúɣn-íː
+6	yú~	yúɣn	VERB	_	_	8	reparandum	_	AlignBegin=80171|AlignEnd=80359|Gloss=HESIT[fill]
+7	||	||	PUNCT	_	_	6	punct	_	AlignBegin=80359|AlignEnd=80548|Gloss=PUNCT
+8	yúɣn	yúɣn	VERB	_	_	5	comp:aux	_	AlignBegin=80548|AlignEnd=80798|Gloss=fill|wordform=*yúɣn-íː
 9	vìː	vìː	NOUN	_	_	8	comp:obj	_	AlignBegin=80798|AlignEnd=81048|Gloss=mouth|SpaceAfter=No|wordform=vèːʃíː
 10	-eʃ	-es	DET	_	Definite=Def	9	det/m	_	AlignBegin=80798|AlignEnd=81048|Gloss=Def|SpaceAfter=No|wordform=-es
 11	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	9	det/m	_	AlignBegin=80798|AlignEnd=81048|Gloss=Remt
@@ -1092,10 +1092,10 @@
 2	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	0	root	_	AlignBegin=149377|AlignEnd=149638|Copula=No|Gloss=3Plur.Sub=|wordform=tə̀
 3	mà	mán	VERB	_	_	2	comp:aux	_	AlignBegin=149638|AlignEnd=149899|Gloss=come|SVC=Yes
 4	ʧàː	ʧaː	VERB	_	_	3	compound:svc	_	AlignBegin=149899|AlignEnd=150159|Gloss=collect
-5	d~	dǔːm	NOUN	_	_	4	comp:obj	_	AlignBegin=150778|AlignEnd=150992|Gloss=HESIT[honey]
-6	||	||	PUNCT	_	_	7	punct	_	AlignBegin=150992|AlignEnd=151206
+5	d~	dǔːm	NOUN	_	_	7	reparandum	_	AlignBegin=150778|AlignEnd=150992|Gloss=HESIT[honey]
+6	||	||	PUNCT	_	_	5	punct	_	AlignBegin=150992|AlignEnd=151206
 7-8	duːmíyoː	_	_	_	_	_	_	_	_
-7	duːmí	dǔːm	NOUN	_	Definite=Ind	5	conj:dicto	_	AlignBegin=151206|AlignEnd=151348|Gloss=honey-Ind|wordform=dǔːm
+7	duːmí	dǔːm	NOUN	_	Definite=Ind	4	comp:obj	_	AlignBegin=151206|AlignEnd=151348|Gloss=honey-Ind|wordform=dǔːm
 8	oː	oː	PART	_	PartType=Ill	2	mod	_	AlignBegin=151348|AlignEnd=151420|Gloss=Emph
 9	!//	!//	PUNCT	_	_	2	punct	_	AlignBegin=151420|AlignEnd=151633|Gloss=PUNCT
 
@@ -4666,9 +4666,9 @@
 # text_ortho = hár gə̀~ || gə̀ɗì || gə̀ɗì longa fi woní kə̂ːmgáy //
 # text_en = So that the w... wife even made some earrings with it.
 1	hár	hár	ADP	_	_	8	mod	_	AlignBegin=565913|AlignEnd=566162|Gloss=until
-2	gə̀~	gə̀t	NOUN	_	_	8	subj	_	AlignBegin=566162|AlignEnd=566411|Gloss=HESIT[wife]
-3	||	||	PUNCT	_	_	4	punct	_	AlignBegin=566411|AlignEnd=566660|Gloss=PUNCT
-4	gə̀ɗì	gə̀ɗì	NOUN	_	Definite=Ind	2	conj:dicto	_	AlignBegin=566411|AlignEnd=566660|Gloss=wife.Ind
+2	gə̀~	gə̀t	NOUN	_	_	4	reparandum	_	AlignBegin=566162|AlignEnd=566411|Gloss=HESIT[wife]
+3	||	||	PUNCT	_	_	2	punct	_	AlignBegin=566411|AlignEnd=566660|Gloss=PUNCT
+4	gə̀ɗì	gə̀ɗì	NOUN	_	Definite=Ind	8	subj	_	AlignBegin=566411|AlignEnd=566660|Gloss=wife.Ind
 5	||	||	PUNCT	_	_	6	punct	_	AlignBegin=566909|AlignEnd=567158|Gloss=PUNCT
 6	gə̀ɗì	gə̀t	NOUN	_	_	4	conj:dicto	_	AlignBegin=567158|AlignEnd=567396|Gloss=wife|wordform=gə̀t
 7	longa	longa	NOUN	_	_	6	mod@poss	_	AlignBegin=567396|AlignEnd=567634|Gloss=rabbit

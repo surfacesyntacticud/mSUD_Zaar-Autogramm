@@ -887,15 +887,15 @@
 # text = tôː < tə́ || tə́ kéniwâː məʃí //
 # text_ortho = tôː < tə́ || tə́ kênwàː məʃí //
 # text_en = Well, you... you become impotent.
-1	tôː	tòː	PART	_	PartType=Disc	3	discourse	_	AlignBegin=153220|AlignEnd=153360|Gloss=well
+1	tôː	tòː	PART	_	PartType=Disc	5	discourse	_	AlignBegin=153220|AlignEnd=153360|Gloss=well
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=153360|AlignEnd=153500|Gloss=PUNCT
-3	tə́	tə́	ADP	_	_	0	root	_	AlignBegin=154120|AlignEnd=154550|Gloss=with
-4	||	||	PUNCT	_	_	5	punct	_	AlignBegin=154550|AlignEnd=154980|Gloss=PUNCT
-5	tə́	tə́	ADP	_	_	3	conj:dicto	_	AlignBegin=155680|AlignEnd=155875|Gloss=with
+3	tə́	tə́	ADP	_	_	5	reparandum	_	AlignBegin=154120|AlignEnd=154550|Gloss=with
+4	||	||	PUNCT	_	_	3	punct	_	AlignBegin=154550|AlignEnd=154980|Gloss=PUNCT
+5	tə́	tə́	ADP	_	_	0	root	_	AlignBegin=155680|AlignEnd=155875|Gloss=with
 6	kéni	kéni	NOUN	_	_	5	comp	_	AlignBegin=155875|AlignEnd=155973|Gloss=front.Cons|wordform=kéniwâː
 7	=waː	=waː	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	6	mod:poss/m	_	AlignBegin=155875|AlignEnd=155973|Gloss==2Sing.Gen|wordform=-waː
 8	məʃí	məs	VERB	_	ExtPos=ADJ|VerbForm=Part|Voice=Pass	6	mod	_	AlignBegin=156070|AlignEnd=156265|Gloss=dead.Part.Pass
-9	//	//	PUNCT	_	_	3	punct	_	AlignBegin=156265|AlignEnd=156460|Gloss=PUNCT
+9	//	//	PUNCT	_	_	5	punct	_	AlignBegin=156265|AlignEnd=156460|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_01_Religion_097-097
 # speaker_id = SP1
@@ -1068,11 +1068,11 @@
 8	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	4	conj:coord	_	AlignBegin=182085|AlignEnd=182270|Copula=No|Gloss=2Sing.Aor=|wordform=kə
 9	wul	wul	VERB	_	_	8	comp:aux	_	AlignBegin=182270|AlignEnd=182455|Gloss=say
 10	tu	tu	SCONJ	_	_	9	comp:obj	_	AlignBegin=182455|AlignEnd=182640|Gloss=Qot
-11	tôː	tòː	PART	_	PartType=Disc	12	discourse	_	AlignBegin=182640|AlignEnd=182825|Gloss=well
-12	máː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=1	10	comp	_	AlignBegin=182825|AlignEnd=183010|Copula=No|Gloss=1Sing.Perf=|wordform=máː
+11	tôː	tòː	PART	_	PartType=Disc	15	discourse	_	AlignBegin=182640|AlignEnd=182825|Gloss=well
+12	máː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=1	15	reparandum	_	AlignBegin=182825|AlignEnd=183010|Copula=No|Gloss=1Sing.Perf=|wordform=máː
 13	fi	fi	VERB	_	_	12	comp:aux	_	AlignBegin=183010|AlignEnd=183195|Gloss=do
-14	||	||	PUNCT	_	_	15	punct	_	AlignBegin=183195|AlignEnd=183380|Gloss=PUNCT
-15	máː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=1	13	conj:dicto	_	AlignBegin=183380|AlignEnd=183550|Copula=No|Gloss=1Sing.Perf=|wordform=máː
+14	||	||	PUNCT	_	_	12	punct	_	AlignBegin=183195|AlignEnd=183380|Gloss=PUNCT
+15	máː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=1	10	comp	_	AlignBegin=183380|AlignEnd=183550|Copula=No|Gloss=1Sing.Perf=|wordform=máː
 16	fi	fi	VERB	_	_	15	comp:aux	_	AlignBegin=183550|AlignEnd=183720|Gloss=do
 17	kúskə̀	kúskə̀	ADJ	_	_	18	mod	_	AlignBegin=183720|AlignEnd=183890|Gloss=evil
 18	ngə́tn	ngə́tn	NOUN	_	_	16	comp:obj	_	AlignBegin=183890|AlignEnd=184060|Gloss=thing
@@ -1246,13 +1246,13 @@
 2	yi=	yiː=	AUX	_	Aspect=Iter	0	root	_	AlignBegin=205475|AlignEnd=205810|Copula=No|Gloss=Iter=|wordform=yi
 3	fi	fi	VERB	_	_	2	comp:aux	_	AlignBegin=205810|AlignEnd=206145|Gloss=do
 4	||	||	PUNCT	_	_	5	punct	_	AlignBegin=206145|AlignEnd=206480|Gloss=PUNCT
-5	tə́=	á=	AUX	_	Number=Plur|Person=3|Tense=Pres	3	conj:dicto	_	AlignBegin=206660|AlignEnd=206816|Copula=No|Gloss=3Plur.Aor=|wordform=tə́
+5	tə́=	á=	AUX	_	Number=Plur|Person=3|Tense=Pres	2	conj:reform	_	AlignBegin=206660|AlignEnd=206816|Copula=No|Gloss=3Plur.Aor=|wordform=tə́
 6	fî	fi	VERB	_	_	5	comp:aux	_	AlignBegin=206816|AlignEnd=206972|Gloss=do
 7	mbəllə́	mbəllə́	NOUN	_	_	6	comp:obj	_	AlignBegin=206972|AlignEnd=207128|Gloss=adultery
-8	hŋ́	hŋ́	PART	_	PartType=Neg|Polarity=Neg	11	mod	_	AlignBegin=207128|AlignEnd=207284|Gloss=Neg
+8	hŋ́	hŋ́	PART	_	PartType=Neg|Polarity=Neg	7	mod	_	AlignBegin=207128|AlignEnd=207284|Gloss=Neg
 9	//+	//+	PUNCT	_	_	11	punct	_	AlignBegin=207284|AlignEnd=207440|Gloss=PUNCT
-10	wàːtò	wàːtò	SCONJ	_	_	11	discourse	_	AlignBegin=207780|AlignEnd=208012|Gloss=that_is_to_say
-11	maráɣə̂n	mará	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	5	dislocated@comp	_	AlignBegin=208012|AlignEnd=208244|Gloss=spoil-Vnoun
+10	wàːtòː	wàːtòː	CCONJ	_	_	11	cc	_	AlignBegin=207780|AlignEnd=208012|Gloss=that_it_to_say|wordform=wàːtò
+11	maráɣə̂n	mará	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	7	conj:reform	_	AlignBegin=208012|AlignEnd=208244|Gloss=spoil-Vnoun
 12	məːrí	ŋáː	NOUN	_	Definite=Cons|Number=Plur	11	comp:obj	_	AlignBegin=208476|Gloss=young\Plur
 13	guɗi	gə̀t	NOUN	_	Number=Plur	12	compound	_	AlignEnd=208708|Gloss=woman\Plur
 14	//	//	PUNCT	_	_	2	punct	_	AlignBegin=208708|AlignEnd=208940|Gloss=PUNCT
@@ -1324,7 +1324,7 @@
 5	myàːní	myàːní	PRON	_	Number=Plur|Person=1|PronType=Prs	8	dislocated@subj	_	AlignBegin=218494|AlignEnd=218632|Gloss=1Plur.IDP
 6	Zaːr	Zaːr	PROPN	_	_	5	conj:appos	_	AlignBegin=218632|AlignEnd=218770|Gloss=Zaar
 7	<	<	PUNCT	_	_	5	punct	_	AlignBegin=218770|AlignEnd=218908|Gloss=PUNCT
-8	mə̀tà=	TaYiNa=	AUX	_	Number=Plur|Person=1|Tense=Past	2	conj:dicto	_	AlignBegin=218908|Copula=No|Gloss=1Plur.RemPast=|PastType=Remt|wordform=mə̀tà
+8	mə̀tà=	TaYiNa=	AUX	_	Number=Plur|Person=1|Tense=Past	1	conj:reform	_	AlignBegin=218908|Copula=No|Gloss=1Plur.RemPast=|PastType=Remt|wordform=mə̀tà
 9	yi	yi	VERB	_	_	8	comp:aux	_	AlignEnd=219046|Gloss=be
 10	gòpm	gòpm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	9	mod@ethic	_	AlignBegin=219046|AlignEnd=219184|Gloss=1PlurGen
 11	ʧík	ʧík	ADV	_	_	9	comp:pred	_	AlignBegin=219184|AlignEnd=219253|Gloss=thus|SpaceAfter=No|wordform=ʧǐː
@@ -1599,10 +1599,10 @@
 22	|c	|c	PUNCT	_	_	24	punct	_	AlignBegin=270594|AlignEnd=270931|Gloss=PUNCT
 23	kúmá	kúmá	CCONJ	_	_	24	cc	_	AlignBegin=271720|AlignEnd=272306|Gloss=and
 24	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	16	conj:coord	_	AlignBegin=272306|AlignEnd=272429|Copula=No|Gloss=2Sing.Aor=|wordform=kə
-25	yel	yel	VERB	_	_	24	comp:aux	_	AlignBegin=272429|AlignEnd=272552|Gloss=see|SpaceAfter=No|wordform=yelíː
+25	yel	yel	VERB	_	_	28	reparandum	_	AlignBegin=272429|AlignEnd=272552|Gloss=see|SpaceAfter=No|wordform=yelíː
 26	-íː	-íː	ADV	_	_	25	mod/m	_	Accomplished=Yes|AlignBegin=272429|AlignEnd=272552|Gloss=Acpl
-27	||	||	PUNCT	_	_	28	punct	_	AlignBegin=272552|AlignEnd=272675
-28	káː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=2	25	conj:dicto	_	AlignBegin=272675|AlignEnd=272836|Copula=No|Gloss=2Sing.Perf=|wordform=káː
+27	||	||	PUNCT	_	_	25	punct	_	AlignBegin=272552|AlignEnd=272675
+28	káː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=2	24	comp:aux	_	AlignBegin=272675|AlignEnd=272836|Copula=No|Gloss=2Sing.Perf=|wordform=káː
 29	yel	yel	VERB	_	_	28	comp:aux	_	AlignBegin=272836|AlignEnd=272997|Gloss=see|SpaceAfter=No|wordform=yelíː
 30	-íː	-íː	ADV	_	_	29	mod/m	_	Accomplished=Yes|AlignBegin=272836|AlignEnd=272997|Gloss=Acpl
 31	tə́	tə́	ADP	_	_	29	comp:obl	_	AlignBegin=272997|AlignEnd=273158|Gloss=with
@@ -1888,13 +1888,13 @@
 21	ɗyáː	ɗyáː	VERB	_	_	20	comp:aux	_	AlignBegin=317683|AlignEnd=317866|Gloss=be_able
 22	naː	naː	VERB	_	_	21	comp:obj	_	AlignBegin=317866|AlignEnd=318049|Gloss=become
 23	ɗan	ɗan	ADP	_	_	22	comp:pred	_	AlignBegin=318049|AlignEnd=318232|Gloss=like
-24	gyáː	gyáː	DET	_	Number=Plur	25	det	_	AlignBegin=318232|AlignEnd=318415|Gloss=Plur
-25	wuːr	wuːr	NOUN	_	_	23	comp	_	AlignBegin=318415|AlignEnd=318598|Gloss=mountain
-26	||	||	PUNCT	_	_	27	punct	_	AlignBegin=318598|AlignEnd=318780|Gloss=PUNCT
-27	gìːr	gìːr	NOUN	_	_	25	conj:dicto	_	AlignBegin=318920|AlignEnd=319200|Gloss=hole
-28	||	||	PUNCT	_	_	30	punct	_	AlignBegin=319200|AlignEnd=319480|Gloss=PUNCT
+24	gyáː	gyáː	DET	_	Number=Plur	30	det	_	AlignBegin=318232|AlignEnd=318415|Gloss=Plur
+25	wuːr	wuːr	NOUN	_	_	27	reparandum	_	AlignBegin=318415|AlignEnd=318598|Gloss=mountain
+26	||	||	PUNCT	_	_	25	punct	_	AlignBegin=318598|AlignEnd=318780|Gloss=PUNCT
+27	gìːr	gìːr	NOUN	_	_	30	reparandum	_	AlignBegin=318920|AlignEnd=319200|Gloss=hole
+28	||	||	PUNCT	_	_	27	punct	_	AlignBegin=319200|AlignEnd=319480|Gloss=PUNCT
 29	èː	èː	INTJ	_	_	30	discourse@filler	_	AlignBegin=319480|AlignEnd=319760|Gloss=hesit
-30	yér	yêr	NOUN	_	_	27	conj:dicto	_	AlignBegin=319900|AlignEnd=320065|Gloss=fetish|wordform=*yér-íː
+30	yér	yêr	NOUN	_	_	23	comp	_	AlignBegin=319900|AlignEnd=320065|Gloss=fetish|wordform=*yér-íː
 31	ɣə̀	kə́	ADP	_	Case=Gen	30	mod	_	AlignBegin=320065|AlignEnd=320230|Gloss=of
 32	wón	wón	NOUN	_	_	31	comp	_	AlignBegin=320230|AlignEnd=320395|Gloss=ear|SpaceAfter=No|wordform=wóníː
 33	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	32	det/m	_	AlignBegin=320230|AlignEnd=320395|Gloss=Remt
@@ -1990,7 +1990,7 @@
 7	fi	fi	VERB	_	_	6	comp:aux	_	AlignBegin=327184|AlignEnd=327318|Gloss=do
 8	ni	ni	PART	_	PartType=Adv	7	compound:prt	_	AlignBegin=327318|AlignEnd=327452|Gloss=Inch|Inchoative=Yes|wordform==ni
 9	||	||	PUNCT	_	_	10	punct	_	AlignBegin=327452|AlignEnd=327587|Gloss=PUNCT
-10	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	7	conj:dicto	_	AlignBegin=327587|AlignEnd=327783|Copula=No|Gloss=3Sing.Perf=|wordform=àː
+10	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	6	conj:reform	_	AlignBegin=327587|AlignEnd=327783|Copula=No|Gloss=3Sing.Perf=|wordform=àː
 11	ngap	ngap	VERB	_	_	10	comp:aux	_	AlignBegin=327783|AlignEnd=327979|Gloss=catch
 12	ŋaː	ŋaː	NOUN	_	_	11	comp:obj	_	AlignBegin=327979|AlignEnd=328175|Gloss=young
 13	gə̀ɗì	gə̀t	NOUN	_	Definite=Ind	12	compound	_	AlignBegin=328175|AlignEnd=328371|Gloss=woman

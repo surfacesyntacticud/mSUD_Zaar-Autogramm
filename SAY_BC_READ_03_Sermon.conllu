@@ -2166,8 +2166,8 @@
 10	fi	fi	VERB	_	_	9	comp:aux	_	AlignBegin=660625|AlignEnd=660838|Gloss=do
 11	á	ká	ADP	_	_	10	mod	_	AlignBegin=660838|AlignEnd=661051|Gloss=at
 12	ɗə̂ɣn	ɗə̂ɣn	NOUN	_	_	11	comp	_	AlignBegin=661051|AlignEnd=661264|Gloss=world
-13	wàːtòː	wàːtòː	X	_	Foreign=Yes	14	discourse	_	AlignBegin=661920|AlignEnd=662208|Gloss=i.e.|Lang=ha
-14	ríːɣə̂n	riː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	conj:dicto	_	AlignBegin=662208|AlignEnd=662304|Gloss=travel-Vnoun|wordform=ríːɣə́nwàː
+13	wàːtòː	wàːtòː	CCONJ	_	Foreign=Yes	14	discourse	_	AlignBegin=661920|AlignEnd=662208|Gloss=that_it_to_say|Lang=ha
+14	ríːɣə̂n	riː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	conj:reform	_	AlignBegin=662208|AlignEnd=662304|Gloss=travel-Vnoun|wordform=ríːɣə́nwàː
 15	=waː	=waː	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	14	mod:poss/m	_	AlignBegin=662208|AlignEnd=662304|Gloss==SingGen|wordform=ríːɣə́nwàː
 16	ɣá	ká	ADP	_	_	14	mod	_	AlignBegin=662496|AlignEnd=662784|Gloss=at
 17	ɗə̂ɣn	ɗə̂ɣn	VERB	_	_	16	comp	_	AlignBegin=662784|AlignEnd=663072|Gloss=world
