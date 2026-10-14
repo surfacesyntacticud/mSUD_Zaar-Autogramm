@@ -1439,7 +1439,7 @@
 3	-es	-es	DET	_	Definite=Def|PronType=Dem	2	det/m	_	AlignBegin=427327|AlignEnd=427409|Gloss=Def|PrevRef=Yes
 4	dzàŋ	dzàŋ	NOUN	_	_	1	conj:redup	_	AlignBegin=428880|AlignEnd=429140|Gloss=day
 5	gíː	gíː	DET	_	Deixis=Remt|PronType=Dem	4	det	_	AlignBegin=429140|AlignEnd=429227|Gloss=Rmt|PrevRef=Yes|SpaceAfter=No|wordform=gêːs
-6	-es	-es	DET	_	Definite=Def|PronType=Dem	4	det/m	_	AlignBegin=429140|AlignEnd=429227|Gloss=Def|PrevRef=Yes
+6	-es	-es	DET	_	Definite=Def|PronType=Dem	5	det/m	_	AlignBegin=429140|AlignEnd=429227|Gloss=Def|PrevRef=Yes
 7	ka=	a=	AUX	_	Number=Sing|Person=2|Tense=Fut	0	root	_	AlignBegin=430520|AlignEnd=430720|Copula=No|Gloss=2Sing.Fut=|wordform=ka
 8-9	ɬə́n	_	_	_	_	_	_	_	_
 8	ɬə	ɬə	VERB	_	_	7	comp:aux	_	AlignBegin=430720|AlignEnd=430820|Gloss=go
@@ -1524,7 +1524,7 @@
 30	ɓəːl	ɓəːl	VERB	_	_	0	root	_	AlignBegin=456453|AlignEnd=456526|Gloss=divide
 31	-mí	-mí	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	30	comp:obj/m	_	AlignBegin=456526|AlignEnd=456599|Gloss==1Plur.OBJ|wordform==mí
 32	-wâpm	-wapm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	30	comp@ethic	_	AlignBegin=456526|AlignEnd=456599|Gloss=1PlurGen
-33	-íː	-íː	ADV	_	_	30	mod/m	_	Accomplished=Yes|AlignBegin=456526|AlignEnd=456599|Gloss=Acpl|wordform==wôpíː
+33	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	32	det/m	_	AlignBegin=456526|AlignEnd=456599|Gloss=Remt
 34	də̀nì	də̀n	NOUN	_	Definite=Ind	30	comp:pred	_	AlignBegin=457840|AlignEnd=457944|Gloss=compound.Ind|wordform=də̀n
 35	mbə́ɬəŋ	mbə́ɬəŋ	NUM	_	_	34	det	_	AlignBegin=458047|AlignEnd=458254|Gloss=two
 36	gyaːgón	gón	PRON	_	Definite=Spec|Number=Plur	34	parataxis:insert	_	AlignBegin=459580|AlignEnd=459825|Gloss=Spec

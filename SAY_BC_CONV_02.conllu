@@ -2671,7 +2671,7 @@
 15	ʧòp	ʧop	VERB	_	_	14	comp:aux	_	AlignBegin=365909|AlignEnd=365977|Gloss=wash
 16	-mí	-mí	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	15	comp:obj/m	_	AlignBegin=365977|AlignEnd=366045|Gloss==1Plur.Acc|wordform==mí
 17	-wâpm	-wapm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	15	comp@ethic	_	AlignBegin=365977|AlignEnd=366045|Gloss=1PlurGen
-18	-íː	-íː	ADV	_	_	15	mod/m	_	Accomplished=Yes|AlignBegin=365977|AlignEnd=366045|Gloss=Acpl
+18	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	17	det/m	_	AlignBegin=365977|AlignEnd=366045|Gloss=Remt
 19	//=	//=	PUNCT	_	_	21	punct	_	AlignBegin=366183|AlignEnd=366458|Gloss=PUNCT
 20	əndá	kəndá	ADV	_	_	21	mod	_	AlignBegin=366458|AlignEnd=366661|Gloss=then
 21	mə̀=	tə̀=	AUX	_	Mood=Sub|Number=Plur|Person=1	14	conj:coord	_	AlignBegin=366661|AlignEnd=366864|Copula=No|Gloss=1Plur.Sub=|wordform=mə̀
