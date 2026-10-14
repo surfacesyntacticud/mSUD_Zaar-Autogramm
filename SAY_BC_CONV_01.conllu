@@ -1839,7 +1839,7 @@
 2-3	wúltə	_	_	_	_	_	_	_	_
 2	wûl	wul	VERB	_	_	1	comp:aux	_	AlignBegin=205727|AlignEnd=205819|Gloss=say
 3	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	comp:obj@R/m	_	AlignBegin=205819|AlignEnd=205910|Gloss==3Sing.Acc|wordform==tə
-4	gə̀tn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	mod@ethic	_	AlignBegin=205910|AlignEnd=206093|Gloss=1SingGen
+4	gə̀tn	gə̀tn	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	comp@ethic	_	AlignBegin=205910|AlignEnd=206093|Gloss=1SingGen
 5	tu	tu	SCONJ	_	_	2	comp:obj@T	_	AlignBegin=206093|AlignEnd=206276|Gloss=Qot
 6	tòː	tòː	PART	_	PartType=Disc	21	discourse	_	AlignBegin=206276|AlignEnd=206459|Gloss=well
 7	<	<	PUNCT	_	_	6	punct	_	AlignBegin=206459|AlignEnd=206640|Gloss=PUNCT
@@ -2190,7 +2190,7 @@
 29	//	//	PUNCT	_	_	5	punct	_	AlignBegin=243190|AlignEnd=243409|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_01_251-253
-# text = kúmá dóːlêː séː yǎː kap mí wôpíː bátwôpm tə́ dàːʃès //
+# text = kúmá dóːlêː séː yǎː= kap -mí -wôp -íː bát -wôpm tə́ daː-es //
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_01.WAV
 # sent_timecode = 243840, 246216
@@ -2202,12 +2202,14 @@
 4	yǎː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=3	3	comp	_	AlignBegin=244672|AlignEnd=244978|Copula=No|Gloss=3Plur.Imp=|wordform=yǎː
 5	kap	kap	VERB	_	_	4	comp:aux	_	AlignBegin=244978|AlignEnd=245054|Gloss=take|wordform=*kap-íː
 6	-mí	-mí	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	comp:obj/m	_	AlignBegin=245054|AlignEnd=245130|Gloss==1Plur.Acc|wordform==mí
-7	wôpíː	wôpíː	PRON	_	Case=Gen|Deixis=Remt|Number=Plur|Person=1|PronType=Prs	5	mod@ethic	_	AlignBegin=245054|AlignEnd=245130|Gloss=1PlurGen.Remt|wordform==mí
-8	bátwôpm	bét	PRON	_	Case=Gen|Number=Plur|Person=1	5	mod	_	AlignBegin=245284|AlignEnd=245400|Gloss=all.1PlurGen|wordform=bát
-9	tə́	tə́	ADP	_	_	5	comp:obl	_	AlignBegin=245517|AlignEnd=245750|Gloss=with
-10	daː	daː	NOUN	_	_	9	comp	_	AlignBegin=245750|AlignEnd=245866|Gloss=man|SpaceAfter=No|wordform=dàːʃès
-11	-es	-es	DET	_	Definite=Def	10	det/m	_	AlignBegin=245750|AlignEnd=245866|Gloss=Def
-12	//	//	PUNCT	_	_	3	punct	_	AlignBegin=245983|AlignEnd=246216|Gloss=PUNCT
+7	-wôp	-wôp	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	mod@ethic	_	AlignBegin=245054|AlignEnd=245130|Gloss=-1PlurGen|wordform==mí
+8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	6	det	_	AlignBegin=245054|AlignEnd=245130|Gloss=-Remt|wordform==mí
+9	bát	bát	DET	_	_	5	mod	_	AlignBegin=245284|AlignEnd=245400|Gloss=all
+10	-wôpm	-wopm	PRON	_	Case=Gen|Number=Plur|Person=1	9	mod:poss	_	AlignBegin=245284|AlignEnd=245400|Gloss=-1PlurGen|wordform=bát
+11	tə́	tə́	ADP	_	_	5	comp:obl	_	AlignBegin=245517|AlignEnd=245750|Gloss=with
+12	daː	daː	NOUN	_	_	11	comp	_	AlignBegin=245750|AlignEnd=245866|Gloss=man|SpaceAfter=No|wordform=dàːʃès
+13	-es	-es	DET	_	Definite=Def	12	det/m	_	AlignBegin=245750|AlignEnd=245866|Gloss=Def
+14	//	//	PUNCT	_	_	3	punct	_	AlignBegin=245983|AlignEnd=246216|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_01_254-254
 # speaker_id = SP1
@@ -2264,7 +2266,7 @@
 1	éy	éy	INTJ	_	_	2	discourse	_	AlignBegin=252919|AlignEnd=253120|Gloss=indeed
 2	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	0	root	_	AlignBegin=253120|AlignEnd=253321|Copula=No|Gloss=3Sing.Perf=|wordform=àː
 3	tu	tu	VERB	_	_	2	comp:aux	_	AlignBegin=253321|AlignEnd=253522|Gloss=get
-4	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	mod@ethic	_	AlignBegin=253522|AlignEnd=253723|Gloss=3SingGen
+4	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	comp@ethic	_	AlignBegin=253522|AlignEnd=253723|Gloss=3SingGen
 5	gə̀t	gə̀t	NOUN	_	_	3	comp:obj	_	AlignBegin=253723|AlignEnd=253823|Gloss=wife|SpaceAfter=No|wordform=gə̀ɗíː
 6	-íː	-íː	DET	_	_	5	det/m	_	AlignBegin=253723|AlignEnd=253823|Gloss=Remt
 7	ɗan	ɗan	SCONJ	_	_	5	mod@relcl	_	AlignBegin=253924|AlignEnd=254125|Gloss=REL
@@ -2540,7 +2542,7 @@
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_01.WAV
 # sent_timecode = 283898, 287978
-# text = Kámʃâk < káː yisə́ŋ á wûl gòs tu gyaː bàːba gòʃíː tə́ màːma gòʃíː tàː mə́ːʃíː //
+# text = Kámʃâk < káː= yisə́ŋ á= wûl gòs tu gyaː bàːba -gòs -íː tə́ màːma -gòs -íː tàː= məs-íː //
 # text_ortho = Kámʃâk < káː yisə́ŋ á wûl gòs tu gyaː bàːba gòʃíː tə́ màːma gòʃíː tàː mə́ːʃíː //
 # text_en = Kamshak, you know he said that his father and his mother have died.
 1	Kámʃâk	Kámʃâk	PROPN	_	_	5	dislocated@subj	_	AlignBegin=283898|AlignEnd=284114|Gloss=Kamshak
@@ -2549,24 +2551,26 @@
 4	yisə́ŋ	yisə́ŋ	VERB	_	_	3	comp:aux	_	AlignBegin=284533|AlignEnd=284735|Gloss=know
 5	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=284735|AlignEnd=284937|Copula=No|Gloss=3Sing.Aor=|wordform=á
 6	wûl	wul	VERB	_	_	5	comp:aux	_	AlignBegin=284937|AlignEnd=285139|Gloss=say
-7	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	mod@ethic	_	AlignBegin=285139|AlignEnd=285341|Gloss=3SingGen
+7	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	comp@ethic	_	AlignBegin=285139|AlignEnd=285341|Gloss=3SingGen
 8	tu	tu	SCONJ	_	_	6	comp:obj	_	AlignBegin=285341|AlignEnd=285541|Gloss=Qot
 9	gyaː	gyaː	DET	_	Number=Plur	10	det	_	AlignBegin=285541|AlignEnd=285863|Gloss=3Plur
-10	bàːba	bàːba	NOUN	_	_	15	subj	_	AlignBegin=285863|AlignEnd=286185|Gloss=father|wordform=*bàːba-íː
-11	gòʃíː	gòs	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Prs	10	mod@poss	_	AlignBegin=286185|AlignEnd=286346|Gloss=3SingGen.Remt|wordform=gòs
-12	tə́	tə́	CCONJ	_	_	13	cc	_	AlignBegin=286507|AlignEnd=286776|Gloss=with
-13	màːma	màːma	NOUN	_	_	10	conj:coord	_	AlignBegin=286776|AlignEnd=287045|Gloss=mother|wordform=*màːma-íː
-14	gòʃíː	gòs	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Prs	13	mod@poss	_	AlignBegin=287045|AlignEnd=287180|Gloss=3SingGen.Remt|wordform=gòs
-15	tàː=	áː=	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	comp	_	AlignBegin=287315|AlignEnd=287536|Copula=No|Gloss=3Plur.Perf=|wordform=tàː
-16	məs	məs	VERB	_	Number=Plur	15	comp:aux	_	AlignBegin=287536|AlignEnd=287646|Gloss=die-Plur|SpaceAfter=No|wordform=mə́ːʃíː
-17	-íː	-íː	ADV	_	Number=Plur	16	mod/m	_	Accomplished=Yes|AlignBegin=287536|AlignEnd=287646|Gloss=Acpl
-18	//	//	PUNCT	_	_	5	punct	_	AlignBegin=287757|AlignEnd=287978|Gloss=PUNCT
+10	bàːba	bàːba	NOUN	_	_	17	subj	_	AlignBegin=285863|AlignEnd=286185|Gloss=father|wordform=*bàːba-íː
+11	-gòs	-gos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	mod:poss/m	_	AlignBegin=286185|AlignEnd=286346|Gloss=3SingGen|wordform=gòs
+12	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	10	det/m	_	AlignBegin=286185|AlignEnd=286346|Gloss=-Remt
+13	tə́	tə́	CCONJ	_	_	14	cc	_	AlignBegin=286507|AlignEnd=286776|Gloss=with
+14	màːma	màːma	NOUN	_	_	10	conj:coord	_	AlignBegin=286776|AlignEnd=287045|Gloss=mother|wordform=*màːma-íː
+15	-gòs	-gos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	14	mod:poss/m	_	AlignBegin=287045|AlignEnd=287180|Gloss=3SingGen|wordform=gòs
+16	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	14	det/m	_	AlignBegin=287045|AlignEnd=287180|Gloss=-Remt
+17	tàː=	áː=	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	comp	_	AlignBegin=287315|AlignEnd=287536|Copula=No|Gloss=3Plur.Perf=|wordform=tàː
+18	məs	məs	VERB	_	Number=Plur	17	comp:aux	_	AlignBegin=287536|AlignEnd=287646|Gloss=die-Plur|SpaceAfter=No|wordform=mə́ːʃíː
+19	-íː	-íː	ADV	_	Number=Plur	18	mod/m	_	Accomplished=Yes|AlignBegin=287536|AlignEnd=287646|Gloss=Acpl
+20	//	//	PUNCT	_	_	5	punct	_	AlignBegin=287757|AlignEnd=287978|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_01_293-295
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_01.WAV
 # sent_timecode = 288707, 291445
-# text = bàːba gòs || ěː màːm gòs < àː məʃíː àmáŋ bàːba gòʃíː ʧi ɗa //
+# text = bàːba gòs || ěː màːm gòs < àː= məs-íː àmán bàːba -gòs -íː ʧi ɗa //
 # text_ortho = bàːba gòs || ěː màːm gòs < àː məʃíː àmáŋ bàːba gòʃíː ʧi ɗa //
 # text_en = His father, eh his mother, has died but his father is alive.
 1	bàːba	bàːba	NOUN	_	_	8	subj	_	AlignBegin=288707|AlignEnd=288868|Gloss=father
@@ -2579,12 +2583,13 @@
 8	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	0	root	_	AlignBegin=289897|AlignEnd=290074|Copula=No|Gloss=3Sing.Perf=|wordform=àː
 9	məs	məs	VERB	_	_	8	comp:aux	_	AlignBegin=290074|AlignEnd=290162|Gloss=die|SpaceAfter=No|wordform=məʃíː
 10	-íː	-íː	ADV	_	_	9	mod/m	_	Accomplished=Yes|AlignBegin=290074|AlignEnd=290162|Gloss=Acpl
-11	àmáŋ	àmáː	CCONJ	_	_	14	cc	_	AlignBegin=290250|AlignEnd=290449|Gloss=but
-12	bàːba	bàːba	NOUN	_	_	14	dislocated@subj	_	AlignBegin=290449|AlignEnd=290648|Gloss=father|wordform=*bàːba-íː
-13	gòʃíː	gòs	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Prs	12	mod@poss	_	AlignBegin=290648|AlignEnd=290748|Gloss=3SingGen.Remt|wordform=gòs
-14	ʧi	yi	AUX	_	Number=Sing|Person=3	8	conj:coord	_	AlignEnd=291046|Copula=Yes|Gloss=3Sing.be.Loc|wordform=yi
-15	ɗa	ɗa	PART	_	PartType=Adv	14	compound:prt	_	AlignBegin=291046|AlignEnd=291245|Gloss=at
-16	//	//	PUNCT	_	_	8	punct	_	AlignBegin=291245|AlignEnd=291445|Gloss=PUNCT
+11	àmán	àmáː	CCONJ	_	_	15	cc	_	AlignBegin=290250|AlignEnd=290449|Gloss=but
+12	bàːba	bàːba	NOUN	_	_	15	dislocated@subj	_	AlignBegin=290449|AlignEnd=290648|Gloss=father|wordform=*bàːba-íː
+13	-gòs	-gos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	12	mod:poss/m	_	AlignBegin=290648|AlignEnd=290748|Gloss=3SingGen|wordform=gòs
+14	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	12	det/m	_	AlignBegin=290648|AlignEnd=290748|Gloss=-Remt
+15	ʧi	yi	AUX	_	Number=Sing|Person=3	8	conj:coord	_	AlignEnd=291046|Copula=Yes|Gloss=3Sing.be.Loc|wordform=yi
+16	ɗa	ɗa	PART	_	PartType=Adv	15	compound:prt	_	AlignBegin=291046|AlignEnd=291245|Gloss=at
+17	//	//	PUNCT	_	_	8	punct	_	AlignBegin=291245|AlignEnd=291445|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_01_296-297
 # speaker_id = SP2
@@ -2624,7 +2629,7 @@
 # text = gòs káwêy < dàːmuwa -wos tə̀- yél àː- kapmíː -íː dón mə̀- ɬə -íː mə̀- yì- ɬə́ irin teːmakéʃí á tuːrɣə̂n gyǎː ngə́tn ʧíɣə̂n da sauransu dai tə̀- ngáː tə̀- húːtá //
 # text_ortho = gòs káwêy < dàːmuwáwôs tə̀ yél àː kapmíː dòn mə̀ ɬíː mə̀yi ɬə́ irin teːmakéʃí á tuːrɣə̂n gyǎː ngətn ʧíɣə̂n da sauransu dai tə̀ ngáː tə̀ húːtá //
 # text_en = For him, his only trouble is to marry me so that I would go and <hau kind of hau> help him with cooking some food <hau etc. hau> so that he would get some rest.
-1	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	dislocated@top	_	AlignBegin=294788|AlignEnd=295020|Gloss=3SingGen
+1	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	dislocated@ethic	_	AlignBegin=294788|AlignEnd=295020|Gloss=3SingGen
 2	káwêy	káwêy	ADV	_	_	1	mod	_	AlignBegin=295020|AlignEnd=295252|Gloss=merely
 3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=295252|AlignEnd=295484|Gloss=PUNCT
 4	dàːmuwa	dàːmuwa	NOUN	_	_	6	dislocated@top	_	AlignBegin=295484|AlignEnd=295600|Gloss=trouble|Lang=ha|wordform=dàːmuwá

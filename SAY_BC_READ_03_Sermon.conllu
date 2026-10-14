@@ -282,7 +282,7 @@
 31-33	ɲólárʃíwáːsə̀ŋə́y	_	_	_	_	_	_	_	_
 31	ɲólár	ɲol	VERB	_	_	30	comp:aux	_	AlignBegin=73460|AlignEnd=73532|Gloss=go_out-Cau|wordform=ɲol
 32	-ʃí	-ʃí	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	31	comp:obj/m	_	AlignBegin=73604|AlignEnd=73676|Gloss==3Plur.Acc|wordform==ʃí
-33	waːsəŋ	waːsəŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	32	mod@ethic	_	AlignBegin=73604|AlignEnd=73676|Gloss=3Plur.Gen|SpaceAfter=No|wordform=wáːsə̀ŋə́y
+33	waːsəŋ	waːsəŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	32	comp@ethic	_	AlignBegin=73604|AlignEnd=73676|Gloss=3Plur.Gen|SpaceAfter=No|wordform=wáːsə̀ŋə́y
 34	-íː	-íː	ADV	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	33	mod/m	_	Accomplished=Yes|AlignBegin=73604|AlignEnd=73676|Gloss=Acpl
 35	nə́	nə́	ADP	_	ExtPos=SCONJ	19	mod	_	AlignBegin=75080|AlignEnd=75232|Gloss=for|Idiom=Yes
 36	dur	dur	NOUN	_	_	35	comp	_	AlignBegin=75232|AlignEnd=75384|Gloss=cause|InIdiom=Yes
@@ -718,7 +718,7 @@
 12-13	ɓaskə	_	_	_	_	_	_	_	_
 12	ɓas	ɓas	ADP	_	_	11	comp:obl	_	AlignBegin=214025|AlignEnd=214147|Gloss=at
 13	-kə	-kə	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	12	comp/m	_	AlignBegin=214147|AlignEnd=214270|Gloss==2Sing.OBJ|wordform==kə
-14	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	mod@ethic	_	AlignBegin=214270|AlignEnd=214515|Gloss=3SingGen
+14	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	comp@ethic	_	AlignBegin=214270|AlignEnd=214515|Gloss=3SingGen
 15	yélɣə̂n	yeli	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	11	comp:pred	_	AlignBegin=214515|AlignEnd=214637|Gloss=see-Vnoun|Object=ObjectRaising|wordform=yeli
 16	kərəŋ	kərəŋ	ADV	_	_	15	mod	_	AlignBegin=214760|AlignEnd=215005|Gloss=clearly|Ideo=Yes
 17	kərəŋ	kərəŋ	ADV	_	_	16	compound:redup	_	AlignBegin=215005|AlignEnd=215250|Gloss=clearly|Ideo=Yes
@@ -790,7 +790,7 @@
 7	ʧoɣn	ʧoɣn	NOUN	_	_	6	comp:pred	_	AlignBegin=234160|AlignEnd=234360|Gloss=sky
 8	longa	longa	NOUN	_	_	9	subj	_	AlignBegin=235520|AlignEnd=235748|Gloss=rabbit
 9	ʧi	yi	AUX	_	Number=Sing|Person=3	6	parataxis@conj	_	AlignBegin=235748|AlignEnd=235976|Copula=Yes|Gloss=3Sing.be.Loc|wordform=yi
-10	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	mod@ethic	_	AlignBegin=235976|AlignEnd=236204|Gloss=3SingGen
+10	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	comp@ethic	_	AlignBegin=235976|AlignEnd=236204|Gloss=3SingGen
 11	yâːɬ	yâːɬ	NOUN	_	_	9	comp:pred	_	AlignBegin=236204|AlignEnd=236432|Gloss=on_the_ground
 12	ɓurúk	ɓurúk	DET	_	_	13	det	_	AlignBegin=237640|AlignEnd=237928|Gloss=all
 13	ngə́tn	ngə́tn	NOUN	_	_	20	mod	_	AlignBegin=237928|AlignEnd=238216|Gloss=thing
@@ -1045,7 +1045,7 @@
 3	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	comp:obj@R/m	_	AlignBegin=313691|AlignEnd=313854|Gloss===3Sing.Acc|wordform==tə
 4	tə̀=	tə̀=	AUX	_	Mood=Sub|Number=Sing|Person=3	0	root	_	AlignBegin=314940|AlignEnd=315100|Copula=No|Gloss=3Sing.Sub=|wordform=tə̀
 5	kón	kon	VERB	_	_	4	comp:aux	_	AlignBegin=315100|AlignEnd=315260|Gloss=say
-6	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	mod@ethic	_	AlignBegin=315260|AlignEnd=315420|Gloss=3SingGen
+6	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	comp@ethic	_	AlignBegin=315260|AlignEnd=315420|Gloss=3SingGen
 7	tsə́n	tsəní	ADV	_	_	5	mod	_	AlignBegin=315420|AlignEnd=315580|Gloss=like_this
 8	//	//	PUNCT	_	_	4	punct	_	AlignBegin=315580|AlignEnd=315740|Gloss=PUNCT
 
@@ -1355,24 +1355,25 @@
 # sent_id = SAY_BC_READ_03_Sermon_182-185
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_03_Sermon.WAV
 # sent_timecode = 400740, 407280
-# text = dzàŋ gíː -es ɗeɓátwôpm má= zǔpm gá kén gə Tʃóɣnvòn nə́ ɗə́ːlɣə́n vìː -es //
+# text = dzàŋ gíː-es ɗeɓát -wôpm má= zǔpm gá kén gə Tʃóɣnvòn nə́ ɗə́ːlɣə́n vìː-es //
 # text_ortho = dzàŋ gêːs ɗeɓátwôpm má zǔpm gá kén gə̀ Tʃóknvòn nə́ ɗə́ːlɣə́n vèːs //
 # text_en = On that day, all of us, we will bow to God for the Judgement.
-1	dzàŋ	dzàŋ	NOUN	_	_	5	mod	_	AlignBegin=400740|AlignEnd=401033|Gloss=day
+1	dzàŋ	dzàŋ	NOUN	_	_	6	mod	_	AlignBegin=400740|AlignEnd=401033|Gloss=day
 2	gíː	gíː	DET	_	Deixis=Remt|PronType=Dem	1	det	_	AlignBegin=401033|AlignEnd=401179|Gloss=Rmt|PrevRef=Yes|SpaceAfter=No|wordform=gêːs
 3	-es	-es	DET	_	Definite=Def|PronType=Dem	2	det/m	_	AlignBegin=401033|AlignEnd=401179|Gloss=Def|PrevRef=Yes
-4	ɗeɓátwôpm	ɗeɓát	PRON	_	Case=Gen|Number=Plur|Person=1	5	subj	_	AlignBegin=402260|AlignEnd=402425|Gloss=all.1Plur.Gen
-5	má=	a=	AUX	_	Number=Plur|Person=1|Tense=Fut	0	root	_	AlignBegin=403820|AlignEnd=404043|Copula=No|Gloss=1Plur.Fut=|wordform=má
-6	zǔpm	zúpm	VERB	_	_	5	comp:aux	_	AlignBegin=404043|AlignEnd=404266|Gloss=bow
-7	gá	ká	ADP	_	_	6	comp:obl	_	AlignBegin=404266|AlignEnd=404489|Gloss=at
-8	kén	kéni	NOUN	_	_	7	comp	_	AlignBegin=404489|AlignEnd=404712|Gloss=front
-9	gə	kə́	ADP	_	Case=Gen	8	mod	_	AlignBegin=404712|AlignEnd=404935|Gloss=of
-10	Tʃóɣnvòn	Tʃóɣnvòn	PROPN	_	_	9	comp	_	AlignBegin=404935|AlignEnd=405158|Gloss=God
-11	nə́	nə́	ADP	_	_	6	mod	_	AlignBegin=406420|AlignEnd=406635|Gloss=for
-12	ɗə́ːlɣə́n	ɗəːl	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	11	comp	_	AlignBegin=406635|AlignEnd=406743|Gloss=come_out-Vnoun|wordform=ɗəːl
-13	vìː	vìː	NOUN	_	_	12	compound	_	AlignBegin=406850|AlignEnd=406958|Gloss=speech|SpaceAfter=No|wordform=vèːs
-14	-es	-es	DET	_	Definite=Def	13	det/m	_	AlignBegin=406850|AlignEnd=406958|Gloss=Def
-15	//	//	PUNCT	_	_	5	punct	_	AlignBegin=407065|AlignEnd=407280|Gloss=PUNCT
+4	ɗeɓát	ɗeɓát	DET	_	_	6	subj	_	AlignBegin=402260|AlignEnd=402425|Gloss=all
+5	-wôpm	-wopm	PRON	_	Case=Gen|Number=Plur|Person=1	4	mod:poss/m	_	AlignBegin=402260|AlignEnd=402425|Gloss=-1Plur.Gen
+6	má=	a=	AUX	_	Number=Plur|Person=1|Tense=Fut	0	root	_	AlignBegin=403820|AlignEnd=404043|Copula=No|Gloss=1Plur.Fut=|wordform=má
+7	zǔpm	zúpm	VERB	_	_	6	comp:aux	_	AlignBegin=404043|AlignEnd=404266|Gloss=bow
+8	gá	ká	ADP	_	_	7	comp:obl	_	AlignBegin=404266|AlignEnd=404489|Gloss=at
+9	kén	kéni	NOUN	_	_	8	comp	_	AlignBegin=404489|AlignEnd=404712|Gloss=front
+10	gə	kə́	ADP	_	Case=Gen	9	mod	_	AlignBegin=404712|AlignEnd=404935|Gloss=of
+11	Tʃóɣnvòn	Tʃóɣnvòn	PROPN	_	_	10	comp	_	AlignBegin=404935|AlignEnd=405158|Gloss=God
+12	nə́	nə́	ADP	_	_	7	mod	_	AlignBegin=406420|AlignEnd=406635|Gloss=for
+13	ɗə́ːlɣə́n	ɗəːl	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	12	comp	_	AlignBegin=406635|AlignEnd=406743|Gloss=come_out-Vnoun|wordform=ɗəːl
+14	vìː	vìː	NOUN	_	_	13	compound	_	AlignBegin=406850|AlignEnd=406958|Gloss=speech|SpaceAfter=No|wordform=vèːs
+15	-es	-es	DET	_	Definite=Def	14	det/m	_	AlignBegin=406850|AlignEnd=406958|Gloss=Def
+16	//	//	PUNCT	_	_	6	punct	_	AlignBegin=407065|AlignEnd=407280|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_03_Sermon_186-187
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_03_Sermon.WAV
@@ -1486,7 +1487,7 @@
 # sent_id = SAY_BC_READ_03_Sermon_198-207
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_03_Sermon.WAV
 # sent_timecode = 441360, 462460
-# text = dzàŋ ɗə́ːlɣə́n vèːs kúni Tʃoɣn Yéːsu gíː ɗan wò ɗəːlmí vèːs mə́níː wò taʧí tsə́tnni ɣá dàndàl kap kə́ ɗə́ːlɣə́n vèːs < tòː ɓəːlmíwôpíː də̀nì mbə́ɬəŋ gyaːgón gá zàːri gyaːgón gá napti //
+# text = dzàŋ ɗə́ːlɣə́n vìː-es kúni Tʃoɣn Yéːsu gíː ɗan wò= ɗəːlmí vìː-es mə́n-íː wò= taʧí tsə́tnni ɣá dàndàl kap kə́ ɗə́ːlɣə́n vìː-es < tòː ɓəːl -mí -wâpm -íː də̀nì mbə́ɬəŋ gyaːgón gá zàːri gyaːgón gá napti //
 # text_ortho = dzàŋ ɗə́ːlɣə́n vèːs kúni ʧoɣn Yéːsu gíː ɗan wò ɗəːlmí vèːs məníː wò taʧí tsə́tnni ɣá dàndàl kap kə́ ɗə́ːlɣə́n vèːs /tôː ɓəːlmíwôpíː də̀nì mbə́ɬəŋ / gyaːgón gá zàːri gyaːgón gá napti //
 # text_en = On the day of Judgement, the Son of God (Jesus), the one who will judge us, who will rise and sit on the throne of Judgement, he will divide us in two parts: some on the right, others on the left.
 1	dzàŋ	dzàŋ	NOUN	_	_	30	mod	_	AlignBegin=441360|AlignEnd=441675|Gloss=day
@@ -1520,19 +1521,19 @@
 27	-es	-es	DET	_	Definite=Def	26	det/m	_	AlignBegin=454596|AlignEnd=454772|Gloss=Def
 28	<	<	PUNCT	_	_	5	punct	_	AlignBegin=454948|AlignEnd=455300|Gloss=PUNCT
 29	tòː	tòː	PART	_	PartType=Disc	30	discourse	_	AlignBegin=456160|AlignEnd=456453|Gloss=well
-30-32	ɓəːlmíwôpíː	_	_	_	_	_	_	_	_
 30	ɓəːl	ɓəːl	VERB	_	_	0	root	_	AlignBegin=456453|AlignEnd=456526|Gloss=divide
 31	-mí	-mí	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	30	comp:obj/m	_	AlignBegin=456526|AlignEnd=456599|Gloss==1Plur.OBJ|wordform==mí
-32	wôpíː	wôpíː	PRON	_	Case=Gen|Deixis=Remt|Number=Plur|Person=1|PronType=Prs	30	mod@ethic	_	AlignBegin=456526|AlignEnd=456599|Gloss=1PlurGen.Remt|wordform==wôpíː
-33	də̀nì	də̀n	NOUN	_	Definite=Ind	30	comp:pred	_	AlignBegin=457840|AlignEnd=457944|Gloss=compound.Ind|wordform=də̀n
-34	mbə́ɬəŋ	mbə́ɬəŋ	NUM	_	_	33	det	_	AlignBegin=458047|AlignEnd=458254|Gloss=two
-35	gyaːgón	gón	PRON	_	Definite=Spec|Number=Plur	33	parataxis:insert	_	AlignBegin=459580|AlignEnd=459825|Gloss=Spec
-36	gá	ká	ADP	_	_	35	mod	_	AlignBegin=459825|AlignEnd=460070|Gloss=at
-37	zàːri	zaːr	NOUN	_	_	36	comp	_	AlignBegin=460070|AlignEnd=460315|Gloss=right
-38	gyaːgón	gón	PRON	_	Definite=Spec|Number=Plur	35	conj:coord	_	AlignBegin=461580|AlignEnd=461800|Gloss=Spec
-39	gá	ká	ADP	_	_	38	mod	_	AlignBegin=461800|AlignEnd=462020|Gloss=at
-40	napti	napti	NOUN	_	_	39	comp	_	AlignBegin=462020|AlignEnd=462240|Gloss=left
-41	//	//	PUNCT	_	_	30	punct	_	AlignBegin=462240|AlignEnd=462460|Gloss=PUNCT
+32	-wâpm	-wapm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	30	comp@ethic	_	AlignBegin=456526|AlignEnd=456599|Gloss=1PlurGen
+33	-íː	-íː	ADV	_	_	30	mod/m	_	Accomplished=Yes|AlignBegin=456526|AlignEnd=456599|Gloss=Acpl|wordform==wôpíː
+34	də̀nì	də̀n	NOUN	_	Definite=Ind	30	comp:pred	_	AlignBegin=457840|AlignEnd=457944|Gloss=compound.Ind|wordform=də̀n
+35	mbə́ɬəŋ	mbə́ɬəŋ	NUM	_	_	34	det	_	AlignBegin=458047|AlignEnd=458254|Gloss=two
+36	gyaːgón	gón	PRON	_	Definite=Spec|Number=Plur	34	parataxis:insert	_	AlignBegin=459580|AlignEnd=459825|Gloss=Spec
+37	gá	ká	ADP	_	_	36	mod	_	AlignBegin=459825|AlignEnd=460070|Gloss=at
+38	zàːri	zaːr	NOUN	_	_	37	comp	_	AlignBegin=460070|AlignEnd=460315|Gloss=right
+39	gyaːgón	gón	PRON	_	Definite=Spec|Number=Plur	36	conj:coord	_	AlignBegin=461580|AlignEnd=461800|Gloss=Spec
+40	gá	ká	ADP	_	_	39	mod	_	AlignBegin=461800|AlignEnd=462020|Gloss=at
+41	napti	napti	NOUN	_	_	40	comp	_	AlignBegin=462020|AlignEnd=462240|Gloss=left
+42	//	//	PUNCT	_	_	30	punct	_	AlignBegin=462240|AlignEnd=462460|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_03_Sermon_208-212
 # text = wò= wul mə́n zàːri -íː tu mànə́n ɗûːn á də̀n gə̀ daː gə̀tíː gíː ɗan mə= ndəːr nə́ dur -íː //
@@ -1678,7 +1679,7 @@
 24	ɗan	ɗan	SCONJ	_	_	22	mod@relcl	_	AlignBegin=504520|AlignEnd=504866|Gloss=that
 25	ʧáː=	yáː=	AUX	_	Aspect=Imp|Number=Sing|Person=3	24	comp	_	AlignBegin=504866|AlignEnd=505212|Copula=No|Gloss=3Sing.Imp=|wordform=ʧáː
 26	vyáː	vyaː	VERB	_	_	25	comp:aux	_	AlignBegin=505212|AlignEnd=505558|Gloss=spend_day
-27	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	26	mod@ethic	_	AlignBegin=505558|AlignEnd=505904|Gloss=3SingGen
+27	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	26	comp@ethic	_	AlignBegin=505558|AlignEnd=505904|Gloss=3SingGen
 28	ká	ká	ADP	_	_	26	comp:obl	_	AlignBegin=505904|AlignEnd=506250|Gloss=at
 29	ləːtsə́ɣə̂n	ləːtsə́	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	28	comp	_	AlignBegin=506250|AlignEnd=506365|Gloss=blaze-Vnoun|SpaceAfter=No|wordform=ləːtsə́ɣə̂níː
 30	-íː	-íː	DET	_	Deixis=Remt|ExtPos=NOUN|PronType=Dem|VerbForm=Vnoun	29	det/m	_	AlignBegin=506250|AlignEnd=506365|Gloss=Remt
@@ -1733,7 +1734,7 @@
 6-7	kapm	_	_	_	_	_	_	_	_
 6	kap	kap	VERB	_	_	5	comp:aux	_	AlignBegin=525113|AlignEnd=525229|Gloss=take
 7	-m	-mə	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	comp:obj@R/m	_	AlignBegin=525229|AlignEnd=525346|Gloss==1Sing.OBJ|wordform==m
-8	ɗaːkí	ɗaːkí	PRON	_	Case=Gen|Number=Plur|Person=2	9	mod@poss	_	AlignBegin=525346|AlignEnd=525462|Gloss=2PlurGen
+8	ɗaːkí	ɗaːkí	PRON	_	Case=Gen|Number=Plur|Person=2	9	mod:poss	_	AlignBegin=525346|AlignEnd=525462|Gloss=2PlurGen
 9	də̀n	də̀n	NOUN	_	_	6	comp:obj@L	_	AlignBegin=525579|AlignEnd=525812|Gloss=compound
 10	hŋ́	hŋ́	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	AlignBegin=525812|AlignEnd=526045|Gloss=Neg
 11	//	//	PUNCT	_	_	1	punct	_	AlignBegin=526045|AlignEnd=526045|Gloss=PUNCT
@@ -1886,30 +1887,30 @@
 # sent_id = SAY_BC_READ_03_Sermon_260-264
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_03_Sermon.WAV
 # sent_timecode = 578420, 586660
-# text = ʧet gamaː dzàŋ gíː dzàŋ yáː ɓə̂ːlmíwôpíː wò kətkə ɣá zàːri aː kóː ɣá napti ?//
+# text = ʧet gamaː dzàŋ gíː dzàŋ yáː= ɓə̂ːl -mí -wâpm -íː wò= kətkə ɣá zàːri aː kóː ɣá napti ?//
 # text_ortho = ʧet gamaː dzàŋ gíː dzàŋ yáː ɓə̂ːlmíwôpíː wò kətkə ɣá zàːri aː kóː ɣá napti //
 # text_en = Ask yourself, on that day, the day when he separates us, will he leave you on the right or on the left ?
-1	ʧet	ʧet	VERB	_	_	11	parataxis:discourse	_	AlignBegin=578420|AlignEnd=578640|Gloss=ask|Imperative=Yes
+1	ʧet	ʧet	VERB	_	_	0	root	_	AlignBegin=578420|AlignEnd=578640|Gloss=ask|Imperative=Yes
 2	gamaː	gamaː	PRON	_	Number=Sing|Person=2|Reflex=Yes	1	comp:obj@R	_	AlignBegin=578640|AlignEnd=578860|Gloss=2Sing.REFL
-3	dzàŋ	dzàŋ	NOUN	_	_	10	mod	_	AlignBegin=580700|AlignEnd=580913|Gloss=day
+3	dzàŋ	dzàŋ	NOUN	_	_	11	mod	_	AlignBegin=580700|AlignEnd=580913|Gloss=day
 4	gíː	gíː	DET	_	Deixis=Remt|PronType=Dem	3	det	_	AlignBegin=580913|AlignEnd=581126|Gloss=Remt
 5	dzàŋ	dzàŋ	NOUN	_	_	3	conj:appos	_	AlignBegin=582500|AlignEnd=582770|Gloss=day
 6	yáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=3	5	mod@relcl	_	AlignBegin=582770|AlignEnd=583040|Copula=No|Gloss=3Sing.Imp=|wordform=yáː
-7-9	ɓə̂ːlmíwôpíː	_	_	_	_	_	_	_	_
 7	ɓə̂ːl	ɓəːl	VERB	_	_	6	comp:aux	_	AlignBegin=583040|AlignEnd=583108|Gloss=divide
 8	-mí	-mí	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	7	comp:obj/m	_	AlignBegin=583108|AlignEnd=583176|Gloss==1Plur.OBJ|wordform==mí
-9	wôpíː	wôpíː	PRON	_	Case=Gen|Deixis=Remt|Number=Plur|Person=1|PronType=Prs	7	mod@ethic	_	AlignBegin=583108|AlignEnd=583176|Gloss=1PlurGen.Remt|wordform==mí
-10	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	0	root	_	AlignBegin=584520|AlignEnd=584707|Copula=No|Gloss=3Sing.Fut=|wordform=wò
-11-12	kətkə	_	_	_	_	_	_	_	_
-11	kət	kət	VERB	_	_	10	comp:aux	_	AlignBegin=584707|AlignEnd=584801|Gloss=keep
-12	-kə	-kə	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	11	comp:obj/m	_	AlignBegin=584801|AlignEnd=584894|Gloss==2Sing.OBJ|wordform==kə
-13	ɣá	ká	ADP	_	_	11	comp:obl	_	AlignBegin=584894|AlignEnd=585081|Gloss=at
-14	zàːri	zàːr	NOUN	_	Definite=Ind	13	comp	_	AlignBegin=585081|AlignEnd=585268|Gloss=right
-15	aː	aː	PART	_	PartType=Ill	11	mod	_	AlignBegin=585268|AlignEnd=585455|Gloss=Int|wordform=a:
-16	kóː	kóː	CCONJ	_	_	17	cc	_	AlignBegin=585960|AlignEnd=586135|Gloss=or
-17	ɣá	ká	ADP	_	_	10	conj:coord	_	AlignBegin=586135|AlignEnd=586310|Gloss=at
-18	napti	napti	VERB	_	_	17	comp	_	AlignBegin=586310|AlignEnd=586485|Gloss=left
-19	?//	?//	PUNCT	_	_	10	punct	_	AlignBegin=586485|AlignEnd=586660|Gloss=PUNCT
+9	-wâpm	-wapm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	comp@ethic/m	_	AlignBegin=583108|AlignEnd=583176|Gloss=1PlurGen
+10	-íː	-íː	ADV	_	_	7	mod/m	_	Accomplished=Yes|AlignBegin=583108|AlignEnd=583176|Gloss=Acpl
+11	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	1	comp:obj@T	_	AlignBegin=584520|AlignEnd=584707|Copula=No|Gloss=3Sing.Fut=|wordform=wò
+12-13	kətkə	_	_	_	_	_	_	_	_
+12	kət	kət	VERB	_	_	11	comp:aux	_	AlignBegin=584707|AlignEnd=584801|Gloss=keep
+13	-kə	-kə	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	12	comp:obj/m	_	AlignBegin=584801|AlignEnd=584894|Gloss==2Sing.OBJ|wordform==kə
+14	ɣá	ká	ADP	_	_	12	comp:obl	_	AlignBegin=584894|AlignEnd=585081|Gloss=at
+15	zàːri	zàːr	NOUN	_	Definite=Ind	14	comp	_	AlignBegin=585081|AlignEnd=585268|Gloss=right
+16	aː	aː	PART	_	PartType=Ill	12	mod	_	AlignBegin=585268|AlignEnd=585455|Gloss=Int|wordform=a:
+17	kóː	kóː	CCONJ	_	_	18	cc	_	AlignBegin=585960|AlignEnd=586135|Gloss=or
+18	ɣá	ká	ADP	_	_	11	conj:coord	_	AlignBegin=586135|AlignEnd=586310|Gloss=at
+19	napti	napti	VERB	_	_	18	comp	_	AlignBegin=586310|AlignEnd=586485|Gloss=left
+20	?//	?//	PUNCT	_	_	1	punct	_	AlignBegin=586485|AlignEnd=586660|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_03_Sermon_265-266
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_03_Sermon.WAV

@@ -30,7 +30,7 @@
 21-22	fin	_	_	_	_	_	_	_	_
 21	fi	fi	VERB	_	_	19	comp:aux	_	AlignBegin=6405|AlignEnd=6487|Gloss=do
 22	ni	ni	PART	_	PartType=Adv	21	compound:prt	_	AlignBegin=6487|AlignEnd=6570|Gloss=Inch|Inchoative=Yes|wordform==ni
-23	gwàː	gwàː	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	21	mod@ethic	_	AlignBegin=6570|AlignEnd=6735|Gloss=2SingGen
+23	gwàː	gwàː	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	21	comp@ethic	_	AlignBegin=6570|AlignEnd=6735|Gloss=2SingGen
 24	níː	níː	PRON	_	PronType=Int	21	comp:obj	_	AlignBegin=6735|AlignEnd=6900|Gloss=what
 25	ɣá	ká	ADP	_	_	21	mod	_	AlignBegin=6900|AlignEnd=7065|Gloss=at
 26-27	sáːfeː	_	_	_	_	_	_	_	_
@@ -653,7 +653,7 @@
 # text_en = Er... as for 'Murgi', if it caught you, because they had felled that tree, well you will see ulcers coming out on you.
 1	aː	aː	INTJ	_	_	20	discourse@filler	_	AlignBegin=106720|AlignEnd=107032|Gloss=FILL
 2	Murgi	Murgi	NOUN	_	_	20	dislocated	_	AlignBegin=107032|AlignEnd=107344|Gloss=disease_sp
-3	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	mod@ethic	_	AlignBegin=107344|AlignEnd=107656|Gloss=3SingGen
+3	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	comp@ethic	_	AlignBegin=107344|AlignEnd=107656|Gloss=3SingGen
 4	kúmá	kúmá	PART	_	PartType=Top	2	discourse@top	_	AlignBegin=107656|AlignEnd=107968|Gloss=also
 5	<	<	PUNCT	_	_	2	punct	_	AlignBegin=107968|AlignEnd=108280|Gloss=PUNCT
 6	yáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=3	20	mod	_	AlignBegin=108884|AlignEnd=109110|Copula=No|Gloss=3Sing.Cnd=|wordform=yáː
@@ -749,7 +749,7 @@
 # text_ortho = murgi gòs kúmá < ngəʃín eː < tún < gòs < nə yêr ɣən ʧǎː || nə yêr fuŋ ʧǎː ngâː tə́ ʧâː //
 # text_en = As for 'Murgi' er..., since... as for it, it is the thatch that... it is the thatch of a granary that they take and put.
 1	Murgi	Murgi	PROPN	_	_	18	dislocated@top	_	AlignBegin=123600|AlignEnd=123818|Gloss=fetish_sp
-2	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	mod@ethic	_	AlignBegin=123818|AlignEnd=124036|Gloss=3SingGen
+2	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	comp@ethic	_	AlignBegin=123818|AlignEnd=124036|Gloss=3SingGen
 3	kúmá	kúmá	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=124036|AlignEnd=124254|Gloss=also
 4	<	<	PUNCT	_	_	1	punct	_	AlignBegin=124254|AlignEnd=124472|Gloss=PUNCT
 5	ngə́tn	ngə́tn	NOUN	_	_	18	dislocated@top	_	AlignBegin=124472|AlignEnd=124690|Gloss=thing|SpaceAfter=No|wordform=ngəʃín
@@ -758,7 +758,7 @@
 8	<	<	PUNCT	_	_	7	punct	_	AlignBegin=124908|AlignEnd=125126|Gloss=PUNCT
 9	tun	tun	ADV	_	_	18	mod	_	AlignBegin=125126|AlignEnd=125344|Gloss=since
 10	<	<	PUNCT	_	_	9	punct	_	AlignBegin=125344|AlignEnd=125560|Gloss=PUNCT
-11	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	18	dislocated@top	_	AlignBegin=125781|AlignEnd=125941|Gloss=3SingGen
+11	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	18	dislocated@ethic	_	AlignBegin=125781|AlignEnd=125941|Gloss=3SingGen
 12	<	<	PUNCT	_	_	11	punct	_	AlignBegin=125941|AlignEnd=126100|Gloss=PUNCT
 13	nə	nə	AUX	_	_	18	reparandum	_	AlignBegin=126900|AlignEnd=127037|Copula=Yes|Gloss=be.Ident
 14	yêr	yêr	NOUN	_	_	13	comp:pred	_	AlignBegin=127037|AlignEnd=127174|Gloss=thatch
@@ -778,12 +778,12 @@
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_01_RELIGION.WAV
 # sent_timecode = 129920, 136260
-# text = tôː < yáːni yêr fuŋə́y ɗan ʧǎː ngaː tə́ ʧâː ɣá lə́ɓíː > yáː ngápkə gòʃíː < tôː < ndómtsə wò ngapkíː //
+# text = tôː < yáːni yêr fuŋ-íː ɗan ʧǎː= ngaː tə́= ʧâː ɣá lə̂p-íː > yáː= ngáp-kə gòs -íː < tôː < ndómtsə wò= ngapkíː -íː //
 # text_ortho = tôː < yáːni yêr fuŋə́y ɗan ʧǎː ngâː tə́ ʧâː ɣá lə́ɓíː < yáː ngápkə gòʃíː < tôː < ndómtsə wò ngapkíː //
 # text_en = Well, as for... that thatch from a granary that they take and put in that place, if it catches you, well, leprosy will catch you.
-1	tôː	tòː	PART	_	PartType=Disc	24	discourse	_	AlignBegin=129920|AlignEnd=130100|Gloss=well
+1	tôː	tòː	PART	_	PartType=Disc	25	discourse	_	AlignBegin=129920|AlignEnd=130100|Gloss=well
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=130100|AlignEnd=130280|Gloss=PUNCT
-3	yáːni	yáːni	PRON	_	Number=Sing|Person=3|PronType=Prs	24	dislocated@top	_	AlignBegin=130800|AlignEnd=130971|Gloss=3Sing.IDP
+3	yáːni	yáːni	PRON	_	Number=Sing|Person=3|PronType=Prs	25	dislocated@top	_	AlignBegin=130800|AlignEnd=130971|Gloss=3Sing.IDP
 4	yêr	yêr	NOUN	_	_	3	conj:appos	_	AlignBegin=130971|AlignEnd=131142|Gloss=thatch
 5	fuŋ	fuŋ	NOUN	_	_	4	compound	_	AlignBegin=131142|AlignEnd=131313|Gloss=granary|SpaceAfter=No|wordform=fuŋə́y
 6	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	5	det/m	_	AlignBegin=131142|AlignEnd=131313|Gloss=Remt
@@ -796,20 +796,21 @@
 13	lə̂p	lə̂p	NOUN	_	_	12	comp	_	AlignBegin=132339|AlignEnd=132510|Gloss=place|SpaceAfter=No|wordform=lə́ɓíː
 14	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	13	det/m	_	AlignBegin=132339|AlignEnd=132510|Gloss=Remt
 15	>	>	PUNCT	_	_	3	punct	_	AlignBegin=132510|AlignEnd=132681|Gloss=PUNCT
-16	yáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=3	24	mod	_	AlignBegin=132681|AlignEnd=132852|Copula=No|Gloss=3Sing.Cnd=|wordform=yáː
+16	yáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=3	25	mod	_	AlignBegin=132681|AlignEnd=132852|Copula=No|Gloss=3Sing.Cnd=|wordform=yáː
 17	ngáp	ngap	VERB	_	_	16	comp:aux	_	AlignBegin=132852|AlignEnd=132938|Gloss=catch|SpaceAfter=No|wordform=#ngâp-íː
 18	-kə	-kə	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	17	comp:obj/m	_	AlignBegin=132938|AlignEnd=133023|Gloss==2Sing.Acc|wordform==kə
-19	gòʃíː	gòs	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Prs	17	mod@ethic	_	AlignBegin=133023|AlignEnd=133194|Gloss=3SingGen.Remt|wordform=gòs
-20	<	<	PUNCT	_	_	16	punct	_	AlignBegin=133194|AlignEnd=133358|Gloss=PUNCT
-21	tôː	tòː	PART	_	PartType=Disc	24	discourse	_	AlignBegin=134060|AlignEnd=134210|Gloss=well
-22	<	<	PUNCT	_	_	21	punct	_	AlignBegin=134210|AlignEnd=134360|Gloss=PUNCT
-23	ndómtsə	ndómtsə	NOUN	_	_	24	subj	_	AlignBegin=134480|AlignEnd=135052|Gloss=leprosy
-24	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	0	root	_	AlignBegin=135720|AlignEnd=135900|Copula=No|Gloss=3Sing.Fut=|wordform=wò
-25-26	ngapkíː	_	_	_	_	_	_	_	_
-25	ngap	ngap	VERB	_	_	24	comp:aux	_	AlignBegin=135900|AlignEnd=136080|Gloss=catch|wordform=#ngap-íː
-26	-kə	-kə	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	25	comp:obj/m	_	AlignBegin=135960|AlignEnd=136020|Gloss==2Sing.Acc|SpaceAfter=No|wordform=-kíː
-27	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	26	mod/m	_	Accomplished=Yes|AlignBegin=135960|AlignEnd=136020|Gloss=Acpl
-28	//	//	PUNCT	_	_	24	punct	_	AlignBegin=136080|AlignEnd=136260|Gloss=PUNCT
+19	gòs	gos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	17	comp@ethic	_	AlignBegin=133023|AlignEnd=133194|Gloss=3SingGen
+20	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	19	det/m	_	AlignBegin=133023|AlignEnd=133194|Gloss=Remt
+21	<	<	PUNCT	_	_	16	punct	_	AlignBegin=133194|AlignEnd=133358|Gloss=PUNCT
+22	tôː	tòː	PART	_	PartType=Disc	25	discourse	_	AlignBegin=134060|AlignEnd=134210|Gloss=well
+23	<	<	PUNCT	_	_	22	punct	_	AlignBegin=134210|AlignEnd=134360|Gloss=PUNCT
+24	ndómtsə	ndómtsə	NOUN	_	_	25	subj	_	AlignBegin=134480|AlignEnd=135052|Gloss=leprosy
+25	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	0	root	_	AlignBegin=135720|AlignEnd=135900|Copula=No|Gloss=3Sing.Fut=|wordform=wò
+26-27	ngapkíː	_	_	_	_	_	_	_	_
+26	ngap	ngap	VERB	_	_	25	comp:aux	_	AlignBegin=135900|AlignEnd=136080|Gloss=catch|wordform=#ngap-íː
+27	-kə	-kə	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	26	comp:obj/m	_	AlignBegin=135960|AlignEnd=136020|Gloss==2Sing.Acc|SpaceAfter=No|wordform=-kíː
+28	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	27	mod/m	_	Accomplished=Yes|AlignBegin=135960|AlignEnd=136020|Gloss=Acpl
+29	//	//	PUNCT	_	_	25	punct	_	AlignBegin=136080|AlignEnd=136260|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_01_Religion_084-084
 # speaker_id = SP1
@@ -864,7 +865,7 @@
 3	m̀ː	m̀ː	INTJ	_	_	4	discourse	_	AlignBegin=145660|AlignEnd=146180|Gloss=yes
 4	Vuli	Vuli	NOUN	_	_	2	conj:appos	_	AlignBegin=147240|AlignEnd=147430|Gloss=fetish_sp
 5	<	<	PUNCT	_	_	2	punct	_	AlignBegin=147430|AlignEnd=147620|Gloss=PUNCT
-6	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	parataxis:insert	_	AlignBegin=148540|AlignEnd=148773|Gloss=3SingGen
+6	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	dislocated@ethic	_	AlignBegin=148540|AlignEnd=148773|Gloss=3SingGen
 7	máː	máː	PART	_	PartType=Top	6	discourse@top	_	AlignBegin=148773|AlignEnd=149006|Gloss=even
 8	<	<	PUNCT	_	_	6	punct	_	AlignBegin=149006|AlignEnd=149240|Gloss=PUNCT
 9	ʧáː=	yáː=	AUX	_	Aspect=Imp|Number=Sing|Person=3	0	root	_	AlignBegin=149420|AlignEnd=149717|Copula=No|Gloss=3Sing.Imp=|wordform=ʧáːyi
@@ -948,7 +949,7 @@
 # text_en = Well, that's how it was.
 1	tôː	tòː	PART	_	PartType=Disc	2	discourse	_	AlignBegin=163120|AlignEnd=163279|Gloss=well
 2	ʧì	yi	AUX	_	Number=Plur|Person=3	0	root	_	AlignEnd=163438|Copula=Yes|Gloss=3Plur.be.Loc|wordform=yi
-3	gwàːsə̀ŋ	gwàːsə̀ŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	mod@ethic	_	AlignBegin=163438|AlignEnd=163597|Gloss=3PlurGen
+3	gwàːsə̀ŋ	gwàːsə̀ŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	comp@ethic	_	AlignBegin=163438|AlignEnd=163597|Gloss=3PlurGen
 4	ʧík	ʧík	ADV	_	_	2	comp:pred	_	AlignBegin=163597|AlignEnd=163677|Gloss=thus|SpaceAfter=No|wordform=ʧǐː
 5	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	4	det/m	_	AlignBegin=163597|AlignEnd=163677|Gloss=Remt
 6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=163756|AlignEnd=163917|Gloss=PUNCT
@@ -1319,14 +1320,14 @@
 # text_en = We used to be... we, Zaar, we used to be like that.
 1	mə̀tà=	TaYiNa=	AUX	_	Number=Plur|Person=1|Tense=Past	0	root	_	AlignBegin=218080|Copula=No|Gloss=1Plur.RemPast=|PastType=Remt|wordform=mə̀tà
 2	yi	yi	VERB	_	_	1	comp:aux	_	AlignEnd=218218|Gloss=be
-3	gòpm	gòpm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	mod@ethic	_	AlignBegin=218218|AlignEnd=218356|Gloss=1PlurGen
+3	gòpm	gòpm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	comp@ethic	_	AlignBegin=218218|AlignEnd=218356|Gloss=1PlurGen
 4	||	||	PUNCT	_	_	8	punct	_	AlignBegin=218356|AlignEnd=218494|Gloss=PUNCT
 5	myàːní	myàːní	PRON	_	Number=Plur|Person=1|PronType=Prs	8	dislocated@subj	_	AlignBegin=218494|AlignEnd=218632|Gloss=1Plur.IDP
 6	Zaːr	Zaːr	PROPN	_	_	5	conj:appos	_	AlignBegin=218632|AlignEnd=218770|Gloss=Zaar
 7	<	<	PUNCT	_	_	5	punct	_	AlignBegin=218770|AlignEnd=218908|Gloss=PUNCT
 8	mə̀tà=	TaYiNa=	AUX	_	Number=Plur|Person=1|Tense=Past	1	conj:reform	_	AlignBegin=218908|Copula=No|Gloss=1Plur.RemPast=|PastType=Remt|wordform=mə̀tà
 9	yi	yi	VERB	_	_	8	comp:aux	_	AlignEnd=219046|Gloss=be
-10	gòpm	gòpm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	9	mod@ethic	_	AlignBegin=219046|AlignEnd=219184|Gloss=1PlurGen
+10	gòpm	gòpm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	9	comp@ethic	_	AlignBegin=219046|AlignEnd=219184|Gloss=1PlurGen
 11	ʧík	ʧík	ADV	_	_	9	comp:pred	_	AlignBegin=219184|AlignEnd=219253|Gloss=thus|SpaceAfter=No|wordform=ʧǐː
 12	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	11	det/m	_	AlignBegin=219184|AlignEnd=219253|Gloss=Remt
 13	//	//	PUNCT	_	_	1	punct	_	AlignBegin=219322|AlignEnd=219455|Gloss=PUNCT
@@ -1594,7 +1595,7 @@
 17	yáː=	yáː=	AUX	_	Aspect=Imp	16	compound	_	Copula=No|Gloss=Imp=|wordform=yáː
 18	ʧaː	ʧaː	VERB	_	_	16	comp:aux	_	AlignBegin=270088|AlignEnd=270594|Gloss=put|wordform=*ʧâː-íː
 19	-ʃí	-ʃí	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	18	comp:obj/m	_	AlignBegin=270257|AlignEnd=270369|Gloss==3Plur.Acc|wordform==ʃí
-20	waːsəŋ	waːsəŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	19	mod@ethic	_	AlignBegin=270257|AlignEnd=270369|Gloss=3PlurGen|SpaceAfter=No|wordform=wâːʃíː
+20	waːsəŋ	waːsəŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	19	comp@ethic	_	AlignBegin=270257|AlignEnd=270369|Gloss=3PlurGen|SpaceAfter=No|wordform=wâːʃíː
 21	-íː	-íː	ADV	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	20	mod/m	_	Accomplished=Yes|AlignBegin=270257|AlignEnd=270369|Gloss=Acpl
 22	|c	|c	PUNCT	_	_	24	punct	_	AlignBegin=270594|AlignEnd=270931|Gloss=PUNCT
 23	kúmá	kúmá	CCONJ	_	_	24	cc	_	AlignBegin=271720|AlignEnd=272306|Gloss=and
@@ -1651,7 +1652,7 @@
 6	á	ká	ADP	_	_	4	comp:obl	_	AlignBegin=276604|AlignEnd=276775|Gloss=at
 7	láːpkə́nì	láːp	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	comp	_	AlignBegin=276775|AlignEnd=276946|Gloss=follow-Vnoun
 8	<	<	PUNCT	_	_	2	punct	_	AlignBegin=276946|AlignEnd=277120|Gloss=PUNCT
-9	gwàːn	gwàːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	11	dislocated@top	_	AlignBegin=278480|AlignEnd=278684|Gloss=2PlurGen
+9	gwàːn	gwàːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	11	dislocated@ethic	_	AlignBegin=278480|AlignEnd=278684|Gloss=2PlurGen
 10	<	<	PUNCT	_	_	9	punct	_	AlignBegin=278684|AlignEnd=278888|Gloss=PUNCT
 11	kə̀tà=	TaYiNa=	AUX	_	Number=Plur|Person=2|Tense=Past	0	root	_	AlignBegin=278888|AlignEnd=279092|Copula=No|Gloss=2Plur.RemPast=|PastType=Remt|wordform=kə̀tàyáː
 12	yáː=	yáː=	AUX	_	Aspect=Imp	11	compound	_	Copula=No|Gloss=Imp=|wordform=yáː
@@ -1682,7 +1683,7 @@
 # text = gòpm < ʧǎː wul tu kiɣá láːpkə́nì kə ɬə́ fi ngə́tn wón tə́ ŋaː gə̀t ɗa á ndârá hŋ́ < tôː tá və̀rɣə̀ fòːroː //
 # text_ortho = gòpm < ʧǎː wûl tu kiɣá láːpkə́nì < kə ɬə́ fi ngə́tn wón tə́ ŋaː gə̀t ɗa á ndârá hŋ́ < tôː tá və̀rɣə̀ fòːroː //
 # text_en = Yes. For us, if they said you are a Christian and you did something with a girl that was not good, well they gave you... a punishment.
-1	gòpm	gòpm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	22	dislocated@top	_	AlignBegin=283460|AlignEnd=283695|Gloss=1PlurGen
+1	gòpm	gòpm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	22	dislocated@ethic	_	AlignBegin=283460|AlignEnd=283695|Gloss=1PlurGen
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=283695|AlignEnd=283930|Gloss=PUNCT
 3	ʧǎː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=3	22	mod	_	AlignBegin=283930|AlignEnd=284165|Copula=No|Gloss=3Plur.Imp=|wordform=ʧǎː
 4	wul	wul	VERB	_	_	3	comp:aux	_	AlignBegin=284165|AlignEnd=284400|Gloss=say
@@ -1865,7 +1866,7 @@
 # text_ortho = wàːtòː gwàːn bàː átayáː ɗyáː ngap Zaːr hŋ́ ɗan kàmán mə ɬə́ fíɗi nə mə́ːri X < wò ɗyáː naː ɗan gyáː wuːr || gìːr || èː yér ɣə̀ woníː ɗa átayáː fí hŋ́ ?//
 # text_en = Well, as for you, couldn't you catch people like if we went to steal... it will become like the mountains... the cave er... those fetishes that they used to do?
 1	wàːtòː	wàːtòː	PART	_	PartType=Disc	4	discourse	_	AlignBegin=312131|AlignEnd=312410|Gloss=i.e.
-2	gwàːn	gwàːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	4	dislocated@top	_	AlignBegin=312410|AlignEnd=312689|Gloss=2PlurGen
+2	gwàːn	gwàːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	4	dislocated@ethic	_	AlignBegin=312410|AlignEnd=312689|Gloss=2PlurGen
 3	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=312689|AlignEnd=312968|Gloss=Neg
 4	áta=	TaYiNa=	AUX	_	Number=Sing|Person=3|Tense=Past	0	root	_	AlignBegin=312968|AlignEnd=313247|Copula=No|Gloss=3Sing.RemPast=|PastType=Remt|wordform=átayáː
 5	yáː=	yáː=	AUX	_	Aspect=Imp	4	compound	_	Copula=No|Gloss=Imp=|wordform=yáː
@@ -1924,7 +1925,7 @@
 # text_ortho = gíː gòs séː ín &//
 # text_en = That's until you...
 1	gíː	gíː	PRON	_	Deixis=Remt|PronType=Dem	3	dislocated@top	_	AlignBegin=322180|AlignEnd=322351|Gloss=Remt
-2	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	mod@ethic	_	AlignBegin=322351|AlignEnd=322522|Gloss=3SingGen
+2	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	comp@ethic	_	AlignBegin=322351|AlignEnd=322522|Gloss=3SingGen
 3	séː	séː	SCONJ	_	_	0	root	_	AlignBegin=322522|AlignEnd=322693|Gloss=must
 4	ín	ín	SCONJ	_	_	3	comp	_	AlignBegin=322693|AlignEnd=322864|Gloss=if
 5	&//	&//	PUNCT	_	_	3	punct	_	AlignBegin=322864|AlignEnd=323037|Gloss=PUNCT
@@ -1951,7 +1952,7 @@
 # text_en = Er... for this, they must see you doing it.
 1	m̀ː	m̀ː	INTJ	_	_	4	discourse	_	AlignBegin=323860|AlignEnd=324036|Gloss=FILL
 2	gíː	gíː	PRON	_	Deixis=Remt|PronType=Dem	4	dislocated@top	_	AlignBegin=324036|AlignEnd=324212|Gloss=Remt
-3	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	mod@ethic	_	AlignBegin=324212|AlignEnd=324388|Gloss=3SingGen
+3	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	comp@ethic	_	AlignBegin=324212|AlignEnd=324388|Gloss=3SingGen
 4	séː	séː	SCONJ	_	_	0	root	_	AlignBegin=324388|AlignEnd=324564|Gloss=must
 5	ín	ín	SCONJ	_	_	4	comp	_	AlignBegin=324564|AlignEnd=324740|Gloss=if
 6	ʧàː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=3	5	comp	_	AlignBegin=324740|AlignEnd=324916|Copula=No|Gloss=3Plur.Imp=|wordform=ʧàːyi
@@ -2571,7 +2572,7 @@
 7-9	ʧâːʃíwâːʃíː	_	_	_	_	_	_	_	_
 7	ʧâː	ʧaː	VERB	_	_	6	comp:aux	_	AlignBegin=427494|AlignEnd=427779|Gloss=put
 8	-ʃí	-ʃí	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	comp:obj/m	_	AlignBegin=427565|AlignEnd=427636|Gloss==3Plur.Acc|wordform==ʃí
-9	waːsəŋ	waːsəŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	mod@ethic	_	AlignBegin=427565|AlignEnd=427636|Gloss=3PlurGen|SpaceAfter=No|wordform=wâːʃíː
+9	waːsəŋ	waːsəŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	comp@ethic	_	AlignBegin=427565|AlignEnd=427636|Gloss=3PlurGen|SpaceAfter=No|wordform=wâːʃíː
 10	-íː	-íː	ADV	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	9	mod/m	_	Accomplished=Yes|AlignBegin=427565|AlignEnd=427636|Gloss=Acpl
 11	<	<	PUNCT	_	_	2	punct	_	AlignBegin=427779|AlignEnd=428062|Gloss=PUNCT
 12	yáwwàː	yáwwàː	INTJ	_	_	19	discourse	_	AlignBegin=428780|AlignEnd=429113|Gloss=OK

@@ -415,32 +415,33 @@
 # sent_id = SAY_BC_READ_01_Beer_051-053
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_01_Beer-brewing.WAV
 # sent_timecode = 98520, 105400
-# text = myáː ngáːtə gòʃíː káwêy tòː myáː ɲóm dàɗèʃíː ɗan á nâː ɗup-ɗúɓíː ma ʃin ɗa wúɗi //
+# text = myáː= ngáːtə gòs -íː káwêy tòː myáː= ɲóm dàt-eʃ-íː ɗan á= nâː ɗup-ɗúp-íː ma= ʃin-íː ɗa wúɗi //
 # text_ortho = myáː ngáːtə gòʃíː káwêy tôː myáː ɲóm dàɗèʃíː ɗan á nâː ɗupɗúɓíː ma ʃiníː ɗa wúɗi //
 # text_en = After I have removed it, I take the bottom part that is very thick, and put it on the fire.
-1	myáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=1	17	mod	_	AlignBegin=98520|AlignEnd=98730|Copula=No|Gloss=1Sing.Cnd=|wordform=myáː
+1	myáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=1	18	mod	_	AlignBegin=98520|AlignEnd=98730|Copula=No|Gloss=1Sing.Cnd=|wordform=myáː
 2-3	ngáːtə	_	_	_	_	_	_	_	_
 2	ngáː	ngaː	VERB	_	_	1	comp:aux	_	AlignBegin=98730|AlignEnd=98940|Gloss=fetch
 3	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	comp:obj/m	_	AlignBegin=98940|AlignEnd=99150|Gloss===3Sing.Acc|wordform==tə
-4	gòʃíː	gòs	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Prs	2	mod@ethic	_	AlignBegin=99150|AlignEnd=99255|Gloss=3SingGen.Remt|wordform=gòʃ
-5	káwêy	káwêy	ADV	_	_	2	mod	_	AlignBegin=99360|AlignEnd=99570|Gloss=merely
-6	tòː	tòː	PART	_	PartType=Disc	7	discourse	_	AlignBegin=101120|AlignEnd=101364|Gloss=well
-7	myáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=1	17	mod	_	AlignBegin=101364|AlignEnd=101608|Copula=No|Gloss=1Sing.Cnd=|wordform=myáː
-8	ɲóm	ɲom	VERB	_	_	7	comp:aux	_	AlignBegin=101608|AlignEnd=101852|Gloss=take
-9	dàt	dàt	NOUN	_	_	8	comp:obj	_	AlignBegin=101852|AlignEnd=101933|Gloss=bottom-of-beer|SpaceAfter=No|wordform=dàɗèʃíː
-10	-eʃ	-es	DET	_	Definite=Def	9	det/m	_	AlignBegin=101852|AlignEnd=101933|Gloss=Def|SpaceAfter=No|wordform=-es
-11	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	9	det/m	_	AlignBegin=101852|AlignEnd=101933|Gloss=Remt
-12	ɗan	ɗan	SCONJ	_	_	9	mod@relcl	_	AlignBegin=102096|AlignEnd=102340|Gloss=that
-13	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	12	comp	_	AlignBegin=102340|AlignEnd=102584|Copula=No|Gloss=3Sing.Aor=|wordform=á
-14	nâː	naː	VERB	_	_	13	comp:aux	_	AlignBegin=102584|AlignEnd=102828|Gloss=become
-15	ɗup-ɗúp	ɗup-ɗúp	ADV	_	_	14	comp:pred	_	AlignBegin=102828|AlignEnd=102950|Gloss=very_thick|Ideo=Yes|SpaceAfter=No|wordform=ɗup-ɗúɓíː
-16	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	15	det/m	_	AlignBegin=102828|AlignEnd=102950|Gloss=Remt|Ideo=Yes
-17	ma=	a=	AUX	_	Number=Sing|Person=1|Tense=Fut	0	root	_	AlignBegin=104280|AlignEnd=104504|Copula=No|Gloss=1Sing.Fut=|wordform=ma
-18	ʃin	ʃin	VERB	_	_	17	comp:aux	_	AlignBegin=104504|AlignEnd=104616|Gloss=send|SpaceAfter=No
-19	-íː	-íː	ADV	_	_	18	mod/m	_	Accomplished=Yes|AlignBegin=104504|AlignEnd=104616|Gloss=Acpl
-20	ɗa	ɗa	ADP	_	_	18	comp:obl	_	AlignBegin=104728|AlignEnd=104952|Gloss=at
-21	wúɗi	wût	NOUN	_	Definite=Ind	20	comp	_	AlignBegin=104952|AlignEnd=105064|Gloss=N-Ind|wordform=wûɗ
-22	//	//	PUNCT	_	_	17	punct	_	AlignBegin=105176|AlignEnd=105400|Gloss=PUNCT
+4	gòs	goos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	comp@ethic	_	AlignBegin=99150|AlignEnd=99255|Gloss=3SingGen|wordform=gòʃ
+5	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	4	det/m	_	AlignBegin=99150|AlignEnd=99255|Gloss=Remt|wordform=gòʃ
+6	káwêy	káwêy	ADV	_	_	2	mod	_	AlignBegin=99360|AlignEnd=99570|Gloss=merely
+7	tòː	tòː	PART	_	PartType=Disc	8	discourse	_	AlignBegin=101120|AlignEnd=101364|Gloss=well
+8	myáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=1	18	mod	_	AlignBegin=101364|AlignEnd=101608|Copula=No|Gloss=1Sing.Cnd=|wordform=myáː
+9	ɲóm	ɲom	VERB	_	_	8	comp:aux	_	AlignBegin=101608|AlignEnd=101852|Gloss=take
+10	dàt	dàt	NOUN	_	_	9	comp:obj	_	AlignBegin=101852|AlignEnd=101933|Gloss=bottom-of-beer|SpaceAfter=No|wordform=dàɗèʃíː
+11	-eʃ	-es	DET	_	Definite=Def	10	det/m	_	AlignBegin=101852|AlignEnd=101933|Gloss=Def|SpaceAfter=No|wordform=-es
+12	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	10	det/m	_	AlignBegin=101852|AlignEnd=101933|Gloss=Remt
+13	ɗan	ɗan	SCONJ	_	_	10	mod@relcl	_	AlignBegin=102096|AlignEnd=102340|Gloss=that
+14	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	13	comp	_	AlignBegin=102340|AlignEnd=102584|Copula=No|Gloss=3Sing.Aor=|wordform=á
+15	nâː	naː	VERB	_	_	14	comp:aux	_	AlignBegin=102584|AlignEnd=102828|Gloss=become
+16	ɗup-ɗúp	ɗup-ɗúp	ADV	_	_	15	comp:pred	_	AlignBegin=102828|AlignEnd=102950|Gloss=very_thick|Ideo=Yes|SpaceAfter=No|wordform=ɗup-ɗúɓíː
+17	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	16	det/m	_	AlignBegin=102828|AlignEnd=102950|Gloss=Remt|Ideo=Yes
+18	ma=	a=	AUX	_	Number=Sing|Person=1|Tense=Fut	0	root	_	AlignBegin=104280|AlignEnd=104504|Copula=No|Gloss=1Sing.Fut=|wordform=ma
+19	ʃin	ʃin	VERB	_	_	18	comp:aux	_	AlignBegin=104504|AlignEnd=104616|Gloss=send|SpaceAfter=No
+20	-íː	-íː	ADV	_	_	19	mod/m	_	Accomplished=Yes|AlignBegin=104504|AlignEnd=104616|Gloss=Acpl
+21	ɗa	ɗa	ADP	_	_	19	comp:obl	_	AlignBegin=104728|AlignEnd=104952|Gloss=at
+22	wúɗi	wût	NOUN	_	Definite=Ind	21	comp	_	AlignBegin=104952|AlignEnd=105064|Gloss=N-Ind|wordform=wûɗ
+23	//	//	PUNCT	_	_	18	punct	_	AlignBegin=105176|AlignEnd=105400|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_01_Beer_054-054
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_01_Beer-brewing.WAV
@@ -834,7 +835,7 @@
 10-11	gaːtə	_	_	_	_	_	_	_	_
 10	gaː	gaː	VERB	_	_	9	comp:aux	_	AlignBegin=202737|AlignEnd=202825|Gloss=keep
 11	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	10	comp:obj/m	_	AlignBegin=202825|AlignEnd=202914|Gloss===3Sing.Acc|wordform==tə
-12	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	mod@ethic	_	AlignBegin=202914|AlignEnd=203091|Gloss=3SingGen
+12	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	comp@ethic	_	AlignBegin=202914|AlignEnd=203091|Gloss=3SingGen
 13	ká	ká	ADP	_	_	10	comp:obl	_	AlignBegin=203091|AlignEnd=203268|Gloss=at
 14	laŋʃí	laŋsə́	ADV	_	_	13	comp	_	AlignBegin=203091|AlignEnd=203268|Gloss=aside
 15	//	//	PUNCT	_	_	6	punct	_	AlignBegin=203445|AlignEnd=203620|Gloss=PUNCT
@@ -1110,7 +1111,7 @@
 # text_ortho = pìtó gòs kyáː bə́ʃíː ɗan kə ɲóm kə ʃíníː bàː ka man kastə ɗǎŋ //
 # text_en = As for "pito”, when you heat it up, when you remove it and pour it [into the big pot], you don't mix it again.
 1	pìtó	pìtó	NOUN	_	_	13	dislocated@T	_	AlignBegin=271380|AlignEnd=271648|Gloss=beer_sp
-2	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	mod@ethic	_	AlignBegin=271648|AlignEnd=271916|Gloss=3SingGen
+2	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	comp@ethic	_	AlignBegin=271648|AlignEnd=271916|Gloss=3SingGen
 3	kyáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=2	13	mod	_	AlignBegin=271916|AlignEnd=272184|Copula=No|Gloss=2Sing.Cnd=|wordform=kyáː
 4	bəs	bəs	VERB	_	_	3	comp:aux	_	AlignBegin=272184|AlignEnd=272318|Gloss=boil|SpaceAfter=No|wordform=bə́ʃíː
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=272184|AlignEnd=272318|Gloss=Acpl
@@ -1188,7 +1189,7 @@
 # text_ortho = pìtó gòs kəndí //
 # text_en = That's "pito”.
 1	pìtó	pìtó	NOUN	_	_	0	root	_	AlignBegin=288020|AlignEnd=288205|Gloss=beer_sp
-2	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	mod@ethic	_	AlignBegin=288205|AlignEnd=288390|Gloss=3SingGen
+2	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	comp@ethic	_	AlignBegin=288205|AlignEnd=288390|Gloss=3SingGen
 3	kəndí	kən	PART	_	PartType=Foc|Polarity=Neg	1	discourse@foc	_	AlignBegin=288390|AlignEnd=288575|Gloss=Neg
 4	//	//	PUNCT	_	_	1	punct	_	AlignBegin=288575|AlignEnd=288760|Gloss=PUNCT
 
@@ -1208,7 +1209,7 @@
 8-9	gáːtə	_	_	_	_	_	_	_	_
 8	gáː	gaː	VERB	_	_	7	comp:aux	_	AlignBegin=291923|AlignEnd=292015|Gloss=leave
 9	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	8	comp:obj/m	_	AlignBegin=292015|AlignEnd=292106|Gloss===3Sing.Acc|wordform==tə
-10	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	8	mod@ethic	_	AlignBegin=292106|AlignEnd=292289|Gloss=3SingGen
+10	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	8	comp@ethic	_	AlignBegin=292106|AlignEnd=292289|Gloss=3SingGen
 11	ɗa	ɗa	ADP	_	_	8	comp:obl	_	AlignBegin=292289|AlignEnd=292472|Gloss=at
 12	ɗûːn	ɗúːni	ADV	_	_	11	mod	_	AlignBegin=292472|AlignEnd=292655|Gloss=here
 13	//	//	PUNCT	_	_	2	punct	_	AlignBegin=292655|AlignEnd=292840|Gloss=PUNCT
@@ -1233,7 +1234,7 @@
 # text_ortho = pìtó gòs séː kyáː bə́ʃíː ɣəndá kə ngaː //
 # text_en = As for pito, you just heat it up and then you remove it.
 1	pìtó	pìtó	NOUN	_	_	8	dislocated@T	_	AlignBegin=296100|AlignEnd=296313|Gloss=beer_sp
-2	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	mod@ethic	_	AlignBegin=296313|AlignEnd=296526|Gloss=3SingGen
+2	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	comp@ethic	_	AlignBegin=296313|AlignEnd=296526|Gloss=3SingGen
 3	séː	séː	SCONJ	_	_	8	mod	_	AlignBegin=296526|AlignEnd=296739|Gloss=only_if
 4	kyáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=2	3	comp	_	AlignBegin=296739|AlignEnd=296952|Copula=No|Gloss=2Sing.Cnd=|wordform=kyáː
 5	bəs	bəs	VERB	_	_	4	comp:aux	_	AlignBegin=296952|AlignEnd=297058|Gloss=boil|SpaceAfter=No|wordform=bə́ʃíː
@@ -1297,7 +1298,7 @@
 2-3	kaːstə	_	_	_	_	_	_	_	_
 2	kaːs	kaːs	VERB	_	_	1	comp:aux	_	AlignBegin=310884|AlignEnd=310986|Gloss=cook
 3	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	comp:obj/m	_	AlignBegin=310986|AlignEnd=311088|Gloss===3Sing.Acc|wordform==tə
-4	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	mod@ethic	_	AlignBegin=311088|AlignEnd=311292|Gloss=3SingGen
+4	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	comp@ethic	_	AlignBegin=311088|AlignEnd=311292|Gloss=3SingGen
 5	tə́	tə́	ADP	_	_	2	comp:obl	_	AlignBegin=311760|AlignEnd=311973|Gloss=with
 6	wâkɗùːy	wâkɗùː	NOUN	_	Definite=Ind	5	comp	_	AlignBegin=311973|AlignEnd=312079|Gloss=malted_guineacorn-Ind|wordform=wâkɗùː
 7	ɣá	ká	ADP	_	_	2	mod	_	AlignBegin=312186|AlignEnd=312399|Gloss=at
@@ -1481,42 +1482,43 @@
 # sent_id = SAY_BC_READ_01_Beer_174-181
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_01_Beer-brewing.WAV
 # sent_timecode = 360200, 374140
-# text = wúl mwàːɣə̀n gòs kyáː ɲíːtə gòʃíː káwêy kóː nə wâː íri gyòː ɗan giní aː kə ɲíː aː kə mán kaːʃíː kə ɗíːltə wuɣn á ɓâníː //
+# text = wúl mwàːɣə̀n gòs kyáː= ɲíːtə gòs -íː káwêy kóː nə wâː íri gyòː ɗan giní aː kə= ɲíː aː kə= mán kaːs-íː kə= ɗíːltə wuɣn á= ɓán-íː //
 # text_ortho = wúl mwàːɣə̀n gòs kyáː ɲíːtə gòʃíː káwêy kóː nə wâː íri gyòː ɗan giní aː kə ɲíː aː kə mán kaːʃíː kə ɗíːltə wuɣn á ɓâníː //
 # text_en = As for sweet gruel, just after grinding it, any kind of guinea-corn, like this one, after you have ground it, you mix it, you sift powdered roots into it, and that's it.
-1	wúl	wûl	NOUN	_	Definite=Cons	20	dislocated@T	_	AlignBegin=360200|AlignEnd=360475|Gloss=gruel.Cons
+1	wúl	wûl	NOUN	_	Definite=Cons	21	dislocated@T	_	AlignBegin=360200|AlignEnd=360475|Gloss=gruel.Cons
 2	mwàːɣə̀n	mwaː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	1	compound	_	AlignBegin=360475|AlignEnd=360613|Gloss=be_sweet-Vnoun|Raising=Yes|wordform=mwaː
-3	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	mod@ethic	_	AlignBegin=360750|AlignEnd=361025|Gloss=3SingGen
-4	kyáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=2	20	mod	_	AlignBegin=362120|AlignEnd=362368|Copula=No|Gloss=2Sing.Cnd=|wordform=kyáː
+3	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	comp@ethic	_	AlignBegin=360750|AlignEnd=361025|Gloss=3SingGen
+4	kyáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=2	21	mod	_	AlignBegin=362120|AlignEnd=362368|Copula=No|Gloss=2Sing.Cnd=|wordform=kyáː
 5-6	ɲíːtə	_	_	_	_	_	_	_	_
 5	ɲíː	ɲiː	VERB	_	_	4	comp:aux	_	AlignBegin=362368|AlignEnd=362492|Gloss=grind
 6	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	comp:obj/m	_	AlignBegin=362492|AlignEnd=362616|Gloss===3Sing.Acc|wordform==tə
-7	gòʃíː	gòs	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|Person=3|PronType=Prs	5	mod@ethic	_	AlignBegin=362616|AlignEnd=362740|Gloss=3SingGen.Remt|wordform=gòʃ
-8	káwêy	káwêy	ADV	_	_	5	mod	_	AlignBegin=362864|AlignEnd=363112|Gloss=merely
-9	kóː	kóː	SCONJ	_	_	20	mod	_	AlignBegin=364300|AlignEnd=364460|Gloss=UNIV
-10	nə	nə	AUX	_	_	9	comp	_	AlignBegin=364460|AlignEnd=364620|Copula=Yes|Gloss=be.Ident
-11	wâː	wâː	NOUN	_	_	10	comp:pred	_	AlignBegin=364620|AlignEnd=364780|Gloss=guineacorn
-12	íri	íri	NOUN	_	_	11	mod	_	AlignBegin=364780|AlignEnd=364940|Gloss=type
-13	gyòː	gyòː	DET	_	PronType=Int	12	det	_	AlignBegin=364940|AlignEnd=365100|Gloss=UNIV
-14	ɗan	ɗan	ADP	_	_	11	mod	_	AlignBegin=367220|AlignEnd=367385|Gloss=like
-15	giní	giní	PRON	_	Deixis=Prox|PronType=Dem	14	comp	_	AlignBegin=367385|AlignEnd=367550|Gloss=Prox
-16	aː	aː	PART	_	PartType=Ill	9	mod	_	AlignBegin=367550|AlignEnd=367715|Gloss=Int|wordform=a:
-17	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	20	mod	_	AlignBegin=368840|AlignEnd=368990|Copula=No|Gloss=2Sing.Aor=|wordform=kə
-18	ɲíː	ɲiː	VERB	_	_	17	comp:aux	_	AlignBegin=368990|AlignEnd=369140|Gloss=grind
-19	aː	aː	PART	_	PartType=Ill	18	mod	_	AlignBegin=369140|AlignEnd=369290|Gloss=Int|wordform=a:
-20	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	0	root	_	AlignBegin=370400|AlignEnd=370580|Copula=No|Gloss=2Sing.Aor=|wordform=kə
-21	mán	máni	VERB	_	_	20	comp:aux	_	AlignBegin=370580|AlignEnd=370760|Gloss=come
-22	kaːs	kaːs	VERB	_	_	21	compound:svc	_	AlignBegin=370760|AlignEnd=370850|Gloss=cook|SpaceAfter=No|wordform=kaːʃíː
-23	-íː	-íː	ADV	_	_	22	mod/m	_	Accomplished=Yes|AlignBegin=370760|AlignEnd=370850|Gloss=Acpl
-24	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	21	parataxis@conj	_	AlignBegin=372520|AlignEnd=372700|Copula=No|Gloss=2Sing.Aor=|wordform=kə
-25-26	ɗíːltə	_	_	_	_	_	_	_	_
-25	ɗíːl	ɗiːl	VERB	_	_	24	comp:aux	_	AlignBegin=372700|AlignEnd=372790|Gloss=sift
-26	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	25	comp:obj@R/m	_	AlignBegin=372790|AlignEnd=372880|Gloss===3Sing.Acc|wordform==tə
-27	wuɣn	wuɣn	NOUN	_	_	25	comp:obj@T	_	AlignBegin=372880|AlignEnd=373060|Gloss=medicine
-28	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	25	parataxis@conj	_	AlignBegin=373800|AlignEnd=373913|Copula=No|Gloss=3Sing.Aor=|wordform=á
-29	ɓán	ɓán	VERB	_	_	28	comp:aux	_	AlignBegin=373913|AlignEnd=373969|Gloss=finish|SpaceAfter=No|wordform=ɓâníː
-30	-íː	-íː	ADV	_	_	29	mod/m	_	Accomplished=Yes|AlignBegin=373913|AlignEnd=373969|Gloss=Acpl
-31	//	//	PUNCT	_	_	20	punct	_	AlignBegin=374026|AlignEnd=374140|Gloss=PUNCT
+7	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	comp@ethic	_	AlignBegin=362616|AlignEnd=362740|Gloss=3SingGen|wordform=gòʃ
+8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	7	det/m	_	AlignBegin=362616|AlignEnd=362740|Gloss=Remt
+9	káwêy	káwêy	ADV	_	_	5	mod	_	AlignBegin=362864|AlignEnd=363112|Gloss=merely
+10	kóː	kóː	SCONJ	_	_	21	mod	_	AlignBegin=364300|AlignEnd=364460|Gloss=UNIV
+11	nə	nə	AUX	_	_	10	comp	_	AlignBegin=364460|AlignEnd=364620|Copula=Yes|Gloss=be.Ident
+12	wâː	wâː	NOUN	_	_	11	comp:pred	_	AlignBegin=364620|AlignEnd=364780|Gloss=guineacorn
+13	íri	íri	NOUN	_	_	12	mod	_	AlignBegin=364780|AlignEnd=364940|Gloss=type
+14	gyòː	gyòː	DET	_	PronType=Int	13	det	_	AlignBegin=364940|AlignEnd=365100|Gloss=UNIV
+15	ɗan	ɗan	ADP	_	_	12	mod	_	AlignBegin=367220|AlignEnd=367385|Gloss=like
+16	giní	giní	PRON	_	Deixis=Prox|PronType=Dem	15	comp	_	AlignBegin=367385|AlignEnd=367550|Gloss=Prox
+17	aː	aː	PART	_	PartType=Ill	10	mod	_	AlignBegin=367550|AlignEnd=367715|Gloss=Int|wordform=a:
+18	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	21	mod	_	AlignBegin=368840|AlignEnd=368990|Copula=No|Gloss=2Sing.Aor=|wordform=kə
+19	ɲíː	ɲiː	VERB	_	_	18	comp:aux	_	AlignBegin=368990|AlignEnd=369140|Gloss=grind
+20	aː	aː	PART	_	PartType=Ill	19	mod	_	AlignBegin=369140|AlignEnd=369290|Gloss=Int|wordform=a:
+21	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	0	root	_	AlignBegin=370400|AlignEnd=370580|Copula=No|Gloss=2Sing.Aor=|wordform=kə
+22	mán	máni	VERB	_	_	21	comp:aux	_	AlignBegin=370580|AlignEnd=370760|Gloss=come
+23	kaːs	kaːs	VERB	_	_	22	compound:svc	_	AlignBegin=370760|AlignEnd=370850|Gloss=cook|SpaceAfter=No|wordform=kaːʃíː
+24	-íː	-íː	ADV	_	_	23	mod/m	_	Accomplished=Yes|AlignBegin=370760|AlignEnd=370850|Gloss=Acpl
+25	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	22	parataxis@conj	_	AlignBegin=372520|AlignEnd=372700|Copula=No|Gloss=2Sing.Aor=|wordform=kə
+26-27	ɗíːltə	_	_	_	_	_	_	_	_
+26	ɗíːl	ɗiːl	VERB	_	_	25	comp:aux	_	AlignBegin=372700|AlignEnd=372790|Gloss=sift
+27	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	26	comp:obj@R/m	_	AlignBegin=372790|AlignEnd=372880|Gloss===3Sing.Acc|wordform==tə
+28	wuɣn	wuɣn	NOUN	_	_	26	comp:obj@T	_	AlignBegin=372880|AlignEnd=373060|Gloss=medicine
+29	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	26	parataxis@conj	_	AlignBegin=373800|AlignEnd=373913|Copula=No|Gloss=3Sing.Aor=|wordform=á
+30	ɓán	ɓán	VERB	_	_	29	comp:aux	_	AlignBegin=373913|AlignEnd=373969|Gloss=finish|SpaceAfter=No|wordform=ɓâníː
+31	-íː	-íː	ADV	_	_	30	mod/m	_	Accomplished=Yes|AlignBegin=373913|AlignEnd=373969|Gloss=Acpl
+32	//	//	PUNCT	_	_	21	punct	_	AlignBegin=374026|AlignEnd=374140|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_01_Beer_182-183
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_01_Beer-brewing.WAV
@@ -1546,7 +1548,7 @@
 2-3	ɬyátə	_	_	_	_	_	_	_	_
 2	ɬyá	ɬya	VERB	_	_	1	comp:aux	_	AlignBegin=379425|AlignEnd=379557|Gloss=drink
 3	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	comp:obj/m	_	AlignBegin=379557|AlignEnd=379690|Gloss===3Sing.Acc|wordform==tə
-4	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	mod@ethic	_	AlignBegin=379690|AlignEnd=379955|Gloss=3SingGen
+4	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	comp@ethic	_	AlignBegin=379690|AlignEnd=379955|Gloss=3SingGen
 5	vyàːɣə̀n	vyaː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	2	mod	_	AlignBegin=380840|AlignEnd=380984|Gloss=spend_day-Vnoun|wordform=vyaː
 6	nàmbóŋ	nàmbóŋ	NUM	_	_	5	det	_	AlignBegin=381127|AlignEnd=381414|Gloss=one
 7	//	//	PUNCT	_	_	1	punct	_	AlignBegin=381127|AlignEnd=381414|Gloss=PUNCT
