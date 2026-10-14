@@ -2161,9 +2161,9 @@
 4	<	<	PUNCT	_	_	2	punct	_	AlignBegin=239220|AlignEnd=239340|Gloss=PUNCT
 5	átâ=	TaYiNa=	AUX	_	Number=Sing|Person=3|Tense=Past	0	root	_	AlignBegin=239340|AlignEnd=239528|Copula=No|Gloss=3Sing.RemPast=|PastType=Remt|wordform=átâ
 6-7	wuləm	_	_	_	_	_	_	_	_
-6	wul	wul	VERB	_	_	5	comp:aux	_	AlignBegin=239528|AlignEnd=239622|Gloss=say
+6	wul	wul	VERB	_	_	8	reparandum	_	AlignBegin=239528|AlignEnd=239622|Gloss=say
 7	=əm	=mə	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	comp:obj@R/m	_	AlignBegin=239622|AlignEnd=239716|Gloss==1Sing.Acc
-8	átâ=	TaYiNa=	AUX	_	Number=Sing|Person=3|Tense=Past	6	conj:dicto	_	AlignBegin=239716|AlignEnd=239910|Copula=No|Gloss=3Sing.RemPast=|PastType=Remt|wordform=átâ
+8	átâ=	TaYiNa=	AUX	_	Number=Sing|Person=3|Tense=Past	5	comp:aux	_	AlignBegin=239716|AlignEnd=239910|Copula=No|Gloss=3Sing.RemPast=|PastType=Remt|wordform=átâ
 9-10	wuləm	_	_	_	_	_	_	_	_
 9	wul	wul	VERB	_	_	8	comp:aux	_	AlignBegin=239910|AlignEnd=240007|Gloss=say
 10	=əm	=mə	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	comp:obj@R/m	_	AlignBegin=240007|AlignEnd=240104|Gloss==1Sing.Acc
