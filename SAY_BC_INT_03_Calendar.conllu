@@ -810,7 +810,7 @@
 15-16	zaktíː	_	_	_	_	_	_	_	_
 15	zak	zak	VERB	_	_	13	comp:aux	_	AlignBegin=135188|AlignEnd=135455|Gloss=celebrate|wordform=*zak-íː
 16	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	15	comp:obj/m	_	AlignBegin=135277|AlignEnd=135366|Gloss==3Sing.Acc|SpaceAfter=No|wordform=-tíː
-17	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	16	mod/m	_	Accomplished=Yes|AlignBegin=135277|AlignEnd=135366|Gloss=Acpl
+17	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	15	mod/m	_	Accomplished=Yes|AlignBegin=135277|AlignEnd=135366|Gloss=Acpl
 18	<	<	PUNCT	_	_	8	punct	_	AlignBegin=135455|AlignEnd=135720|Gloss=PUNCT
 19	yâːn	yáːni	PRON	_	Number=Sing|Person=3|PronType=Prs	20	subj	_	AlignBegin=135860|AlignEnd=136022|Gloss=3Sing.IDP
 20	yi	yi	VERB	_	_	7	comp	_	AlignBegin=136022|AlignEnd=136184|Gloss=be
@@ -2269,7 +2269,7 @@
 3-4	gàːtíː	_	_	_	_	_	_	_	_
 3	gàː	gaː	VERB	_	_	2	comp:aux	_	AlignBegin=351710|AlignEnd=351885|Gloss=leave|wordform=*gàː-íː
 4	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	comp:obj/m	_	AlignBegin=351768|AlignEnd=351826|Gloss==3Sing.Acc|SpaceAfter=No|wordform=-tíː
-5	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	mod/m	_	Accomplished=Yes|AlignBegin=351768|AlignEnd=351826|Gloss=Acpl
+5	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	mod/m	_	Accomplished=Yes|AlignBegin=351768|AlignEnd=351826|Gloss=Acpl
 6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=351885|AlignEnd=352060|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_03_Calendar_234-236
@@ -2800,7 +2800,7 @@
 2-3	kâtkə́y	_	_	_	_	_	_	_	_
 2	kât	kat	VERB	_	_	1	comp:aux	_	AlignBegin=443593|AlignEnd=443849|Gloss=drive_away|wordform=*kât-íː
 3	-kə	-kə	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	2	comp:obj/m	_	AlignBegin=443678|AlignEnd=443763|Gloss==2Sing.Acc|SpaceAfter=No|wordform=-kíː
-4	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	3	mod/m	_	Accomplished=Yes|AlignBegin=443678|AlignEnd=443763|Gloss=Acpl
+4	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	2	mod/m	_	Accomplished=Yes|AlignBegin=443678|AlignEnd=443763|Gloss=Acpl
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=443849|AlignEnd=444106|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_03_Calendar_295-295
@@ -2983,7 +2983,7 @@
 9-10	kâtkíː	_	_	_	_	_	_	_	_
 9	kât	kat	VERB	_	_	8	comp:aux	_	AlignBegin=468862|AlignEnd=469043|Gloss=drive_away|wordform=*kât-íː
 10	-kə	-kə	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	9	comp:obj/m	_	AlignBegin=468922|AlignEnd=468982|Gloss==2Sing.Acc|SpaceAfter=No|wordform=-kíː
-11	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	10	mod/m	_	Accomplished=Yes|AlignBegin=468922|AlignEnd=468982|Gloss=Acpl
+11	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	9	mod/m	_	Accomplished=Yes|AlignBegin=468922|AlignEnd=468982|Gloss=Acpl
 12	yáːwón	yáːwón	NOUN	_	_	9	mod	_	AlignBegin=469043|AlignEnd=469224|Gloss=today
 13	//=	//=	PUNCT	_	_	14	punct	_	AlignBegin=469224|AlignEnd=469405|Gloss=PUNCT
 14	ɬə	ɬə	VERB	_	_	9	parataxis	_	AlignBegin=469405|AlignEnd=469623|Gloss=go|Imperative=Yes|SpaceAfter=No|wordform=ɬíː

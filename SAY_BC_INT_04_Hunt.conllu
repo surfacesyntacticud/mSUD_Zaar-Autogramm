@@ -459,7 +459,7 @@
 12-13	ngâptíː	_	_	_	_	_	_	_	_
 12	ngâp	ngap	VERB	_	_	11	comp:aux	_	AlignBegin=80956|AlignEnd=81222|Gloss=catch
 13	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	12	comp:obj/m	_	AlignBegin=81045|AlignEnd=81134|Gloss==3Sing.Acc|SpaceAfter=No|wordform=-tíː
-14	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	13	mod/m	_	Accomplished=Yes|AlignBegin=81045|AlignEnd=81134|Gloss=Acpl
+14	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	12	mod/m	_	Accomplished=Yes|AlignBegin=81045|AlignEnd=81134|Gloss=Acpl
 15	<	<	PUNCT	_	_	9	punct	_	AlignBegin=81222|AlignEnd=81489|Gloss=PUNCT
 16	tôː	tòː	PART	_	PartType=Disc	19	discourse	_	AlignBegin=81680|AlignEnd=81860|Gloss=well
 17	ɬûː	ɬûː	NOUN	_	_	19	dislocated@comp	_	AlignBegin=81860|AlignEnd=82040|Gloss=animal|SpaceAfter=No|wordform=ɬúːy
@@ -474,7 +474,7 @@
 25-26	mbwaːtíː	_	_	_	_	_	_	_	_
 25	mbwaː	mbwaː	VERB	_	_	24	compound:svc	_	AlignBegin=83120|AlignEnd=83300|Gloss=shoot
 26	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	25	comp:obj/m	_	AlignBegin=83180|AlignEnd=83240|Gloss==3Sing.Acc|SpaceAfter=No|wordform=-tíː
-27	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	26	mod/m	_	Accomplished=Yes|AlignBegin=83180|AlignEnd=83240|Gloss=Acpl
+27	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	25	mod/m	_	Accomplished=Yes|AlignBegin=83180|AlignEnd=83240|Gloss=Acpl
 28	//	//	PUNCT	_	_	19	punct	_	AlignBegin=83300|AlignEnd=83476|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_04_Hunt_059-062
@@ -712,7 +712,7 @@
 7-8	ɗûtíː	_	_	_	_	_	_	_	_
 7	ɗû	ɗu	VERB	_	_	6	comp:aux	_	AlignBegin=122017|AlignEnd=122162|Gloss=kill
 8	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	7	comp:obj/m	_	AlignBegin=122065|AlignEnd=122113|Gloss==3Sing.Acc|SpaceAfter=No|wordform=-tíː
-9	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	8	mod/m	_	Accomplished=Yes|AlignBegin=122065|AlignEnd=122113|Gloss=Acpl
+9	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	7	mod/m	_	Accomplished=Yes|AlignBegin=122065|AlignEnd=122113|Gloss=Acpl
 10	//	//	PUNCT	_	_	6	punct	_	AlignBegin=122162|AlignEnd=122306|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_04_Hunt_085-085
@@ -826,7 +826,7 @@
 2-3	bàsáɣtíː	_	_	_	_	_	_	_	_
 2	bàsák	basák	VERB	_	_	1	comp:aux	_	AlignBegin=133420|AlignEnd=133640|Gloss=scatter
 3	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	comp:obj/m	_	AlignBegin=133493|AlignEnd=133566|Gloss==3Sing.Acc|SpaceAfter=No|wordform=-tíː
-4	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	mod/m	_	Accomplished=Yes|AlignBegin=133493|AlignEnd=133566|Gloss=Acpl
+4	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	mod/m	_	Accomplished=Yes|AlignBegin=133493|AlignEnd=133566|Gloss=Acpl
 5	káwêy	káwêy	ADV	_	_	2	mod	_	AlignBegin=133640|AlignEnd=133860|Gloss=merely
 6	//	//	PUNCT	_	_	1	punct	_	AlignBegin=133860|AlignEnd=134079|Gloss=PUNCT
 
@@ -1217,7 +1217,7 @@
 3-4	ɬettíː	_	_	_	_	_	_	_	_
 3	ɬet	ɬet	VERB	_	_	2	comp:aux	_	AlignBegin=189544|AlignEnd=189746|Gloss=carve
 4	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	comp:obj/m	_	AlignBegin=189611|AlignEnd=189678|Gloss==3Sing.Acc|SpaceAfter=No|wordform=-tíː
-5	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	mod/m	_	Accomplished=Yes|AlignBegin=189611|AlignEnd=189678|Gloss=Acpl
+5	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	mod/m	_	Accomplished=Yes|AlignBegin=189611|AlignEnd=189678|Gloss=Acpl
 6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=189746|AlignEnd=189949|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_04_Hunt_140-140
@@ -1231,7 +1231,7 @@
 2-3	ɬettíː	_	_	_	_	_	_	_	_
 2	ɬet	ɬet	VERB	_	_	1	comp:aux	_	AlignBegin=191382|AlignEnd=191604|Gloss=carve
 3	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	comp:obj/m	_	AlignBegin=191456|AlignEnd=191530|Gloss==3Sing.Acc|SpaceAfter=No|wordform=-tíː
-4	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	mod/m	_	Accomplished=Yes|AlignBegin=191456|AlignEnd=191530|Gloss=Acpl
+4	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	mod/m	_	Accomplished=Yes|AlignBegin=191456|AlignEnd=191530|Gloss=Acpl
 5	ɗan	ɗan	ADP	_	_	2	comp:obl	_	AlignBegin=191604|AlignEnd=191826|Gloss=like
 6	pîːs	pîːs	NOUN	_	_	5	comp	_	AlignBegin=191826|AlignEnd=192048|Gloss=arrow
 7	ʧík	ʧík	ADV	_	_	2	mod	_	AlignBegin=192048|AlignEnd=192159|Gloss=thus|SpaceAfter=No|wordform=ʧǐː
@@ -1418,7 +1418,7 @@
 18-19	ɗùtíː	_	_	_	_	_	_	_	_
 18	ɗù	ɗu	VERB	_	_	15	comp	_	AlignBegin=215865|AlignEnd=216100|Gloss=kill
 19	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	18	comp:obj/m	_	AlignBegin=215943|AlignEnd=216021|Gloss==3Sing.Acc|SpaceAfter=No|wordform=-tíː
-20	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	19	mod/m	_	Accomplished=Yes|AlignBegin=215943|AlignEnd=216021|Gloss=Acpl
+20	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	18	mod/m	_	Accomplished=Yes|AlignBegin=215943|AlignEnd=216021|Gloss=Acpl
 21	//	//	PUNCT	_	_	7	punct	_	AlignBegin=216100|AlignEnd=216332|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_04_Hunt_156-156

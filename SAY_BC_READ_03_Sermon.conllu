@@ -63,7 +63,7 @@
 8	waskát	waskát	VERB	_	_	7	comp:aux	_	AlignBegin=17124|AlignEnd=17368|Gloss=find_out
 9	vwàː	vwàː	NOUN	_	Definite=Cons	8	comp:obj	_	AlignBegin=17368|AlignEnd=17449|Gloss=belly-Cons|wordform=vwàːwòʃíː
 10	-wòs	-wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	mod:poss/m	_	AlignBegin=17368|AlignEnd=17449|Gloss==SingGen|SpaceAfter=No
-11	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	10	det/m	_	AlignBegin=17368|AlignEnd=17449|Gloss=Remt
+11	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	9	det/m	_	AlignBegin=17368|AlignEnd=17449|Gloss=Remt
 12	ɗeɓát	ɗeɓát	ADV	_	_	8	mod	_	AlignBegin=17612|AlignEnd=17856|Gloss=all|Ideo=Yes
 13	//	//	PUNCT	_	_	2	punct	_	AlignBegin=17856|AlignEnd=18100|Gloss=PUNCT
 
@@ -356,7 +356,7 @@
 12-13	lîːtíː	_	_	_	_	_	_	_	_
 12	lîː	liː	VERB	_	_	11	comp:aux	_	AlignBegin=97960|AlignEnd=98027|Gloss=overpower
 13	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	12	comp:obj/m	_	AlignBegin=98027|AlignEnd=98094|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
-14	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	13	mod/m	_	Accomplished=Yes|AlignBegin=98027|AlignEnd=98094|Gloss=Acpl
+14	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	12	mod/m	_	Accomplished=Yes|AlignBegin=98027|AlignEnd=98094|Gloss=Acpl
 15	bùŋgə̀n	búŋ	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	16	subj	_	AlignBegin=99120|AlignEnd=99232|Gloss=suffer-Vnoun|wordform=búŋ
 16	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	5	comp	_	AlignBegin=99345|AlignEnd=99570|Copula=No|Gloss=3Sing.Fut=|wordform=wò
 17-18	tutə	_	_	_	_	_	_	_	_
@@ -1061,7 +1061,7 @@
 4-5	lìːtíː	_	_	_	_	_	_	_	_
 4	lìː	liː	VERB	_	_	3	comp:aux	_	AlignBegin=317161|AlignEnd=317223|Gloss=overpower
 5	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	comp:obj/m	_	AlignBegin=317223|AlignEnd=317285|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
-6	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	mod/m	_	Accomplished=Yes|AlignBegin=317223|AlignEnd=317285|Gloss=Acpl
+6	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	mod/m	_	Accomplished=Yes|AlignBegin=317223|AlignEnd=317285|Gloss=Acpl
 7	hŋ́	hŋ́	PART	_	PartType=Neg|Polarity=Neg	1	mod	_	AlignBegin=317348|AlignEnd=317535|Gloss=Neg
 8	//	//	PUNCT	_	_	1	punct	_	AlignBegin=317535|AlignEnd=317720|Gloss=PUNCT
 
@@ -1280,7 +1280,7 @@
 5	ndə̀ːr	ndəːr	VERB	_	_	4	comp:aux	_	AlignBegin=374245|AlignEnd=374510|Gloss=repair
 6	tsə́tngə̂n	tsə́tn	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	5	comp:obj	_	AlignBegin=374510|AlignEnd=374576|Gloss=sit-Vnoun|wordform=tsə́tngə́nwôpíː
 7	-wopm	-wopm	PRON	_	Case=Gen|ExtPos=NOUN|Number=Plur|Person=1|PronType=Prs|VerbForm=Vnoun	6	mod:poss/m	_	AlignBegin=374510|AlignEnd=374576|Gloss==Plur|SpaceAfter=No
-8	-íː	-íː	DET	_	Deixis=Remt|ExtPos=NOUN|PronType=Dem|VerbForm=Vnoun	7	det/m	_	AlignBegin=374510|AlignEnd=374576|Gloss=Remt
+8	-íː	-íː	DET	_	Deixis=Remt|ExtPos=NOUN|PronType=Dem|VerbForm=Vnoun	6	det/m	_	AlignBegin=374510|AlignEnd=374576|Gloss=Remt
 9	nə́	nə́	ADP	_	ExtPos=SCONJ	5	mod	_	AlignBegin=375920|AlignEnd=376080|Gloss=for|Idiom=Yes
 10	dur	dur	NOUN	_	_	9	comp	_	AlignBegin=376080|AlignEnd=376240|Gloss=cause|InIdiom=Yes
 11	ɣə́	kə́	ADP	_	Case=Gen	10	mod	_	AlignBegin=376240|AlignEnd=376400|Gloss=of|InIdiom=Yes
@@ -1330,7 +1330,7 @@
 1	ngàɓə́n	ngap	VERB	_	Number=Plur	0	root	_	AlignBegin=389120|AlignEnd=389278|Gloss=hold.Plur.Juss|wordform=ngap
 2	ngə́tn	ngə́tn	NOUN	_	Definite=Cons	1	comp:obj	_	AlignBegin=389437|AlignEnd=389543|Gloss=thing-Cons|wordform=ngə́tnwâːníː
 3	-wâːn	-wâːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	2	mod:poss/m	_	AlignBegin=389437|AlignEnd=389543|Gloss==PlurGen|SpaceAfter=No|wordform=ngə́tnwâːníː
-4	-íː	-íː	DET	_	_	3	det/m	_	AlignBegin=389437|AlignEnd=389543|Gloss=Remt
+4	-íː	-íː	DET	_	_	2	det/m	_	AlignBegin=389437|AlignEnd=389543|Gloss=Remt
 5	ɗan	ɗan	SCONJ	_	_	2	mod@relcl	_	AlignBegin=389754|AlignEnd=390071|Gloss=that
 6	kə́=	á=	AUX	_	Number=Plur|Person=2|Tense=Pres	5	comp	_	AlignBegin=390071|AlignEnd=390388|Copula=No|Gloss=2Plur.Aor=|wordform=kə́
 7	yǐr	yír	VERB	_	_	6	comp:aux	_	AlignBegin=390388|AlignEnd=390705|Gloss=have
@@ -1564,7 +1564,7 @@
 20-21	dur	_	_	_	_	_	_	_	_
 20	dur	dur	NOUN	_	Definite=Cons	19	comp	_	AlignBegin=473667|AlignEnd=473763|Gloss=cause-Cons|wordform=dǔrwâːníː
 21	-wâːn	-waːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	20	mod:poss/m	_	AlignBegin=473667|AlignEnd=473763|Gloss==PlurGen|SpaceAfter=No
-22	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	21	det/m	_	AlignBegin=473667|AlignEnd=473763|Gloss=Remt
+22	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	20	det/m	_	AlignBegin=473667|AlignEnd=473763|Gloss=Remt
 23	//	//	PUNCT	_	_	1	punct	_	AlignBegin=473954|AlignEnd=474240|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_03_Sermon_213-214
@@ -1696,7 +1696,7 @@
 40	tə́	tə́	CCONJ	_	_	41	cc	_	AlignBegin=513060|AlignEnd=513367|Gloss=with
 41	mə́ndə	mə́ndə	NOUN	_	_	39	conj:coord	_	AlignBegin=513367|AlignEnd=513444|Gloss=spirit.Plur.Cons
 42	-wos	-wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	41	mod:poss/m	_	AlignBegin=513367|AlignEnd=513444|Gloss==3Sing.Gen|SpaceAfter=No
-43	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	42	det/m	_	AlignBegin=513367|AlignEnd=513444|Gloss=Remt
+43	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	41	det/m	_	AlignBegin=513367|AlignEnd=513444|Gloss=Remt
 44	//	//	PUNCT	_	_	2	punct	_	AlignBegin=513674|AlignEnd=513980|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_03_Sermon_229-230
@@ -2075,7 +2075,7 @@
 27-28	ɲolárɣə́y	_	_	_	_	_	_	_	_
 27	ɲolár	ɲol	VERB	_	_	26	compound:svc	_	AlignBegin=632980|AlignEnd=633028|Gloss=go_out-Cau|wordform=ɲol
 28	-kə	-kə	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	27	comp:obj/m	_	AlignBegin=633076|AlignEnd=633124|Gloss==2Sing.OBJ|SpaceAfter=No|wordform=-ɣə́y
-29	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	28	mod/m	_	Accomplished=Yes|AlignBegin=633076|AlignEnd=633124|Gloss=Acpl
+29	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	27	mod/m	_	Accomplished=Yes|AlignBegin=633076|AlignEnd=633124|Gloss=Acpl
 30	//	//	PUNCT	_	_	25	punct	_	AlignBegin=633170|AlignEnd=633360|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_03_Sermon_288-293
@@ -2103,7 +2103,7 @@
 16-17	kattíː	_	_	_	_	_	_	_	_
 16	kat	kat	VERB	_	_	15	comp:aux	_	AlignBegin=640152|AlignEnd=640229|Gloss=drive_away
 17	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	16	comp:obj/m	_	AlignBegin=640229|AlignEnd=640306|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
-18	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	17	mod/m	_	Accomplished=Yes|AlignBegin=640229|AlignEnd=640306|Gloss=Acpl
+18	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	16	mod/m	_	Accomplished=Yes|AlignBegin=640229|AlignEnd=640306|Gloss=Acpl
 19	ɗa	ɗa	ADP	_	_	16	comp:obl	_	AlignBegin=640384|AlignEnd=640616|Gloss=at
 20	də̀nês	də̀n	NOUN	_	Definite=Def	19	comp	_	AlignBegin=640616|AlignEnd=640732|Gloss=compound|wordform=də̀n
 21	yáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=3	15	conj:coord	_	AlignBegin=641860|AlignEnd=642120|Copula=No|Gloss=3Sing.Cnd=|wordform=yáː

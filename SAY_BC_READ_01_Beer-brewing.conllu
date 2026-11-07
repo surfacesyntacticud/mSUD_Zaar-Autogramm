@@ -248,7 +248,7 @@
 4-5	ɲiːtíː	_	_	_	_	_	_	_	_
 4	ɲiː	ɲiː	VERB	_	_	3	compound:svc	_	AlignBegin=57321|AlignEnd=57488|Gloss=grind
 5	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	comp:obj/m	_	AlignBegin=57488|AlignEnd=57572|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
-6	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	mod/m	_	Accomplished=Yes|AlignBegin=57488|AlignEnd=57572|Gloss=Acpl
+6	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	mod/m	_	Accomplished=Yes|AlignBegin=57488|AlignEnd=57572|Gloss=Acpl
 7	ɣá	ká	ADP	_	_	4	mod	_	AlignBegin=58420|AlignEnd=58593|Gloss=at
 8	vuːn	vuːn	NOUN	_	_	7	comp	_	AlignBegin=58593|AlignEnd=58766|Gloss=grinding_stone
 9	//	//	PUNCT	_	_	2	punct	_	AlignBegin=58766|AlignEnd=58940|Gloss=PUNCT
@@ -570,7 +570,7 @@
 4-5	gâːʃíː	_	_	_	_	_	_	_	_
 4	gâː	gaː	VERB	_	_	3	comp:aux	_	AlignBegin=135919|AlignEnd=136112|Gloss=put
 5	-ʃí	-ʃí	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	comp:obj/m	_	AlignBegin=136112|AlignEnd=136208|Gloss==3Plur.OBJ|SpaceAfter=No|wordform=-ʃíː
-6	-íː	-íː	ADV	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	5	mod/m	_	Accomplished=Yes|AlignBegin=136112|AlignEnd=136208|Gloss=Acpl
+6	-íː	-íː	ADV	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	mod/m	_	Accomplished=Yes|AlignBegin=136112|AlignEnd=136208|Gloss=Acpl
 7	sə̂m	sə̂m	NOUN	_	_	9	subj	_	AlignBegin=137460|AlignEnd=137560|Gloss=name.Cons|wordform=sə̂mwôs
 8	-wos	-wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	mod:poss/m	_	AlignBegin=137460|AlignEnd=137560|Gloss==3Sing.Gen
 9	tu	tu	ADP	_	_	0	root	_	AlignBegin=137660|AlignEnd=137860|Gloss=Qot|Quote=Yes
@@ -647,7 +647,7 @@
 2-3	ʃíʃyártíː	_	_	_	_	_	_	_	_
 2	ʃíʃyár	ʃiʃí	VERB	_	Voice=Cau	1	comp:aux	_	AlignBegin=153260|AlignEnd=153320|Gloss=get_up.Cau|wordform=ʃiʃí
 3	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	comp:obj/m	_	AlignBegin=153380|AlignEnd=153440|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
-4	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	mod/m	_	Accomplished=Yes|AlignBegin=153380|AlignEnd=153440|Gloss=Acpl
+4	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	mod/m	_	Accomplished=Yes|AlignBegin=153380|AlignEnd=153440|Gloss=Acpl
 5	kandá	kəndá	ADV	_	_	2	mod	_	AlignBegin=154820|AlignEnd=155025|Gloss=then
 6	ma=	a=	AUX	_	Number=Sing|Person=1|Tense=Fut	5	comp:cleft	_	AlignBegin=155025|AlignEnd=155230|Copula=No|Gloss=1Sing.Fut=|wordform=ma
 7-8	bəstə	_	_	_	_	_	_	_	_
@@ -1165,7 +1165,7 @@
 9-10	ʃintíː	_	_	_	_	_	_	_	_
 9	ʃin	ʃin	VERB	_	_	8	comp:aux	_	AlignBegin=284220|AlignEnd=284293|Gloss=pour
 10	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	9	comp:obj/m	_	AlignBegin=284293|AlignEnd=284366|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
-11	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	10	mod/m	_	Accomplished=Yes|AlignBegin=284293|AlignEnd=284366|Gloss=Acpl
+11	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	9	mod/m	_	Accomplished=Yes|AlignBegin=284293|AlignEnd=284366|Gloss=Acpl
 12	mari	mari	NOUN	_	_	9	mod	_	AlignBegin=284440|AlignEnd=284660|Gloss=different
 13	//	//	PUNCT	_	_	2	punct	_	AlignBegin=284660|AlignEnd=284880|Gloss=PUNCT
 
@@ -1265,7 +1265,7 @@
 12-13	ɬə́ːrtíː	_	_	_	_	_	_	_	_
 12	ɬə́ːr	ɬə	VERB	_	_	11	comp:aux	_	AlignBegin=305620|AlignEnd=305675|Gloss=go.Cau|wordform=ɬə
 13	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	12	comp:obj@T/m	_	AlignBegin=305730|AlignEnd=305785|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
-14	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	13	mod/m	_	Accomplished=Yes|AlignBegin=305730|AlignEnd=305785|Gloss=Acpl
+14	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	12	mod/m	_	Accomplished=Yes|AlignBegin=305730|AlignEnd=305785|Gloss=Acpl
 15	ínʤì	ínʤì	NOUN	_	_	12	comp:obj@G	_	AlignBegin=305840|AlignEnd=306060|Gloss=grinding_engine
 16	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	12	parataxis@conj	_	AlignBegin=307140|AlignEnd=307285|Copula=No|Gloss=2Sing.Aor=|wordform=kə
 17	ɬə́n	ɬə́n	VERB	_	_	16	comp:aux	_	AlignBegin=307285|AlignEnd=307357|Gloss=go_and
@@ -1319,7 +1319,7 @@
 5-6	ɲíːtíː	_	_	_	_	_	_	_	_
 5	ɲíː	ɲiː	VERB	_	_	4	comp:aux	_	AlignBegin=315580|AlignEnd=315663|Gloss=grind
 6	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	comp:obj/m	_	AlignBegin=315663|AlignEnd=315746|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
-7	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	6	mod/m	_	Accomplished=Yes|AlignBegin=315663|AlignEnd=315746|Gloss=Acpl
+7	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	5	mod/m	_	Accomplished=Yes|AlignBegin=315663|AlignEnd=315746|Gloss=Acpl
 8	tôː	tòː	PART	_	PartType=Disc	9	discourse	_	AlignBegin=317240|AlignEnd=317477|Gloss=well
 9	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	0	root	_	AlignBegin=317477|AlignEnd=317714|Copula=No|Gloss=2Sing.Aor=|wordform=kə
 10	mbur	mbur	VERB	_	_	9	comp:aux	_	AlignBegin=317714|AlignEnd=317951|Gloss=mix

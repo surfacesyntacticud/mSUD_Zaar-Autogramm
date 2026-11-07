@@ -795,7 +795,7 @@
 4-5	ɗumíː	_	_	_	_	_	_	_	_
 4	ɗu	ɗu	VERB	_	_	3	comp:aux	_	AlignBegin=110124|AlignEnd=110221|Gloss=beat
 5	-mí	-mí	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	4	comp:obj/m	_	AlignBegin=110221|AlignEnd=110318|Gloss==1Plur.Acc|SpaceAfter=No|wordform=-míː
-6	-íː	-íː	ADV	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	mod/m	_	Accomplished=Yes|AlignBegin=110221|AlignEnd=110318|Gloss=Acpl
+6	-íː	-íː	ADV	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	4	mod/m	_	Accomplished=Yes|AlignBegin=110221|AlignEnd=110318|Gloss=Acpl
 7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=110415|AlignEnd=110704|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_02_085-085
@@ -2511,7 +2511,7 @@
 6	sə̂m	sə̂m	NOUN	_	Definite=Cons	5	comp:obj	_	AlignBegin=332295|AlignEnd=332357|Gloss=name-Cons|wordform=sə́mwôpíː
 7	-wòp	-wopm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	mod:poss/m	_	AlignBegin=332295|AlignEnd=332357|Gloss==1PlurGen|SpaceAfter=No
 8-9	-íː	_	_	_	_	_	_	_	_
-8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	7	det/m	_	AlignBegin=332295|AlignEnd=332357|Gloss=Remt
+8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	6	det/m	_	AlignBegin=332295|AlignEnd=332357|Gloss=Remt
 9	oː	oː	PART	_	PartType=Ill	1	mod	_	AlignBegin=332481|AlignEnd=332541|Gloss=Emph
 10	//	//	PUNCT	_	_	1	punct	_	AlignBegin=332541|AlignEnd=332786|Gloss=PUNCT
 
@@ -3069,7 +3069,7 @@
 13-14	ʃînʃíː	_	_	_	_	_	_	_	_
 13	ʃîn	ʃin	VERB	_	_	12	compound:svc	_	AlignBegin=416885|AlignEnd=416947|Gloss=send|wordform=*ʃîn-íː
 14	-ʃí	-ʃí	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	comp:obj@T/m	_	AlignBegin=416947|AlignEnd=417009|Gloss==3Plur.Acc|SpaceAfter=No|wordform=-ʃíː
-15	-íː	-íː	ADV	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	mod/m	_	Accomplished=Yes|AlignBegin=416947|AlignEnd=417009|Gloss=Acpl
+15	-íː	-íː	ADV	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	mod/m	_	Accomplished=Yes|AlignBegin=416947|AlignEnd=417009|Gloss=Acpl
 16	bə̀ndə̀	bə̀ndə̀	NOUN	_	_	13	comp:obj@L	_	AlignBegin=417070|AlignEnd=417255|Gloss=water_pot
 17	//=	//=	PUNCT	_	_	18	punct	_	AlignBegin=417255|AlignEnd=417440|Gloss=PUNCT
 18	mə́=	á=	AUX	_	Number=Plur|Person=1|Tense=Pres	12	parataxis@conj	_	AlignBegin=417440|AlignEnd=417625|Copula=No|Gloss=1Plur.Aor=|wordform=mə́
@@ -3350,7 +3350,7 @@
 18-19	fîtíː	_	_	_	_	_	_	_	_
 18	fî	fi	VERB	_	_	17	comp:aux	_	AlignBegin=449337|AlignEnd=449395|Gloss=do
 19	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	18	comp:obj/m	_	AlignBegin=449395|AlignEnd=449453|Gloss==3Sing.Acc|SpaceAfter=No|wordform=-tíː
-20	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	19	mod/m	_	Accomplished=Yes|AlignBegin=449395|AlignEnd=449453|Gloss=Acpl
+20	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	18	mod/m	_	Accomplished=Yes|AlignBegin=449395|AlignEnd=449453|Gloss=Acpl
 21	//	//	PUNCT	_	_	17	punct	_	AlignBegin=449512|AlignEnd=449687|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_02_356-356
