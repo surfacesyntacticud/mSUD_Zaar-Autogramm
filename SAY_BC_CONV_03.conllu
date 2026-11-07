@@ -5632,7 +5632,7 @@
 23	nə	nə	AUX	_	_	17	comp	_	AlignBegin=639135|AlignEnd=639291|Copula=Yes|Gloss=be.Ident
 24	Maláːri	Malâːr	PROPN	_	_	23	comp:pred	_	AlignBegin=639291|AlignEnd=639447|Gloss=Malar|wordform=*Maláːri-íː
 25	-gòpm	-gopm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	24	mod:poss/m	_	AlignBegin=639447|AlignEnd=639551|Gloss=1PlurGen|wordform=gòpm
-26	-íː	-íː	DET	_	Deixis=Remt	24	det/m	_	AlignBegin=639447|AlignEnd=639551|Gloss=-Remt
+26	-íː	-íː	DET	_	Deixis=Remt	24	det/m	_	AlignBegin=639447|AlignEnd=639551|Gloss=Remt
 27	ɣəndá	kən	PART	_	PartType=Foc	23	discourse@foc	_	AlignBegin=639551|AlignEnd=639603|Gloss=Emph
 28	>+	>+	PUNCT	_	_	29	punct	_	AlignBegin=639603|AlignEnd=639759|Gloss=PUNCT
 29	tə̀tà=	TaYiNa=	AUX	_	Number=Plur|Person=3|Tense=Past	23	comp:cleft	_	AlignBegin=639759|AlignEnd=639915|Copula=No|Gloss=3Plur.RemPast=|PastType=Remt|wordform=tə̀tà

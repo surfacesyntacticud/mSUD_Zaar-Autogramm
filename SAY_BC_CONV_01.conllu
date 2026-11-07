@@ -2203,7 +2203,7 @@
 5	kap	kap	VERB	_	_	4	comp:aux	_	AlignBegin=244978|AlignEnd=245054|Gloss=take|wordform=*kap-íː
 6	-mí	-mí	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	comp:obj/m	_	AlignBegin=245054|AlignEnd=245130|Gloss==1Plur.Acc|wordform==mí
 7	-wôp	-wôp	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	mod@ethic	_	AlignBegin=245054|AlignEnd=245130|Gloss=-1PlurGen|wordform==mí
-8	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	6	det	_	AlignBegin=245054|AlignEnd=245130|Gloss=-Remt|wordform==mí
+8	-íː	-íː	ADV	_	_	5	mod	_	AlignBegin=245054|AlignEnd=245130|Gloss=Acpl
 9	bát	bát	DET	_	_	5	mod	_	AlignBegin=245284|AlignEnd=245400|Gloss=all
 10	-wôpm	-wopm	PRON	_	Case=Gen|Number=Plur|Person=1	9	mod:poss	_	AlignBegin=245284|AlignEnd=245400|Gloss=-1PlurGen|wordform=bát
 11	tə́	tə́	ADP	_	_	5	comp:obl	_	AlignBegin=245517|AlignEnd=245750|Gloss=with
@@ -2556,11 +2556,11 @@
 9	gyaː	gyaː	DET	_	Number=Plur	10	det	_	AlignBegin=285541|AlignEnd=285863|Gloss=3Plur
 10	bàːba	bàːba	NOUN	_	_	17	subj	_	AlignBegin=285863|AlignEnd=286185|Gloss=father|wordform=*bàːba-íː
 11	-gòs	-gos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	mod:poss/m	_	AlignBegin=286185|AlignEnd=286346|Gloss=3SingGen|wordform=gòs
-12	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	10	det/m	_	AlignBegin=286185|AlignEnd=286346|Gloss=-Remt
+12	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	10	det/m	_	AlignBegin=286185|AlignEnd=286346|Gloss=Remt
 13	tə́	tə́	CCONJ	_	_	14	cc	_	AlignBegin=286507|AlignEnd=286776|Gloss=with
 14	màːma	màːma	NOUN	_	_	10	conj:coord	_	AlignBegin=286776|AlignEnd=287045|Gloss=mother|wordform=*màːma-íː
 15	-gòs	-gos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	14	mod:poss/m	_	AlignBegin=287045|AlignEnd=287180|Gloss=3SingGen|wordform=gòs
-16	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	14	det/m	_	AlignBegin=287045|AlignEnd=287180|Gloss=-Remt
+16	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	14	det/m	_	AlignBegin=287045|AlignEnd=287180|Gloss=Remt
 17	tàː=	áː=	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	comp	_	AlignBegin=287315|AlignEnd=287536|Copula=No|Gloss=3Plur.Perf=|wordform=tàː
 18	məs	məs	VERB	_	Number=Plur	17	comp:aux	_	AlignBegin=287536|AlignEnd=287646|Gloss=die-Plur|SpaceAfter=No|wordform=mə́ːʃíː
 19	-íː	-íː	ADV	_	Number=Plur	18	mod/m	_	Accomplished=Yes|AlignBegin=287536|AlignEnd=287646|Gloss=Acpl
@@ -2586,7 +2586,7 @@
 11	àmán	àmáː	CCONJ	_	_	15	cc	_	AlignBegin=290250|AlignEnd=290449|Gloss=but
 12	bàːba	bàːba	NOUN	_	_	15	dislocated@subj	_	AlignBegin=290449|AlignEnd=290648|Gloss=father|wordform=*bàːba-íː
 13	-gòs	-gos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	12	mod:poss/m	_	AlignBegin=290648|AlignEnd=290748|Gloss=3SingGen|wordform=gòs
-14	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	12	det/m	_	AlignBegin=290648|AlignEnd=290748|Gloss=-Remt
+14	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	12	det/m	_	AlignBegin=290648|AlignEnd=290748|Gloss=Remt
 15	ʧi	yi	AUX	_	Number=Sing|Person=3	8	conj:coord	_	AlignEnd=291046|Copula=Yes|Gloss=3Sing.be.Loc|wordform=yi
 16	ɗa	ɗa	PART	_	PartType=Adv	15	compound:prt	_	AlignBegin=291046|AlignEnd=291245|Gloss=at
 17	//	//	PUNCT	_	_	8	punct	_	AlignBegin=291245|AlignEnd=291445|Gloss=PUNCT
