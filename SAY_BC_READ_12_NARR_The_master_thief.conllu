@@ -2113,7 +2113,7 @@
 7	//	//	PUNCT	_	_	1	punct	_	AlignBegin=474035|AlignEnd=474280|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_12_NAR_The_master_thief_232-236
-# text = ɗan á tûlíː séy á lǎːp náːtʃí kéndə̂r ɗeɓát séy gəmʃíwâːʃíː ʧǎː ŋâl ɗa masallaːʧês //
+# text = ɗan á= tul-íː séy á= lǎːp náːtʃí kéndə̂r ɗeɓát séy gəmʃíwâːʃíː -íː ʧǎː= ŋâl ɗa masallaːʧi-es //
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_12_NARR_The_master_thief.WAV
 # sent_timecode = 475640, 485840
 # text_ortho = ɗan á tûlíː séy á lǎːp náːtʃí kéndə̂r ɗeɓát séy gəmʃíwâːʃíː ʧǎː ŋâl ɗa masallaːʧês //
@@ -2134,8 +2134,8 @@
 13-15	gəmʃíwâːʃíː	_	_	_	_	_	_	_	_
 13	gəm	gəm	VERB	_	_	7	conj:coord	_	AlignBegin=482447|AlignEnd=482529|Gloss=release
 14	-ʃí	-ʃí	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	comp:obj/m	_	AlignBegin=482529|AlignEnd=482611|Gloss==3Plur.Acc|wordform==ʃí
-15	waːsəŋ	waːsəŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	14	comp@ethic	_	AlignBegin=482529|AlignEnd=482611|Gloss=3PlurGen|SpaceAfter=No|wordform=wâːʃíː
-16	-íː	-íː	ADV	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	15	mod/m	_	Accomplished=Yes|AlignBegin=482529|AlignEnd=482611|Gloss=Acpl
+15	 -waːsəŋ	waːsəŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	13	comp@ethic/m	_	AlignBegin=482529|AlignEnd=482611|Gloss=3PlurGen|SpaceAfter=No|wordform=wâːʃíː
+16	-íː	-íː	ADV	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	13	mod/m	_	Accomplished=Yes|AlignBegin=482529|AlignEnd=482611|Gloss=Acpl
 17	ʧǎː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=3	13	parataxis@mod	_	AlignBegin=484600|AlignEnd=484848|Copula=No|Gloss=3Plur.Imp=|wordform=ʧǎː
 18	ŋâl	ŋal	VERB	_	_	17	comp:aux	_	AlignBegin=484848|AlignEnd=485096|Gloss=walk_around
 19	ɗa	ɗa	ADP	_	_	18	comp:obl	_	AlignBegin=485096|AlignEnd=485344|Gloss=at

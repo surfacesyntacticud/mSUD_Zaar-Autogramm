@@ -245,7 +245,7 @@
 # sent_id = SAY_BC_READ_03_Sermon_024-034
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_03_Sermon.WAV
 # sent_timecode = 60380, 81560
-# text = gyaːgón ʧǎː- wûm tu tàː- ndár kaːra -waːsəŋ də̀n gyáː gùŋ kóː də̀n ɗə́ːlɣə́n vìː ka- yel tá- kǐːr móɬâk tá- ŋal lə̂p láwya ɗan wò- somʃíɗa tə̀- ɲólárʃíwáːsə̀ŋə́y -íː nə́ dur ɣə́ tu gyaːgón ʧǎː- ɮə̌ːr á kén gùŋ kóː á lə̂p ɗə́ːlɣə́n vìː //
+# text = gyaːgón ʧǎː= wûm tu tàː= ndár kaːra -waːsəŋ də̀n gyáː gùŋ kóː də̀n ɗə́ːlɣə́n vìː ka= yel tá= kǐːr móɬâk tá= ŋal lə̂p láwya ɗan wò= somʃíɗa tə̀= ɲólárʃíwáːsə̀ŋə́y -íː nə́ dur ɣə́ tu gyaːgón ʧǎː= ɮə̌ːr á kén gùŋ kóː á lə̂p ɗə́ːlɣə́n vìː //
 # text_ortho = gyaːgón ʧǎː wûm tu tàː ndár kaːráwáːsə̀ŋ də̀n gyaː gùŋ kóː də̀n ɗə́ːlɣə́n vìː ka yel tá kǐːr móɬâk tá ŋâl lə̂p láwya ɗan wò somʃí ɗa tə̀ ɲólárʃíwáːsə̀ŋə́y nə́ dur ɣə́ tu gyaːgón ʧǎː ɮə̌ːr á kén gùŋ kóː á lə̂p ɗə́ːlɣə́n vìː //
 # text_en = Others, if they hear that they have been taken to the chief's house or to the traditional court, you will see them rushing to look for a lawyer that will help them that will take them out of it, because some of them sit by the chief or where trials are held.
 1	gyaːgón	gón	PRON	_	Definite=Spec|Number=Plur	16	dislocated@top	_	AlignBegin=60380|AlignEnd=60596|Gloss=Spec
@@ -282,8 +282,8 @@
 31-33	ɲólárʃíwáːsə̀ŋə́y	_	_	_	_	_	_	_	_
 31	ɲólár	ɲol	VERB	_	_	30	comp:aux	_	AlignBegin=73460|AlignEnd=73532|Gloss=go_out-Cau|wordform=ɲol
 32	-ʃí	-ʃí	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	31	comp:obj/m	_	AlignBegin=73604|AlignEnd=73676|Gloss==3Plur.Acc|wordform==ʃí
-33	waːsəŋ	waːsəŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	32	comp@ethic	_	AlignBegin=73604|AlignEnd=73676|Gloss=3Plur.Gen|SpaceAfter=No|wordform=wáːsə̀ŋə́y
-34	-íː	-íː	ADV	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	33	mod/m	_	Accomplished=Yes|AlignBegin=73604|AlignEnd=73676|Gloss=Acpl
+33	-waːsəŋ	waːsəŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	31	comp@ethic/m	_	AlignBegin=73604|AlignEnd=73676|Gloss=3Plur.Gen|SpaceAfter=No|wordform=wáːsə̀ŋə́y
+34	-íː	-íː	ADV	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	31	mod/m	_	Accomplished=Yes|AlignBegin=73604|AlignEnd=73676|Gloss=Acpl
 35	nə́	nə́	ADP	_	ExtPos=SCONJ	19	mod	_	AlignBegin=75080|AlignEnd=75232|Gloss=for|Idiom=Yes
 36	dur	dur	NOUN	_	_	35	comp	_	AlignBegin=75232|AlignEnd=75384|Gloss=cause|InIdiom=Yes
 37	ɣə́	kə́	ADP	_	Case=Gen	36	mod	_	AlignBegin=75384|AlignEnd=75536|Gloss=of|InIdiom=Yes
