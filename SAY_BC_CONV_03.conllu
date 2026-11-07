@@ -939,7 +939,7 @@
 9	laːtsə́	laːtsə́	VERB	_	_	8	comp:aux	_	AlignBegin=130804|Gloss=pass_by|SpaceAfter=No|wordform=làːtsêʃíː
 10	-eʃ	-es	DET	_	Definite=Def	9	det/m	_	AlignBegin=130804|Gloss=Def|SpaceAfter=No|wordform=-es
 11	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	9	det/m	_	AlignBegin=130804|Gloss=Remt
-12	kàm	kàm	PART	_	PartType=Disc	8	discourse	_	AlignBegin=131053|AlignEnd=131302|Gloss=indeed
+12	kàm	kàm	PART	_	PartType=Disc	9	discourse	_	AlignBegin=131053|AlignEnd=131302|Gloss=indeed
 13	dón	dón	SCONJ	_	_	9	mod	_	AlignBegin=131302|AlignEnd=131551|Gloss=because
 14	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	17	parataxis@discourse	_	AlignBegin=131551|AlignEnd=131807|Copula=No|Gloss=2Sing.Aor=|wordform=kə
 15	yísə́n	yisə́n	VERB	_	_	14	comp:aux	_	AlignBegin=131807|AlignEnd=132062|Gloss=know

@@ -593,14 +593,15 @@
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_NARR_01.WAV
 # sent_timecode = 68932, 70187
-# text = á- ʧî á- wûm myákkə́nèʃ -íː //
+# text = á= ʧî á= wûm myakkə̂n-eʃ-íː //
 # text_ortho = á ʧî á wûm myákkə́nèʃíː //
 # text_en = He swallowed and enjoyed the sweetness.
 1	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=68932|AlignEnd=69141|Copula=No|Gloss=3Sing.Aor=|wordform=á
 2	ʧî	ʧi	VERB	_	_	1	comp:aux	_	AlignBegin=69141|AlignEnd=69350|Gloss=eat
 3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	2	parataxis@conj	_	AlignBegin=69350|AlignEnd=69559|Copula=No|Gloss=3Sing.Aor=|wordform=á
 4	wûm	wum	VERB	_	_	3	comp:aux	_	AlignBegin=69559|AlignEnd=69768|Gloss=feel|wordform=*wûm-íː
-5	myak	myak	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp:obj	_	AlignBegin=69768|AlignEnd=69977|Gloss=sweet.Vnoun|SpaceAfter=No|wordform=myákkə́nèʃíː
+5-6	myákkə́nèʃíː	_	_	_	_	_	_	_	_
+5	myakkə̂n	myak	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp:obj	_	AlignBegin=69768|AlignEnd=69977|Gloss=sweet.Vnoun|SpaceAfter=No|wordform=myákkə́nèʃíː
 6	-eʃ	-es	DET	_	Definite=Def|ExtPos=NOUN|VerbForm=Vnoun	5	det/m	_	AlignBegin=69768|AlignEnd=69977|Gloss=Def|SpaceAfter=No|wordform=-es
 7	-íː	-íː	DET	_	Deixis=Remt|ExtPos=NOUN|PronType=Dem|VerbForm=Vnoun	5	det/m	_	AlignBegin=69768|AlignEnd=69977|Gloss=Remt
 8	//	//	PUNCT	_	_	1	punct	_	AlignBegin=69977|AlignEnd=70187|Gloss=PUNCT

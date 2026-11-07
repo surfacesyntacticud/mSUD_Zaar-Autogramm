@@ -2202,7 +2202,7 @@
 4	yǎː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=3	3	comp	_	AlignBegin=244672|AlignEnd=244978|Copula=No|Gloss=3Plur.Imp=|wordform=yǎː
 5	kap	kap	VERB	_	_	4	comp:aux	_	AlignBegin=244978|AlignEnd=245054|Gloss=take|wordform=*kap-íː
 6	-mí	-mí	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	comp:obj/m	_	AlignBegin=245054|AlignEnd=245130|Gloss==1Plur.Acc|wordform==mí
-7	-wôp	-wôp	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	mod@ethic	_	AlignBegin=245054|AlignEnd=245130|Gloss=-1PlurGen|wordform==mí
+7	-wôp	-wôp	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	comp@ethic/m	_	AlignBegin=245054|AlignEnd=245130|Gloss=-1PlurGen|wordform==mí
 8	-íː	-íː	ADV	_	_	5	mod	_	AlignBegin=245054|AlignEnd=245130|Gloss=Acpl
 9	bát	bát	DET	_	_	5	dislocated@comp	_	AlignBegin=245284|AlignEnd=245400|Gloss=all
 10	-wôpm	-wopm	PRON	_	Case=Gen|Number=Plur|Person=1	9	mod:poss	_	AlignBegin=245284|AlignEnd=245400|Gloss=-1PlurGen|wordform=bát
