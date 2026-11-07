@@ -423,7 +423,7 @@
 5	nə	nə	AUX	_	_	4	comp	_	AlignBegin=76816|AlignEnd=77033|Copula=Yes|Gloss=be.Ident
 6	gwàːn	gwàːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	5	comp:pred	_	AlignBegin=77033|AlignEnd=77250|Gloss=2PlurGen
 7	hŋ́	hŋ́	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	AlignBegin=77250|AlignEnd=77467|Gloss=Neg
-8	gəndí	kən	PART	_	PartType=Foc	5	discourse@foc	_	AlignBegin=77467|AlignEnd=77684|Gloss=be
+8	gəndí	kən	PART	_	PartType=Foc	5	discourse@foc	_	AlignBegin=77467|AlignEnd=77684|Gloss=Emph
 9	//	//	PUNCT	_	_	1	punct	_	AlignBegin=77684|AlignEnd=77900|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_03_Calendar_046-046
@@ -437,7 +437,7 @@
 2	nə	nə	AUX	_	_	0	root	_	AlignBegin=78685|AlignEnd=78830|Copula=Yes|Gloss=be.Ident
 3	kə́	kə́	ADP	_	Case=Gen	2	comp:pred	_	AlignBegin=78830|AlignEnd=78975|Gloss=of
 4	Ngas	Ngas	PROPN	_	_	3	comp	_	AlignBegin=78975|AlignEnd=79120|Gloss=Angas
-5	kəndí	kən	PART	_	PartType=Foc	4	discourse@foc	_	AlignBegin=79120|AlignEnd=79265|Gloss=be
+5	kəndí	kən	PART	_	PartType=Foc	4	discourse@foc	_	AlignBegin=79120|AlignEnd=79265|Gloss=Emph
 6	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	2	comp:cleft	_	AlignBegin=79265|AlignEnd=79410|Copula=No|Gloss=2Sing.Aor=|wordform=kə
 7	mbíː	mbiː	VERB	_	_	6	comp:aux	_	AlignBegin=79410|AlignEnd=79555|Gloss=take
 8	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	7	parataxis@conj	_	AlignBegin=79555|AlignEnd=79700|Copula=No|Gloss=2Sing.Aor=|wordform=kə
@@ -460,7 +460,7 @@
 5-6	ɓasmí	_	_	_	_	_	_	_	_
 5	ɓas	ɓas	ADP	_	_	4	comp:pred	_	AlignBegin=81312|AlignEnd=81424|Gloss=at
 6	-mí	-mí	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	comp/m	_	AlignBegin=81424|AlignEnd=81535|Gloss==1Plur.Acc|wordform==mí
-7	ɣə̂n	kən	PART	_	PartType=Foc	6	discourse@foc	_	AlignBegin=81535|AlignEnd=81757|Gloss=be
+7	ɣə̂n	kən	PART	_	PartType=Foc	6	discourse@foc	_	AlignBegin=81535|AlignEnd=81757|Gloss=Emph
 8	ʧík	ʧík	ADV	_	_	4	mod	_	AlignBegin=82935|AlignEnd=83059|Gloss=like_that|SpaceAfter=No|wordform=ʧiɣə́y
 9	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	8	det/m	_	AlignBegin=82935|AlignEnd=83059|Gloss=Remt
 10	//	//	PUNCT	_	_	4	punct	_	AlignBegin=83183|AlignEnd=83430|Gloss=PUNCT
@@ -491,7 +491,7 @@
 # text_en = Yes,for us?
 1	èː	èː	INTJ	_	_	2	discourse	_	AlignBegin=85440|AlignEnd=85625|Gloss=yes
 2	myàːní	myàːáːni	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	AlignBegin=85625|AlignEnd=85810|Gloss=1Plur.IDP
-3	ɣə̂n	kən	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=85810|AlignEnd=85995|Gloss=be
+3	ɣə̂n	kən	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=85810|AlignEnd=85995|Gloss=Emph
 4	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=85995|AlignEnd=86180|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_03_Calendar_051-052
@@ -536,7 +536,7 @@
 3	nə́	nə́	ADP	_	_	2	mod	_	AlignBegin=90099|AlignEnd=90340|Gloss=for
 4	bə̀ki	bə̀ki	NOUN	_	_	3	comp	_	AlignBegin=90800|AlignEnd=90993|Gloss=celebration|SpaceAfter=No|wordform=bə̀kês
 5	-es	-es	DET	_	Definite=Def	4	det/m	_	AlignBegin=90800|AlignEnd=90993|Gloss=Def
-6	kəndí	kən	PART	_	PartType=Foc	4	discourse@foc	_	AlignBegin=90993|AlignEnd=91186|Gloss=be
+6	kəndí	kən	PART	_	PartType=Foc	4	discourse@foc	_	AlignBegin=90993|AlignEnd=91186|Gloss=Emph
 7-8	ŋǎːn	_	_	_	_	_	_	_	_
 7	ŋaː	aː	PART	_	PartType=Ill	2	mod	_	AlignBegin=91186|AlignEnd=91379|Gloss=Int
 8	hŋ́	hŋ́	PART	_	PartType=Neg|Polarity=Neg	1	mod	_	AlignBegin=91186|AlignEnd=91379|Gloss=Neg
@@ -661,7 +661,7 @@
 7	tu	tu	SCONJ	_	_	6	comp:pred	_	AlignBegin=109000|AlignEnd=109240|Gloss=Qot
 8	á	ká	ADP	_	_	15	mod	_	AlignBegin=110040|AlignEnd=110193|Gloss=at
 9	vònì	vòn	NOUN	_	Definite=Ind	8	comp	_	AlignBegin=110193|AlignEnd=110346|Gloss=year-Ind
-10	əŋ	kən	PART	_	PartType=Foc	8	discourse@foc	_	AlignBegin=111640|AlignEnd=111790|Gloss=Identif
+10	əŋ	kən	PART	_	PartType=Foc	8	discourse@foc	_	AlignBegin=111640|AlignEnd=111790|Gloss=Emph
 11	gá=	a=	AUX	_	Number=Sing|Person=2|Tense=Fut	8	comp:cleft	_	AlignBegin=111790|AlignEnd=111940|Copula=No|Gloss=2Plur.Fut=|wordform=gá
 12-13	fítə̀	_	_	_	_	_	_	_	_
 12	fî	fi	VERB	_	_	11	comp:aux	_	AlignBegin=111940|AlignEnd=112015|Gloss=do
@@ -669,7 +669,7 @@
 14	<	<	PUNCT	_	_	8	punct	_	AlignBegin=112090|AlignEnd=112240|Gloss=PUNCT
 15	nə́	nə́	ADP	_	_	7	comp	_	AlignBegin=113240|AlignEnd=113485|Gloss=for
 16	pólɣə́nì	pol	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	15	comp	_	AlignBegin=113485|AlignEnd=113730|Gloss=please-Vnoun
-17	ɣəndí	kən	PART	_	PartType=Foc	15	discourse@foc	_	AlignBegin=113730|AlignEnd=113975|Gloss=be
+17	ɣəndí	kən	PART	_	PartType=Foc	15	discourse@foc	_	AlignBegin=113730|AlignEnd=113975|Gloss=Emph
 18	//	//	PUNCT	_	_	6	punct	_	AlignBegin=113975|AlignEnd=114220|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_03_Calendar_069-072
@@ -814,11 +814,11 @@
 18	<	<	PUNCT	_	_	8	punct	_	AlignBegin=135455|AlignEnd=135720|Gloss=PUNCT
 19	yâːn	yáːni	PRON	_	Number=Sing|Person=3|PronType=Prs	20	subj	_	AlignBegin=135860|AlignEnd=136022|Gloss=3Sing.IDP
 20	yi	yi	VERB	_	_	7	comp	_	AlignBegin=136022|AlignEnd=136184|Gloss=be
-21	ɣənín	kən	PART	_	Deixis=Prox|PartType=Foc	20	discourse@foc	_	AlignBegin=136184|AlignEnd=136346|Gloss=be.Prox
+21	ɣənín	kən	PART	_	Deixis=Prox|PartType=Foc	20	discourse@foc	_	AlignBegin=136184|AlignEnd=136346|Gloss=Emph
 22	//=	//=	PUNCT	_	_	24	punct	_	AlignBegin=136346|AlignEnd=136508|Gloss=PUNCT
 23	yâːn	yáːni	PRON	_	Number=Sing|Person=3|PronType=Prs	24	subj	_	AlignBegin=136508|AlignEnd=136661|Gloss=3Sing.IDP
 24	yi	yi	VERB	_	_	20	parataxis@conj	_	AlignBegin=136661|AlignEnd=136814|Gloss=be
-25	ɣənín	kən	PART	_	Deixis=Prox|PartType=Foc	24	discourse@foc	_	AlignBegin=136814|AlignEnd=136967|Gloss=be.Prox
+25	ɣənín	kən	PART	_	Deixis=Prox|PartType=Foc	24	discourse@foc	_	AlignBegin=136814|AlignEnd=136967|Gloss=Emph
 26	?//	?//	PUNCT	_	_	4	punct	_	AlignBegin=136967|AlignEnd=137120|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_03_Calendar_085-086
@@ -832,7 +832,7 @@
 2	dèy	dèy	NOUN	_	_	0	root	_	AlignBegin=137758|AlignEnd=137967|Gloss=reason.Cons|wordform=dèywôs
 3	-wos	-wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	mod:poss/m	_	AlignBegin=137758|AlignEnd=137967|Gloss==3Sing.Gen
 4	ɓét	ɓét	DET	_	_	2	det	_	AlignBegin=138595|AlignEnd=138807|Gloss=all
-5	kəndí	kən	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=138807|AlignEnd=139019|Gloss=Identif
+5	kəndí	kən	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=138807|AlignEnd=139019|Gloss=Emph
 6	tu	tu	ADP	_	_	2	comp:cleft	_	AlignBegin=139019|AlignEnd=139231|Gloss=Qot|Quote=Yes
 7	lə̌pm	lə̌pm	NOUN	_	Definite=Cons	6	comp:pred	_	AlignBegin=139231|AlignEnd=139443|Gloss=festival-CONS
 8-9	Zaːroː	_	_	_	_	_	_	_	_
@@ -850,7 +850,7 @@
 1	dèː	dèː	NOUN	_	_	0	root	_	AlignBegin=140620|AlignEnd=140730|Gloss=reason.Cons|wordform=dèːwôs
 2	-wos	-wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	mod:poss/m	_	AlignBegin=140620|AlignEnd=140730|Gloss==3Sing.Gen
 3	ɓét	ɓét	DET	_	_	1	det	_	AlignBegin=140840|AlignEnd=141060|Gloss=all
-4	kəndí	kən	PART	_	PartType=Foc	1	discourse@foc	_	AlignBegin=141060|AlignEnd=141280|Gloss=be
+4	kəndí	kən	PART	_	PartType=Foc	1	discourse@foc	_	AlignBegin=141060|AlignEnd=141280|Gloss=Emph
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=141280|AlignEnd=141500|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_03_Calendar_088-093_split1
@@ -944,7 +944,7 @@
 5	ʧǎː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=3	0	root	_	AlignBegin=161623|AlignEnd=161846|Copula=No|Gloss=3Plur.Imp=|wordform=ʧǎː
 6	gìː	giː	VERB	_	_	5	comp:aux	_	AlignBegin=161846|AlignEnd=162069|Gloss=plough
 7	geɗí	geɗí	PRON	_	_	6	comp:obj	_	AlignBegin=162069|AlignEnd=162292|Gloss=tuber
-8	ɣəndí	kən	PART	_	PartType=Foc	7	discourse@foc	_	AlignBegin=162292|AlignEnd=162515|Gloss=be
+8	ɣəndí	kən	PART	_	PartType=Foc	7	discourse@foc	_	AlignBegin=162292|AlignEnd=162515|Gloss=Emph
 9	//	//	PUNCT	_	_	5	punct	_	AlignBegin=162515|AlignEnd=162740|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_03_Calendar_101-101
@@ -1215,7 +1215,7 @@
 23	wâː	wâː	NOUN	_	_	22	comp:obj	_	AlignBegin=193854|AlignEnd=194092|Gloss=guineacorn|SpaceAfter=No|wordform=wâːs
 24	-es	-es	DET	_	Definite=Def	23	det/m	_	AlignBegin=193854|AlignEnd=194092|Gloss=Def
 25	kəndá	kəndá	ADV	_	_	0	root	_	AlignBegin=194092|AlignEnd=194330|Gloss=then
-26	ɣən	kən	PART	_	PartType=Foc	25	discourse@foc	_	Gloss=Identif
+26	ɣən	kən	PART	_	PartType=Foc	25	discourse@foc	_	Gloss=Emph
 27	>+	>+	PUNCT	_	_	28	punct	_	AlignBegin=194330|AlignEnd=194330|Gloss=PUNCT
 28	kə́=	á=	AUX	_	Number=Plur|Person=2|Tense=Pres	25	comp:cleft	_	AlignBegin=194330|AlignEnd=194568|Copula=No|Gloss=2Plur.Aor=|wordform=kə́
 29	fî	fi	VERB	_	_	28	comp:aux	_	AlignBegin=194568|AlignEnd=194806|Gloss=do
@@ -1400,7 +1400,7 @@
 9	á	ká	ADP	_	_	8	comp	_	AlignBegin=224760|AlignEnd=225000|Gloss=at
 10	lóːkaʧí	lóːkaʧí	NOUN	_	Definite=Cons	9	comp	_	AlignBegin=225000|AlignEnd=225240|Gloss=time
 11	gyôː	gyoôː	DET	_	PronType=Int	10	det	_	AlignBegin=225240|AlignEnd=225480|Gloss=which
-12	ɣəŋ	kən	PART	_	PartType=Foc	11	discourse@foc	_	AlignBegin=225480|AlignEnd=225720|Gloss=be
+12	ɣəŋ	kən	PART	_	PartType=Foc	11	discourse@foc	_	AlignBegin=225480|AlignEnd=225720|Gloss=Emph
 13	kyàː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=2	9	comp:cleft	_	AlignBegin=226460|AlignEnd=226708|Copula=No|Gloss=2Plur.Imp=|wordform=kyàːyi
 14	yí=	yiː=	AUX	_	Aspect=Iter	13	compound	_	Copula=No|Gloss=Iter=|wordform=yí
 15-16	fiʃí	_	_	_	_	_	_	_	_
@@ -1591,7 +1591,7 @@
 7	ɗan	ɗan	ADP	_	_	6	unk	_	AlignBegin=247900|AlignEnd=248092|Gloss=like|InIdiom=Yes
 8	lóːkaʧí	lóːkaʧí	NOUN	_	_	6	comp	_	AlignBegin=248092|AlignEnd=248284|Gloss=time
 9	gyôː	gyôː	DET	_	PronType=Int	8	det	_	AlignBegin=248284|AlignEnd=248476|Gloss=which
-10	ɣəŋ	kən	PART	_	PartType=Foc	9	discourse@foc	_	AlignBegin=248476|AlignEnd=248668|Gloss=be
+10	ɣəŋ	kən	PART	_	PartType=Foc	9	discourse@foc	_	AlignBegin=248476|AlignEnd=248668|Gloss=Emph
 11-13	kéːloː	_	_	_	_	_	_	_	_
 11	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	4	parataxis@discourse	_	AlignBegin=248668|AlignEnd=248860|Copula=No|Gloss=2Sing.Aor=|wordform=kə
 12	yél	yelí	VERB	_	_	11	comp:aux	_	AlignBegin=248860|AlignEnd=249052|Gloss=see
@@ -1730,7 +1730,7 @@
 # text_en = It's just now that they have changed it.
 1-2	ɗangənîn	_	_	_	_	_	_	_	_
 1	ɗangəní	ɗangəní	ADV	_	_	0	root	_	AlignBegin=264520|AlignEnd=264741|Gloss=now
-2	n	kən	PART	_	PartType=Foc	1	discourse@foc	_	AlignBegin=264520|AlignEnd=264741|Gloss=Identif
+2	n	kən	PART	_	PartType=Foc	1	discourse@foc	_	AlignBegin=264520|AlignEnd=264741|Gloss=Emph
 3	ʧǎː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=3	1	comp:cleft	_	AlignBegin=264962|AlignEnd=265183|Copula=No|Gloss=3Plur.Imp=|wordform=ʧǎː
 4-5	sâːkéni	_	_	_	_	_	_	_	_
 4	sâːké	saːké	VERB	_	_	3	comp:aux	_	AlignBegin=265183|AlignEnd=265293|Gloss=change|Lang=ha
@@ -1841,7 +1841,7 @@
 1	dàlíːli	dàlíːli	NOUN	_	_	13	dislocated:top	_	AlignBegin=278532|AlignEnd=278686|Gloss=reason.Cons|Lang=ha|wordform=dàlíːliwòs
 2	-wos	-wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	mod:poss/m	_	AlignBegin=278532|AlignEnd=278686|Gloss==3Sing.Gen|Lang=ha
 3	ɓét	ɓét	DET	_	_	1	det	_	AlignBegin=278839|AlignEnd=279146|Gloss=all
-4	kəndí	kən	PART	_	PartType=Foc	1	discourse@foc	_	AlignBegin=279146|AlignEnd=279453|Gloss=be
+4	kəndí	kən	PART	_	PartType=Foc	1	discourse@foc	_	AlignBegin=279146|AlignEnd=279453|Gloss=Emph
 5	tu	tu	SCONJ	_	_	13	discourse	_	AlignBegin=279453|AlignEnd=279760|Gloss=Qot
 6	tôː	tòː	PART	_	PartType=Disc	13	discourse	_	AlignBegin=279760|AlignEnd=280067|Gloss=well
 7	yâwwàː	yâwwàː	INTJ	_	_	13	discourse	_	AlignBegin=280372|AlignEnd=280584|Gloss=yes
@@ -2440,7 +2440,7 @@
 1	àːlàmú	àːlàmú	NOUN	_	_	0	root	_	AlignBegin=374382|AlignEnd=374650|Gloss=meaning|Lang=ha
 2	níː	níː	PRON	_	PronType=Int	1	mod	_	AlignBegin=374650|AlignEnd=374918|Gloss=what
 3-4	ɣəndêː	_	_	_	_	_	_	_	_
-3	ɣəndí	kən	PART	_	PartType=Foc	1	discourse@foc	_	AlignBegin=374918|AlignEnd=375186|Gloss=be
+3	ɣəndí	kən	PART	_	PartType=Foc	1	discourse@foc	_	AlignBegin=374918|AlignEnd=375186|Gloss=Emph
 4	eː	eː	PART	_	PartType=Ill	1	mod	_	AlignBegin=375186|AlignEnd=375454|Gloss=Int
 5	?//	?//	PUNCT	_	_	1	punct	_	AlignBegin=375454|AlignEnd=375723|Gloss=PUNCT
 
@@ -2495,7 +2495,7 @@
 # text_en = It's for luck indeed.
 1	nə́	nə́	ADP	_	_	0	root	_	AlignBegin=379760|AlignEnd=379948|Gloss=for
 2	fyáːli	fyáːli	NOUN	_	_	1	comp:pred	_	AlignBegin=379948|AlignEnd=380136|Gloss=luck
-3	ɣəndí	kən	PART	_	PartType=Foc	1	discourse@foc	_	AlignBegin=380136|AlignEnd=380324|Gloss=be
+3	ɣəndí	kən	PART	_	PartType=Foc	1	discourse@foc	_	AlignBegin=380136|AlignEnd=380324|Gloss=Emph
 4	áy	áy	INTJ	_	_	1	discourse	_	AlignBegin=380324|AlignEnd=380512|Gloss=indeed
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=380512|AlignEnd=380700|Gloss=PUNCT
 
@@ -2525,7 +2525,7 @@
 16	kóː	kóː	CCONJ	_	_	17	cc	_	AlignBegin=386720|AlignEnd=386887|Gloss=COORD|Lang=ha
 17-18	kákɗiŋ	_	_	_	_	_	_	_	_
 17	kákɗi	kákɗi	NOUN	_	_	11	conj:coord	_	AlignBegin=386887|AlignEnd=387054|Gloss=hoe
-18	ɣən	kən	PART	_	PartType=Foc	17	discourse@foc	_	AlignBegin=387054|AlignEnd=387221|Gloss=Identif
+18	ɣən	kən	PART	_	PartType=Foc	17	discourse@foc	_	AlignBegin=387054|AlignEnd=387221|Gloss=Emph
 19	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	17	comp:cleft	_	AlignBegin=387221|AlignEnd=387388|Copula=No|Gloss=3Sing.Aor=|wordform=á
 20	ɗû	ɗu	VERB	_	_	19	comp:aux	_	AlignBegin=387388|AlignEnd=387555|Gloss=beat
 21	gón	gón	PRON	_	PronType=Ind	20	comp:obj	_	AlignBegin=387555|AlignEnd=387720|Gloss=Spec
@@ -2961,7 +2961,7 @@
 8	kusuŋ	kusuŋ	NOUN	_	Definite=Cons	9	subj	_	AlignBegin=465729|AlignEnd=465927|Gloss=hunger
 9	kír	kír	VERB	_	_	6	conj:coord	_	AlignBegin=465927|AlignEnd=466125|Gloss=run|SpaceAfter=No|wordform=kîríː
 10	-íː	-íː	ADV	_	_	9	mod/m	_	Accomplished=Yes|AlignBegin=465927|AlignEnd=466125|Gloss=Acpl
-11	ɣəndí	kən	PART	_	PartType=Foc	9	discourse@foc	_	AlignBegin=466125|AlignEnd=466323|Gloss=be
+11	ɣəndí	kən	PART	_	PartType=Foc	9	discourse@foc	_	AlignBegin=466125|AlignEnd=466323|Gloss=Emph
 12	//	//	PUNCT	_	_	1	punct	_	AlignBegin=466323|AlignEnd=466520|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_03_Calendar_310-313

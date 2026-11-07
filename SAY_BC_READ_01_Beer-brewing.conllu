@@ -409,7 +409,7 @@
 4	nə	nə	ADP	_	_	2	comp:obj	_	AlignBegin=96566|AlignEnd=96809|Gloss=DER
 5	naːyi	naː	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Part	4	comp	_	AlignBegin=96809|AlignEnd=96931|Gloss=remain.Part.Cons|wordform=naːyí
 6	-wos	-wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	mod:poss/m	_	AlignBegin=96809|AlignEnd=96931|Gloss==3Sing.Gen
-7	kəndí	kən	PART	_	PartType=Foc|Polarity=Neg	5	discourse@foc	_	AlignBegin=97052|AlignEnd=97295|Gloss=Neg
+7	kəndí	kən	PART	_	PartType=Foc|Polarity=Neg	5	discourse@foc	_	AlignBegin=97052|AlignEnd=97295|Gloss=Emph
 8	//	//	PUNCT	_	_	1	punct	_	AlignBegin=97295|AlignEnd=97540|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_01_Beer_051-053
@@ -494,7 +494,7 @@
 # text_ortho = yáːni ɣən wò ʃiʃyártə |c àmáː baːya yóːɗan káː rigé kə gamá túːrɣə̂níː ɗeɓát ?//
 # text_en = That's what will make it ferment, but only after you have finished heating it up ?
 1	yáːni	yá́ːnii	PRON	_	Number=Sing|Person=3|PronType=Prs	0	root	_	AlignBegin=117640|AlignEnd=117813|Gloss=3Sing.IDP
-2	ɣən	kən	PART	_	PartType=Foc	1	discourse@foc	_	AlignBegin=117813|AlignEnd=117986|Gloss=Identif
+2	ɣən	kən	PART	_	PartType=Foc	1	discourse@foc	_	AlignBegin=117813|AlignEnd=117986|Gloss=Emph
 3	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	1	comp:cleft	_	AlignBegin=117986|AlignEnd=118159|Copula=No|Gloss=3Sing.Fut=|wordform=wò
 4-5	ʃiʃyártə	_	_	_	_	_	_	_	_
 4	ʃíʃyár	ʃiʃí	VERB	_	_	3	comp:aux	_	AlignBegin=118159|AlignEnd=118245|Gloss=get_up.Cau|wordform=ʃiʃí
@@ -555,7 +555,7 @@
 14	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	9	conj:coord	_	AlignBegin=133492|AlignEnd=133670|Copula=No|Gloss=2Sing.Aor=|wordform=kə
 15	ʃin	ʃin	VERB	_	_	14	comp:aux	_	AlignBegin=133670|AlignEnd=133848|Gloss=pour
 16	gáy	káy	PRON	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	15	comp:obl	_	AlignBegin=133848|AlignEnd=134026|Gloss=3Sing.Loc
-17	ɣən	kən	PART	_	PartType=Foc|Polarity=Neg	16	discourse@foc	_	AlignBegin=134026|AlignEnd=134204|Gloss=Neg
+17	ɣən	kən	PART	_	PartType=Foc|Polarity=Neg	16	discourse@foc	_	AlignBegin=134026|AlignEnd=134204|Gloss=Emph
 18	//	//	PUNCT	_	_	9	punct	_	AlignBegin=134204|AlignEnd=134380|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_01_Beer_066-067_068-068
@@ -700,7 +700,7 @@
 9	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	8	comp:obj@R/m	_	AlignBegin=163546|AlignEnd=163668|Gloss===3Sing.Acc|Object=ObjectRaising|wordform==tə
 10	bə̀skə̀n	bəs	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	8	comp:obj@T	_	AlignBegin=163668|AlignEnd=163790|Gloss=boil-Vnoun|Object=ObjectRaising|wordform=bəs
 11	ɗa	ɗa	ADV	_	_	8	mod	_	AlignBegin=163912|AlignEnd=164156|Gloss=again
-12	ɣən	kən	PART	_	PartType=Foc|Polarity=Neg	7	discourse@foc	_	AlignBegin=164156|AlignEnd=164400|Gloss=Neg
+12	ɣən	kən	PART	_	PartType=Foc|Polarity=Neg	7	discourse@foc	_	AlignBegin=164156|AlignEnd=164400|Gloss=Emph
 13	//	//	PUNCT	_	_	6	punct	_	AlignBegin=164400|AlignEnd=164640|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_01_Beer_081-082
@@ -814,7 +814,7 @@
 20	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	19	comp	_	AlignBegin=194080|AlignEnd=194265|Copula=No|Gloss=3Sing.Aor=|wordform=á
 21	ɲáŋ	ɲáŋ	VERB	_	_	20	comp:aux	_	AlignBegin=194265|AlignEnd=194357|Gloss=be_cooked|SpaceAfter=No|wordform=ɲâŋə́y
 22	-íː	-íː	ADV	_	_	21	mod/m	_	Accomplished=Yes|AlignBegin=194265|AlignEnd=194357|Gloss=Acpl
-23	ɣəndí	kən	PART	_	PartType=Foc|Polarity=Neg	21	discourse@foc	_	AlignBegin=194450|AlignEnd=194635|Gloss=Neg
+23	ɣəndí	kən	PART	_	PartType=Foc|Polarity=Neg	21	discourse@foc	_	AlignBegin=194450|AlignEnd=194635|Gloss=Emph
 24	//	//	PUNCT	_	_	16	punct	_	AlignBegin=194635|AlignEnd=194820|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_01_Beer_095-098
@@ -899,7 +899,7 @@
 # text_ortho = yáːni ɣən wò ɲáŋtə áy //
 # text_en = That's what will leaven it.
 1	yáːni	yáːni	PRON	_	Number=Sing|Person=3|PronType=Prs	0	root	_	AlignBegin=217840|AlignEnd=218037|Gloss=3Sing.IDP
-2	ɣən	kən	PART	_	PartType=Foc	1	discourse@foc	_	AlignBegin=218037|AlignEnd=218234|Gloss=Identif
+2	ɣən	kən	PART	_	PartType=Foc	1	discourse@foc	_	AlignBegin=218037|AlignEnd=218234|Gloss=Emph
 3	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	1	comp:cleft	_	AlignBegin=218234|AlignEnd=218431|Copula=No|Gloss=3Sing.Fut=|wordform=wò
 4-5	ɲáŋtə	_	_	_	_	_	_	_	_
 4	ɲáŋ	ɲáŋ	VERB	_	_	3	comp:aux	_	AlignBegin=218431|AlignEnd=218529|Gloss=be_ripe
@@ -1190,7 +1190,7 @@
 # text_en = That's "pito”.
 1	pìtó	pìtó	NOUN	_	_	0	root	_	AlignBegin=288020|AlignEnd=288205|Gloss=beer_sp
 2	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	comp@ethic	_	AlignBegin=288205|AlignEnd=288390|Gloss=3SingGen
-3	kəndí	kən	PART	_	PartType=Foc|Polarity=Neg	1	discourse@foc	_	AlignBegin=288390|AlignEnd=288575|Gloss=Neg
+3	kəndí	kən	PART	_	PartType=Foc|Polarity=Neg	1	discourse@foc	_	AlignBegin=288390|AlignEnd=288575|Gloss=Emph
 4	//	//	PUNCT	_	_	1	punct	_	AlignBegin=288575|AlignEnd=288760|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_01_Beer_139-140
@@ -1224,13 +1224,13 @@
 2	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=294440|AlignEnd=294620|Copula=No|Gloss=3Sing.Aor=|wordform=á
 3	ɓaní	ɓaní	VERB	_	_	2	comp:aux	_	AlignBegin=294620|AlignEnd=294710|Gloss=finish|SpaceAfter=No|wordform=ɓâníː
 4	-íː	-íː	ADV	_	_	3	mod/m	_	Accomplished=Yes|AlignBegin=294620|AlignEnd=294710|Gloss=Acpl
-5	ɣəndí	kən	PART	_	PartType=Foc|Polarity=Neg	3	discourse@foc	_	AlignBegin=294800|AlignEnd=294980|Gloss=Neg
+5	ɣəndí	kən	PART	_	PartType=Foc|Polarity=Neg	3	discourse@foc	_	AlignBegin=294800|AlignEnd=294980|Gloss=Emph
 6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=294980|AlignEnd=295160|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_01_Beer_142-143
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_01_Beer-brewing.WAV
 # sent_timecode = 296100, 298660
-# text = pìtó gòs séː kyáː bə́ʃíː ɣəndá kə ngaː //
+# text = pìtó gòs séː kyáː= bəs-íː ɣəndá kə= ngaː //
 # text_ortho = pìtó gòs séː kyáː bə́ʃíː ɣəndá kə ngaː //
 # text_en = As for pito, you just heat it up and then you remove it.
 1	pìtó	pìtó	NOUN	_	_	8	dislocated@T	_	AlignBegin=296100|AlignEnd=296313|Gloss=beer_sp
@@ -1239,7 +1239,7 @@
 4	kyáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=2	3	comp	_	AlignBegin=296739|AlignEnd=296952|Copula=No|Gloss=2Sing.Cnd=|wordform=kyáː
 5	bəs	bəs	VERB	_	_	4	comp:aux	_	AlignBegin=296952|AlignEnd=297058|Gloss=boil|SpaceAfter=No|wordform=bə́ʃíː
 6	-íː	-íː	ADV	_	_	5	mod/m	_	Accomplished=Yes|AlignBegin=296952|AlignEnd=297058|Gloss=Acpl
-7	ɣəndá	ɣəndá	ADV	_	_	8	mod	_	AlignBegin=297920|AlignEnd=298105|Gloss=then
+7	ɣəndá	kəndá	ADV	_	_	8	mod	_	AlignBegin=297920|AlignEnd=298105|Gloss=then
 8	kə=	á=	AUX	_	Number=Sing|Person=2|Tense=Pres	0	root	_	AlignBegin=298105|AlignEnd=298290|Copula=No|Gloss=2Sing.Aor=|wordform=kə
 9	ngaː	ngaː	VERB	_	_	8	comp:aux	_	AlignBegin=298290|AlignEnd=298475|Gloss=fetch
 10	//	//	PUNCT	_	_	8	punct	_	AlignBegin=298475|AlignEnd=298660|Gloss=PUNCT
@@ -1403,7 +1403,7 @@
 3	-wos	-wos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	mod:poss/m	_	AlignBegin=337984|AlignEnd=338106|Gloss==3Sing.Gen
 4	ɓaní	ɓaní	VERB	_	_	0	root	_	AlignBegin=338228|AlignEnd=338350|Gloss=finish|SpaceAfter=No|wordform=ɓàníː
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=338228|AlignEnd=338350|Gloss=Acpl
-6	ɣəndí	kən	PART	_	PartType=Foc|Polarity=Neg	4	discourse@foc	_	AlignBegin=338472|AlignEnd=338716|Gloss=Neg
+6	ɣəndí	kən	PART	_	PartType=Foc|Polarity=Neg	4	discourse@foc	_	AlignBegin=338472|AlignEnd=338716|Gloss=Emph
 7	//	//	PUNCT	_	_	4	punct	_	AlignBegin=338716|AlignEnd=338960|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_01_Beer_164-167

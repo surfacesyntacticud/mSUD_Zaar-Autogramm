@@ -680,7 +680,7 @@
 3	ɗan	ɗan	ADP	_	_	2	comp:pred	_	AlignBegin=202086|AlignEnd=202319|Gloss=like
 4	zaːr	zaːr	NOUN	_	_	3	comp	_	AlignBegin=202319|AlignEnd=202552|Gloss=person
 5	hŋ́	hŋ́	PART	_	PartType=Neg|Polarity=Neg	2	mod	_	AlignBegin=202552|AlignEnd=202785|Gloss=Neg
-6	kəndá	kən	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=204220|AlignEnd=204430|Gloss=be
+6	kəndá	kən	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=204220|AlignEnd=204430|Gloss=Emph
 7	hár	hár	SCONJ	_	_	2	mod	_	AlignBegin=204430|AlignEnd=204640|Gloss=up_to
 8	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	7	comp	_	AlignBegin=204640|AlignEnd=204850|Copula=No|Gloss=2Sing.Sub=|wordform=àː
 9	wúl	wul	VERB	_	_	8	comp:aux	_	AlignBegin=204850|AlignEnd=205060|Gloss=say
@@ -815,7 +815,7 @@
 # text_ortho = ʧík kən ʧi //
 # text_en = That's how it is.
 1	ʧík	ʧík	ADV	_	_	0	root	_	AlignBegin=243400|AlignEnd=243565|Gloss=thus
-2	kən	kən	PART	_	PartType=Foc	1	discourse@foc	_	AlignBegin=243565|AlignEnd=243730|Gloss=Identif
+2	kən	kən	PART	_	PartType=Foc	1	discourse@foc	_	AlignBegin=243565|AlignEnd=243730|Gloss=Emph
 3	ʧi	yi	AUX	_	Number=Sing|Person=3	1	comp:cleft	_	AlignBegin=243730|AlignEnd=243895|Copula=Yes|Gloss=3Sing.be.Loc|wordform=yi
 4	//	//	PUNCT	_	_	1	punct	_	AlignBegin=243730|AlignEnd=243895|Gloss=PUNCT
 
@@ -2277,7 +2277,7 @@
 3	wâː	wâː	NOUN	_	_	2	comp:obj	_	AlignBegin=687470|AlignEnd=687655|Gloss=guineacorn
 4	nə	nə	AUX	_	_	0	root	_	AlignBegin=689020|AlignEnd=689177|Copula=Yes|Gloss=be.Ident
 5	wâː	wâː	NOUN	_	_	4	comp:pred	_	AlignBegin=689177|AlignEnd=689334|Gloss=guineacorn
-6	ɣən	kən	PART	_	PartType=Foc|Polarity=Neg	5	discourse@foc	_	AlignBegin=689334|AlignEnd=689491|Gloss=Neg
+6	ɣən	kən	PART	_	PartType=Foc|Polarity=Neg	5	discourse@foc	_	AlignBegin=689334|AlignEnd=689491|Gloss=Emph
 7	ka=	a=	AUX	_	Number=Sing|Person=2|Tense=Fut	4	comp:cleft	_	AlignBegin=689491|AlignEnd=689648|Copula=No|Gloss=2Sing.Fut=|wordform=ka
 8	mán	máni	VERB	_	_	7	comp:aux	_	AlignBegin=689648|AlignEnd=689805|Gloss=come
 9	ɬaː	ɬaː	VERB	_	_	8	compound:svc	_	AlignBegin=689805|AlignEnd=689962|Gloss=cut

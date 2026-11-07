@@ -971,7 +971,7 @@
 5	pîːs	pîːs	NOUN	_	Definite=Cons	4	compound	_	AlignBegin=152704|AlignEnd=152821|Gloss=arrow.Cons|wordform=pìːswàːn
 6	-waːn	-waːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	5	mod:poss/m	_	AlignBegin=152704|AlignEnd=152821|Gloss==2Plur.Gen
 7	hŋ́	hŋ́	PART	_	PartType=Neg|Polarity=Neg	2	mod	_	AlignBegin=152938|AlignEnd=153172|Gloss=Neg
-8	gəndí	kən	PART	_	PartType=Foc	3	discourse@foc	_	AlignBegin=153172|AlignEnd=153406|Gloss=be
+8	gəndí	kən	PART	_	PartType=Foc	3	discourse@foc	_	AlignBegin=153172|AlignEnd=153406|Gloss=Emph
 9	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=153406|AlignEnd=153639|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_04_Hunt_109-110
@@ -1405,7 +1405,7 @@
 5	<	<	PUNCT	_	_	1	punct	_	AlignBegin=212571|AlignEnd=212737|Gloss=PUNCT
 6	tôː	tòː	PART	_	PartType=Disc	7	discourse	_	AlignBegin=212737|AlignEnd=212903|Gloss=well
 7	yáːni	yáːni	PRON	_	Number=Sing|Person=3|PronType=Prs	0	root	_	AlignBegin=212903|AlignEnd=213069|Gloss=3Sing.IDP
-8	ɣən	kən	PART	_	PartType=Foc	7	discourse@foc	_	AlignBegin=213069|AlignEnd=213235|Gloss=Identif
+8	ɣən	kən	PART	_	PartType=Foc	7	discourse@foc	_	AlignBegin=213069|AlignEnd=213235|Gloss=Emph
 9	>+	>+	PUNCT	_	_	13	punct	_	AlignBegin=213235|AlignEnd=213400|Gloss=PUNCT
 10	yáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=3	13	mod	_	AlignBegin=214220|AlignEnd=214455|Copula=No|Gloss=3Sing.Cnd=|wordform=yáː
 11	ɮòp	ɮop	VERB	_	_	10	comp:aux	_	AlignBegin=214455|AlignEnd=214690|Gloss=pierce
@@ -1670,7 +1670,7 @@
 11	kîtn	kîtn	NOUN	_	_	10	comp:obj	_	AlignBegin=253016|AlignEnd=253168|Gloss=farm
 12	gáy	káy	PRON	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	10	comp:obl	_	AlignBegin=253168|AlignEnd=253320|Gloss=3Sing.Loc
 13	máː	máː	ADV	_	_	10	mod	_	AlignBegin=253320|AlignEnd=253472|Gloss=also
-14	ɣəndí	kən	PART	_	PartType=Foc	10	discourse@foc	_	AlignBegin=253472|AlignEnd=253624|Gloss=be
+14	ɣəndí	kən	PART	_	PartType=Foc	10	discourse@foc	_	AlignBegin=253472|AlignEnd=253624|Gloss=Emph
 15	//	//	PUNCT	_	_	8	punct	_	AlignBegin=253624|AlignEnd=253772|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_04_Hunt_183-183
@@ -1829,7 +1829,7 @@
 5	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	comp:obj/m	_	AlignBegin=269618|AlignEnd=269695|Gloss==3Sing.Acc|wordform==tə
 6	tu	tu	SCONJ	_	_	4	comp:pred	_	AlignBegin=269695|AlignEnd=269848|Gloss=Qot
 7	níː	níː	PRON	_	PronType=Int	6	comp	_	AlignBegin=269848|AlignEnd=270001|Gloss=what
-8	ɣən	kən	PART	_	PartType=Foc	7	discourse@foc	_	AlignBegin=270001|AlignEnd=270154|Gloss=be
+8	ɣən	kən	PART	_	PartType=Foc	7	discourse@foc	_	AlignBegin=270001|AlignEnd=270154|Gloss=Emph
 9	?//=	?//=	PUNCT	_	_	10	punct	_	AlignBegin=270154|AlignEnd=270308|Gloss=PUNCT
 10	Goːbarawa	Goːbarawa	PROPN	_	_	7	parataxis	_	AlignBegin=270308|AlignEnd=270574|Gloss=Gobirawa
 11	>	>	PUNCT	_	_	12	punct	_	AlignBegin=270574|AlignEnd=270840|Gloss=PUNCT
@@ -1877,7 +1877,7 @@
 # text_en = Well, it's them who... would come and melt it.
 1	tôː	tòː	PART	_	PartType=Disc	2	discourse	_	AlignBegin=278352|AlignEnd=278499|Gloss=well
 2	yàːʃí	yàːʃí	PRON	_	Number=Sing|Person=3|PronType=Prs	0	root	_	AlignBegin=278499|AlignEnd=278646|Gloss=3Plur.IDP
-3	ɣən	kən	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=278646|AlignEnd=278793|Gloss=Identif
+3	ɣən	kən	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=278646|AlignEnd=278793|Gloss=Emph
 4	>+	>+	PUNCT	_	_	7	punct	_	AlignBegin=278793|AlignEnd=278940|Gloss=PUNCT
 5	t~=	á=	AUX	_	Number=Plur|Person=3|Tense=Pres	7	reparandum	_	AlignBegin=278940|AlignEnd=279087|Copula=No|Gloss=3Plur.Aor=
 6	||	||	PUNCT	_	_	5	punct	_	AlignBegin=279087|AlignEnd=279234|Gloss=PUNCT

@@ -205,7 +205,7 @@
 18	yel	yel	VERB	_	_	17	comp:aux	_	AlignBegin=19993|AlignEnd=20251|Gloss=see
 19	kutu	kutu	SCONJ	_	_	18	comp:obj	_	AlignBegin=20251|AlignEnd=20509|Gloss=as_if
 20	gyòː	gyòː	PRON	_	PronType=Int	19	comp	_	AlignBegin=20509|AlignEnd=20731|Gloss=which
-21	ɣəndá	kən	PART	_	PartType=Foc	20	discourse@foc	_	AlignBegin=20731|AlignEnd=20953|Gloss=Identif
+21	ɣəndá	kən	PART	_	PartType=Foc	20	discourse@foc	_	AlignBegin=20731|AlignEnd=20953|Gloss=Emph
 22	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	20	comp:cleft	_	AlignBegin=20953|AlignEnd=21175|Copula=No|Gloss=3Sing.Fut=|wordform=wò
 23	mop	mop	VERB	_	_	22	comp:aux	_	AlignBegin=21175|AlignEnd=21399|Gloss=surpass
 24	deːdéy	deːdéː	ADV	_	_	23	mod	_	AlignBegin=21399|AlignEnd=21491|Gloss=exact
@@ -905,7 +905,7 @@
 4	ɗan	ɗan	SCONJ	_	_	2	mod@relcl	_	AlignBegin=96113|AlignEnd=96280|Gloss=REL
 5	má=	a=	AUX	_	Number=Plur|Person=1|Tense=Fut	4	comp	_	AlignBegin=96280|AlignEnd=96447|Copula=No|Gloss=1Plur.Fut=|wordform=má
 6	fî	fi	VERB	_	_	5	comp:aux	_	AlignBegin=96447|AlignEnd=96531|Gloss=do
-7	ɣəndí	kən	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=96531|AlignEnd=96614|Gloss=be
+7	ɣəndí	kən	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=96531|AlignEnd=96614|Gloss=Emph
 8	ɗangəní	ɗangəní	ADV	_	_	2	mod	_	AlignBegin=96614|AlignEnd=96781|Gloss=now
 9	//	//	PUNCT	_	_	2	punct	_	AlignBegin=96781|AlignEnd=96948|Gloss=PUNCT
 
