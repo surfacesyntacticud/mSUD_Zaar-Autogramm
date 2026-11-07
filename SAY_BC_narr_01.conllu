@@ -5593,7 +5593,7 @@
 6	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=695605|AlignEnd=695793|Copula=No|Gloss=3Sing.Aor=|wordform=á
 7	naː	naː	VERB	_	_	6	comp:aux	_	AlignBegin=695793|AlignEnd=695981|Gloss=become|wordform=nâː
 8	gòs	gos	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	comp@ethic	_	AlignBegin=695981|AlignEnd=696169|Gloss=3SingGen
-9	-íː	-íː	PRON	_	Deixis=Remt|PronType=Dem	8	det/m	_	AlignBegin=695981|AlignEnd=696169|Gloss=Remt|wordform=gòs
+9	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	8	det/m	_	AlignBegin=695981|AlignEnd=696169|Gloss=Remt|wordform=gòs
 10	nə	nə	ADP	_	_	7	comp:pred	_	AlignBegin=696169|AlignEnd=696357|Gloss=DER
 11	mur	mur	NOUN	_	_	10	comp	_	AlignBegin=696357|AlignEnd=696545|Gloss=man
 12	ɣə́	kə́	ADP	_	Case=Gen	11	mod	_	AlignBegin=696545|AlignEnd=696733|Gloss=of

@@ -647,13 +647,13 @@
 # sent_id = SAY_BC_READ_12_NAR_The_master_thief_066-066
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_12_NARR_The_master_thief.WAV
 # sent_timecode = 143280, 143860
-# text = ɣən kə́ lǎːp //
+# text = ɣən kə́= lǎːp //
 # text_ortho = ɣən kə́ lǎːp //
 # text_en = That's what you followed.
-1	ɣən	kən	PART	_	PartType=Foc	0	root	_	AlignBegin=143280|AlignEnd=143425|Gloss=Emph
-2	kə́=	á=	AUX	_	Number=Plur|Person=2|Tense=Pres	1	comp:cleft	_	AlignBegin=143425|AlignEnd=143570|Copula=No|Gloss=2Plur.Aor=|wordform=kə́
+1	ɣən	kən	ADV	_	_	2	mod	_	AlignBegin=143280|AlignEnd=143425|Gloss=then
+2	kə́=	á=	AUX	_	Number=Plur|Person=2|Tense=Pres	0	root	_	AlignBegin=143425|AlignEnd=143570|Copula=No|Gloss=2Plur.Aor=|wordform=kə́
 3	lǎːp	láːp	VERB	_	_	2	comp:aux	_	AlignBegin=143570|AlignEnd=143715|Gloss=follow
-4	//	//	PUNCT	_	_	1	punct	_	AlignBegin=143715|AlignEnd=143860|Gloss=PUNCT
+4	//	//	PUNCT	_	_	2	punct	_	AlignBegin=143715|AlignEnd=143860|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_12_NAR_The_master_thief_067-067
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_12_NARR_The_master_thief.WAV
@@ -2349,13 +2349,13 @@
 # sent_id = SAY_BC_READ_12_NAR_The_master_thief_256-257
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_12_NARR_The_master_thief.WAV
 # sent_timecode = 530320, 533120
-# text = ɣən Tʃoɣn ʃìntə́ɗi ɗi tu tə̀ mán ɬə́ːrtíː oː //
+# text = ɣən Tʃoɣn ʃìntə́ɗi ɗi tu tə̀= mán ɬə́ːrtíː -íː oː //
 # text_ortho = ɣən Tʃoɣn ʃìntə́ɗi tu tə̀ mán ɬə́ːrtíː oː //
 # text_en = That's why God had sent him to take him away.
-1	ɣən	kən	PART	_	PartType=Foc	0	root	_	AlignBegin=530320|AlignEnd=530548|Gloss=Emph
+1	ɣən	kən	ADV	_	_	3	mod	_	AlignBegin=530320|AlignEnd=530548|Gloss=then
 2	Tʃoɣn	Tʃoɣn	PROPN	_	_	3	subj	_	AlignBegin=530548|AlignEnd=530776|Gloss=God
 3-4	ʃìntə́ɗi	_	_	_	_	_	_	_	_
-3	ʃìn	ʃin	VERB	_	_	1	comp:cleft	_	AlignBegin=530776|AlignEnd=530852|Gloss=send
+3	ʃìn	ʃin	VERB	_	_	0	root	_	AlignBegin=530776|AlignEnd=530852|Gloss=send
 4	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	comp:obj/m	_	AlignBegin=530852|AlignEnd=530928|Gloss===3Sing.Acc|wordform==tə
 5	ɗi	ɗi	PART	_	PartType=Adv	3	compound:prt	_	AlignBegin=530928|AlignEnd=531004|Gloss=CTP|wordform=-́ɗi
 6	tu	tu	SCONJ	_	_	3	mod	_	AlignBegin=531004|AlignEnd=531232|Gloss=Qot
@@ -2366,7 +2366,7 @@
 10	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	9	comp:obj/m	_	AlignBegin=532710|AlignEnd=532751|Gloss===3Sing.Acc|SpaceAfter=No|wordform=-tíː
 11	-íː	-íː	ADV	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	10	mod/m	_	Accomplished=Yes|AlignBegin=532710|AlignEnd=532751|Gloss=Acpl
 12	oː	oː	PART	_	PartType=Ill	7	mod	_	AlignBegin=532792|AlignEnd=532956|Gloss=Emph
-13	//	//	PUNCT	_	_	1	punct	_	AlignBegin=532956|AlignEnd=533120|Gloss=PUNCT
+13	//	//	PUNCT	_	_	3	punct	_	AlignBegin=532956|AlignEnd=533120|Gloss=PUNCT
 
 # sent_id = SAY_BC_READ_12_NAR_The_master_thief_258-258
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_READ_12_NARR_The_master_thief.WAV

@@ -1567,7 +1567,7 @@
 23	yi=	yiː=	AUX	_	Aspect=Iter	22	compound	_	Copula=No|Gloss=Iter=|wordform=yi
 24	ɬə́	ɬə	VERB	_	_	22	comp:aux	_	AlignBegin=210981|AlignEnd=211203|Gloss=go
 25	||	||	PUNCT	_	_	24	punct	_	AlignBegin=211203|AlignEnd=211425|Gloss=PUNCT
-26	ma=	a=	AUX	_	Number=Sing|Person=1|Tense=Fut	8	comp:aux	_	AlignBegin=211425|AlignEnd=211654|Copula=No|Gloss=1Sing.Fut=|wordform=ma
+26	ma=	a=	AUX	_	Number=Sing|Person=1|Tense=Fut	8	comp	_	AlignBegin=211425|AlignEnd=211654|Copula=No|Gloss=1Sing.Fut=|wordform=ma
 27	ɬə́	ɬə	VERB	_	_	26	comp:aux	_	AlignBegin=211654|AlignEnd=211883|Gloss=go
 28	ngaːlá	ngaːlá	VERB	_	_	27	compound:svc	_	AlignBegin=212346|AlignEnd=212627|Gloss=spend_time|SpaceAfter=No|wordform=ngaːláy
 29	-íː	-íː	ADV	_	_	28	mod/m	_	Accomplished=Yes|AlignBegin=212346|AlignEnd=212627|Gloss=Acpl
@@ -6501,7 +6501,7 @@
 8	//	//	PUNCT	_	_	1	punct	_	AlignBegin=732860|AlignEnd=733015|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_03_766-767
-# text = myâːn < ŋáː vwàːy gə̀t àː ɗak ʧáːɣə̂níː ɣən //
+# text = myâːn < ŋáː vwàːy gə̀t àː= ɗak ʧáːɣə̂n-íː ɣən //
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_03.WAV
 # sent_timecode = 733696, 735163
@@ -6516,7 +6516,7 @@
 7	ɗak	ɗak	VERB	_	_	6	comp:aux	_	AlignBegin=734566|AlignEnd=734710|Gloss=refuse
 8	ʧáːɣə̂n	ʧaː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	7	comp:obj	_	AlignBegin=734710|AlignEnd=734861|Gloss=put.Vnoun|SpaceAfter=No|wordform=ʧáːɣə̂níː
 9	-íː	-íː	DET	_	Deixis=Remt|ExtPos=NOUN|PronType=Dem|VerbForm=Vnoun	8	det/m	_	AlignBegin=734710|AlignEnd=734861|Gloss=Remt
-10	ɣən	kən	PART	_	PartType=Foc	6	discourse	_	AlignBegin=734861|AlignEnd=735012|Gloss=be
+10	ɣən	kən	PART	_	PartType=Foc	6	discourse@foc	_	AlignBegin=734861|AlignEnd=735012|Gloss=Emph
 11	//	//	PUNCT	_	_	6	punct	_	AlignBegin=735012|AlignEnd=735163|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_03_768-769
@@ -7600,7 +7600,7 @@
 12	tə́	tə́	CCONJ	_	_	16	cc	_	AlignBegin=842842|AlignEnd=842993|Gloss=with
 13	gyaː	gyaː	DET	_	Number=Plur	16	det	_	AlignBegin=842993|AlignEnd=843144|Gloss=3Plur
 14	m̀ː	m̀ː	INTJ	_	_	16	discourse@filler	_	AlignBegin=843144|AlignEnd=843294|Gloss=FILL
-15	wannan	wannan	X	_	Foreign=Yes	16	det	_	AlignBegin=844558|AlignEnd=844834|Gloss=that_one|Lang=ha
+15	wannan	wannan	X	_	Foreign=Yes	16	unk@foreign	_	AlignBegin=844558|AlignEnd=844834|Gloss=that_one|Lang=ha
 16	Làːdí	Làːdí	PROPN	_	_	9	conj:coord	_	AlignBegin=845317|AlignEnd=845509|Gloss=Ladi
 17	|a	|a	PUNCT	_	_	19	punct	_	AlignBegin=845509|AlignEnd=845702|Gloss=PUNCT
 18	ŋaː	ŋaː	ADJ	_	_	19	mod	_	AlignBegin=846136|AlignEnd=846272|Gloss=young
