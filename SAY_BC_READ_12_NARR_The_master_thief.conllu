@@ -262,8 +262,8 @@
 # text_ortho = lə̂p ɗǎː ɬǎːy nòːmáw á ɬə́n mbiː gòdòwòs ɗan ʧáː mbút káy //
 # text_en = The following morning, Nomau took the blanket that he was sleeping in.
 1	lə̂p	lə̂p	NOUN	_	_	3	dislocated@subj	_	AlignBegin=57320|AlignEnd=57520|Gloss=place
-2	ɗa	ɗa	AUX	_	_	3	mod	_	AlignBegin=57520|AlignEnd=57620|Copula=Yes|Gloss=exist
-3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	7	mod	_	AlignBegin=57620|AlignEnd=57720|Copula=No|Gloss=3Sing.Aor=|wordform=á
+2	ɗa	ɗa	SCONJ	_	_	7	mod	_	AlignBegin=57520|AlignEnd=57620|Gloss=when
+3	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	2	comp	_	AlignBegin=57620|AlignEnd=57720|Copula=No|Gloss=3Sing.Aor=|wordform=á
 4	ɬaː	ɬaː	VERB	_	_	3	comp:aux	_	AlignBegin=57720|AlignEnd=57820|Gloss=cut|SpaceAfter=No|wordform=ɬǎːy
 5	-íː	-íː	ADV	_	_	4	mod/m	_	Accomplished=Yes|AlignBegin=57720|AlignEnd=57820|Gloss=Acpl
 6	Nòːmáu	nòːmáw	PROPN	_	_	7	subj	_	AlignBegin=58800|AlignEnd=59103|Gloss=Nomau|wordform=nòːmáw

@@ -9,12 +9,12 @@
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=1054|AlignEnd=1206|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_01_002-003
+# text = dzàŋ làːdì < má= ɬə-íː Kində bâː ?//
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_01.WAV
 # sent_timecode = 1206, 2532
-# text = dzàŋ làːdì < má ɬǐː Kində báː ?//
-# text_ortho = dzàŋ làːdì < má ɬǐː Kində báː ?//R
-# text_en = On Tuesday, we'll go to Kində no?
+# text_ortho = dzàŋ làːdì < má ɬǐː Kində bâ ː ?//
+# text_en = On Tuesday, we'll go to Kində, no?
 1	dzàŋ	dzàŋ	NOUN	_	_	4	mod	_	AlignBegin=1206|AlignEnd=1357|Gloss=day
 2	làːdì	láːdì	NOUN	_	_	1	compound	_	AlignBegin=1357|AlignEnd=1508|Gloss=Sunday
 3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=1508|AlignEnd=1660|Gloss=PUNCT
@@ -22,7 +22,7 @@
 5	ɬə	ɬə	VERB	_	_	4	comp:aux	_	AlignBegin=1834|AlignEnd=1921|Gloss=go|SpaceAfter=No|wordform=ɬǐː
 6	-íː	-íː	ADV	_	_	5	mod/m	_	Accomplished=Yes|AlignBegin=1834|AlignEnd=1921|Gloss=Acpl
 7	Kində	Kində	PROPN	_	_	5	comp:obj@G	_	AlignBegin=2008|AlignEnd=2182|Gloss=Kində
-8	báː	báː	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=2182|AlignEnd=2356|Gloss=Neg
+8	bâː	bâː	PART	_	PartType=Ill|Polarity=Neg	4	discourse	_	AlignBegin=2182|AlignEnd=2356|Gloss=Q.Neg
 9	?//	?//	PUNCT	_	_	4	punct	_	AlignBegin=2356|AlignEnd=2532|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_01_004-005
@@ -117,17 +117,17 @@
 4	!//	!//	PUNCT	_	_	1	punct	_	AlignBegin=10598|AlignEnd=10738|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_01_013-014
+# text = ʧì tə́ gyaː Sáːní bâː ?//
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_01.WAV
 # sent_timecode = 10738, 11960
-# text = ʧì tə́ gyaː Sáːní báː ?//
-# text_ortho = ʧì tə́ gyaː Sáːní báː ?//
+# text_ortho = ʧì tə́ gyaː Sáːní bâː ?//
 # text_en = With... Sani, no?
 1	ʧì	yi	AUX	_	Number=Plur|Person=3	0	root	_	AlignEnd=10800|Copula=Yes|Gloss=3Plur.be.Loc|wordform=yi
 2	tə́	tə́	ADP	_	_	1	comp:pred	_	AlignBegin=10943|AlignEnd=11148|Gloss=with
 3	gyaː	gyaː	DET	_	Number=Plur	4	det	_	AlignBegin=11148|AlignEnd=11353|Gloss=3Plur
 4	Sáːní	Sáːní	PROPN	_	_	2	comp	_	AlignBegin=11353|AlignEnd=11555|Gloss=Sani
-5	báː	báː	PART	_	PartType=Neg|Polarity=Neg	1	discourse	_	AlignBegin=11555|AlignEnd=11757|Gloss=Neg
+5	bâː	bâː	PART	_	PartType=Ill|Polarity=Neg	1	discourse	_	AlignBegin=11555|AlignEnd=11757|Gloss=Q.Neg
 6	?//	?//	PUNCT	_	_	1	punct	_	AlignBegin=11757|AlignEnd=11960|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_01_015-015
@@ -1861,12 +1861,12 @@
 23	//	//	PUNCT	_	_	1	punct	_	AlignBegin=209484|AlignEnd=209584|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_01_209-216
+# text = dón káː= yisə́ŋ < farko máː < ɗan Kámʃâk tà= wul tu ʧáː= sûːm < mətá= wultə tu baːbù !//
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_01.WAV
 # sent_timecode = 210198, 213446
-# text = dón káː yisə́ŋ < farko máː < ɗan Kámʃâk tà wul tu ʧáː sûːm < mətá wultə tu baːbù !//
 # text_ortho = dóŋ káː yisə́ŋ < farko máː < ɗan Kámʃâk tà wul tu ʧáː sûːm < mətá wultə tu baːbù //
-# text_en = Because you know <hau in the beginning even hau>, when Kamshak said that he loved me, I told him no way.
+# text_en = Because you know <hau in the beginning even hau>, when Kamshak said that he loved me, I told him no way!
 1	dón	dón	SCONJ	_	_	17	discourse	_	AlignBegin=210198|AlignEnd=210474|Gloss=because
 2	káː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=2	17	parataxis@discourse	_	AlignBegin=210474|AlignEnd=210573|Copula=No|Gloss=2Sing.Perf=|wordform=káː
 3	yisə́ŋ	yisə́ŋ	VERB	_	_	2	comp:aux	_	AlignBegin=210573|AlignEnd=210672|Gloss=know
@@ -1889,7 +1889,7 @@
 18	wul	wul	VERB	_	_	17	comp:aux	_	AlignBegin=212750|AlignEnd=212844|Gloss=say
 19	-tə	-tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	18	comp:obj@R/m	_	AlignBegin=212844|AlignEnd=212939|Gloss==3Sing.Acc|wordform==tə
 20	tu	tu	SCONJ	_	_	18	comp:obj@T	_	AlignBegin=212939|AlignEnd=213127|Gloss=Qot
-21	baːbù	bâː	INTJ	_	Foreign=Yes|Polarity=Neg	20	comp	_	AlignBegin=213127|AlignEnd=213287|Gloss=Neg|Lang=ha
+21	baːbù	baːbù	INTJ	_	Foreign=Yes|Polarity=Neg	20	comp	_	AlignBegin=213127|AlignEnd=213287|Gloss=no_way|Lang=ha
 22	!//	!//	PUNCT	_	_	17	punct	_	AlignBegin=213287|AlignEnd=213446|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_01_217-217
@@ -2313,11 +2313,11 @@
 12	//	//	PUNCT	_	_	1	punct	_	AlignBegin=257710|AlignEnd=257887|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_01_264-265
+# text = èːhêː < àː= tu gə̀ɗ-íː bâː ?//
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_01.WAV
 # sent_timecode = 258267, 259595
-# text = èːhêː < àː= tu gə̀ɗ -íː báː ?//
-# text_ortho = èːhêː < àː tu gə̀ɗíː báː ?//
+# text_ortho = èːhêː < àː tu gə̀ɗíː bâː ?//
 # text_en = Ok, that he has found a wife, eh?
 1	èːhêː	èːhêː	INTJ	_	_	3	discourse	_	AlignBegin=258267|AlignEnd=258540|Gloss=OK
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=258540|AlignEnd=258813|Gloss=PUNCT
@@ -2325,7 +2325,7 @@
 4	tu	tu	VERB	_	_	3	comp:aux	_	AlignBegin=258969|AlignEnd=259125|Gloss=get
 5	gə̀ɗ	gə̀t	NOUN	_	Definite=Ind	4	comp:obj	_	AlignBegin=259125|AlignEnd=259203|Gloss=wife.Ind|SpaceAfter=No|wordform=gə̀ɗíː
 6	-íː	-íː	DET	_	Deixis=Remt|PronType=Dem	5	det/m	_	AlignBegin=259125|AlignEnd=259203|Gloss=Remt
-7	báː	báː	PART	_	PartType=Neg|Polarity=Neg	3	mod	_	AlignBegin=259281|AlignEnd=259437|Gloss=Neg
+7	bâː	bâː	PART	_	PartType=Ill|Polarity=Neg	3	discourse	_	AlignBegin=259281|AlignEnd=259437|Gloss=Q.Neg
 8	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=259437|AlignEnd=259595|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_01_266-266

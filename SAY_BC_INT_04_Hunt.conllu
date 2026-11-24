@@ -1188,7 +1188,7 @@
 # text_en = Er... we [called it] 'dagasl'.
 1	əː	əː	INTJ	_	_	2	discourse@filler	_	AlignBegin=183920|AlignEnd=184158|Gloss=FILL
 2	myǎː=	yáː=	AUX	_	Aspect=Imp|Number=Plur|Person=1	0	root	_	AlignBegin=184158|AlignEnd=184590|Copula=No|Gloss=1Plur.Imp=|Scrap=Yes|wordform=myǎː
-3	tu~	tu~	X	_	_	2	unk	_	AlignBegin=184590|AlignEnd=185021|Gloss=X|Scrap=Yes
+3	tu~	tu~	X	_	_	2	comp:aux	_	AlignBegin=184590|AlignEnd=185021|Gloss=X|Scrap=Yes
 4	XX	XX	X	_	_	3	unk	_	AlignBegin=185021|AlignEnd=185926|Gloss=XX|Scrap=Yes
 5	daːgáɬ	daːgáɬ	NOUN	_	_	4	unk	_	AlignBegin=185926|AlignEnd=186184|Gloss=wood_arrow_head|Scrap=Yes
 6	&//	&//	PUNCT	_	_	2	punct	_	AlignBegin=186184|AlignEnd=186442|Gloss=PUNCT

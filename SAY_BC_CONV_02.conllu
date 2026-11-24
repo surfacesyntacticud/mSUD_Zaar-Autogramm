@@ -230,8 +230,8 @@
 # text_en = Well, if I...
 1	tôː	tòː	PART	_	PartType=Disc	3	discourse	_	AlignBegin=31798|AlignEnd=31974|Gloss=well
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=31974|AlignEnd=32151|Gloss=PUNCT
-3	myáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=1	0	root	_	AlignBegin=32909|AlignEnd=33097|Copula=No|Gloss=1Sing.Cnd=|Scrap=Yes
-4	oː	oː	PART	_	PartType=Ill	3	mod	_	AlignBegin=33097|AlignEnd=33285|Gloss=Emph
+3	myáː=	yǎː=	AUX	_	Mood=Cnd|Number=Sing|Person=1	0	root@scrap	_	AlignBegin=32909|AlignEnd=33097|Copula=No|Gloss=1Sing.Cnd=|Scrap=Yes
+4	oː	oː	PART	_	PartType=Disc	3	discourse@filler	_	AlignBegin=33097|AlignEnd=33285|Gloss=Fill
 5	&//	&//	PUNCT	_	_	3	punct	_	AlignBegin=33285|AlignEnd=33472|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_02_031-032
@@ -1701,13 +1701,13 @@
 8	//	//	PUNCT	_	_	4	punct	_	AlignBegin=225406|AlignEnd=225654|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_02_180-180
+# text = baːbù !//
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_02.WAV
 # sent_timecode = 225654, 226198
-# text = baːbù !//
 # text_ortho = baːbù //
-# text_en = No.
-1	baːbù	baːbù	INTJ	_	Foreign=Yes|Polarity=Neg	0	root	_	AlignBegin=225654|AlignEnd=225926|Gloss=there_is.Neg|Lang=ha
+# text_en = No wyay!
+1	baːbù	baːbù	INTJ	_	Foreign=Yes|Polarity=Neg	0	root	_	AlignBegin=225654|AlignEnd=225926|Gloss=no_way|Lang=ha
 2	!//	!//	PUNCT	_	_	1	punct	_	AlignBegin=225926|AlignEnd=226198|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_02_181-183
@@ -2241,7 +2241,7 @@
 # sent_timecode = 295329, 295722
 # text_ortho = baːbù //
 # text_en = No way!
-1	baːbù	bâː	PART	_	Foreign=Yes|Polarity=Neg	0	root	_	AlignBegin=295329|AlignEnd=295525|Gloss=there_is.Neg|Lang=ha
+1	baːbù	baːbù	INTJ	_	Foreign=Yes|Polarity=Neg	0	root	_	AlignBegin=295329|AlignEnd=295525|Gloss=no_way|Lang=ha
 2	!//	!//	PUNCT	_	_	1	punct	_	AlignBegin=295525|AlignEnd=295722|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_02_241-241
@@ -2397,7 +2397,7 @@
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_02.WAV
 # sent_timecode = 317254, 318384
-# text = á ɓâníː ŋǎːn Sarkinpáːda ?//
+# text = á= ɓán-íː ŋǎːn Sarkinpáːda ?//
 # text_ortho = á ɓâníː ŋǎːn Sarkinpáːda ?//
 # text_en = Is it finished now Sarkin Pada?
 1	á=	á=	AUX	_	Number=Sing|Person=3|Tense=Pres	0	root	_	AlignBegin=317254|AlignEnd=317480|Copula=No|Gloss=3Sing.Aor=|wordform=á
@@ -2405,7 +2405,7 @@
 3	-íː	-íː	ADV	_	_	2	mod/m	_	Accomplished=Yes|AlignBegin=317480|AlignEnd=317593|Gloss=Acpl
 4-5	ŋǎːn	_	_	_	_	_	_	_	_
 4	ŋaː	aː	PART	_	PartType=Ill	2	mod	_	AlignBegin=317706|AlignEnd=317819|Gloss=Int
-5	h́ŋ	h́ŋ	PART	_	PartType=Neg|Polarity=Neg	1	mod	_	AlignBegin=317706|AlignEnd=317819|Gloss=Neg
+5	hŋ́	hŋ́	PART	_	PartType=Neg|Polarity=Neg	2	mod	_	AlignBegin=317706|AlignEnd=317819|Gloss=Neg
 6	Sarkinpáːda	Sarkinpáːda	PROPN	_	_	2	vocative	_	AlignBegin=317932|AlignEnd=318158|Gloss=Sarkin_Pada
 7	?//	?//	PUNCT	_	_	1	punct	_	AlignBegin=318158|AlignEnd=318384|Gloss=PUNCT
 
