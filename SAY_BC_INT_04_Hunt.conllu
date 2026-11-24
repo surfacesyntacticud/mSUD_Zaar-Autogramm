@@ -402,12 +402,12 @@
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_04_HUNT.WAV
 # sent_timecode = 70780, 76280
-# text = àmáː murí àː mán búngáy sòːséy < àmáː gón wò mán ɮiː swǎːt wul tu nə gòs < bàː gón wò kə́ːm wul tu vìːɣáy hŋ́ //
+# text = àmáː murí àː= mán búngáy sòːséy < àmáː gón wò= mán ɮiː swǎːt wul tu nə gòs < bàː gón wò= kə́ːm wul tu vìːɣáy hŋ́ //
 # text_ortho = àmáː murí àː mán búngáy sòːséy < àmáː gón wò mán ɮíː swǎːt wul tu nə gòs < bàː gón wò kə́ːm wul tu vìːɣáy hŋ́ //
 # text_en = But if a man has some real problems, and somebody else comes and takes it quickly, and says it is his, nobody will be able to say anything.
-1	àmáː	àmá	CCONJ	_	_	20	discourse	_	AlignBegin=70780|AlignEnd=70933|Gloss=but
+1	àmáː	àmá	CCONJ	_	_	22	discourse	_	AlignBegin=70780|AlignEnd=70933|Gloss=but
 2	murí	mur	NOUN	_	Definite=Ind	3	subj	_	AlignBegin=70933|AlignEnd=71009|Gloss=man.Ind
-3	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	20	mod	_	AlignBegin=71086|AlignEnd=71239|Copula=No|Gloss=3Sing.Perf=|wordform=àː
+3	àː=	áː=	AUX	_	Aspect=Perf|Number=Sing|Person=3	22	mod	_	AlignBegin=71086|AlignEnd=71239|Copula=No|Gloss=3Sing.Perf=|wordform=àː
 4	mán	máni	VERB	_	_	3	comp:aux	_	AlignBegin=71239|AlignEnd=71392|Gloss=come
 5-6	búngáy	_	_	_	_	_	_	_	_
 5	búŋ	búŋ	VERB	_	_	4	compound:svc	_	AlignBegin=71392|AlignEnd=71545|Gloss=suffer
@@ -425,17 +425,17 @@
 17	nə	nə	AUX	_	_	16	comp	_	AlignBegin=73541|AlignEnd=73681|Copula=Yes|Gloss=be.Ident
 18	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	17	comp:pred	_	AlignBegin=73681|AlignEnd=73821|Gloss=3SingGen
 19	<	<	PUNCT	_	_	3	punct	_	AlignBegin=73821|AlignEnd=73963|Gloss=PUNCT
-20	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	0	root	_	AlignBegin=74900|AlignEnd=75038|Gloss=be.Neg
-21	gón	gón	PRON	_	Definite=Spec	20	comp:pred	_	AlignBegin=75038|AlignEnd=75176|Gloss=Spec
-22	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	20	comp:cleft	_	AlignBegin=75176|AlignEnd=75314|Copula=No|Gloss=3Sing.Fut=|wordform=wò
+20	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	22	mod	_	AlignBegin=74900|AlignEnd=75038|Gloss=Neg
+21	gón	gón	PRON	_	Definite=Spec	22	subj	_	AlignBegin=75038|AlignEnd=75176|Gloss=Spec
+22	wò=	a=	AUX	_	Number=Sing|Person=3|Tense=Fut	0	root	_	AlignBegin=75176|AlignEnd=75314|Copula=No|Gloss=3Sing.Fut=|wordform=wò
 23	kə́ːm	kə́ːm	VERB	_	_	22	comp:aux	_	AlignBegin=75314|AlignEnd=75452|Gloss=succeed
 24	wul	wul	VERB	_	_	23	compound:svc	_	AlignBegin=75452|AlignEnd=75590|Gloss=say
 25	tu	tu	SCONJ	_	_	24	comp:obj	_	AlignBegin=75590|AlignEnd=75728|Gloss=Qot
 26-27	vìːɣáy	_	_	_	_	_	_	_	_
 26	vìː	vìː	NOUN	_	_	25	comp	_	AlignBegin=75728|AlignEnd=75866|Gloss=speech
 27	ɣáy	káy	PRON	_	Case=Loc|Number=Sing|Person=3|PronType=Prs	24	comp:obl	_	AlignBegin=75866|AlignEnd=76004|Gloss=3Sing.Loc
-28	hŋ́	hŋ́	PART	_	PartType=Neg|Polarity=Neg	20	mod	_	AlignBegin=76004|AlignEnd=76142|Gloss=Neg
-29	//	//	PUNCT	_	_	20	punct	_	AlignBegin=76142|AlignEnd=76280|Gloss=PUNCT
+28	hŋ́	hŋ́	PART	_	PartType=Neg|Polarity=Neg	22	mod	_	AlignBegin=76004|AlignEnd=76142|Gloss=Neg
+29	//	//	PUNCT	_	_	22	punct	_	AlignBegin=76142|AlignEnd=76280|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_04_Hunt_054-058
 # speaker_id = SP1
@@ -1432,12 +1432,12 @@
 2	!//	!//	PUNCT	_	_	1	punct	_	AlignBegin=216530|AlignEnd=216800|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_04_Hunt_157-159
+# text = tôː àmá kúmá < dwǎːm-es tà= yi ɗa ɗan mə̀tà= yáː= fî ɗan bàː Tuːraːwa tàː= tá= lə̌ːr gwàːsə́nɗi hŋ́ //
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_04_HUNT.WAV
 # sent_timecode = 217640, 221958
-# text = tôː àmá kúmá < dwaːmês tà yi ɗa ɗan mə̀tà yáː fî ɗan bàː Tuːraːwa tàː tá lə̌ːr gwàːsə́nɗi hŋ́ //
 # text_ortho = tôː àmá kúmá < dwaːmês tà yi ɗa ɗan mə̀tàyáː fî ɗan bàː Tuːraːwa tàːtá lə̌ːr gwàːsə́nɗi hŋ́ //
-# text_en = Well but there used to be some metal that we used to do and it's not the Europeans who broughttheir own.
+# text_en = Well but there used to be some metal that we used to do and the Europeans hadn't brought their own.
 1	tôː	tòː	PART	_	PartType=Disc	7	discourse	_	AlignBegin=217640|AlignEnd=217881|Gloss=well
 2	àmá	àmá	CCONJ	_	_	7	discourse	_	AlignBegin=217881|AlignEnd=218122|Gloss=but
 3	kúmá	kúmá	PART	_	PartType=Disc	7	discourse	_	AlignBegin=218122|AlignEnd=218363|Gloss=and
@@ -1452,15 +1452,15 @@
 12	yáː=	yáː=	AUX	_	Aspect=Imp	11	compound	_	Copula=No|Gloss=Imp=|wordform=yáː
 13	fî	fi	VERB	_	_	11	comp:aux	_	AlignBegin=219913|AlignEnd=220131|Gloss=do
 14	ɗan	ɗan	SCONJ	_	_	10	conj:coord	_	AlignBegin=220131|AlignEnd=220349|Gloss=REL
-15	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	14	conj:coord	_	AlignBegin=220349|AlignEnd=220568|Gloss=be.Neg
-16	Tuːraːwa	Tuːraːwa	PROPN	_	_	15	comp:pred	_	AlignBegin=220568|AlignEnd=220800|Gloss=Europeans
-17	tàː=	áː=	AUX	_	Aspect=Perf|Number=Plur|Person=3	15	comp:cleft	_	AlignBegin=220800|AlignEnd=221032|Copula=No|Gloss=3Plur.Perf=|wordform=tàːtá
+15	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	17	mod	_	AlignBegin=220349|AlignEnd=220568|Gloss=Neg
+16	Tuːraːwa	Tuːraːwa	PROPN	_	_	17	subj	_	AlignBegin=220568|AlignEnd=220800|Gloss=Europeans
+17	tàː=	áː=	AUX	_	Aspect=Perf|Number=Plur|Person=3	14	comp	_	AlignBegin=220800|AlignEnd=221032|Copula=No|Gloss=3Plur.Perf=|wordform=tàːtá
 18	tá=	TaYiNa=	AUX	_	Tense=Past	17	compound	_	Copula=No|Gloss=RemPast=|PastType=Remt|wordform=tá
 19	lə̌ːr	lə́ːr	VERB	_	_	17	comp:aux	_	AlignBegin=221032|AlignEnd=221264|Gloss=bring
 20-21	gwàːsə́nɗi	_	_	_	_	_	_	_	_
 20	gwàːsə́n	gwàːsə̀ŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	19	comp@ethic	_	AlignBegin=221264|AlignEnd=221418|Gloss=3PlurGen|wordform=gwàːsə̀ŋ
 21	ɗi	ɗi	PART	_	PartType=Adv	19	compound:prt	_	AlignBegin=221418|AlignEnd=221496|Gloss=Ctp|wordform==ɗi
-22	hŋ́	hŋ́	PART	_	PartType=Neg|Polarity=Neg	15	mod	_	AlignBegin=221496|AlignEnd=221728|Gloss=Neg
+22	hŋ́	hŋ́	PART	_	PartType=Neg|Polarity=Neg	17	mod	_	AlignBegin=221496|AlignEnd=221728|Gloss=Neg
 23	//	//	PUNCT	_	_	7	punct	_	AlignBegin=221728|AlignEnd=221958|Gloss=PUNCT
 
 # sent_id = SAY_BC_INT_04_Hunt_160-161

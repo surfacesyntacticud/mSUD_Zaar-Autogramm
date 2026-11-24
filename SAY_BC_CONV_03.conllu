@@ -4650,21 +4650,21 @@
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=533119|AlignEnd=533330|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_03_541-546
-# text = ìdán bàː yâːn tàː fuːni zàrsə̀ hŋ́ < myáː fuːɣə́n bàː wò tu zàrsə̀ də̀nə̌n //+ ɓanɗan gín ɗan máː wâː ɗùɣə̀nì àː ɓaníː ŋ̌ máː //
+# text = ìdán bàː yâːn tàː= fuːni zàrsə̀ hŋ́ < myáː= fuːɣə́n bàː wò= tu zàrsə̀ də̀nə̌n //+ ɓanɗan gín ɗan máː wâː ɗùɣə̀nì àː= ɓaní-íː ŋ̌ máː //
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_03.WAV
 # sent_timecode = 533702, 542643
 # text_ortho = ìdán bàː yâːn tàː fuːni zàrsə̀ hŋ́ < myáː fuːɣə bàː wò tu zàrsə̀ də̀nə̌n //+ ɓanɗan gín ɗan máːːː wâː ɗùɣə̀nì àː ɓaníːŋ̌ máː //
 # text_en = If they haven't warned the people, I tell you there's no way he will find anyone at home, all the more so since that which even... Corn beating hasn 't finished even.
 1	ìdán	ìdán	SCONJ	_	ExtPos=SCONJ	14	mod	_	AlignBegin=533702|AlignEnd=533911|Gloss=if|Idiom=Yes
-2	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	1	unk	_	AlignBegin=533911|AlignEnd=534120|Gloss=be.Neg|InIdiom=Yes
-3	yâːn	yáːni	PRON	_	Number=Sing|Person=3|PronType=Prs	2	unk	_	AlignBegin=534120|AlignEnd=534330|Gloss=3Sing|InIdiom=Yes
-4	tàː=	áː=	AUX	_	Aspect=Perf|Number=Plur|Person=3	1	comp	_	AlignBegin=535609|AlignEnd=535786|Copula=No|Gloss=3Plur.PERF=|wordform=tàː
+2	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	3	mod	_	AlignBegin=533911|AlignEnd=534120|Gloss=Neg|InIdiom=Yes
+3	yâːn	yáːni	PRON	_	Number=Sing|Person=3|PronType=Prs	1	comp	_	AlignBegin=534120|AlignEnd=534330|Gloss=3Sing|InIdiom=Yes
+4	tàː=	áː=	AUX	_	Aspect=Perf|Number=Plur|Person=3	3	comp	_	AlignBegin=535609|AlignEnd=535786|Copula=No|Gloss=3Plur.PERF=|wordform=tàː
 5-6	fuːni	_	_	_	_	_	_	_	_
 5	fuː	fuː	VERB	_	_	4	comp:aux	_	AlignBegin=535786|AlignEnd=535874|Gloss=tell
 6	ni	ni	PART	_	PartType=Adv	5	compound:prt	_	AlignBegin=535874|AlignEnd=535963|Gloss=Inch|Inchoative=Yes|wordform==ni
 7	zàrsə̀	Zaːr	NOUN	_	Number=Plur	5	comp:obj	_	AlignBegin=535963|AlignEnd=536140|Gloss=human
-8	hŋ́	hŋ́	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=536140|AlignEnd=536317|Gloss=Neg
+8	hŋ́	hŋ́	PART	_	PartType=Neg|Polarity=Neg	3	mod	_	AlignBegin=536140|AlignEnd=536317|Gloss=Neg
 9	<	<	PUNCT	_	_	1	punct	_	AlignBegin=536317|AlignEnd=536493|Gloss=PUNCT
 10	myáː=	yáː=	AUX	_	Aspect=Imp|Number=Sing|Person=1	14	parataxis@discourse	_	AlignBegin=536979|AlignEnd=537248|Copula=No|Gloss=1Sing.IMP=|wordform=myáː
 11-12	fuːɣə́n	_	_	_	_	_	_	_	_
@@ -4688,7 +4688,7 @@
 27	ɓaní	ɓaní	VERB	_	_	26	comp:aux	_	AlignBegin=542128|AlignEnd=542242|Gloss=finish|SpaceAfter=No|wordform=ɓaníː
 28	-íː	-íː	ADV	_	_	27	mod/m	_	Accomplished=Yes|AlignBegin=542128|AlignEnd=542242|Gloss=Acpl
 29	ŋ̌	hŋ́	PART	_	PartType=Neg|Polarity=Neg	26	mod	_	AlignBegin=542242|AlignEnd=542299|Gloss=Neg
-30	máː	máː	ADV	_	_	27	mod	_	AlignBegin=542299|AlignEnd=542470|Gloss=even
+30	máː	máː	ADV	_	_	26	mod	_	AlignBegin=542299|AlignEnd=542470|Gloss=even
 31	//	//	PUNCT	_	_	14	punct	_	AlignBegin=542470|AlignEnd=542643|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_03_547-547
@@ -5167,7 +5167,7 @@
 6	?//	?//	PUNCT	_	_	1	punct	_	AlignBegin=581804|AlignEnd=581919|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_03_598-600
-# text = yáːni < quite allright bàː átâ yàː gon bà //
+# text = yáːni < quite allright bàː átâ= yàː= gon ba //
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_CONV_03.WAV
 # sent_timecode = 582170, 584103
@@ -5181,7 +5181,7 @@
 6	átâ=	TaYiNa=	AUX	_	Number=Sing|Person=3|Tense=Past	0	root	_	AlignBegin=583319|AlignEnd=583515|Copula=No|Gloss=3Sing.RemPast=|PastType=Remt|wordform=átâyàː
 7	yàː=	yáː=	AUX	_	Aspect=Imp	6	compound	_	Copula=No|Gloss=Imp=|wordform=yàː
 8	gon	gon	VERB	_	_	6	comp:aux	_	AlignBegin=583515|AlignEnd=583711|Gloss=fell_well
-9	bà	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=583711|AlignEnd=583907|Gloss=Neg
+9	ba	hŋ́	PART	_	Foreign=Yes|PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=583711|AlignEnd=583907|Gloss=Neg|Lang=ha
 10	//	//	PUNCT	_	_	6	punct	_	AlignBegin=583907|AlignEnd=584103|Gloss=PUNCT
 
 # sent_id = SAY_BC_CONV_03_601-601
